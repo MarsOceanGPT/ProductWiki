@@ -1,106 +1,83 @@
 ---
 type: product
-name: Lovable
-name_cn: Lovable
-url: 'https://lovable.dev'
-founded: 2023
-headquarters: 'Stockholm, Sweden'
-founders:
-  - Anton Osika
-  - Fabian Hedin
-stage: Series B
-status: Active
-metrics_date: 2026-03
-arr: $400M+
-users: 15M DAU
-monthly_visits: 39.33M (Jan 2026)
-mau: 8M (Nov 2025)
-funding_total: $537.5M
-funding_rounds:
-  - round: Pre-Seed
-    amount: $7.5M
-    date: Oct 2024
-    lead: 'byFounders, Hummingbird Ventures'
-  - round: Pre-Series A
-    amount: €14.3M
-    date: 2025 early
-    lead: Creandum
-  - round: Series A
-    amount: $200M
-    date: Jul 2025
-    lead: Accel
-    valuation: $1.8B
-  - round: Series B
-    amount: $330M
-    date: Dec 2025
-    lead: 'CapitalG, Menlo Ventures'
-    valuation: $6.6B
-valuation: $6.6B (Dec 2025)
-employees: 146 (Mar 2026)
-category: AI 开发工具
-subcategory: AI Web App Builder / Vibe Coding
-target_user: 'Non-technical users, product managers, founders, enterprises'
-pricing_model:
-  - Freemium
-  - Credit-based
-  - Pro $25/mo
-  - Business $50/mo
-  - Enterprise custom
-opportunity_playbooks:
-  - 开放源代码->商业化
-  - 低代码到无代码
-  - B2B2C渠道
-  - PLG+企业销售双轨
-design_playbooks:
-  - Lovability as moat
-  - 品牌温暖度
-  - 社区优先
-mvp_playbooks:
-  - GitHub open source MVP
-  - 多次失败后的rebranding
-pmf_playbooks:
-  - $4M ARR in 30 days
-  - 85% Day 30 retention
-growth_playbooks:
-  - 'Product Hunt #1 + HN同步'
-  - 嵌入式attribution viral loop
-  - 模板remixing
-  - 企业自上而下+个人自下而上双驱动
-monetization_playbooks:
-  - Credit消耗制
-  - 个人->企业升级路径
-  - 50%企业转化来自个人引入
-moat_playbooks:
-  - UX/warmth vs competition
-  - 速度advantage
-  - 社区网络效应
-  - 生态链接(GitHub+Vercel+Supabase)
-distance_to_money: 极近 - 直接现金消耗，$2.77M ARR per employee
-industry_layer: AI应用层 - 代码生成/软件开发工具
-pricing_quadrant: 高频次低单价 -> 企业高ARPU
-key_people:
-  - name: Anton Osika
-    title: Co-founder & CEO
-    background: 物理学家(CERN) -> Sana Labs founding engineer -> Depict.ai co-founder & CTO
-  - name: Fabian Hedin
-    title: Co-founder & CTO
-    background: 'KTH毕业生, Depict Frontend Lead, 11岁时在Minecraft赚数千美元'
-competitors:
-  - Bolt.new
-  - Vercel v0
-  - Replit
-  - Cursor
-  - Magic.dev
-related_products:
-  - >-
-    [[01-产品库/产品卡片-Claude|Claude]], [[01-产品库/产品卡片-Cursor|Cursor]], [[Bolt]],
-    [[V0]], [[01-产品库/产品卡片-Replit|Replit]]
-last_updated: '2026-03-14'
-confidence: High
+name: "Lovable"
+name_cn: "Lovable"
+url: "https://lovable.dev"
+founded: 2023-11
+headquarters: "Stockholm, Sweden"
+founders: ["Anton Osika", "Fabian Hedin"]
+stage: "Series B"
+status: "Active"
+metrics_date: "2026-03"
+arr: "$400M+ (Feb 2026)"
+users: "15M DAU"
+monthly_visits: "39.33M (Jan 2026)"
+mau: "8M (Nov 2025)"
+funding_total: "$537.5M"
+funding_rounds: [
+  {
+    "round": "Pre-Seed",
+    "amount": "$7.5M",
+    "date": "Oct 2024",
+    "lead": "byFounders, Hummingbird Ventures"
+  },
+  {
+    "round": "Pre-Series A",
+    "amount": "€14.3M",
+    "date": "Jan 2025",
+    "lead": "Creandum"
+  },
+  {
+    "round": "Series A",
+    "amount": "$200M",
+    "date": "Jul 2025",
+    "lead": "Accel",
+    "valuation": "$1.8B"
+  },
+  {
+    "round": "Series B",
+    "amount": "$330M",
+    "date": "Dec 2025",
+    "lead": "CapitalG, Menlo Ventures, NVentures",
+    "valuation": "$6.6B"
+  }
+]
+valuation: "$6.6B (Dec 2025)"
+employees: "146 (Mar 2026)"
+category: "AI 开发工具"
+subcategory: "AI Web App Builder / Vibe Coding"
+target_user: "Non-technical users, product managers, founders, enterprises"
+pricing_model: ["Freemium", "Credit-based", "Pro $25/mo", "Business $50/mo", "Enterprise custom"]
+opportunity_playbooks: ["开放源代码->商业化", "低代码到无代码", "B2B2C渠道", "PLG+企业销售双轨"]
+design_playbooks: ["Lovability as moat", "品牌温暖度", "社区优先"]
+mvp_playbooks: ["GitHub open source MVP", "多次失败后的rebranding"]
+pmf_playbooks: ["$4M ARR in 30 days", "85% Day 30 retention"]
+growth_playbooks: ["Product Hunt #1 + HN同步", "嵌入式attribution viral loop", "模板remixing", "企业自上而下+个人自下而上双驱动"]
+monetization_playbooks: ["Credit消耗制", "个人->企业升级路径", "50%企业转化来自个人引入"]
+moat_playbooks: ["UX/warmth vs competition", "速度advantage", "社区网络效应", "生态链接(GitHub+Vercel+Supabase)"]
+distance_to_money: "极近 - 直接现金消耗，$2.77M ARR per employee"
+industry_layer: "AI应用层 - 代码生成/软件开发工具"
+pricing_quadrant: "高频次低单价 -> 企业高ARPU"
+key_people: [
+  {
+    "name": "Anton Osika",
+    "title": "Co-founder & CEO",
+    "background": "物理学家(CERN) -> Sana Labs founding engineer -> Depict.ai co-founder & CTO"
+  },
+  {
+    "name": "Fabian Hedin",
+    "title": "Co-founder & CTO",
+    "background": "KTH毕业生, Depict Frontend Lead, 11岁时在Minecraft赚数千美元"
+  }
+]
+competitors: ["Bolt.new", "Vercel v0", "Replit", "Cursor", "Magic.dev"]
+related_products: ["[[Claude]], [[Cursor]], [[Bolt]], [[V0]], [[Replit]]"]
+last_updated: "2026-03-14"
+confidence: "High"
 mars_reviewed: false
-title: Lovable
 ---
-# Lovable - AI 软件构建平台
+
+# [[产品卡片-Lovable|Lovable]] - AI 软件构建平台
 
 ## 基本面
 
@@ -114,7 +91,7 @@ title: Lovable
 | **员工数** | 146人 | Mar 2026，$2.77M ARR/employee |
 | **核心指标** | 85% Day-30 Retention | 超过ChatGPT初期 |
 | **成立时间** | 2023年11月 | ~2.5年达$6.6B独角兽 |
-| **产品形态** | No-code full-stack app builder | React+Supabase+Claude+Deployment |
+| **产品形态** | No-code full-stack app builder | React+Supabase+[[产品卡片-Claude|Claude]]+Deployment |
 
 ---
 
@@ -122,7 +99,7 @@ title: Lovable
 
 ### 创始人DNA
 
-**Anton Osika - 物理学家到AI企业家的轨迹**
+**[[Anton Osika]] - 物理学家到AI企业家的轨迹**
 
 - **CERN粒子物理时期**：在欧洲核子研究中心从事高性能计算、大规模数据系统研究，获得了"系统设计思维"
 - **Sana Labs founding engineer**：第一员工，参与教育AI公司从0到融资$80M+的过程，学习了PLG+产品驱动的打法
@@ -387,7 +364,7 @@ Business: $50/month + 200 credits - 团队/小公司
 **1. UX/情感壁垒 ("Lovability")**
 
 竞品分析：
-- Cursor：黑色、开发者中心、高度对标VS Code
+- [[产品卡片-Cursor|Cursor]]：黑色、开发者中心、高度对标VS Code
 - Bolt：简洁、快速、但无温度感
 - v0：限制在React+Tailwind，有意见对立
 
@@ -434,9 +411,74 @@ Lovable已经积累1000万+项目，生成的代码模式库是竞品难以超�
 
 ---
 
-## 三、战略框架
+## 三、技术赌注与竞争格局
 
-### 3.1 时代红利 - 为什么现在
+### 3.1 技术赌注（Technical Bet）
+
+**核心选择：API调用 vs 自研模型**
+
+Lovable的关键技术决策是"**不自研模型，而是深度集成最强的第三方模型**"。
+
+- **Claude Opus 4.6作为核心引擎**：Lovable与Anthropic有深度合作，Opus 4.6中的多模态能力（screenshot→code）最先在Lovable中被应用
+- **Agent Mode中使用最新模型**：2026年引入的Agent Mode默认使用Claude Opus 4.6，且无额外成本
+- **多模型支持的长期策略**：虽然目前以Claude为主，但Lovable正在探索支持GPT-4o、Llama等模型，以减少对单一模型的依赖
+
+**为什么这个选择更优**：
+- 模型升级无需Lovable自己优化（Anthropic升级，Lovable自动受益）
+- 成本结构灵活（可根据模型API价格变化切换）
+- 专注于"应用层创新"（UI/UX/部署）而非"模型层创新"
+
+**AI Native vs AI Wrapper**：Lovable是**AI Native**产品——没有AI就不存在。但它的"Native"体现在：
+- 不是简单套一个AI聊天框
+- 而是从产品架构（代码生成→实时预览→自动部署）到商业模型（credit消耗）都围绕AI构建
+- 如果基础模型能力提升10倍，Lovable能支持更复杂应用（时间窗口延伸）
+- 如果模型能力衰退，Lovable的价值主张仍然成立（因为是"完整应用生成器"，不只是"代码一个工具"）
+
+**时间窗口评估**：
+- 当前窗口（6-24个月）：模型质量与Lovable产品体验结合
+- 中期窗口（2-3年）：与Anthropic/OpenAI的平台兼容性变成护城河
+- 长期（3-5年）：Lovable可能需要自研"应用级推理模型"（而非通用大模型）
+
+---
+
+### 3.2 竞争格局（Competitive Dynamics）
+
+**竞争维度选择**
+
+Lovable选择在以下维度竞争：
+
+| 维度 | Lovable策略 | 为什么不选其他维度 |
+|------|----------|-----------------|
+| **完整性** | Full-stack（React+DB+Deploy） | 竞品都是"部分方案"，完整性是唯一稀缺 |
+| **速度** | 从prompt到deployed app最快 | 质量与Cursor对标时会输，不如跑快 |
+| **非技术友好度** | 目标是"没有编程基础也能用" | 这是唯一能与Cursor+Bolt区隔的市场 |
+| **品牌温度** | 彩虹设计、女性创作者友好 | Cursor太冷，Bolt太中立，Lovable独占"热度" |
+
+**大厂威胁评估**
+
+如果Google/OpenAI/Microsoft直接做"Lovable同等产品"：
+
+| 大厂 | 实现时间 | 最大阻力 | Lovable防守策略 |
+|-----|--------|--------|-----------------|
+| **Anthropic（Claude Builder）** | 3-6个月 | 与Lovable合作关系冲突，分发不如Lovable | Lovable支持多模型；建立社区护城河 |
+| **OpenAI（GPT Builder++）** | 6-12个月 | OpenAI核心是模型，应用层产品经验弱 | 速度与完整性优势 |
+| **Google（IDX++）** | 12-18个月 | Google的IDX定位与Lovable重叠，但内部优先级不高 | 企业采用已锁定 |
+
+**可替代性与迁移成本**
+
+用户从Lovable迁移到竞品的成本：
+- **代码迁移**：Low（Lovable导出标准React+Supabase代码）
+- **工作流迁移**：High（用户已习惯Lovable的"prompt→部署"流程）
+- **社区/知识**：High（Discord社区的Prompt库、模板已成为使用者资产）
+- **企业合同**：Very High（一旦Fortune 500在Lovable上部署关键应用，迁移需要重新training整个team）
+
+**结论**：Lovable在"非技术用户"维度上建立了深护城河。与其说竞争Cursor（都是"开发者工具"），不如说Lovable开创了"应用生成"这个新品类。
+
+---
+
+### 3.3 战略框架 - 时代红利
+
+**为什么现在**
 
 **1. LLM质量临界点**
 
@@ -713,7 +755,7 @@ remix/share的应用也保留这个badge
   - 下一步：HIPAA, FedRAMP for US government
 
 - Focus: AI模型灵活性
-  - 支持用户选择Claude/GPT-4o/Llama
+  - 支持用户选择Claude/GPT-4o/[[Llama]]
   - 而不是被单一模型绑定
 
 **中期 (2027-2028)**
@@ -1022,8 +1064,9 @@ Lovable则是"Cursor for non-developers"：
 
 - [Lovable Official Website](https://lovable.dev/) — 官方网站和产品
 - [Building Lovable - Lenny's Newsletter](https://www.lennysnewsletter.com/p/building-lovable-anton-osika) — 创始人深度访谈
-- [Series A Funding Announcement - TechCrunch](https://techcrunch.com/2025/07/23/eight-months-in-swedish-unicorn-lovable-crosses-the-100m-arr-milestone/) — 融资公告
-- [Series B $330M at $6.6B - TechCrunch](https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/) — B 轮融资
+- [Lovable says it added $100M in revenue last month alone - TechCrunch](https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/) — 2026年3月最新数据
+- [Series B $330M at $6.6B - TechCrunch](https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/) — B 轮融资详情
+- [Nvidia and Alphabet VC arms back vibe coding startup Lovable - CNBC](https://www.cnbc.com/2025/12/18/google-and-n.html) — CapitalG与NVentures参投背景
+- [Lovable Agent Mode & Multi-Model Support](https://lovable.dev/guides/best-ai-coding-tools-openai-o1-vs-cursor-vs-claude-sonnet) — Agent Mode与多模型支持
+- [Cursor vs Bolt vs Lovable Comparison - Lovable Official](https://lovable.dev/guides/cursor-vs-bolt-vs-lovable-comparison) — 官方竞品对比
 - [Lovable Official Blog](https://lovable.dev/blog) — 官方博客和更新
-   - 是否出现open-source fork竞争
-   - 模型提供商(Claude)的定价变化

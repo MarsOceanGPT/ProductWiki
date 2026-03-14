@@ -2,32 +2,33 @@
 type: product
 name: VN Video Editor
 name_cn: VN视频编辑器
-url: 'https://vnvideoed.com'
+url: https://vnvideoed.com
+
+# 基本信息
 founded: 2015
-headquarters: 'Ho Chi Minh City, Vietnam'
-founders:
-  - Viet Nam Team
+headquarters: Ho Chi Minh City, Vietnam
+founders: [Viet Nam Team]
 stage: Scale
 status: Active
-metrics_date: 2026-03-01T00:00:00.000Z
+
+# 关键指标（截至 2026-03-01）
+metrics_date: 2026-03-01
 arr: ~$30-50M估计
 users: 150M+月活用户
-monthly_visits: ''
+monthly_visits: ""
 mau: 150M
 funding_total: $20M+
-funding_rounds:
-  - Seed
-  - Series A
-  - Series B
-  - Series C
+funding_rounds: [Seed, Series A, Series B, Series C]
 valuation: $200-300M估计
 employees: 200+
+
+# 分类
 category: 移动视频编辑/短视频工具
 subcategory: 无水印视频编辑应用
 target_user: 短视频创作者、内容运营、抖音/TikTok用户
-pricing_model:
-  - freemium
-  - subscription
+pricing_model: [freemium, subscription]
+
+# 打法标签
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -35,26 +36,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
+
+# 战略框架标签
 distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
-key_people:
-  - Truong Quoc Dong
-  - 越南创业团队
-competitors:
-  - CapCut
-  - Adobe Premiere Rush
-  - InShot
-  - FilmRoll
-related_products:
-  - VN Video Maker Pro
-  - Splice音乐编辑
-  - FilmStock素材库
-last_updated: 2026-03-14T00:00:00.000Z
+
+# 人物 & 竞品
+key_people: [Truong Quoc Dong, 越南创业团队]
+competitors: [CapCut, Adobe Premiere Rush, InShot, FilmRoll]
+related_products: [VN Video Maker Pro, Splice音乐编辑, FilmStock素材库]
+
+# 元信息
+last_updated: 2026-03-14
 confidence: Medium
 mars_reviewed: false
-title: VN Video Editor
 ---
+
 # VN Video Editor（越南视频编辑应用）
 
 > 一句话：越南团队做的全球短视频编辑工具，用"无水印"和"模板丰富"击败国际竞品，是"小国团队做全球产品"的典范。
@@ -264,6 +262,30 @@ Premium 用户：
 ---
 
 ## 三、战略框架
+
+### 3.1 技术赌注（无水印优化 vs 功能竞争）
+- **赌注**：越南市场对"无水印"的强需求能持续溢价
+- **风险**：CapCut、Veed 都在推无水印版本，溢价空间缩小
+
+### 3.2 竞争格局（东南亚本地化 vs 全球竞品）
+- **维度**：东南亚移动用户的"无水印需求"（印度、越南、泰国）
+- **威胁**：CapCut 推出无水印企业版、Adobe Rush 降价
+- **护城河**：越南本地化、ASia 审美优化
+
+### 2.5 单位经济与收入质量
+
+| 指标 | 数值/估算 | 说明 |
+|------|----------|------|
+| **毛利率** | 80-90% | 纯云端 SaaS，成本极低 |
+| **续费率** | 50-60% | 移动应用典型留存率 |
+| **ARPU** | $2-5 | 低价市场（东南亚）|
+| **ARR** | $30-50M 估算 | 150M MAU × 3% 付费 × $4/月 |
+| **信息待补充** | 地域分布、付费用户成长、企业 vs 个人比例 | 越南公司数据不透明 |
+
+### 4.3 反面教材
+1. **被低价市场困住**：无水印收费只能要 $3-5/月，利润空间有限
+2. **本地化带来国际化困难**：越南产品很难在欧美竞争
+3. **被 TikTok/抖音 官方工具压制**：一旦官方免费，VN 价值归零
 
 ### 3.1 时代红利（Why Now）
 

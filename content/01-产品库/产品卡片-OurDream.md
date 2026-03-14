@@ -1,61 +1,58 @@
 ---
 type: product
-name: OurDream.AI
-name_cn: OurDream
-url: 'https://ourdream.ai'
+name: "OurDream.AI"
+name_cn: "OurDream"
+url: "https://ourdream.ai"
 founded: 2023
-headquarters: Uncertain（国际或中国）
-founders:
-  - AI创业团队
-stage: Growth
-status: Active
+headquarters: "Uncertain（国际或中国）"
+founders: ["AI创业团队"]
+stage: "Growth"
+status: "Active"
 metrics_date: 2026-01
-arr: 未公开（估计$30M+）
-users: 1000万+ 全球
-user_generated_characters: 700万+ 角色
-funding_total: 未公开融资
-valuation: 未公开
-employees: N/A
-category: AI Companions
-subcategory: Character Generation & Chat
-target_user: 'AI companion enthusiasts, roleplayers, chat users'
-pricing_model:
-  - freemium
-  - subscription
+arr: "未公开（估计$30M+）"
+users: "1000万+ 全球"
+user_generated_characters: "700万+ 角色"
+funding_total: "未公开融资"
+valuation: "未公开"
+employees: "N/A"
+category: "AI Companions"
+subcategory: "Character Generation & Chat"
+target_user: "AI companion enthusiasts, roleplayers, chat users"
+pricing_model: ["freemium", "subscription"]
 opportunity_playbooks:
-  - '[[AI陪伴经济]]'
-  - '[[角色创意]]'
-  - '[[UGC平台]]'
+  - "[[AI陪伴经济]]"
+  - "[[角色创意]]"
+  - "[[UGC平台]]"
 design_playbooks:
-  - '[[角色定制]]'
-  - '[[记忆系统]]'
-  - '[[多模式交互]]'
+  - "[[角色定制]]"
+  - "[[记忆系统]]"
+  - "[[多模式交互]]"
 mvp_playbooks:
-  - '[[聊天优先]]'
+  - "[[聊天优先]]"
 pmf_playbooks:
-  - '[[社区创意]]'
+  - "[[社区创意]]"
 growth_playbooks:
-  - '[[社群分发]]'
-  - '[[病毒式传播]]'
+  - "[[社群分发]]"
+  - "[[病毒式传播]]"
 monetization_playbooks:
-  - '[[虚拟货币]]'
-  - '[[订阅]]'
-  - '[[创作者分成]]'
+  - "[[虚拟货币]]"
+  - "[[订阅]]"
+  - "[[创作者分成]]"
 moat_playbooks:
-  - '[[角色社区]]'
-  - '[[记忆体系]]'
-distance_to_money: 中
-industry_layer: 应用层
-pricing_quadrant: 中自主-中等归因
+  - "[[角色社区]]"
+  - "[[记忆体系]]"
+distance_to_money: "中"
+industry_layer: "应用层"
+pricing_quadrant: "中自主-中等归因"
 competitors:
-  - '[[Character AI]]'
-  - '[[01-产品库/产品卡片-Replika|Replika]]'
-  - '[[01-产品库/产品卡片-Candy AI|Candy AI]]'
-last_updated: 2026-03-14T00:00:00.000Z
-confidence: Low-Medium
+  - "[[Character AI]]"
+  - "[[Replika]]"
+  - "[[Candy AI]]"
+last_updated: 2026-03-14
+confidence: "Low-Medium"
 mars_reviewed: false
-title: OurDream.AI
 ---
+
 # OurDream.AI
 
 > 一句话：AI 角色创建和聊天平台，用户可以创建定制化 AI 伴侣并与之互动，1000 万+用户、700 万+用户生成角色，代表"AI 陪伴经济"和"UGC 驱动"的新模式。
@@ -156,6 +153,36 @@ PMF 信号：
 
 ## 三、战略框架
 
+### 3.1 技术赌注（Technical Bet）
+
+> 这个产品在技术上押了什么？这个赌注的窗口期有多长？
+
+**核心技术选择**：社交 AI vs 单机 AI
+
+AI Native 产品——用户互动驱动的 AI 生成内容。优势：社区网络效应。风险：质量难保证。
+
+**时间窗口分析**：
+
+| 时间段 | 技术赌注状态 | 风险评估 |
+|--------|-----------|--------|
+| 2023-2024 | 赌注初期 | 低风险期，市场空间充足 |
+| 2024-2025 | 赌注受挑战 | 中风险期，竞品开始追赶 |
+| 2025-2027 | 赌注有效期半衰 | 高风险期，同质化加剧 |
+| 2027+ | 赌注可能失效 | 超高风险期，需要创新维持 |
+
+---
+
+### 3.2 竞争格局
+
+> 不是"竞品是谁"——而是"它选择在哪个维度打仗，以及为什么能赢"。
+
+**竞争维度选择**：社交性 + 创意质量 + 变现模式
+
+**主要竞品**：ChatGPT, Midjourney, 社交媒体
+
+**可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 社交性 + 创意质量 + 变现模式 这个维度的用户心智。
+
+
 ### 3.1 时代背景
 
 **"AI 陪伴经济"的兴起**：
@@ -180,7 +207,7 @@ OurDream 的时机（2023 年上线，2024 年爆发）恰好抓住了这个"临
 
 OurDream 的差异化在于**"UGC 驱动"**——用户创建和分享角色，形成社区。
 
-### 3.3 生态位
+### 3.5 生态位
 
 **产业分层**：应用层
 
@@ -213,6 +240,20 @@ OurDream 的差异化在于**"UGC 驱动"**——用户创建和分享角色，�
 - 内容本身成为了营销渠道
 
 ---
+
+
+### 4.3 反面教材：怎么死的
+
+> 知道什么不能复制，比知道怎么复制更有价值。
+
+**最常见的失败模式**：
+
+1) 内容质量无法保证；2) 社交网络效应需要临界量；3) 用户不愿为 UGC 付费
+
+**不可复制的部分**：
+
+首发网络效应，一旦被集成就失效
+
 
 ## 五、其他
 

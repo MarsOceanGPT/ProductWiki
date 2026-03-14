@@ -2,29 +2,33 @@
 type: product
 name: Qwen
 name_cn: 通义千问
-url: 'https://tongyi.aliyun.com'
+url: https://tongyi.aliyun.com
+
+# 基本信息
 founded: 2023
 headquarters: 杭州
-founders:
-  - 阿里巴巴集团
+founders: [阿里巴巴集团]
 stage: Scale
 status: Active
+
+# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 数千万月活
-monthly_visits: null
-mau: null
-funding_total: null
+monthly_visits:
+mau:
+funding_total:
 funding_rounds: []
-valuation: null
-employees: null
+valuation:
+employees:
+
+# 分类
 category: AI助手+大模型
 subcategory: LLM、AI对话、开源模型
 target_user: 开发者、企业用户、普通消费者
-pricing_model:
-  - subscription
-  - usage-based
-  - open-source
+pricing_model: [subscription, usage-based, open-source]
+
+# 打法标签（双向链接）
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -32,26 +36,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
+
+# 战略框架标签
 distance_to_money: 近
 industry_layer: 模型层+应用层
 pricing_quadrant: 高自主-高归因
-key_people:
-  - 张勇
-  - 周靖人
-competitors:
-  - ChatGPT
-  - Claude
-  - 豆包
-  - Gemini
-related_products:
-  - 夸克
-  - 钉钉
-  - 阿里云
-last_updated: 2026-03-14T00:00:00.000Z
+
+# 人物 & 竞品
+key_people: [张勇, 周靖人]
+competitors: [ChatGPT, Claude, 豆包, Gemini]
+related_products: [夸克, 钉钉, 阿里云]
+
+# 元信息
+last_updated: 2026-03-14
 confidence: High
 mars_reviewed: false
-title: Qwen
 ---
+
 # 通义千问 Qwen
 
 > 阿里云的双重战略：一边to B卖模型算力，一边to C争用户心智；用开源+闭源的组合拳，绕过ChatGPT的技术壁垒
@@ -378,6 +379,29 @@ B端用户的"Aha!"更深层：**花钱从每个API调用都要自己处理→�
 
 相关打法：量化模型优化、多层次定价、成本动态调整
 
+**单位经济分析**
+
+| 指标 | 估算 | 说明 |
+|------|------|------|
+| **消费者转化率** | 1-2% | 免费用户到VIP的转化率 |
+| **消费者ARPU** | $1-2/月 | 按VIP用户占比估算 |
+| **企业API毛利率** | 30-40% | API成本高，毛利压缩 |
+| **企业客户LTV** | $5K-50K/年 | 取决于调用量 |
+| **整体毛利率** | 40-50% | 消费者订阅毛利高，API毛利低 |
+
+**收入结构**
+
+- C端订阅（VIP）：估计20-30%
+- B端API：估计60-70%
+- 其他（合作等）：10-15%
+
+**成本结构**
+
+- GPU推理成本：40-50% （主要成本）
+- 研发人力：20-30%
+- 市场营销：10-15%
+- 基础设施：5-10%
+
 ---
 
 ### 2.7 壁垒在哪
@@ -560,9 +584,48 @@ AI 草稿——待 Mars 确认
 
 ## 相关案例
 
-- [[01-产品库/产品卡片-Quark|夸克]] — 通义千问的应用层产品，展示了"模型如何被集成到消费级产品"
-- [[01-产品库/产品卡片-Doubao|豆包]] — 竞品，也采用了类似的开源+API+C端的三元战略
-- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 对标产品，单一闭源模式与通义千问的混合模式形成对比
+- [[夸克]] — 通义千问的应用层产品，展示了"模型如何被集成到消费级产品"
+- [[豆包]] — 竞品，也采用了类似的开源+API+C端的三元战略
+- [[ChatGPT]] — 对标产品，单一闭源模式与通义千问的混合模式形成对比
+
+---
+
+---
+
+## 技术赌注（Technical Bet）
+
+### 核心技术选择：开源+闭源混合 vs 纯开源/纯闭源
+
+**通义千问的赌注**：
+- **选择"两条腿走路"**：开源小模型（7B/14B）+ 闭源大模型（32B+）
+- **理由**：既获得开源社区的认可，又保留商业版的利润
+- **风险**：如果开源社区的模型质量快速提升，商业版的价值会被压低
+
+**时间窗口分析**：
+- **当前窗口（2024-2025）**：Qwen仍有技术领先
+- **中期风险（2025-2026）**：开源社区（Llama 3.1+）追平Qwen
+- **长期威胁**：开源生态成熟后，API定价战会导致整个行业利润率崩塌
+
+---
+
+## 反面教材：怎么死的
+
+**1. 开源模型被社区超越的风险**
+- 危险：Llama、Mistral等开源模型正快速迭代，可能在18个月内追平Qwen
+- 后果：用户会选择"自部署开源模型"而非"按量付费API"
+- 成本优势消失
+
+**2. 价格战的无底洞**
+- 现象：Qwen和豆包都在"烧钱补贴API"来抢市场
+- 风险：最终可能陷入"价格战导致行业利润率为零"的死局
+- 历史：云计算市场经历过类似的价格战
+
+**3. 字节竞争的同质化**
+- 豆包采用相同的"开源+API+C端"三元战略
+- 区别只在"社区流量"和"融资能力"
+- 最后可能拼的是融资而非产品
+
+**不可复制**：阿里云的基础设施成本优势（但字节也有）
 
 ---
 
@@ -575,7 +638,8 @@ AI 草稿——待 Mars 确认
 | 2023年9月 | 开源Qwen-7B/14B模型 | 突破闭源垄断，赢得开发者认可 |
 | 2024年初 | API商业化，企业付费推出 | 验证B端市场，收入开始增长 |
 | 2024年底 | 推出行业定制模型（金融版、医学版） | 从通用模型升级为垂直行业解决方案 |
-| 2025-2026 | 成为国内最赚钱的大模型公司 | 三元变现和规模经济效应显现 |
+| **2025-2026** | **面临开源模型追赶和价格战压力** | **技术护城河正在被侵蚀** |
+| 2026+ | 可能的融资新一轮或业务调整 | 取决于能否维持技术领先 |
 
 ---
 

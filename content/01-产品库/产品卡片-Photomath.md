@@ -1,42 +1,27 @@
 ---
+type: product
 名称: Photomath
 公司: Photomath Inc.（被 Google 收购）
 类别: AI 教育 / 数学解题 / 被收购初创
 上榜: 全球最知名的 AI 解题工具
 月访问量: 1.5亿+（全球，2026年3月）
 付费模式: Freemium + Photomath+ ($11.99-14.99/月)
-创始人: 'Damir Sabol, Predrag Terzić'
+创始人: Damir Sabol, Predrag Terzić
 成立年份: 2014
 公开年份: 2014-11
 tags:
-  - 打开能力门槛新市场
-  - 移动优先新机遇
-  - 拍照OCR
-  - 步骤讲解
-  - 多解法展示
-  - 简易拼装
-  - OCR+AI堆砌
-  - 时间压力刚需
-  - 学习焦虑
-  - 应用商店优化
-  - 口碑传播
-  - 按功能-订阅
-  - 品牌认知
-  - 用户沉淀
-  - Google生态
-相关人物:
-  - Darim Sabol
-  - Predrag Terzić
-竞争对手:
-  - Gauth
-  - Wolfram Alpha
-  - Microsoft Math Solver
-  - Brainly
-关联产品:
-  - Gauth
-  - Google Gemini
-title: Photomath
+  opportunity: [打开能力门槛新市场, 移动优先新机遇]
+  design: [拍照OCR, 步骤讲解, 多解法展示]
+  mvp: [简易拼装, OCR+AI堆砌]
+  pmf: [时间压力刚需, 学习焦虑]
+  growth: [应用商店优化, 口碑传播]
+  monetization: [按功能-订阅]
+  moat: [品牌认知, 用户沉淀, Google生态]
+相关人物: [Darim Sabol, Predrag Terzić]
+竞争对手: [Gauth, Wolfram Alpha, Microsoft Math Solver, Brainly]
+关联产品: [Gauth, Google Gemini]
 ---
+
 # Photomath
 
 > "用相机解决数学问题。" — 从初创独角兽到 Google 的教育棋子，Photomath 是硅谷 AI 教育的第一代缩影。
@@ -179,6 +164,36 @@ title: Photomath
 
 ## 三、战略框架
 
+### 3.1 技术赌注（Technical Bet）
+
+> 这个产品在技术上押了什么？这个赌注的窗口期有多长？
+
+**核心技术选择**：垂直数学 AI vs 通用 AI
+
+AI Native 产品——专注数学问题求解。优势：高准确率。风险：市场规模有限。
+
+**时间窗口分析**：
+
+| 时间段 | 技术赌注状态 | 风险评估 |
+|--------|-----------|--------|
+| 2023-2024 | 赌注初期 | 低风险期，市场空间充足 |
+| 2024-2025 | 赌注受挑战 | 中风险期，竞品开始追赶 |
+| 2025-2027 | 赌注有效期半衰 | 高风险期，同质化加剧 |
+| 2027+ | 赌注可能失效 | 超高风险期，需要创新维持 |
+
+---
+
+### 3.2 竞争格局
+
+> 不是"竞品是谁"——而是"它选择在哪个维度打仗，以及为什么能赢"。
+
+**竞争维度选择**：数学深度 + 解题准确率
+
+**主要竞品**：ChatGPT, Wolfram Alpha, Khan Academy
+
+**可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 数学深度 + 解题准确率 这个维度的用户心智。
+
+
 ### 时代红利
 
 1. **移动互联网普及**：2014年正好是"人手一部智能手机"的转折点
@@ -219,6 +234,20 @@ title: Photomath
 - 数学 OCR 的精确度（这是技术壁垒）
 
 ---
+
+
+### 4.3 反面教材：怎么死的
+
+> 知道什么不能复制，比知道怎么复制更有价值。
+
+**最常见的失败模式**：
+
+1) 学生付费意愿低；2) ChatGPT 已做了这事；3) 教育机构禁用
+
+**不可复制的部分**：
+
+在线教育用户基础被 ChatGPT 大幅降低竞争壁垒
+
 
 ## 五、其他
 

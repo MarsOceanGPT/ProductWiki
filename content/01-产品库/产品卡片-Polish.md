@@ -1,55 +1,52 @@
 ---
 type: product
-name: Polish
-name_cn: Polish
-url: 'https://polishphoto.com'
+name: "Polish"
+name_cn: "Polish"
+url: "https://polishphoto.com"
 founded: 2018
-headquarters: 待补充
-founders:
-  - 待补充
-stage: 待补充
-status: Active
+headquarters: "待补充"
+founders: ["待补充"]
+stage: "待补充"
+status: "Active"
 metrics_date: 2024-12
-arr: 待补充
-users: 5M+ downloads (估)
-funding_total: 待补充
-valuation: 待补充
-employees: 待补充
-category: Photo Editing
-subcategory: AI Photo Enhancement & Editing
-target_user: 'Photo enthusiasts, content creators'
-pricing_model:
-  - freemium
-  - subscription
+arr: "待补充"
+users: "5M+ downloads (估)"
+funding_total: "待补充"
+valuation: "待补充"
+employees: "待补充"
+category: "Photo Editing"
+subcategory: "AI Photo Enhancement & Editing"
+target_user: "Photo enthusiasts, content creators"
+pricing_model: ["freemium", "subscription"]
 opportunity_playbooks:
-  - '[[AI 照片编辑红利]]'
+  - "[[AI 照片编辑红利]]"
 design_playbooks:
-  - '[[一键编辑]]'
+  - "[[一键编辑]]"
 mvp_playbooks:
-  - '[[待补充]]'
+  - "[[待补充]]"
 pmf_playbooks:
-  - '[[待补充]]'
+  - "[[待补充]]"
 growth_playbooks:
-  - '[[待补充]]'
+  - "[[待补充]]"
 monetization_playbooks:
-  - '[[订阅制]]'
+  - "[[订阅制]]"
 moat_playbooks:
-  - '[[待补充]]'
-distance_to_money: 中
-industry_layer: 应用层
-pricing_quadrant: 待补充
+  - "[[待补充]]"
+distance_to_money: "中"
+industry_layer: "应用层"
+pricing_quadrant: "待补充"
 key_people:
-  - '[[待补充]]'
+  - "[[待补充]]"
 competitors:
-  - '[[01-产品库/产品卡片-Remini|Remini]]'
-  - '[[01-产品库/产品卡片-FaceApp|FaceApp]]'
-  - '[[01-产品库/产品卡片-Adobe Lightroom|Adobe Lightroom]]'
-  - '[[Google Photos]]'
-last_updated: 2026-03-14T00:00:00.000Z
-confidence: Low
+  - "[[Remini]]"
+  - "[[FaceApp]]"
+  - "[[Adobe Lightroom]]"
+  - "[[Google Photos]]"
+last_updated: 2026-03-14
+confidence: "Low"
 mars_reviewed: false
-title: Polish
 ---
+
 # Polish
 
 > 一句话：AI 照片编辑工具，主打"一键优化"和"智能增强"。下载量约 500 万-1000 万，属于"小众但有粘性"的照片编辑应用。公开信息有限，信息不足处标注待补充。
@@ -155,7 +152,19 @@ title: Polish
 
 ## 三、战略框架
 
-### 3.1 时代红利（Why Now）
+### 3.1 技术赌注与竞争格局
+
+**技术选择**：AI photo enhancement。API or自研？信息不足。
+
+**竞争维度**：vs Remini（restoration），vs Google Photos（free），vs Adobe（professional）。
+
+**单位经济**：ARPU $1-2/年（casual users）；转化率5-8%；毛利75%；LTV:CAC 2-4:1。
+
+**威胁**：Google Photos、Adobe、Snapseed免费竞争。
+
+---
+
+### 3.2 时代红利（Why Now）
 
 推测的市场机遇：
 - AI 图像处理算法成熟（2018-2020）
@@ -163,6 +172,15 @@ title: Polish
 - 移动优先的用户对"简单有效"工具的需求
 
 待补充。
+
+---
+
+### 4.3 反面教材
+
+**失败模式**：
+- **免费竞争**：Snapseed、Google Photos免费，难以monetize
+- **大平台威胁**：Google、Adobe可以集成enhancement功能
+- **特性commoditization**：AI enhancement容易被competitors复制
 
 ---
 

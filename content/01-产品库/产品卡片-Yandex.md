@@ -2,15 +2,17 @@
 type: product
 name: Yandex
 name_cn: 俄罗斯Yandex搜索与AI
-url: 'https://yandex.com'
+url: https://yandex.com
+
+# 基本信息
 founded: 1997
-headquarters: 'Moscow, Russia / Vilnius, Lithuania (2022后迁址)'
-founders:
-  - Arkady Volozh
-  - Ilya Segalovich
+headquarters: Moscow, Russia / Vilnius, Lithuania (2022后迁址)
+founders: [Arkady Volozh, Ilya Segalovich]
 stage: Scale
 status: Active
-metrics_date: 2026-03-01T00:00:00.000Z
+
+# 关键指标（截至 2026-03-01）
+metrics_date: 2026-03-01
 arr: ~$400M
 users: 155M月活用户（主要在俄罗斯、中亚、印度）
 monthly_visits: 1.5B
@@ -19,13 +21,14 @@ funding_total: IPO (1998)
 funding_rounds: []
 valuation: $4B估值（2022年裂分前）
 employees: 2500+
+
+# 分类
 category: 搜索/AI搜索/AI助手
 subcategory: 俄语AI搜索平台
 target_user: 俄语用户、中亚国家用户、对Google去中心化用户
-pricing_model:
-  - free
-  - freemium
-  - enterprise
+pricing_model: [free, freemium, enterprise]
+
+# 打法标签
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -33,28 +36,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
+
+# 战略框架标签
 distance_to_money: 近
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
-key_people:
-  - Arkady Volozh
-  - Ilya Segalovich(已去世2024年)
-  - Tigran Khudaverdyan
-competitors:
-  - Google
-  - Bing
-  - DuckDuckGo
-  - GigaChat
-related_products:
-  - YandexGPT
-  - YandexBrowser
-  - Yandex Mail
-  - Alice
-last_updated: 2026-03-14T00:00:00.000Z
+
+# 人物 & 竞品
+key_people: [Arkady Volozh, Ilya Segalovich(已去世2024年), Tigran Khudaverdyan]
+competitors: [Google, Bing, DuckDuckGo, GigaChat]
+related_products: [YandexGPT, YandexBrowser, Yandex Mail, Alice]
+
+# 元信息
+last_updated: 2026-03-14
 confidence: Medium
 mars_reviewed: false
-title: Yandex
 ---
+
 # Yandex（俄罗斯互联网巨头）
 
 > 一句话：俄罗斯版的"搜索 + AI"混合体，在西方制裁下独立发展，用本地化 AI（YandexGPT）和搜索索引支撑区域市场，是"去中心化互联网"的最大样本。
@@ -249,7 +247,37 @@ SLG（系统集成）为主，PLG（口碑）为辅：
 
 ## 三、战略框架
 
-### 3.1 时代红利（Why Now）
+### 3.1 技术赌注（Technical Bet）
+
+> 这个产品在技术上押了什么？这个赌注的窗口期有多长？
+
+**核心技术选择**：本地化大模型 vs 全球模型
+
+AI Native 产品——自研 YandexGPT，针对俄语优化。风险：市场规模小。
+
+**时间窗口分析**：
+
+| 时间段 | 技术赌注状态 | 风险评估 |
+|--------|-----------|--------|
+| 2023-2024 | 赌注初期 | 低风险期，市场空间充足 |
+| 2024-2025 | 赌注受挑战 | 中风险期，竞品开始追赶 |
+| 2025-2027 | 赌注有效期半衰 | 高风险期，同质化加剧 |
+| 2027+ | 赌注可能失效 | 超高风险期，需要创新维持 |
+
+---
+
+### 3.2 竞争格局
+
+> 不是"竞品是谁"——而是"它选择在哪个维度打仗，以及为什么能赢"。
+
+**竞争维度选择**：本地化 + 地域垄断 + 合规性
+
+**主要竞品**：Google, Microsoft, OpenAI
+
+**可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 本地化 + 地域垄断 + 合规性 这个维度的用户心智。
+
+
+### 3.3 时代红利（Why Now）
 
 Yandex 的红利是**地缘政治赋予的**，而非市场机制赋予的。这是个特殊情况：
 
@@ -259,7 +287,7 @@ Yandex 的红利是**地缘政治赋予的**，而非市场机制赋予的。这
 
 这个红利的脆弱性很强——一旦地缘政治变化，红利就消失。
 
-### 3.2 核心优势
+### 3.4 核心优势
 
 **配置论分析**
 
@@ -277,7 +305,7 @@ Yandex AI 搜索的距钱距离：**最近（0.5 步）**
 
 相比其他产品，Yandex 的商业模式最直接。
 
-### 3.3 生态位
+### 3.5 生态位
 
 **产业分层位置**
 

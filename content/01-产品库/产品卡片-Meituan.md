@@ -2,29 +2,33 @@
 type: product
 name: Meituan (美团)
 name_cn: 中国美团平台
-url: 'https://meituan.com'
+url: https://meituan.com
+
+# 基本信息
 founded: 2010
-headquarters: 'Beijing, China'
-founders:
-  - Wang Xing (王兴)
+headquarters: Beijing, China
+founders: [Wang Xing (王兴)]
 stage: Scale
 status: Active
-metrics_date: 2026-03-01T00:00:00.000Z
+
+# 关键指标（截至 2026-03-01）
+metrics_date: 2026-03-01
 arr: $10B+
 users: 680M月活用户
-monthly_visits: ''
+monthly_visits: ""
 mau: 680M
 funding_total: $3B+（多轮融资）
 funding_rounds: []
 valuation: $60B+（2024年）
 employees: 30000+
+
+# 分类
 category: 生活服务平台 / AI应用
 subcategory: 本地生活服务 + AI搜索和推荐
 target_user: 中国城市居民，外卖、餐饮、到店、旅游用户
-pricing_model:
-  - commission
-  - subscription
-  - advertising
+pricing_model: [commission, subscription, advertising]
+
+# 打法标签
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -32,28 +36,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
+
+# 战略框架标签
 distance_to_money: 最近
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
-key_people:
-  - Wang Xing (王兴)
-  - 毕胜
-  - 阿里、滴滴等竞品创始人
-competitors:
-  - Alibaba Ele.me
-  - Didi
-  - Douyin Logistics
-  - Baidu MAP
-related_products:
-  - Meituan Takeout
-  - Meituan Travel
-  - Meituan Bike
-  - Meituan AI Search
-last_updated: 2026-03-14T00:00:00.000Z
+
+# 人物 & 竞品
+key_people: [Wang Xing (王兴), 毕胜, 阿里、滴滴等竞品创始人]
+competitors: [Alibaba Ele.me, Didi, Douyin Logistics, Baidu MAP]
+related_products: [Meituan Takeout, Meituan Travel, Meituan Bike, Meituan AI Search]
+
+# 元信息
+last_updated: 2026-03-14
 confidence: High
 mars_reviewed: false
-title: Meituan (美团)
 ---
+
 # Meituan（中国美团平台）
 
 > 一句话：中国最大的生活服务平台，用 AI 搜索和推荐重新定义"如何发现餐厅和服务"，距钱最近的 AI 应用——每次用户点击推荐，平台都在赚钱。
@@ -78,7 +77,7 @@ title: Meituan (美团)
 
 美团的 DNA 是**"用正确的价格，在正确的时间，把正确的服务推给正确的用户"**的极致执行：
 
-1. **配置论基因**：王兴对"竞争维度的选择"有执念，不与滴滴竞争出行，不与阿里竞争电商，而是聚焦"本地生活服务"的未占领蓝海
+1. **配置论基因**：[[黄峥]]的创业对标理论——不与滴滴竞争出行，不与阿里竞争电商，而是聚焦"本地生活服务"的未占领蓝海
 2. **数据饥渴基因**：美团对数据的执念程度在中国创业者中首屈一指，认为"每一个用户行为都是信号"
 3. **长期主义基因**：王兴著名的"不追求 GDP 而追求 GNP"理论，反映了美团对"平台生态健康"的关注
 
@@ -229,11 +228,41 @@ SLG（系统推动）为主，PLG（口碑）为辅
 
 ## 三、战略框架
 
-### 3.1 时代红利（Why Now）
+### 3.1 技术赌注（Technical Bet）
+
+> 这个产品在技术上押了什么？这个赌注的窗口期有多长？
+
+**核心技术选择**：本地生活 AI vs 通用 AI
+
+AI Wrapper 产品——针对餐饮、酒店的 AI 推荐。优势：本地化。风险：无法国际扩展。
+
+**时间窗口分析**：
+
+| 时间段 | 技术赌注状态 | 风险评估 |
+|--------|-----------|--------|
+| 2023-2024 | 赌注初期 | 低风险期，市场空间充足 |
+| 2024-2025 | 赌注受挑战 | 中风险期，竞品开始追赶 |
+| 2025-2027 | 赌注有效期半衰 | 高风险期，同质化加剧 |
+| 2027+ | 赌注可能失效 | 超高风险期，需要创新维持 |
+
+---
+
+### 3.2 竞争格局
+
+> 不是"竞品是谁"——而是"它选择在哪个维度打仗，以及为什么能赢"。
+
+**竞争维度选择**：推荐准确性 + 商户覆盖 + 粘性
+
+**主要竞品**：Dianping, Xiaohongshu, 美团竞品
+
+**可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 推荐准确性 + 商户覆盖 + 粘性 这个维度的用户心智。
+
+
+### 3.3 时代红利（Why Now）
 
 美团 AI 搜索的红利是**"推荐算法技术成熟"和"商家数量饱和"的结合**——用户面对的是"选择过载"，AI 成为唯一的解决方案。
 
-### 3.2 核心优势
+### 3.4 核心优势
 
 **配置论分析**
 
@@ -250,7 +279,7 @@ SLG（系统推动）为主，PLG（口碑）为辅
 
 这是所有 AI 应用中距钱最近的。
 
-### 3.3 生态位
+### 3.5 生态位
 
 **产业分层位置**
 
@@ -289,6 +318,28 @@ SLG（系统推动）为主，PLG（口碑）为辅
 | 4 | 向商家开放"推荐"作为付费服务（商家可以为更好的推荐排名付费） |
 
 ---
+
+### 4.3 反面教材：怎么死的
+
+> 知道什么不能复制，比知道怎么复制更有价值。
+
+**最常见的失败模式**：
+
+1) 本地化 AI 无法国际扩展；2) 商户覆盖度快速达到天花板；3) 用户粘性主要来自非 AI 功能（外卖、支付）
+
+**不可复制的部分**：
+
+中国本地生活的商户数据和用户习惯，但国际市场完全无法复制
+
+**模仿这个产品最容易死的地方**：
+
+| 死法 | 原因 |
+|-----|-----|
+| 依赖成本过高而无法持续 | 如果选择了 AI Native 但没有成本优势，很快就会被拖垮 |
+| 低估竞品的快速追赶能力 | 以为自己有 6-12 个月的优势期，结果大厂在 3 个月内就推出竞品 |
+| 忽视用户迁移的真实成本 | 表面上看迁移成本低，但用户习惯和心智份额一旦形成就很难改变 |
+| 垂直市场想象力不足 | 做了垂直化产品但市场规模远小于预期，融资困难 |
+
 
 ## Mars 视角
 

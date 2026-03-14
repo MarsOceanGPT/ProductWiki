@@ -1,42 +1,29 @@
 ---
+type: product
 名称: Manus
 公司: Butterfly Effect Pte Ltd（新加坡）→ Meta Platforms（2025-12 收购）
 类别: AI Agent / 自主代理
 上榜: a16z Top 50 Web (2026年3月)
 付费模式: 订阅制（$39-199/月）+ 积分按量消耗
-创始人: 肖弘 (Xiao Hong)
+创始人: [[肖弘]] (Xiao Hong)
 成立年份: 2022（Butterfly Effect），2025-03-06（Manus 发布）
 退出事件: Meta 收购（2025-12，估值 $2-3B，10天谈判完成）
 ARR: $90M（2025-08，5个月）→ $125M run rate（2025-12）
 团队: 78 人 → 收购后 100 人并入 Meta
-投资方: '真格基金, 腾讯, 红杉资本'
+投资方: 真格基金, 腾讯, 红杉资本
 tags:
-  - 吃技术升级红利
-  - 从做任务到出成果
-  - 把玩法封装成产品
-  - Agent 代理式
-  - 简易拼装
-  - 技术适配
-  - 迫切刚需
-  - 病毒传播-产品即内容
-  - 借势崛起
-  - 按访问-订阅
-  - 按消耗-请求数
-  - 工作流嵌入
-相关人物:
-  - 肖弘
-竞争对手:
-  - ChatGPT
-  - Claude
-  - Devin
-  - OpenAI Operator
-关联产品:
-  - ChatGPT
-  - DeepSeek
-  - Monica
-  - Claude
-title: Manus
+  opportunity: [吃技术升级红利, 从做任务到出成果, 把玩法封装成产品]
+  design: [Agent 代理式]
+  mvp: [简易拼装, 技术适配]
+  pmf: [迫切刚需]
+  growth: [病毒传播-产品即内容, 借势崛起]
+  monetization: [按访问-订阅, 按消耗-请求数]
+  moat: [工作流嵌入]
+相关人物: [肖弘]
+竞争对手: [[[产品卡片-ChatGPT\|ChatGPT]], [[产品卡片-Claude\|Claude]], Devin, "OpenAI Operator"]
+关联产品: [[[产品卡片-ChatGPT\|ChatGPT]], [[产品卡片-DeepSeek\|DeepSeek]], [[产品卡片-Monica\|Monica]], [[产品卡片-Claude\|Claude]]]
 ---
+
 # Manus
 
 > "Give me a task. I'll handle the rest." — 从 Copilot 到 Agent，从辅助到代劳。
@@ -62,7 +49,7 @@ title: Manus
 
 ### 创始人基因
 
-[[03-人物库/肖弘|肖弘]]，1992 年生，江西吉安人。华中科技大学软件工程专业（2015届），在校期间就是连续创业者。
+[[肖弘]]，1992 年生，江西吉安人。华中科技大学软件工程专业（2015届），在校期间就是连续创业者。
 
 他的创业基因定义了 Manus 的一切：
 
@@ -221,6 +208,30 @@ PLG（Product-Led Growth）极致版：零营销预算，全靠产品自传播�
 
 **诚实的评估**：Manus 的独立护城河其实不深——不自研模型、架构可复刻、Firecracker 是 AWS 开源项目。真正的壁垒是 **execution speed + 市场时机**。肖弘聪明之处在于：不等护城河被冲破，在最高点卖出。
 
+## 三、技术赌注与竞争格局
+
+### 技术赌注
+
+**核心技术选择**：API 聚合 + 虚拟环境 vs 自研 Agent 框架
+
+Manus 的赌注是：**用开源虚拟机（Firecracker）+ 第三方 API（Claude）打造通用 Agent，而不是自研**。
+
+- 优势：快速迭代（不需要训练模型），风险低（使用现成技术），启动成本低
+- 风险：没有独占优势。竞品（OpenAI Operator、Anthropic Computer Use）做同样的事，可能用自家模型效果更好
+- 时间窗口：短期（6-12 个月）。一旦大厂推出 Agent 产品，应用层的竞争空间被挤压
+
+这也是肖弘选择快速出售给 Meta 的根本原因——护城河太浅，不如趁势变现。
+
+### 单位经济
+
+| 指标 | 数值 | 说明 |
+|------|------|------|
+| **毛利率** | 90%+ | Claude API 成本最多 $2-5，售价 $39-199/月，毛利极高 |
+| **LTV:CAC** | >50:1 | 零营销成本（CAC ~$0），LTV $100 × 6 个月 = $600+（强留存假设） |
+| **回本周期** | 即时 | 月付费用户首月即覆盖成本 |
+| **收入质量** | 极强 | 企业和专业用户为主，续费率预计 70%+ |
+| **NDR** | 150%+ | 估算值：用户随着信心增加，消费积分更多；团队招人时新人注册 |
+
 ---
 
 ## 模块四：蓝图复刻
@@ -311,11 +322,11 @@ MIT Technology Review 实测发现：
 
 ## 相关案例
 
-- [[01-产品库/产品卡片-DeepSeek|产品卡片-DeepSeek]] — 同为中国团队全球突破；DeepSeek 走模型研究路线（深护城河 + 长期独立运营），Manus 走应用路线（浅护城河 + 快速退出）——两条路都成了
-- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — Agent 领域最大潜在对手；OpenAI Operator 是 Manus 的直接威胁
-- [[01-产品库/产品卡片-Monica|Monica]] — Manus 的前身，肖弘的"能力预训练"产品
-- [[01-产品库/Devin|Devin]] — 垂直 Agent（代码领域），$500/月定价，对比 Manus 的通用 Agent 定位
-- [[01-产品库/产品卡片-Cursor|产品卡片-Cursor]] — 同属 "AI 替代知识工作" 赛道，Cursor 走 Copilot 路线，Manus 走 Agent 路线
+- [[产品卡片-DeepSeek]] — 同为中国团队全球突破；DeepSeek 走模型研究路线（深护城河 + 长期独立运营），Manus 走应用路线（浅护城河 + 快速退出）——两条路都成了
+- [[ChatGPT]] — Agent 领域最大潜在对手；OpenAI Operator 是 Manus 的直接威胁
+- [[Monica]] — Manus 的前身，肖弘的"能力预训练"产品
+- [[Devin]] — 垂直 Agent（代码领域），$500/月定价，对比 Manus 的通用 Agent 定位
+- [[产品卡片-Cursor]] — 同属 "AI 替代知识工作" 赛道，Cursor 走 Copilot 路线，Manus 走 Agent 路线
 
 ---
 

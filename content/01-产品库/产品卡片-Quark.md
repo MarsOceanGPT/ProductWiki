@@ -2,28 +2,33 @@
 type: product
 name: Quark
 name_cn: 夸克
-url: 'https://quark.cn'
+url: https://quark.cn
+
+# 基本信息
 founded: 2010
 headquarters: 杭州
-founders:
-  - 阿里巴巴集团
+founders: [阿里巴巴集团]
 stage: Scale
 status: Active
+
+# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 超1亿月活
-monthly_visits: null
+monthly_visits:
 mau: 1亿+
-funding_total: null
+funding_total:
 funding_rounds: []
-valuation: null
-employees: null
+valuation:
+employees:
+
+# 分类
 category: AI搜索与学习
 subcategory: 学生学习助手、AI搜索
 target_user: 中小学生、大学生、知识学习者
-pricing_model:
-  - freemium
-  - premium
+pricing_model: [freemium, premium]
+
+# 打法标签（双向链接）
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -31,22 +36,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
+
+# 战略框架标签
 distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
+
+# 人物 & 竞品
 key_people: []
-competitors:
-  - 百度、Kimi、ChatGPT
-  - Google Search
-related_products:
-  - 豆包
-  - 通义千问
-  - Genspark
-last_updated: 2026-03-14T00:00:00.000Z
+competitors: [百度、Kimi、ChatGPT, Google Search]
+related_products: [豆包, 通义千问, Genspark]
+
+# 元信息
+last_updated: 2026-03-14
 confidence: Medium
 mars_reviewed: false
-title: Quark
 ---
+
 # 夸克 Quark
 
 > 从浏览器到AI学习助手的转型：用AI搜索、文档处理和学习辅导的组合拳，抢占学生用户心智的新一代搜索工具
@@ -370,7 +376,37 @@ title: Quark
 
 ## 三、战略框架
 
-### 3.1 时代红利（Why Now）
+### 3.1 技术赌注（Technical Bet）
+
+> 这个产品在技术上押了什么？这个赌注的窗口期有多长？
+
+**核心技术选择**：轻量级 UI vs 功能堆砌
+
+AI Native 产品——极简搜索界面，快速加载。优势：速度快。风险：功能不足。
+
+**时间窗口分析**：
+
+| 时间段 | 技术赌注状态 | 风险评估 |
+|--------|-----------|--------|
+| 2023-2024 | 赌注初期 | 低风险期，市场空间充足 |
+| 2024-2025 | 赌注受挑战 | 中风险期，竞品开始追赶 |
+| 2025-2027 | 赌注有效期半衰 | 高风险期，同质化加剧 |
+| 2027+ | 赌注可能失效 | 超高风险期，需要创新维持 |
+
+---
+
+### 3.2 竞争格局
+
+> 不是"竞品是谁"——而是"它选择在哪个维度打仗，以及为什么能赢"。
+
+**竞争维度选择**：轻量化 + 速度 + 隐私
+
+**主要竞品**：Google, Bing, DuckDuckGo
+
+**可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 轻量化 + 速度 + 隐私 这个维度的用户心智。
+
+
+### 3.3 时代红利（Why Now）
 
 夸克踩对的红利坐标是**三维共振**：
 
@@ -380,7 +416,7 @@ title: Quark
 
 早一年无法做到，晚一年则豆包已占领用户心智。这是典型的"时间窗口"机会。
 
-### 3.2 核心优势
+### 3.4 核心优势
 
 **配置论分析**
 
@@ -402,7 +438,7 @@ title: Quark
 - 但比"知识百科"（无直接付费）那么远
 - 处于**广告+订阅+B端合作**三脚架支撑的位置
 
-### 3.3 生态位
+### 3.5 生态位
 
 **产业分层位置**
 
@@ -516,9 +552,9 @@ AI 草稿——待 Mars 确认
 
 ## 相关案例
 
-- [[01-产品库/产品卡片-Doubao|豆包]] — 同为AI搜索竞品，但基于抖音生态，用户构成和变现路径完全不同
-- [[01-产品库/产品卡片-Qwen|通义千问]] — 夸克背后的模型方，展示了"模型+应用"的分工关系
-- [[01-产品库/产品卡片-Genspark|Genspark]] — 美国市场的AI搜索对标，对比国内外的产品差异
+- [[豆包]] — 同为AI搜索竞品，但基于抖音生态，用户构成和变现路径完全不同
+- [[通义千问]] — 夸克背后的模型方，展示了"模型+应用"的分工关系
+- [[Genspark]] — 美国市场的AI搜索对标，对比国内外的产品差异
 
 ---
 

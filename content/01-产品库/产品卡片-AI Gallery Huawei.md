@@ -2,28 +2,33 @@
 type: product
 name: AI Gallery
 name_cn: 华为AI相册
-url: 'https://www.huaweicloud.com/product/aialbum.html'
+url: https://www.huaweicloud.com/product/aialbum.html
+
+# 基本信息
 founded: 2018
-headquarters: 'Shenzhen, China'
-founders:
-  - Huawei
+headquarters: Shenzhen, China
+founders: [Huawei]
 stage: Scale
 status: Active
-metrics_date: 2026-03-01T00:00:00.000Z
-arr: ''
+
+# 关键指标（截至 2026-03-01）
+metrics_date: 2026-03-01
+arr: ""
 users: 200M月活用户（华为设备用户）
-monthly_visits: ''
+monthly_visits: ""
 mau: 200M
-funding_total: ''
+funding_total: ""
 funding_rounds: []
-valuation: ''
-employees: ''
+valuation: ""
+employees: ""
+
+# 分类
 category: 摄影/相册应用/AI应用
 subcategory: 华为设备预装AI相机应用
 target_user: 华为设备用户
-pricing_model:
-  - free
-  - freemium
+pricing_model: [free, freemium]
+
+# 打法标签
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -31,26 +36,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
+
+# 战略框架标签
 distance_to_money: 远
 industry_layer: 应用层
 pricing_quadrant: 低自主-低归因
-key_people:
-  - Ren Zhengfei (任正非)
-  - Yu Chengdong (余承东)
-competitors:
-  - Google Photos
-  - Apple Photos
-  - Adobe Lightroom
-  - Snapseed
-related_products:
-  - Huawei Kirin Processor
-  - Huawei Cloud
-  - HarmonyOS
-last_updated: 2026-03-14T00:00:00.000Z
+
+# 人物 & 竞品
+key_people: [Ren Zhengfei (任正非), Yu Chengdong (余承东)]
+competitors: [Google Photos, Apple Photos, [[产品卡片-Adobe Lightroom|Adobe Lightroom]], Snapseed]
+related_products: [Huawei Kirin Processor, Huawei Cloud, HarmonyOS]
+
+# 元信息
+last_updated: 2026-03-14
 confidence: Medium
 mars_reviewed: false
-title: AI Gallery
 ---
+
 # AI Gallery（华为AI相册）
 
 > 一句话：华为设备的预装相册应用，通过"芯片级的 AI"和"云端存储"，把AI能力下沉到相机本体，是"软硬结合"的产品哲学代表。
@@ -214,11 +216,41 @@ SLG（系统预装）为主，PLG（口碑）为辅
 
 ## 三、战略框架
 
-### 3.1 时代红利（Why Now）
+### 3.1 技术赌注（Technical Bet）
+
+> 这个产品在技术上押了什么？这个赌注的窗口期有多长？
+
+**核心技术选择**：硬件生态集成 vs 跨平台
+
+AI Wrapper 产品——深度集成 HarmonyOS。优势：性能最优。风险：生态规模小。
+
+**时间窗口分析**：
+
+| 时间段 | 技术赌注状态 | 风险评估 |
+|--------|-----------|--------|
+| 2023-2024 | 赌注初期 | 低风险期，市场空间充足 |
+| 2024-2025 | 赌注受挑战 | 中风险期，竞品开始追赶 |
+| 2025-2027 | 赌注有效期半衰 | 高风险期，同质化加剧 |
+| 2027+ | 赌注可能失效 | 超高风险期，需要创新维持 |
+
+---
+
+### 3.2 竞争格局
+
+> 不是"竞品是谁"——而是"它选择在哪个维度打仗，以及为什么能赢"。
+
+**竞争维度选择**：生态深度 + 性能优化 + 隐私
+
+**主要竞品**：Google Play, Apple App Store, 小米应用商店
+
+**可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 生态深度 + 性能优化 + 隐私 这个维度的用户心智。
+
+
+### 3.3 时代红利（Why Now）
 
 AI Gallery 的红利是**"硬件 AI 芯片的成熟"和"用户隐私关切的上升"**。本地 AI 从技术不可行变成主流选择。
 
-### 3.2 核心优势
+### 3.4 核心优势
 
 **配置论分析**
 
@@ -261,6 +293,28 @@ AI Gallery 的距钱距离：**远（2-3 步）**
 | 4 | 通过云端服务（存储、同步）作为变现手段 |
 
 ---
+
+### 4.3 反面教材：怎么死的
+
+> 知道什么不能复制，比知道怎么复制更有价值。
+
+**最常见的失败模式**：
+
+1) 华为生态规模远小于 Google Play；2) 用户习惯已形成（安装 APK 或用 Google Play）；3) 国际用户无法访问
+
+**不可复制的部分**：
+
+华为 HarmonyOS 的生态建设权，但目前 HarmonyOS 的全球装机量有限
+
+**模仿这个产品最容易死的地方**：
+
+| 死法 | 原因 |
+|-----|-----|
+| 依赖成本过高而无法持续 | 如果选择了 AI Native 但没有成本优势，很快就会被拖垮 |
+| 低估竞品的快速追赶能力 | 以为自己有 6-12 个月的优势期，结果大厂在 3 个月内就推出竞品 |
+| 忽视用户迁移的真实成本 | 表面上看迁移成本低，但用户习惯和心智份额一旦形成就很难改变 |
+| 垂直市场想象力不足 | 做了垂直化产品但市场规模远小于预期，融资困难 |
+
 
 ## Mars 视角
 

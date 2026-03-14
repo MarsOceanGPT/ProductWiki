@@ -2,27 +2,33 @@
 type: product
 name: QQ Browser
 name_cn: 腾讯QQ浏览器
-url: 'https://browser.qq.com'
+url: https://browser.qq.com
+
+# 基本信息
 founded: 2010
-headquarters: 'Shenzhen, China'
-founders:
-  - Tencent
+headquarters: Shenzhen, China
+founders: [Tencent]
 stage: Scale
 status: Active
-metrics_date: 2026-03-01T00:00:00.000Z
-arr: ''
+
+# 关键指标（截至 2026-03-01）
+metrics_date: 2026-03-01
+arr: ""
 users: 180M月活用户
-monthly_visits: ''
+monthly_visits: ""
 mau: 180M
-funding_total: ''
+funding_total: ""
 funding_rounds: []
-valuation: ''
-employees: ''
+valuation: ""
+employees: ""
+
+# 分类
 category: 浏览器/AI浏览器
 subcategory: 中国本地化AI浏览器
 target_user: 中国网民，QQ/微信生态用户
-pricing_model:
-  - free
+pricing_model: [free]
+
+# 打法标签
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -30,27 +36,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
+
+# 战略框架标签
 distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 低自主-低归因
-key_people:
-  - Ma Huateng (腾讯CEO)
-  - 张小龙 (WeChat之父)
-competitors:
-  - Chrome
-  - Safari
-  - UC浏览器
-  - 360浏览器
-related_products:
-  - WeChat
-  - QQ
-  - Tencent Cloud
-  - Tencent AI Lab
-last_updated: 2026-03-14T00:00:00.000Z
+
+# 人物 & 竞品
+key_people: [Ma Huateng (腾讯CEO), 张小龙 (WeChat之父)]
+competitors: [Chrome, Safari, UC浏览器, 360浏览器]
+related_products: [WeChat, QQ, Tencent Cloud, Tencent AI Lab]
+
+# 元信息
+last_updated: 2026-03-14
 confidence: Medium
 mars_reviewed: false
-title: QQ Browser
 ---
+
 # QQ Browser（腾讯QQ浏览器）
 
 > 一句话：中国第二大浏览器，通过与微信/QQ 的生态整合和本地 AI 集成（腾讯混元 Hunyuan），试图把浏览器变成"微信生态内的入口"，而非独立产品。
@@ -220,11 +222,41 @@ SLG 为主（微信生态推动），PLG 为辅（口碑）
 
 ## 三、战略框架
 
-### 3.1 时代红利（Why Now）
+### 3.1 技术赌注（Technical Bet）
+
+> 这个产品在技术上押了什么？这个赌注的窗口期有多长？
+
+**核心技术选择**：本地化 LLM vs 云服务 API
+
+AI Native 产品——集成腾讯自研大模型。优势：完全自主。风险：模型质量不如 GPT-4。
+
+**时间窗口分析**：
+
+| 时间段 | 技术赌注状态 | 风险评估 |
+|--------|-----------|--------|
+| 2023-2024 | 赌注初期 | 低风险期，市场空间充足 |
+| 2024-2025 | 赌注受挑战 | 中风险期，竞品开始追赶 |
+| 2025-2027 | 赌注有效期半衰 | 高风险期，同质化加剧 |
+| 2027+ | 赌注可能失效 | 超高风险期，需要创新维持 |
+
+---
+
+### 3.2 竞争格局
+
+> 不是"竞品是谁"——而是"它选择在哪个维度打仗，以及为什么能赢"。
+
+**竞争维度选择**：本地化 + 隐私 + 生态绑定
+
+**主要竞品**：Chrome, Safari, Firefox
+
+**可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 本地化 + 隐私 + 生态绑定 这个维度的用户心智。
+
+
+### 3.3 时代红利（Why Now）
 
 中文互联网用户已经形成"在 WeChat 内完成所有操作"的习惯。QQ Browser 的红利就是**"微信生态内的链接体验优化"**。
 
-### 3.2 核心优势
+### 3.4 核心优势
 
 **配置论分析**
 
@@ -270,6 +302,28 @@ QQ Browser 的距钱距离：**中（1.5 步）**
 - **相邻机会**：支付宝的浏览器、抖音的浏览器功能
 
 ---
+
+### 4.3 反面教材：怎么死的
+
+> 知道什么不能复制，比知道怎么复制更有价值。
+
+**最常见的失败模式**：
+
+1) 国际市场无法扩展（中文优先）；2) 自研大模型质量可能不如开源模型；3) 用户被 Chrome 习惯锁定
+
+**不可复制的部分**：
+
+腾讯的用户基础和监管特权，新创业公司无法在中国市场复制，但在国际市场也无优势
+
+**模仿这个产品最容易死的地方**：
+
+| 死法 | 原因 |
+|-----|-----|
+| 依赖成本过高而无法持续 | 如果选择了 AI Native 但没有成本优势，很快就会被拖垮 |
+| 低估竞品的快速追赶能力 | 以为自己有 6-12 个月的优势期，结果大厂在 3 个月内就推出竞品 |
+| 忽视用户迁移的真实成本 | 表面上看迁移成本低，但用户习惯和心智份额一旦形成就很难改变 |
+| 垂直市场想象力不足 | 做了垂直化产品但市场规模远小于预期，融资困难 |
+
 
 ## Mars 视角
 

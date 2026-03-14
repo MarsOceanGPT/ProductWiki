@@ -1,7 +1,63 @@
 ---
-title: Kimi Chat
+type: product
+name: "Kimi"
+name_cn: "Kimi Chat"
+url: "https://kimi.ai"
+founded: 2023
+headquarters: "Beijing, China"
+founders: ["杨植麟", "月之暗面 Moonshot AI"]
+stage: "Series C"
+status: "Active"
+metrics_date: 2026-03
+arr: "$100M+ (estimated)"
+users: "100M+ MAU (estimated)"
+monthly_visits: "300M+"
+mau: "100M+"
+funding_total: "$300M+ (Series B, 2024)"
+valuation: "$3.3B (Series B, Mar 2024)"
+employees: "150+"
+category: "AI Assistant"
+subcategory: "Long-context LLM / Search-integrated AI"
+target_user: "Chinese knowledge workers, students, researchers"
+pricing_model: ["Free (limited)", "Kimi Pro $20/mo (CNY 148)", "Kimi Enterprise"]
+opportunity_playbooks:
+  - "[[长上下文差异化]]"
+  - "[["不烧钱"增长]]"
+  - "[[本地化垂直深化]]"
+design_playbooks:
+  - "[[搜索集成]]"
+  - "[[文档理解]]"
+mvp_playbooks:
+  - "[[超长上下文作为差异化]]"
+pmf_playbooks:
+  - "[[学生和研究者]]"
+growth_playbooks:
+  - "[[口碑传播]]"
+  - "[[口碑vs烧钱]]"
+monetization_playbooks:
+  - "[[按 token 消耗精细化定价]]"
+moat_playbooks:
+  - "[[长上下文模型]]"
+  - "[[成本效率]]"
+distance_to_money: "极近"
+industry_layer: "应用层"
+pricing_quadrant: "高频次低单价"
+key_people:
+  - "[[杨植麟]] (Co-founder, CEO)"
+  - "[[周明]] (Co-founder, President)"
+competitors:
+  - "[[ChatGPT]]"
+  - "[[豆包]]"
+  - "[[Claude]]"
+related_products:
+  - "[[Claude (Anthropic)]]"
+  - "[[DeepSeek]]"
+last_updated: 2026-03-14
+confidence: "High"
+mars_reviewed: false
 ---
-# Kimi Chat
+
+# [[产品卡片-Kimi|Kimi]] Chat
 
 > 一句话：从 Google Brain 出走的杨植麟打造"长上下文 AI"，10 天破 100 万用户不靠融资烧钱，靠的是"同学介绍同学"的口碑，现在月活 1 亿用户，估值 $33 亿。
 
@@ -66,7 +122,7 @@ title: Kimi Chat
 **"不烧钱"的口碑增长**：
 - 2023.08 发布 → 10 天破 100 万用户（完全口碑，0 营销投入）
 - 主要渠道：学生告诉学生、论文作者推荐论文作者
-- 与 ChatGPT 的 100 万（5 天）相当，但是 Kimi 完全没有融资支持
+- 与 [[产品卡片-ChatGPT|ChatGPT]] 的 100 万（5 天）相当，但是 Kimi 完全没有融资支持
 
 **融资节奏的理性**：
 - Pre-seed：融资不足 $10M
@@ -84,6 +140,35 @@ title: Kimi Chat
 
 ## 三、战略框架
 
+### 3.1 技术赌注与竞争格局
+
+**技术赌注**：长上下文 + 低成本模型
+
+Kimi 的赌注是：**自研长上下文模型，在成本和能力上找到平衡点**。
+
+- 优势：长上下文（目前 200K tokens）被证明有市场需求，Kimi 在这个维度的专注让它体验最好
+- 风险：竞品在追赶。[[产品卡片-Gemini|Gemini]] 1.5 Pro 已经做到 1M tokens，ChatGPT 128K，[[产品卡片-Claude|Claude]] 200K。长上下文可能变成"标配"而不是"差异化"
+- 时间窗口：1-2 年。这个差异化正在快速缩小
+
+**竞争格局**：
+
+| 维度 | Kimi | 竞品 | 胜负 |
+|-----|------|------|-----|
+| **长上下文体验** | 最好（200K 优化完美） | Gemini 1M（过度）、ChatGPT 128K（不足） | Kimi 赢体验 |
+| **成本效率** | 很高（融资少、盈利快） | ChatGPT 烧钱，Claude 融资多 | Kimi 赢 |
+| **口碑** | 很强（学生/研究者中出名） | ChatGPT 消费端品牌强 | 细分领域 Kimi 赢 |
+| **模型通用能力** | 中等（专注长上下文） | ChatGPT/Claude 更全能 | 竞品赢 |
+
+### 3.2 单位经济
+
+| 指标 | 数值/估算 | 说明 |
+|------|----------|------|
+| **毛利率** | 75%+ | Pro 用户成本 $0.02-0.05/次，售价 $20/月（假设月 30-50 次），毛利 75%+ |
+| **LTV:CAC** | >10:1 | 基本无营销成本（口碑），LTV $20 × 12-18 个月 = $240-360 |
+| **回本周期** | 1 个月 | 用户首月即可覆盖成本 |
+| **收入质量** | 经常性强 | 专业用户粘性高，订阅留存率预计 70%+ |
+| **NDR** | 120-130% | 估算值：用户随着学位/职业升级，使用量增加，但新增用户增速可能放缓 |
+
 **时代红利**：
 1. 长上下文模型技术成熟（2023-2024）
 2. 用户对"理解长文档"的需求爆炸性增长
@@ -95,6 +180,20 @@ title: Kimi Chat
 - 口碑：用户自发传播
 
 **生态位**：垂直专注型 AI（不追求"全能"，只追求"长上下文"的完美）。
+
+### 4.2 反面教材
+
+**Kimi 会死的风险**：
+
+1. **差异化被商品化**：一旦长上下文变成标配（Gemini 已经 1M tokens），Kimi 的"专长"消失
+2. **融资不足**：Kimi 融资保守，可能无法与大厂竞争的长期投入
+3. **用户群体有限**：主要用户是学生/研究者，市场规模有限
+
+**不可复制的因素**：
+
+- **杨植麟的技术能力（50%）**：从 Google Brain 出身
+- **融资理性（30%）**：别人都在烧钱，Kimi 快速盈利
+- **口碑传播的时机（20%）**：2023 年恰好是"长上下文"爆发的时刻
 
 ---
 

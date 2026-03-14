@@ -2,29 +2,33 @@
 type: product
 name: GigaChat
 name_cn: 吉加聊天
-url: 'https://giga.chat'
+url: https://giga.chat
+
+# 基本信息
 founded: 2023
 headquarters: 莫斯科
-founders:
-  - Sberbank
-  - Sber AI Lab
+founders: [Sberbank, Sber AI Lab]
 stage: Scale
 status: Active
+
+# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 数百万月活
-monthly_visits: null
-mau: null
-funding_total: null
+monthly_visits:
+mau:
+funding_total:
 funding_rounds: []
-valuation: null
-employees: null
+valuation:
+employees:
+
+# 分类
 category: AI助手+语言模型
 subcategory: 俄语LLM、企业AI、国家级产品
 target_user: 俄罗斯企业、政府机构、个人用户
-pricing_model:
-  - subscription
-  - freemium
+pricing_model: [subscription, freemium]
+
+# 打法标签（双向链接）
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -32,23 +36,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
+
+# 战略框架标签
 distance_to_money: 近
 industry_layer: 模型层+应用层
 pricing_quadrant: 高自主-高归因
-key_people:
-  - Vladimir Solovyev
-competitors:
-  - ChatGPT
-  - Claude
-  - 通义千问
-related_products:
-  - Yandex.GPT
-  - Saiga
-last_updated: 2026-03-14T00:00:00.000Z
+
+# 人物 & 竞品
+key_people: [Vladimir Solovyev]
+competitors: [ChatGPT, Claude, 通义千问]
+related_products: [Yandex.GPT, Saiga]
+
+# 元信息
+last_updated: 2026-03-14
 confidence: Medium
 mars_reviewed: false
-title: GigaChat
 ---
+
 # GigaChat
 
 > 被西方制裁逼出来的"独立"AI助手：俄罗斯国有银行Sberbank打造的国产AI，用地缘政治中的"必需性"弥补技术差距
@@ -390,7 +394,37 @@ GigaChat的护城河是**"政治壁垒 + 数据壁垒"的组合**：
 
 ## 三、战略框架
 
-### 3.1 时代红利（Why Now）
+### 3.1 技术赌注（Technical Bet）
+
+> 这个产品在技术上押了什么？这个赌注的窗口期有多长？
+
+**核心技术选择**：俄罗斯自主模型 vs 依赖西方
+
+AI Native 产品——完全自研俄语对话 AI。优势：合规性强。风险：技术能力限制。
+
+**时间窗口分析**：
+
+| 时间段 | 技术赌注状态 | 风险评估 |
+|--------|-----------|--------|
+| 2023-2024 | 赌注初期 | 低风险期，市场空间充足 |
+| 2024-2025 | 赌注受挑战 | 中风险期，竞品开始追赶 |
+| 2025-2027 | 赌注有效期半衰 | 高风险期，同质化加剧 |
+| 2027+ | 赌注可能失效 | 超高风险期，需要创新维持 |
+
+---
+
+### 3.2 竞争格局
+
+> 不是"竞品是谁"——而是"它选择在哪个维度打仗，以及为什么能赢"。
+
+**竞争维度选择**：本地化 + 合规性 + 数据安全
+
+**主要竞品**：[[产品卡片-ChatGPT|ChatGPT]], [[产品卡片-Gemini|Gemini]], [[产品卡片-Claude|Claude]]
+
+**可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 本地化 + 合规性 + 数据安全 这个维度的用户心智。
+
+
+### 3.3 时代红利（Why Now）
 
 GigaChat踩对的红利是**"被迫创新"**：
 
@@ -400,7 +434,7 @@ GigaChat踩对的红利是**"被迫创新"**：
 
 这个红利是**特定的、不可复制的** —— 只对被西方孤立的国家有效。
 
-### 3.2 核心优势
+### 3.4 核心优势
 
 **配置论分析**
 
@@ -411,7 +445,7 @@ GigaChat不在"技术能力"维度与ChatGPT竞争，而是引入了两个新变
 
 这两个新变量改变了竞争边界。
 
-**Cursor for X评估**
+**[[产品卡片-Cursor|Cursor]] for X评估**
 
 GigaChat是"Cursor for Russian Enterprises"的典型：
 - **工作流复杂度**：★★★★☆（企业文档处理、客服等）
@@ -424,7 +458,7 @@ GigaChat的**距钱距离为"近"**：
 - 企业用户愿意付费购买"国产化"和"安全"
 - 政府采购可能比商业采购更实在
 
-### 3.3 生态位
+### 3.5 生态位
 
 **产业分层位置**
 
@@ -534,9 +568,9 @@ AI 草稿——待 Mars 确认
 
 ## 相关案例
 
-- [[01-产品库/产品卡片-Qwen|通义千问]] — 同样是"国有企业支持"的AI，但面向的是全球市场而非被孤立的市场
-- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 对标产品，代表"无约束的全球AI"
-- [[01-产品库/产品卡片-Doubao|豆包]] — 国内竞品，采用类似的生态集成战略但缺少"政治驱动"
+- [[通义千问]] — 同样是"国有企业支持"的AI，但面向的是全球市场而非被孤立的市场
+- [[ChatGPT]] — 对标产品，代表"无约束的全球AI"
+- [[[[产品卡片-Doubao|豆包]]]] — 国内竞品，采用类似的生态集成战略但缺少"政治驱动"
 
 ---
 

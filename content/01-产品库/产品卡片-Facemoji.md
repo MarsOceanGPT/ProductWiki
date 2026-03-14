@@ -1,4 +1,5 @@
 ---
+type: product
 名称: Facemoji
 公司: Facemoji Inc.
 类别: AI 虚拟形象 / 表情包生成 / 社交表达
@@ -9,35 +10,18 @@
 成立年份: 2022
 公开年份: 2023
 tags:
-  - 打开表达门槛新市场
-  - 社交表情创新
-  - AI 虚拟形象生成
-  - 个性化表情
-  - 移动优先
-  - 生成式 AI 拼装
-  - 简易上手
-  - 个性表达需求
-  - 社交内容生成
-  - 社交分享
-  - 年轻用户优先
-  - 按功能-订阅
-  - 用户数据
-  - 模型个性化
-  - 社交沉淀
-相关人物:
-  - 待补充
-竞争对手:
-  - Bitmoji
-  - Nendo
-  - Picrew
-  - Character.ai 虚拟形象版
-  - Snapchat Bitmoji
-关联产品:
-  - Character.ai
-  - Midjourney
-  - DALL-E
-title: Facemoji
+  opportunity: [打开表达门槛新市场, 社交表情创新]
+  design: [AI 虚拟形象生成, 个性化表情, 移动优先]
+  mvp: [生成式 AI 拼装, 简易上手]
+  pmf: [个性表达需求, 社交内容生成]
+  growth: [社交分享, 年轻用户优先]
+  monetization: [按功能-订阅]
+  moat: [用户数据, 模型个性化, 社交沉淀]
+相关人物: [待补充]
+竞争对手: [Bitmoji, Nendo, Picrew, Character.ai 虚拟形象版, Snapchat Bitmoji]
+关联产品: [Character.ai, Midjourney, DALL-E]
 ---
+
 # Facemoji
 
 > "让你的表情包活起来。" — AI 头像生成打破了表情包的静态边界，但也暴露了"个性化"商业化的困难。
@@ -67,7 +51,7 @@ title: Facemoji
 - **Bitmoji**（Snapchat 旗下）已经验证了"虚拟形象"的社交需求（月活数千万）
 - 但 Bitmoji 是"2D 卡通风格"，无法满足所有用户的个性化需求
 - **Picrew**（日本社交创意工具）证明了"用户生成虚拟形象"有强需求
-- Stable Diffusion、Midjourney 等生成式 AI 工具的开源，让"虚拟形象生成"成为可能
+- Stable Diffusion、[[产品卡片-Midjourney|Midjourney]] 等生成式 AI 工具的开源，让"虚拟形象生成"成为可能
 
 **关键洞察**：
 - 每个人都想要"真正属于自己"的虚拟形象（而不是 Bitmoji 的通用风格）
@@ -97,7 +81,7 @@ title: Facemoji
 **与竞争对手的差异**：
 - vs Bitmoji：更高度定制化，AI 生成而非卡通风格
 - vs Picrew：更快速，无需手工操作
-- vs Character.ai：专注虚拟形象而非对话陪伴
+- vs [[产品卡片-Character.ai|Character.ai]]：专注虚拟形象而非对话陪伴
 
 ---
 
@@ -172,6 +156,18 @@ title: Facemoji
 
 ## 三、战略框架
 
+### 3.1 技术赌注与竞争格局
+
+**技术选择**：生成式AI for虚拟形象。自研or API base?
+
+**竞争维度**：vs Meta Horizon（功能完整），vs Snapchat Avatar（社交integration），vs Adobe（专业性）。
+
+**单位经济**：ARPU $1-3/年（低，entertainment tool）；转化率5-8%；毛利75%；LTV:CAC 2-4:1。
+
+**威胁**：Meta、Snapchat、TikTok可轻易复制功能。
+
+---
+
 ### 时代红利
 
 1. **虚拟身份的认同需求上升**：特别是年轻人对"网络分身"的需求
@@ -188,6 +184,15 @@ title: Facemoji
 ### 生态位
 
 **"AI 虚拟形象生成平台"** — 这个定位很具体，但也很有限。一旦大厂（Meta、Snapchat、Google）认真进攻，Facemoji 的独立地位会快速消失。
+
+---
+
+### 4.3 反面教材
+
+**失败模式**：
+- **大平台竞争**：Meta、Snapchat、TikTok都可以内置虚拟形象功能
+- **网络效应缺失**：虚拟形象是个人工具，network effect不强
+- **付费意愿低**：entertainment工具的monetization困难
 
 ---
 

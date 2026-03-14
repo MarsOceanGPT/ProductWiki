@@ -1,9 +1,8 @@
 ---
 type: product-stub
-name: Google Search
-status: 待建完整卡片
+name: "Google Search"
+status: "待建完整卡片"
 related: []
-title: Google Search
 ---
 # Google Search
 > 全球最大的搜索引擎
@@ -14,6 +13,6 @@ Google Search 是全球最主流的搜索引擎，现已融入 Gemini AI 功能�
 
 ## 与其他产品的关系
 
-- [[01-产品库/产品卡片-Gemini|Gemini]] — Google AI 搜索升级方案
-- [[01-产品库/产品卡片-Perplexity|Perplexity]] — AI 原生搜索引擎竞品
-- [[01-产品库/产品卡片-Microsoft Bing Copilot Search|Microsoft Bing Copilot Search]] — 微软 AI 搜索方案
+- [[产品卡片-Gemini|Gemini]] — Google AI 搜索升级方案
+- [[产品卡片-Perplexity|Perplexity]] — AI 原生搜索引擎竞品
+- [[产品卡片-Microsoft Bing Copilot Search|Microsoft Bing Copilot Search]] — 微软 AI 搜索方案
