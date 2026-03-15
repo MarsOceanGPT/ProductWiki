@@ -6,4 +6,4 @@ title: Janitor AI
 ---
 # Janitor AI
 
-→ 请查看完整产品卡片：[[产品卡片-Janitor AI]]
+→ 请查看完整产品卡片：[[01-产品库/产品卡片-Janitor AI|产品卡片-Janitor AI]]

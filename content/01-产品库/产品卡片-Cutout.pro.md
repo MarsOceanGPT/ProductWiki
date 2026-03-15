@@ -63,10 +63,10 @@ competitors:
   - Canva
   - Adobe
 related_products:
-  - '[[Remove.bg]]'
-  - '[[Photoroom]]'
-  - '[[Canva]]'
-  - '[[Freepik]]'
+  - '[[01-产品库/产品卡片-Remove.bg|Remove.bg]]'
+  - '[[01-产品库/产品卡片-Photoroom|Photoroom]]'
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[01-产品库/产品卡片-Freepik|Freepik]]'
 last_updated: '2026-03-14'
 confidence: Medium-High
 mars_reviewed: false

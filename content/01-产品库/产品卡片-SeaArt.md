@@ -51,7 +51,7 @@ pricing_quadrant: 中自主-高归因
 competitors:
   - '[[Midjourney]]'
   - '[[Stable Diffusion]]'
-  - '[[CivitAI]]'
+  - '[[01-产品库/产品卡片-CivitAI|CivitAI]]'
   - '[[Ourdream]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High

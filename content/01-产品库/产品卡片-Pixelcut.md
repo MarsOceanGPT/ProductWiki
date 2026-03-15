@@ -43,8 +43,8 @@ distance_to_money: 近
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
 competitors:
-  - '[[Remove.bg]]'
-  - '[[Photoroom]]'
+  - '[[01-产品库/产品卡片-Remove.bg|Remove.bg]]'
+  - '[[01-产品库/产品卡片-Photoroom|Photoroom]]'
   - '[[Cleanup.pictures]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium

@@ -46,8 +46,8 @@ industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
 competitors:
   - '[[CapCut]]'
-  - '[[VivaCut]]'
-  - '[[VN Video Editor]]'
+  - '[[01-产品库/产品卡片-VivaCut|VivaCut]]'
+  - '[[01-产品库/产品卡片-VN Video Editor|VN Video Editor]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false

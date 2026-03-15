@@ -75,8 +75,8 @@ related_products:
   - '[[TikTok]]'
   - '[[Snapchat]]'
   - '[[Instagram]]'
-  - '[[BeautyPlus]]'
-  - '[[Canva]]'
+  - '[[01-产品库/产品卡片-BeautyPlus|BeautyPlus]]'
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
   - '[[Midjourney]]'
 last_updated: '2026-03-14'
 confidence: High

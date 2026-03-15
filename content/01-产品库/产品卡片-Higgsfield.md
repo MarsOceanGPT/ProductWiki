@@ -45,8 +45,8 @@ distance_to_money: 近
 industry_layer: 应用层
 pricing_quadrant: 高自主-中等归因
 competitors:
-  - '[[Pixverse]]'
-  - '[[Runway]]'
+  - '[[01-产品库/产品卡片-Pixverse|Pixverse]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
   - '[[Pika]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High

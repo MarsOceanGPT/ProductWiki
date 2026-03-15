@@ -66,9 +66,9 @@ competitors:
   - HeyGen (Creator Tools)
 related_products:
   - '[[Manus]]'
-  - '[[Cursor]]'
+  - '[[01-产品库/产品卡片-Cursor|Cursor]]'
   - '[[Lovable]]'
-  - '[[GitHub Copilot]]'
+  - '[[01-产品库/GitHub Copilot|GitHub Copilot]]'
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
@@ -483,6 +483,6 @@ Manus 的出现，其实是肖弘在说："我要升级从'工具聚合'到'任�
 **相关产品和框架：**
 - [[Manus]]（肖弘的 AI Agent 新业务）
 - [[ChatGPT Plus]]（直接竞争对手）
-- [[Cursor]]（垂直领域的 PLG 典范）
+- [[01-产品库/产品卡片-Cursor|Cursor]]（垂直领域的 PLG 典范）
 - [[API 聚合模式]]（商业模式框架）
 - [[LLM 平民化时代]]（时代背景）

@@ -74,7 +74,7 @@ competitors:
   - Kaggle
   - Model Zoo (various)
 related_products:
-  - '[[CivitAI]]'
+  - '[[01-产品库/产品卡片-CivitAI|CivitAI]]'
   - '[[GitHub]]'
   - '[[Kaggle]]'
   - '[[OpenAI]]'

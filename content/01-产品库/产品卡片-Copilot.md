@@ -28,7 +28,7 @@ pricing_model:
 opportunity_playbooks:
   - '[[生态垄断]]'
   - '[[企业采购]]'
-  - '[[工作流嵌入]]'
+  - '[[02-打法库/07-护城河/工作流嵌入|工作流嵌入]]'
 design_playbooks:
   - '[[Office 集成]]'
   - '[[Windows 集成]]'
@@ -58,7 +58,7 @@ competitors:
   - '[[Claude]]'
   - '[[Gemini]]'
 related_products:
-  - '[[GitHub Copilot]]'
+  - '[[01-产品库/GitHub Copilot|GitHub Copilot]]'
   - '[[Office 365]]'
   - '[[Windows 11]]'
   - '[[Bing]]'

@@ -61,7 +61,7 @@ title: Janitor AI
 
 ### 创始人基因
 
-[[Jan Zoltkowski]]，澳大利亚籍软件工程师 + 加密工程师。在创建 Janitor AI 之前，他是 HackerOne 和 EthGlobal 黑客松的多次获奖者——这个背景解释了两件事：
+[[03-人物库/Jan Zoltkowski|Jan Zoltkowski]]，澳大利亚籍软件工程师 + 加密工程师。在创建 Janitor AI 之前，他是 HackerOne 和 EthGlobal 黑客松的多次获奖者——这个背景解释了两件事：
 
 1. **技术能力强**：能独立搭建完整的前后端 + LLM 集成系统
 2. **Hacker 心态**：追求快速构建、快速验证，不追求完美
@@ -324,11 +324,11 @@ Janitor AI 的故事其实很简单但很聪明：在别人看到风险的地方
 
 ## 相关案例
 
-- [[产品卡片-Character.ai]] — 直接对照：相同技术、相反的内容政策 → 相反的商业结果（2 亿月访问但 0.3% 付费 vs. 1.38 亿月访问但可能更高的付费率）
+- [[01-产品库/产品卡片-Character.ai|产品卡片-Character.ai]] — 直接对照：相同技术、相反的内容政策 → 相反的商业结果（2 亿月访问但 0.3% 付费 vs. 1.38 亿月访问但可能更高的付费率）
 - [[Replika]] — AI 伴侣先驱，2023年曾因取消"成人模式"导致用户暴怒，部分用户流向 Janitor AI
 - [[CrushOn]] — 更彻底的 NSFW 平台（零过滤），是 Janitor AI 在"自由度"维度上的上限
-- [[Spicychat]] — 同类竞品，免费、低门槛，与 Janitor AI 争夺轻度用户
-- [[产品卡片-ElevenLabs]] — 对比案例：同为"大公司不做/不敢做"的品类创新（语音克隆 vs. NSFW 角色），不同的品牌策略
+- [[01-产品库/产品卡片-Spicychat.ai|Spicychat]] — 同类竞品，免费、低门槛，与 Janitor AI 争夺轻度用户
+- [[01-产品库/产品卡片-ElevenLabs|产品卡片-ElevenLabs]] — 对比案例：同为"大公司不做/不敢做"的品类创新（语音克隆 vs. NSFW 角色），不同的品牌策略
 
 ---
 

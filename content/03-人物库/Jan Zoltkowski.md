@@ -43,7 +43,7 @@ title: 简·佐尔特考夫斯基
 
 ## 相关产品
 
-- [[产品卡片-Janitor AI|Janitor AI]] — NSFW 角色聊天，CEO
+- [[01-产品库/产品卡片-Janitor AI|Janitor AI]] — NSFW 角色聊天，CEO
 - [[JanitorLLM]] — 自建模型
 - [[OpenAI API]] — 早期使用的基础模型
 

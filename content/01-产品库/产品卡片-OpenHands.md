@@ -58,10 +58,10 @@ competitors:
   - GitHub Copilot
   - Cursor
 related_products:
-  - '[[Devin]]'
-  - '[[Cursor]]'
-  - '[[GitHub Copilot]]'
-  - '[[Claude Code]]'
+  - '[[01-产品库/Devin|Devin]]'
+  - '[[01-产品库/产品卡片-Cursor|Cursor]]'
+  - '[[01-产品库/GitHub Copilot|GitHub Copilot]]'
+  - '[[01-产品库/Claude Code|Claude Code]]'
 last_updated: '2026-03-14'
 confidence: Medium-High
 mars_reviewed: false
@@ -741,9 +741,9 @@ OpenHands 抓住了这个转变。
 ---
 
 **相关产品和框架：**
-- [[Devin]]（竞争对手，闭源方案）
-- [[GitHub Copilot]]（另一类 AI 编程工具）
-- [[Cursor]]（编辑器优化的 AI）
+- [[01-产品库/Devin|Devin]]（竞争对手，闭源方案）
+- [[01-产品库/GitHub Copilot|GitHub Copilot]]（另一类 AI 编程工具）
+- [[01-产品库/产品卡片-Cursor|Cursor]]（编辑器优化的 AI）
 - [[开源 + SaaS 混合模式]]（商业模式框架）
 - [[AI Agent 的透明性设计]]（产品设计框架）
 - [[社区驱动的增长]]（增长战略框架）

@@ -49,7 +49,7 @@ key_people:
   - '[[Daniele Canevari]]'
   - '[[Luca Ferrari (Bending Spoons CEO)]]'
 competitors:
-  - '[[FaceApp]]'
+  - '[[01-产品库/产品卡片-FaceApp|FaceApp]]'
   - '[[Google Photos]]'
   - '[[Adobe Photoshop]]'
 last_updated: 2026-03-14T00:00:00.000Z

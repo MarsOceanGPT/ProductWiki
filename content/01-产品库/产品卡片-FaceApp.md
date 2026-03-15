@@ -47,10 +47,10 @@ pricing_quadrant: 低自主-高归因
 key_people:
   - '[[Yaroslav Goncharov]]'
 competitors:
-  - '[[Remini]]'
-  - '[[BeautyPlus]]'
+  - '[[01-产品库/产品卡片-Remini|Remini]]'
+  - '[[01-产品库/产品卡片-BeautyPlus|BeautyPlus]]'
   - '[[Snapchat]]'
-  - '[[B612]]'
+  - '[[01-产品库/产品卡片-B612|B612]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
@@ -85,7 +85,7 @@ FaceApp 由俄罗斯开发者 Yaroslav Goncharov 一个人于 2017 年创建，�
 
 Goncharov 的洞察：不需要做"美颜"（这个赛道已经被 FaceU、B612 占据），而是做**趣味性人脸变换**——让用户看到自己的各种可能性（变老、变年轻、变异性、变笑脸）。这是情绪价值而非实用价值。
 
-相关打法：[[吃技术升级红利]]、[[情绪价值共鸣]]
+相关打法：[[02-打法库/01-机会识别/吃技术升级红利|吃技术升级红利]]、[[情绪价值共鸣]]
 
 ### 2.2 产品怎么设计的
 

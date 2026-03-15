@@ -3,7 +3,7 @@ type: person
 name: Mati Staniszewski
 name_cn: 马蒂·斯坦尼斯泽夫斯基
 role: Co-founder & CEO
-company: '[[ElevenLabs]]'
+company: '[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]'
 nationality: Polish
 background: Google 工程师 → Palantir 数据工程 → ElevenLabs CEO
 notable_for: 把语音合成从技术项目变成 $330M ARR 的企业级市场，成为 AI Voice 的事实标准
@@ -32,7 +32,7 @@ Piotr 来自技术侧（模型开发），Mati 来自商业侧（企业需求理
 
 ## 产品 DNA
 
-[[ElevenLabs]] 的设计哲学就是"企业级音质 + API 化部署"。不做 B2C 应用，而是成为基础设施。Mati 从 Palantir 学到的"系统可靠性"，用在了语音模型的推理速度和稳定性上。
+[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]] 的设计哲学就是"企业级音质 + API 化部署"。不做 B2C 应用，而是成为基础设施。Mati 从 Palantir 学到的"系统可靠性"，用在了语音模型的推理速度和稳定性上。
 
 对于客服中心的需求——他们用 ElevenLabs 替换人工，成本降低 70%，质量还上升（不会疲劳、不会脾气差）。这是"距离钱最近"的 AI 应用。
 
@@ -45,12 +45,12 @@ Piotr 来自技术侧（模型开发），Mati 来自商业侧（企业需求理
 
 ## 相关产品
 
-- [[产品卡片-ElevenLabs|ElevenLabs]] — AI 语音合成平台，CEO
+- [[01-产品库/产品卡片-ElevenLabs|ElevenLabs]] — AI 语音合成平台，CEO
 - [[ElevenLabs VoiceAgent]] — 企业客服解决方案
 - [[ElevenLabs API]] — 开发者集成接口
 
 ## 相关人物
 
-- [[Piotr Dąbkowski]] — ElevenLabs 联合创始人兼 CTO，模型核心
+- [[03-人物库/Piotr Dąbkowski|Piotr Dąbkowski]] — ElevenLabs 联合创始人兼 CTO，模型核心
 - [[Google]] — 早期工作地
 - [[Palantir]] — 企业级经验源

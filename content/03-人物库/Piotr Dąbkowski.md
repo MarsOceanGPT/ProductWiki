@@ -26,7 +26,7 @@ title: Piotr Dąbkowski
 
 ## 产品 DNA
 
-[[ElevenLabs]] 的模型设计是 Piotr 的"执念"体现：不追求参数量的庞大，而追求**声音质量的极致**。这意味着在 Google 时代学到的"模型精调"技巧被充分应用——每一个语言、每一个声色都有专门优化。
+[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]] 的模型设计是 Piotr 的"执念"体现：不追求参数量的庞大，而追求**声音质量的极致**。这意味着在 Google 时代学到的"模型精调"技巧被充分应用——每一个语言、每一个声色都有专门优化。
 
 跨语言能力（29 种语言）意味着模型做了大量的多任务学习，这不是简单的"翻译后合成"，而是真正理解每种语言的韵律特性。
 
@@ -34,12 +34,12 @@ title: Piotr Dąbkowski
 
 ## 相关产品
 
-- [[产品卡片-ElevenLabs|ElevenLabs]] — AI 语音合成平台，CTO
+- [[01-产品库/产品卡片-ElevenLabs|ElevenLabs]] — AI 语音合成平台，CTO
 - [[ElevenLabs VoiceAgent]] — 企业客服方案
 - [[ElevenLabs Reader]] — 消费端应用
 
 ## 相关人物
 
-- [[Mati Staniszewski]] — ElevenLabs 联合创始人兼 CEO，商业搭档
+- [[03-人物库/Mati Staniszewski|Mati Staniszewski]] — ElevenLabs 联合创始人兼 CEO，商业搭档
 - [[Google Brain]] — 早期研究地
 - [[Oxford/Cambridge]] — 学术背景

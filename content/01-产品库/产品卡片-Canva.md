@@ -78,7 +78,7 @@ related_products:
   - '[[Figma]]'
   - '[[Beautiful.ai]]'
   - '[[Midjourney]]'
-  - '[[Runway]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false

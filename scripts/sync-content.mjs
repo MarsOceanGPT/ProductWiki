@@ -9,6 +9,8 @@ const TARGET_DIR = path.join(PROJECT_ROOT, "content")
 const DEFAULT_SOURCE_DIR = path.resolve(PROJECT_ROOT, "../Product Wiki")
 const INCLUDED_PATHS = ["README.md", "01-产品库", "02-打法库", "03-人物库"]
 const EXCLUDED_BASENAMES = new Set(["README-AI产品卡片库.md", "README-新产品卡片.md"])
+const DUPLICATE = Symbol("duplicate")
+let linkMap = new Map()
 
 function extractTitle(content, fallback) {
   const heading = content.match(/^#\s+(.+)$/m)
@@ -32,6 +34,97 @@ function normalizeTags(tags) {
   }
 
   return [tags.toString()]
+}
+
+function addReferenceCandidate(linkMap, key, target) {
+  const normalizedKey = key?.toString().trim()
+  if (!normalizedKey) return
+
+  const existing = linkMap.get(normalizedKey)
+  if (!existing) {
+    linkMap.set(normalizedKey, target)
+    return
+  }
+
+  if (existing !== target) {
+    linkMap.set(normalizedKey, DUPLICATE)
+  }
+}
+
+async function buildReferenceMap(sourceDir) {
+  const linkMap = new Map()
+
+  async function walk(relativePath) {
+    const sourcePath = path.join(sourceDir, relativePath)
+    const entry = await stat(sourcePath)
+
+    if (entry.isDirectory()) {
+      const children = await readdir(sourcePath)
+      for (const child of children) {
+        await walk(path.posix.join(relativePath, child))
+      }
+      return
+    }
+
+    if (!sourcePath.endsWith(".md") || EXCLUDED_BASENAMES.has(path.basename(sourcePath))) {
+      return
+    }
+
+    const raw = await readFile(sourcePath, "utf8")
+    let parsedData = {}
+    let body = raw
+
+    try {
+      const parsed = matter(raw)
+      parsedData = parsed.data ?? {}
+      body = parsed.content
+    } catch {
+      const closing = raw.indexOf("\n---\n", 4)
+      if (raw.startsWith("---\n") && closing !== -1) {
+        body = raw.slice(closing + 5)
+      }
+    }
+
+    const fallbackTitle = path.basename(relativePath, ".md")
+    const title = extractTitle(body, fallbackTitle)
+    const target = relativePath.replace(/\.md$/, "")
+    const candidates = new Set([
+      fallbackTitle,
+      title,
+      parsedData.title,
+      parsedData.名称,
+      parsedData.name,
+      parsedData.name_cn,
+    ])
+
+    for (const candidate of candidates) {
+      addReferenceCandidate(linkMap, candidate, target)
+    }
+  }
+
+  for (const relativePath of INCLUDED_PATHS) {
+    if (relativePath === "README.md") continue
+    await walk(relativePath)
+  }
+
+  return linkMap
+}
+
+function rewriteWikilinks(content, linkMap) {
+  return content.replace(/\[\[([^\]#|]+)(\|[^\]]+)?\]\]/g, (match, rawTarget, suffix = "") => {
+    const target = rawTarget.trim()
+    if (!target || target.includes("/") || target.includes("#")) {
+      return match
+    }
+
+    const mapped = linkMap.get(target)
+    if (!mapped || mapped === DUPLICATE) {
+      return match
+    }
+
+    const resolvedSuffix = suffix || `|${target}`
+    return `[[${mapped}${resolvedSuffix}]]`
+  })
 }
 
 function normalizeFrontmatter(frontmatter, content, filePath, isIndex, relativePath) {
@@ -95,7 +188,8 @@ async function sanitizeMarkdown(filePath, content, isIndex, relativePath) {
 }
 
 async function copyMarkdown(srcPath, destPath, isIndex = false, relativePath = "") {
-  const content = await readFile(srcPath, "utf8")
+  const rawContent = await readFile(srcPath, "utf8")
+  const content = rewriteWikilinks(rawContent, linkMap)
   const sanitized = await sanitizeMarkdown(srcPath, content, isIndex, relativePath)
   await writeFile(destPath, sanitized)
 }
@@ -161,6 +255,7 @@ async function main() {
 
   await rm(TARGET_DIR, { recursive: true, force: true })
   await mkdir(TARGET_DIR, { recursive: true })
+  linkMap = await buildReferenceMap(sourceDir)
 
   for (const relativePath of INCLUDED_PATHS) {
     const sourcePath = path.join(sourceDir, relativePath)

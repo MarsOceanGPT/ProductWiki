@@ -15,4 +15,4 @@ OpenAI Operator 是 OpenAI 推出的 AI 代理，能够自主操作网页浏览�
 ## 与其他产品的关系
 
 - [[产品卡片-Devin|Devin]] — 竞品，更专注代码工程任务
-- [[产品卡片-OpenHands|OpenHands]] — 竞品，开源的 AI 代理框架
+- [[01-产品库/产品卡片-OpenHands|OpenHands]] — 竞品，开源的 AI 代理框架

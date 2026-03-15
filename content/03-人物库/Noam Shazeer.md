@@ -3,7 +3,7 @@ type: person
 name: Noam Shazeer
 name_cn: 诺姆·沙济尔
 role: Co-founder & CEO
-company: '[[Character.ai]]'
+company: '[[01-产品库/产品卡片-Character.ai|Character.ai]]'
 nationality: American
 background: >-
   Google Brain 20年 → Transformer/LaMDA/Switch Transformer 核心开发 → Character.ai
@@ -36,7 +36,7 @@ Google Brain 的"活化石"——在那里工作超过 20 年，参与了现代 
 
 ## 产品 DNA
 
-[[Character.ai]] 的设计是 Noam 的研究理念的应用版本：**什么样的模型适合什么样的对话？** 通过角色库和专门训练，确保对话的一致性和可控性。
+[[01-产品库/产品卡片-Character.ai|Character.ai]] 的设计是 Noam 的研究理念的应用版本：**什么样的模型适合什么样的对话？** 通过角色库和专门训练，确保对话的一致性和可控性。
 
 这反而成了对 ChatGPT "通用对话"模式的微妙否定。ChatGPT 试图什么都做，而 Character.ai 明确告诉你：这个 AI 就是这个人物，你相信它。
 
@@ -49,13 +49,13 @@ Google Brain 的"活化石"——在那里工作超过 20 年，参与了现代 
 
 ## 相关产品
 
-- [[产品卡片-Character.ai|Character.ai]] — 角色对话平台，CEO
+- [[01-产品库/产品卡片-Character.ai|Character.ai]] — 角色对话平台，CEO
 - [[LaMDA]] — Google 对话模型
 - [[Switch Transformer]] — MoE 架构突破
 - [[Meena]] — 前置对话 AI
 
 ## 相关人物
 
-- [[Daniel De Freitas]] — Character.ai 联合创始人兼 President
+- [[03-人物库/Daniel De Freitas|Daniel De Freitas]] — Character.ai 联合创始人兼 President
 - [[Google Brain]] — 工作地（20年）
 - [[Google DeepMind]] — 回归地

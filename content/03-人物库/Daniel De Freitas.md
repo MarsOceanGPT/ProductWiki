@@ -3,7 +3,7 @@ type: person
 name: Daniel De Freitas
 name_cn: 丹尼尔·德弗雷塔斯
 role: Co-founder & President
-company: '[[Character.ai]]'
+company: '[[01-产品库/产品卡片-Character.ai|Character.ai]]'
 nationality: Brazilian
 background: Google Brain LaMDA 核心开发者 → Character.ai 联合创始人 → Google DeepMind 回归
 notable_for: 从被 Google 压制的对话 AI 转身创业，$2.7B 回购时刻定义了消费 AI 的价值
@@ -29,18 +29,18 @@ title: 丹尼尔·德弗雷塔斯
 
 ## 产品 DNA
 
-[[Character.ai]] 的设计反映了 De Freitas 的隐性假设：**最好的对话体验来自于角色定位的一致性**，而非"什么都能答"的全能助手。这是对 ChatGPT 的微妙否定——承认 LLM 的最大价值不在全能性，而在专注性。
+[[01-产品库/产品卡片-Character.ai|Character.ai]] 的设计反映了 De Freitas 的隐性假设：**最好的对话体验来自于角色定位的一致性**，而非"什么都能答"的全能助手。这是对 ChatGPT 的微妙否定——承认 LLM 的最大价值不在全能性，而在专注性。
 
 角色库（Hero、Celebrity、Fantasy）的机制也成了社区生成内容的飞轮，避免了完全依赖 Google 更新模型。
 
 ## 相关产品
 
-- [[产品卡片-Character.ai|Character.ai]] — 角色对话平台，联合创始人
+- [[01-产品库/产品卡片-Character.ai|Character.ai]] — 角色对话平台，联合创始人
 - [[LaMDA]] — Google 对话模型
 - [[Meena]] — 前置对话 AI 项目
 
 ## 相关人物
 
-- [[Noam Shazeer]] — Character.ai 联合创始人，CEO
+- [[03-人物库/Noam Shazeer|Noam Shazeer]] — Character.ai 联合创始人，CEO
 - [[Google Brain]] — 工作地
 - [[Google DeepMind]] — 回归地

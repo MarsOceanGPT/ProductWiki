@@ -44,7 +44,7 @@ industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
 competitors:
   - '[[CapCut]]'
-  - '[[Edits]]'
+  - '[[01-产品库/产品卡片-Edits|Edits]]'
   - '[[VN]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium

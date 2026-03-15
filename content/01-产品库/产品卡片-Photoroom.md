@@ -69,9 +69,9 @@ competitors:
   - Canva
   - Professional photographers
 related_products:
-  - '[[Remove.bg]]'
-  - '[[Canva]]'
-  - '[[Adobe Lightroom]]'
+  - '[[01-产品库/产品卡片-Remove.bg|Remove.bg]]'
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[01-产品库/产品卡片-Adobe Lightroom|Adobe Lightroom]]'
   - '[[Shopify]]'
   - '[[Etsy]]'
 last_updated: '2026-03-14'

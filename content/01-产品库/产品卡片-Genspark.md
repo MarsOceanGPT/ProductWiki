@@ -56,12 +56,12 @@ key_people:
   - Eric Jing (CEO) - 前微软Bing创始团队、前百度VP、前小度CEO
   - Kaihua Zhu (CTO) - 前小度CTO
 competitors:
-  - '[[Perplexity]]'
-  - '[[Google Search]]'
+  - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+  - '[[01-产品库/Google Search|Google Search]]'
   - '[[ChatGPT]]'
   - '[[Claude]]'
 related_products:
-  - '[[Perplexity]]'
+  - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
   - '[[Anthropic Claude]]'
   - '[[OpenAI GPT-4]]'
   - '[[Google Gemini]]'

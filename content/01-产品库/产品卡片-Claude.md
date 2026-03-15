@@ -57,9 +57,9 @@ key_people:
 competitors:
   - '[[ChatGPT]]'
   - '[[Gemini]]'
-  - '[[Copilot]]'
+  - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
-  - '[[Claude Code]]'
+  - '[[01-产品库/Claude Code|Claude Code]]'
   - '[[Constitutional AI]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High

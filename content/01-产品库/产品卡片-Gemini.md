@@ -56,9 +56,9 @@ key_people:
 competitors:
   - '[[ChatGPT]]'
   - '[[Claude]]'
-  - '[[Copilot]]'
+  - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
-  - '[[Google Search]]'
+  - '[[01-产品库/Google Search|Google Search]]'
   - '[[Google Workspace]]'
   - '[[YouTube]]'
   - '[[Google Cloud]]'

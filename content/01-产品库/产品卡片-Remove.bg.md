@@ -65,9 +65,9 @@ competitors:
   - Pixlr
   - Cutout.pro
 related_products:
-  - '[[Canva]]'
-  - '[[Photoroom]]'
-  - '[[Cutout.pro]]'
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[01-产品库/产品卡片-Photoroom|Photoroom]]'
+  - '[[01-产品库/产品卡片-Cutout.pro|Cutout.pro]]'
   - '[[Adobe]]'
 last_updated: '2026-03-14'
 confidence: High

@@ -3,7 +3,7 @@ type: person
 name: Aravind Srinivas
 name_cn: 阿拉温德·斯里尼瓦斯
 role: Co-founder & CEO
-company: '[[Perplexity]]'
+company: '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
 nationality: Indian-American
 background: IIT Madras 错过计算机系0.01分 → UC Berkeley PhD → OpenAI/DeepMind → Perplexity CEO
 notable_for: 把搜索从链接列表变成 AI 直接回答，2025年31岁成印度最年轻亿万富翁
@@ -29,13 +29,13 @@ title: 阿拉温德·斯里尼瓦斯
 
 ## 产品 DNA
 
-[[Perplexity]] 的本质是"把 LLM 当搜索引擎而不是聊天机器人"。这反而让它避开了 ChatGPT 的"万能秘书"陷阱，走出了一条专注、高频、高粘性的独特路线。
+[[01-产品库/产品卡片-Perplexity|Perplexity]] 的本质是"把 LLM 当搜索引擎而不是聊天机器人"。这反而让它避开了 ChatGPT 的"万能秘书"陷阱，走出了一条专注、高频、高粘性的独特路线。
 
 搜索本质上是**即时信息获取**，而 Perplexity 的引用机制保证了信息的可验证性——这是 GenAI 里最难的需求（减少幻觉）。也是距离 Google 搜索广告模式最近的替代品。
 
 ## 相关产品
 
-- [[产品卡片-Perplexity|Perplexity]] — AI 搜索引擎，CEO
+- [[01-产品库/产品卡片-Perplexity|Perplexity]] — AI 搜索引擎，CEO
 - [[Perplexity Pro]] — 深度研究模式
 - [[Focus Mode]] — 垂直搜索
 

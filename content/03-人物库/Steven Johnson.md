@@ -32,7 +32,7 @@ Steven Johnson 本身不是技术人，而是**科学历史学家和作家**。�
 
 ## 思想对产品的影响
 
-[[NotebookLM]] 的整个产品体验，从命名到功能设计，都透着 Steven Johnson 的思想痕迹：
+[[01-产品库/产品卡片-NotebookLM|NotebookLM]] 的整个产品体验，从命名到功能设计，都透着 Steven Johnson 的思想痕迹：
 
 - **"Notebook"而非"Database"**：Notebook 暗示的是"思考过程"，而不是"信息仓库"
 - **多源输入**：允许你上传 PDF、Google Docs、网址，这是在设计"想法的多渠道来源"
@@ -50,9 +50,9 @@ Steven Johnson 本身不是技术人，而是**科学历史学家和作家**。�
 
 ## 相关产品
 
-- [[产品卡片-NotebookLM|NotebookLM]] — 早期顾问
+- [[01-产品库/产品卡片-NotebookLM|NotebookLM]] — 早期顾问
 - [[Audio Overview]] — 理论基础贡献者
 
 ## 相关人物
 
-- [[Raiza Martin]] — NotebookLM Product Lead，Johnson 理论的实践者
+- [[03-人物库/Raiza Martin|Raiza Martin]] — NotebookLM Product Lead，Johnson 理论的实践者

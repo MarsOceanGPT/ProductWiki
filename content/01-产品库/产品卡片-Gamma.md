@@ -71,7 +71,7 @@ competitors:
   - Canva Presentation
   - Tome
 related_products:
-  - '[[Canva]]'
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
   - '[[Beautiful.ai]]'
   - '[[ChatGPT]]'
   - '[[Notion AI]]'
@@ -418,7 +418,7 @@ Gamma的思路：
 ```
 
 例子：
-- [[Canva]]最初也是"选template"而不是"design from scratch"
+- [[01-产品库/产品卡片-Canva|Canva]]最初也是"选template"而不是"design from scratch"
 - [[Notion AI]] 也是content-first（auto-complete based on context）
 
 **创新2：Template-less设计哲学**
@@ -577,7 +577,7 @@ Gamma的故事特别interesting因为它在问一个fundamental question：**如
 但更有意思的是Gamma所代表的broader trend：**从"用户主动做设计decisions"到"AI automatically做设计decisions"**。
 
 这对很多creative tools都有implications：
-- [[Canva]]未来可能也会evolve from templates to AI-generated layouts
+- [[01-产品库/产品卡片-Canva|Canva]]未来可能也会evolve from templates to AI-generated layouts
 - Figma可能evolve from "user manually arrange elements" to "AI suggest layout based on content"
 
 最后一个observation：Gamma的成功证明了一个founders的经验很important。Jon Noronha从Apple带来的"design thinking"已经embedded在Gamma的DNA里。这是hard to replicate for competitors who hire ex-engineers但不一定have founder-level design sensibility。

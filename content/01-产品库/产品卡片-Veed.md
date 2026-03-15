@@ -72,7 +72,7 @@ competitors:
   - Descript
 related_products:
   - '[[CapCut]]'
-  - '[[Runway]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
   - '[[Descript]]'
   - '[[HeyGen]]'
 last_updated: '2026-03-14'

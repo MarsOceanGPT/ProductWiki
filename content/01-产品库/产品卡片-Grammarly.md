@@ -69,8 +69,8 @@ competitors:
   - Language Tool
   - Apple Intelligent Writing Tools
 related_products:
-  - '[[QuillBot]]'
-  - '[[Poe]]'
+  - '[[01-产品库/产品卡片-QuillBot|QuillBot]]'
+  - '[[01-产品库/产品卡片-Poe|Poe]]'
   - '[[ChatGPT]]'
   - '[[Claude]]'
 last_updated: '2026-03-14'

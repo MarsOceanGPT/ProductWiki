@@ -92,7 +92,9 @@ competitors:
   - Cursor
   - Magic.dev
 related_products:
-  - '[[Claude]], [[Cursor]], [[Bolt]], [[V0]], [[Replit]]'
+  - >-
+    [[Claude]], [[01-产品库/产品卡片-Cursor|Cursor]], [[Bolt]], [[V0]],
+    [[01-产品库/产品卡片-Replit|Replit]]
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false

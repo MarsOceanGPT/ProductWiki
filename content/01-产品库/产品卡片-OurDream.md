@@ -50,7 +50,7 @@ pricing_quadrant: 中自主-中等归因
 competitors:
   - '[[Character AI]]'
   - '[[Replika]]'
-  - '[[Candy AI]]'
+  - '[[01-产品库/产品卡片-Candy AI|Candy AI]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Low-Medium
 mars_reviewed: false

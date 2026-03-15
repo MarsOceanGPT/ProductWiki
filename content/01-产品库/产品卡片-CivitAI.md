@@ -66,7 +66,7 @@ competitors:
   - Notion Community (for portfolios)
   - Discord communities (for sharing)
 related_products:
-  - '[[Hugging Face]]'
+  - '[[01-产品库/产品卡片-Hugging Face|Hugging Face]]'
   - '[[Stable Diffusion]]'
   - '[[Midjourney]]'
   - '[[DALL-E]]'

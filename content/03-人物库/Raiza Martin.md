@@ -32,7 +32,7 @@ NotebookLM 最早是一个 20% 项目（Google 内部创新时间），默默无
 
 ## 产品 DNA
 
-[[NotebookLM]] 的产品哲学就是 Raiza 的同情心：**为学习者去除摩擦**。上传文件 → 问问题 → 听播客。三步完成的工作流，背后是数百次的 PM 调整。
+[[01-产品库/产品卡片-NotebookLM|NotebookLM]] 的产品哲学就是 Raiza 的同情心：**为学习者去除摩擦**。上传文件 → 问问题 → 听播客。三步完成的工作流，背后是数百次的 PM 调整。
 
 Audio Overview 之所以成为杀手级功能，是因为它抓住了人脑的一个真相：**我们在被动听的时候，反而更专注。播客格式天然比文字更容易吸收**。这不是营销创意，这是心理学。
 
@@ -47,11 +47,11 @@ Raiza 的另一个洞察是：Google 有全球最好的语音和文本-语音技
 
 ## 相关产品
 
-- [[产品卡片-NotebookLM|NotebookLM]] — 研究助手，产品负责人
+- [[01-产品库/产品卡片-NotebookLM|NotebookLM]] — 研究助手，产品负责人
 - [[Audio Overview]] — 播客生成功能（杀手级）
-- [[Google Labs]] — 所属部门
+- [[01-产品库/产品卡片-Google Labs|Google Labs]] — 所属部门
 
 ## 相关人物
 
-- [[Steven Johnson]] — NotebookLM 早期顾问
+- [[03-人物库/Steven Johnson|Steven Johnson]] — NotebookLM 早期顾问
 - [[Huxe]] — 离职后创业项目

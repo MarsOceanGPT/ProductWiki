@@ -65,13 +65,13 @@ key_people:
   - Christie-Carol B. (Team)
   - 'Nischay D. (3x Kaggle GrandMaster, Fine-tuning)'
 competitors:
-  - '[[Character.ai]]'
+  - '[[01-产品库/产品卡片-Character.ai|Character.ai]]'
   - '[[Replika]]'
   - '[[Janitor AI]]'
 related_products:
   - '[[Chaiverse (Chai Developer Platform)]]'
   - '[[CoreWeave]]'
-  - '[[Character.ai]]'
+  - '[[01-产品库/产品卡片-Character.ai|Character.ai]]'
 last_updated: '2026-03-14'
 confidence: High (公开资料+多个来源验证)
 mars_reviewed: false

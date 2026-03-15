@@ -25,7 +25,7 @@ pricing_model:
   - subscription
   - api
 opportunity_playbooks:
-  - '[[吃技术升级红利]]'
+  - '[[02-打法库/01-机会识别/吃技术升级红利|吃技术升级红利]]'
   - '[[中国AI出海]]'
 design_playbooks:
   - '[[多模式支持]]'
@@ -48,7 +48,7 @@ industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
 competitors:
   - '[[Kling]]'
-  - '[[Runway]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
   - '[[Pika]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High

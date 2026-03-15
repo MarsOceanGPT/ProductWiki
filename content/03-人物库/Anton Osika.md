@@ -35,7 +35,7 @@ title: 安东·奥西卡
 
 ## 相关产品
 
-- [[产品卡片-Lovable|Lovable]] — 全栈应用生成器，CEO
+- [[01-产品库/产品卡片-Lovable|Lovable]] — 全栈应用生成器，CEO
 - [[GPT Engineer]] — 原始开源项目
 
 ## 相关人物

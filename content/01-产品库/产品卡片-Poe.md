@@ -68,7 +68,7 @@ competitors:
 related_products:
   - '[[ChatGPT]]'
   - '[[Claude]]'
-  - '[[Perplexity]]'
+  - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
   - '[[Quora]]'
 last_updated: '2026-03-14'
 confidence: High

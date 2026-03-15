@@ -50,11 +50,11 @@ title: William Beauchamp
 
 ## 相关产品
 
-- [[产品卡片-Chai|Chai]] — AI 陪伴平台，CEO
+- [[01-产品库/产品卡片-Chai|Chai]] — AI 陪伴平台，CEO
 - [[Chai Leaderboard]] — 排行榜生态
 
 ## 相关人物
 
-- [[Noam Shazeer]] — Character.ai CEO，间接竞争者
+- [[03-人物库/Noam Shazeer|Noam Shazeer]] — Character.ai CEO，间接竞争者
 - [[Seamless Capital]] — 前创业经历
 - [[剑桥大学]] — 学术背景

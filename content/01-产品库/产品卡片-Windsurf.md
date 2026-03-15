@@ -64,9 +64,9 @@ competitors:
   - Claude Code
   - JetBrains AI Assistant
 related_products:
-  - '[[Cursor]]'
-  - '[[GitHub Copilot]]'
-  - '[[Claude Code]]'
+  - '[[01-产品库/产品卡片-Cursor|Cursor]]'
+  - '[[01-产品库/GitHub Copilot|GitHub Copilot]]'
+  - '[[01-产品库/Claude Code|Claude Code]]'
   - '[[Codeium]]'
 last_updated: '2026-03-14'
 confidence: Medium-High

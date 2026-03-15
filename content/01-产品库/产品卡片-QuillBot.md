@@ -67,8 +67,8 @@ competitors:
   - Spinbot
   - ArticleRewriter
 related_products:
-  - '[[Grammarly]]'
-  - '[[Poe]]'
+  - '[[01-产品库/产品卡片-Grammarly|Grammarly]]'
+  - '[[01-产品库/产品卡片-Poe|Poe]]'
   - '[[ChatGPT]]'
   - '[[Turnitin]]'
 last_updated: '2026-03-14'

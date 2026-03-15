@@ -41,9 +41,9 @@ pricing_quadrant: 待补充
 key_people:
   - '[[待补充]]'
 competitors:
-  - '[[Remini]]'
-  - '[[FaceApp]]'
-  - '[[Adobe Lightroom]]'
+  - '[[01-产品库/产品卡片-Remini|Remini]]'
+  - '[[01-产品库/产品卡片-FaceApp|FaceApp]]'
+  - '[[01-产品库/产品卡片-Adobe Lightroom|Adobe Lightroom]]'
   - '[[Google Photos]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Low

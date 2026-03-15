@@ -61,11 +61,11 @@ key_people:
 competitors:
   - '[[Gemini]]'
   - '[[Claude]]'
-  - '[[Copilot]]'
+  - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
   - '[[GPT-4]]'
-  - '[[Cursor]]'
-  - '[[OpenAI Operator]]'
+  - '[[01-产品库/产品卡片-Cursor|Cursor]]'
+  - '[[01-产品库/OpenAI Operator|OpenAI Operator]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false

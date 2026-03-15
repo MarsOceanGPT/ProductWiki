@@ -70,7 +70,7 @@ competitors:
   - 'Synthesia Alternatives (Colossyan, Loom)'
 related_products:
   - '[[HeyGen]]'
-  - '[[Runway]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
   - '[[D-ID]]'
   - '[[Adobe Firefly]]'
 last_updated: '2026-03-14'
@@ -618,7 +618,7 @@ Synthesia 做对了什么？
 
 **相关产品和框架：**
 - [[HeyGen]]（竞争对手，创意者路线）
-- [[Runway]]（另一条 AI 视频路线）
+- [[01-产品库/产品卡片-Runway|Runway]]（另一条 AI 视频路线）
 - [[Adobe Firefly]]（潜在收购方）
 - [[企业 SLG 模式]]（商业模式框架）
 - [[多语言本地化]]（核心竞争力）

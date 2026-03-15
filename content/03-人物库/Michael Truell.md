@@ -3,7 +3,7 @@ type: person
 name: Michael Truell
 name_cn: 迈克尔·特鲁尔
 role: Co-founder & CEO
-company: '[[Cursor]]'
+company: '[[01-产品库/产品卡片-Cursor|Cursor]]'
 nationality: American
 background: MIT CS & Math 双学位 → Anysphere 创始人 → Cursor CEO
 notable_for: 从 CAD 工具起家，转身成为最快的 AI IDE，年仅25岁就掌舵 $293B 估值公司
@@ -32,7 +32,7 @@ MIT 的"少年天才"。CS 和数学双学位，在学期间就和三位同学�
 
 ## 产品 DNA
 
-[[Cursor]] 的核心是"开发者协作编辑器"。它不是"聊天界面"（那是 ChatGPT 的模式），而是"代码本身"。Tab、命令、快捷键都经过精心设计，最大化 AI 协作的流畅度。
+[[01-产品库/产品卡片-Cursor|Cursor]] 的核心是"开发者协作编辑器"。它不是"聊天界面"（那是 ChatGPT 的模式），而是"代码本身"。Tab、命令、快捷键都经过精心设计，最大化 AI 协作的流畅度。
 
 Truell 的哲学是：**AI 不应该让开发者感觉被替代，应该让他们感觉被增强**。这是对 ChatGPT 免费模式的商业否定——开发者愿意为"感觉好"的工具付费。
 
@@ -48,7 +48,7 @@ Truell 的哲学是：**AI 不应该让开发者感觉被替代，应该让他�
 
 ## 相关产品
 
-- [[产品卡片-Cursor|Cursor]] — AI 编程 IDE，CEO
+- [[01-产品库/产品卡片-Cursor|Cursor]] — AI 编程 IDE，CEO
 - [[Anysphere]] — 母公司
 - [[VS Code]] — 技术基础
 

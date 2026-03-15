@@ -70,7 +70,7 @@ competitors:
 related_products:
   - '[[Mem]]'
   - '[[Reflect]]'
-  - '[[Obsidian]]'
+  - '[[01-产品库/Obsidian|Obsidian]]'
   - '[[Apple Notes]]'
   - '[[Claude API]]'
   - '[[GPT-4 Turbo]]'
@@ -696,7 +696,7 @@ Notion AI 的故事，本质上是**"一个成功的 Incumbent 如何在 AI 时�
 - [[Mem]]（AI-First 竞争对手）
 - [[Reflect]]（隐私友好竞争对手）
 - [[OneNote]]（微软的 Incumbent）
-- [[Obsidian]]（本地优先竞争对手）
+- [[01-产品库/Obsidian|Obsidian]]（本地优先竞争对手）
 - [[Claude API]]（核心的 AI 供应方）
-- [[数据飞轮]]（护城河框架）
+- [[02-打法库/07-护城河/数据飞轮|数据飞轮]]（护城河框架）
 - [[Incumbent + AI 战略]]（商业模式框架）

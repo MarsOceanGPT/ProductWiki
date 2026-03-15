@@ -62,7 +62,7 @@ title: Manus
 
 ### 创始人基因
 
-[[肖弘]]，1992 年生，江西吉安人。华中科技大学软件工程专业（2015届），在校期间就是连续创业者。
+[[03-人物库/肖弘|肖弘]]，1992 年生，江西吉安人。华中科技大学软件工程专业（2015届），在校期间就是连续创业者。
 
 他的创业基因定义了 Manus 的一切：
 
@@ -311,11 +311,11 @@ MIT Technology Review 实测发现：
 
 ## 相关案例
 
-- [[产品卡片-DeepSeek]] — 同为中国团队全球突破；DeepSeek 走模型研究路线（深护城河 + 长期独立运营），Manus 走应用路线（浅护城河 + 快速退出）——两条路都成了
+- [[01-产品库/产品卡片-DeepSeek|产品卡片-DeepSeek]] — 同为中国团队全球突破；DeepSeek 走模型研究路线（深护城河 + 长期独立运营），Manus 走应用路线（浅护城河 + 快速退出）——两条路都成了
 - [[ChatGPT]] — Agent 领域最大潜在对手；OpenAI Operator 是 Manus 的直接威胁
 - [[Monica]] — Manus 的前身，肖弘的"能力预训练"产品
-- [[Devin]] — 垂直 Agent（代码领域），$500/月定价，对比 Manus 的通用 Agent 定位
-- [[产品卡片-Cursor]] — 同属 "AI 替代知识工作" 赛道，Cursor 走 Copilot 路线，Manus 走 Agent 路线
+- [[01-产品库/Devin|Devin]] — 垂直 Agent（代码领域），$500/月定价，对比 Manus 的通用 Agent 定位
+- [[01-产品库/产品卡片-Cursor|产品卡片-Cursor]] — 同属 "AI 替代知识工作" 赛道，Cursor 走 Copilot 路线，Manus 走 Agent 路线
 
 ---
 

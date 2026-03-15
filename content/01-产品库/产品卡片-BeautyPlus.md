@@ -48,9 +48,9 @@ key_people:
   - '[[吴欣鸿]]'
   - '[[美图海外团队]]'
 competitors:
-  - '[[Snow]]'
-  - '[[B612]]'
-  - '[[FaceApp]]'
+  - '[[01-产品库/产品卡片-Snow|Snow]]'
+  - '[[01-产品库/产品卡片-B612|B612]]'
+  - '[[01-产品库/产品卡片-FaceApp|FaceApp]]'
   - '[[Snapchat]]'
   - '[[美颜相机]]'
 last_updated: 2026-03-14T00:00:00.000Z
