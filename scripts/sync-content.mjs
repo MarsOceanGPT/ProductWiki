@@ -6,6 +6,7 @@ import matter from "gray-matter"
 const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url))
 const PROJECT_ROOT = path.resolve(SCRIPT_DIR, "..")
 const TARGET_DIR = path.join(PROJECT_ROOT, "content")
+const STUB_REDIRECTS_PATH = path.join(PROJECT_ROOT, ".stub-redirects.json")
 const DEFAULT_SOURCE_DIR = path.resolve(PROJECT_ROOT, "../Product Wiki")
 const INCLUDED_PATHS = ["README.md", "01-产品库", "02-打法库", "03-人物库"]
 const EXCLUDED_BASENAMES = new Set(["README-AI产品卡片库.md", "README-新产品卡片.md"])
@@ -298,6 +299,12 @@ async function main() {
     const targetPath = resolveDestination(normalizedRelativePath, isIndex)
     await copyEntry(sourcePath, targetPath, normalizedRelativePath, isIndex)
   }
+
+  await writeFile(
+    STUB_REDIRECTS_PATH,
+    JSON.stringify(Object.fromEntries(stubRedirects), null, 2) + "\n",
+    "utf8",
+  )
 
   console.log("Synced Product Wiki content into Quartz content/")
 }
