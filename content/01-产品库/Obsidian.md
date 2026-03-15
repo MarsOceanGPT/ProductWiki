@@ -4,6 +4,10 @@ name: Obsidian
 status: 待建完整卡片
 related: []
 title: Obsidian
+permalink: /01-产品库/Obsidian
+aliases:
+  - 01-产品库/Obsidian
+  - Obsidian
 ---
 # Obsidian
 > 本地知识库管理工具

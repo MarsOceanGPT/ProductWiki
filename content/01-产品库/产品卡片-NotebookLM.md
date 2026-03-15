@@ -9,27 +9,20 @@
 成立年份: 2023（内部，原名 Project Tailwind）
 公开年份: 2023-07
 tags:
-  opportunity:
-    - 打开能力门槛新市场
-    - 从做任务到出成果
-  design:
-    - Chat 对话式
-    - 生成式界面
-  mvp:
-    - 技术适配
-    - 关键功能聚焦
-  pmf:
-    - 迫切刚需
-    - 技术适配
-  growth:
-    - 病毒传播-产品即内容
-    - 借势崛起
-  monetization:
-    - 按访问-订阅
-  moat:
-    - 源材料锁定
-    - 品牌信任
-    - AI就是壁垒
+  - 打开能力门槛新市场
+  - 从做任务到出成果
+  - Chat 对话式
+  - 生成式界面
+  - 技术适配
+  - 关键功能聚焦
+  - 迫切刚需
+  - 技术适配
+  - 病毒传播-产品即内容
+  - 借势崛起
+  - 按访问-订阅
+  - 源材料锁定
+  - 品牌信任
+  - AI就是壁垒
 相关人物:
   - Raiza Martin
   - Steven Johnson
@@ -43,6 +36,11 @@ tags:
   - ChatGPT
   - Gemini
 title: NotebookLM
+permalink: /01-产品库/产品卡片-NotebookLM
+aliases:
+  - 01-产品库/产品卡片-NotebookLM
+  - 产品卡片-NotebookLM
+  - NotebookLM
 ---
 # NotebookLM
 

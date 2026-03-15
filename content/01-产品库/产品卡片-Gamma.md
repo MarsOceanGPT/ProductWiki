@@ -80,6 +80,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Gamma
+permalink: /01-产品库/产品卡片-Gamma
+aliases:
+  - 01-产品库/产品卡片-Gamma
+  - 产品卡片-Gamma
+  - Gamma
 ---
 # Gamma 产品卡片
 

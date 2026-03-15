@@ -72,6 +72,11 @@ last_updated: '2026-03-14'
 confidence: Medium-High
 mars_reviewed: false
 title: Windsurf
+permalink: /01-产品库/产品卡片-Windsurf
+aliases:
+  - 01-产品库/产品卡片-Windsurf
+  - 产品卡片-Windsurf
+  - Windsurf
 ---
 # Windsurf (Codeium) 产品卡片
 

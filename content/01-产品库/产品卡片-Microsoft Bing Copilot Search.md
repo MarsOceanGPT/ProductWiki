@@ -50,6 +50,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Microsoft Bing / Copilot Search
+permalink: /01-产品库/产品卡片-Microsoft Bing Copilot Search
+aliases:
+  - 01-产品库/产品卡片-Microsoft Bing Copilot Search
+  - 产品卡片-Microsoft Bing Copilot Search
+  - Microsoft Bing / Copilot Search
+  - 微软必应搜索 / Copilot搜索
 ---
 # Microsoft Bing / Copilot Search
 

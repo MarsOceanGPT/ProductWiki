@@ -51,6 +51,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: YouCut
+permalink: /01-产品库/产品卡片-YouCut InShot
+aliases:
+  - 01-产品库/产品卡片-YouCut InShot
+  - 产品卡片-YouCut InShot
+  - YouCut
+  - YouCut视频编辑（InShot旗下）
 ---
 # YouCut（InShot 旗下视频编辑应用）
 

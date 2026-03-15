@@ -8,6 +8,11 @@ nationality: Swedish
 background: 物理学双学位 → CERN → Sana Labs 一号工程师 → Depict CTO → Lovable CEO
 notable_for: 用开源项目 GitHub 50K stars 的势能激活 B2C AI 编程市场，8个月破 $100M ARR
 title: 安东·奥西卡
+permalink: /03-人物库/Anton Osika
+aliases:
+  - 03-人物库/Anton Osika
+  - Anton Osika
+  - 安东·奥西卡
 ---
 # Anton Osika
 

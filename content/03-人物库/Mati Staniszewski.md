@@ -8,6 +8,11 @@ nationality: Polish
 background: Google 工程师 → Palantir 数据工程 → ElevenLabs CEO
 notable_for: 把语音合成从技术项目变成 $330M ARR 的企业级市场，成为 AI Voice 的事实标准
 title: 马蒂·斯坦尼斯泽夫斯基
+permalink: /03-人物库/Mati Staniszewski
+aliases:
+  - 03-人物库/Mati Staniszewski
+  - Mati Staniszewski
+  - 马蒂·斯坦尼斯泽夫斯基
 ---
 # Mati Staniszewski
 

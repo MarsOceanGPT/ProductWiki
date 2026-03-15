@@ -57,6 +57,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Kling AI
+permalink: /01-产品库/产品卡片-Kling
+aliases:
+  - 01-产品库/产品卡片-Kling
+  - 产品卡片-Kling
+  - Kling AI
+  - 可灵
 ---
 # Kling AI / 可灵
 

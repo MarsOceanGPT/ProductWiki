@@ -50,6 +50,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Microsoft Edge
+permalink: /01-产品库/产品卡片-Microsoft Edge
+aliases:
+  - 01-产品库/产品卡片-Microsoft Edge
+  - 产品卡片-Microsoft Edge
+  - Microsoft Edge
+  - 微软Edge浏览器
 ---
 # Microsoft Edge
 

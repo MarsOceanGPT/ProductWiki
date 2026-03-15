@@ -52,6 +52,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Higgsfield
+permalink: /01-产品库/产品卡片-Higgsfield
+aliases:
+  - 01-产品库/产品卡片-Higgsfield
+  - 产品卡片-Higgsfield
+  - Higgsfield
+  - 希格斯场
 ---
 # Higgsfield
 

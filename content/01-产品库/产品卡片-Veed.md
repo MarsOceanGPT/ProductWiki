@@ -79,6 +79,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Veed
+permalink: /01-产品库/产品卡片-Veed
+aliases:
+  - 01-产品库/产品卡片-Veed
+  - 产品卡片-Veed
+  - Veed
 ---
 # Veed 产品卡片
 

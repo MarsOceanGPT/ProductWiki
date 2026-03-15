@@ -9,28 +9,21 @@
 成立年份: 2022
 公开年份: 2023
 tags:
-  opportunity:
-    - 打开能力门槛新市场
-    - 个性化教育新范式
-  design:
-    - 自适应学习路径
-    - AI个性化师生
-    - 进度追踪
-  mvp:
-    - AI+内容库拼装
-    - 学习数据驱动
-  pmf:
-    - 主动学习需求
-    - 学习焦虑降低
-  growth:
-    - 待补充
-  monetization:
-    - 按功能-订阅
-    - 学校授权
-  moat:
-    - 学习数据
-    - 适应算法
-    - 内容库
+  - 打开能力门槛新市场
+  - 个性化教育新范式
+  - 自适应学习路径
+  - AI个性化师生
+  - 进度追踪
+  - AI+内容库拼装
+  - 学习数据驱动
+  - 主动学习需求
+  - 学习焦虑降低
+  - 待补充
+  - 按功能-订阅
+  - 学校授权
+  - 学习数据
+  - 适应算法
+  - 内容库
 相关人物:
   - 待补充
 竞争对手:
@@ -44,6 +37,11 @@ tags:
   - Khan Academy
   - Character.ai
 title: Learna AI
+permalink: /01-产品库/产品卡片-Learna AI
+aliases:
+  - 01-产品库/产品卡片-Learna AI
+  - 产品卡片-Learna AI
+  - Learna AI
 ---
 # Learna AI
 

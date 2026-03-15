@@ -8,6 +8,11 @@ nationality: Indian-American
 background: IIT Madras 错过计算机系0.01分 → UC Berkeley PhD → OpenAI/DeepMind → Perplexity CEO
 notable_for: 把搜索从链接列表变成 AI 直接回答，2025年31岁成印度最年轻亿万富翁
 title: 阿拉温德·斯里尼瓦斯
+permalink: /03-人物库/Aravind Srinivas
+aliases:
+  - 03-人物库/Aravind Srinivas
+  - Aravind Srinivas
+  - 阿拉温德·斯里尼瓦斯
 ---
 # Aravind Srinivas
 

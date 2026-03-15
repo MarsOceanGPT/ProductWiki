@@ -73,6 +73,12 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Monica
+permalink: /01-产品库/产品卡片-Monica
+aliases:
+  - 01-产品库/产品卡片-Monica
+  - 产品卡片-Monica
+  - Monica
+  - Monica AI 全能助手
 ---
 ## 基本面表格
 

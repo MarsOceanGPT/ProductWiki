@@ -48,6 +48,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: GigaChat
+permalink: /01-产品库/产品卡片-GigaChat
+aliases:
+  - 01-产品库/产品卡片-GigaChat
+  - 产品卡片-GigaChat
+  - GigaChat
+  - 吉加聊天
 ---
 # GigaChat
 

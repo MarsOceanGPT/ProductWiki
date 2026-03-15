@@ -74,6 +74,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Poe
+permalink: /01-产品库/产品卡片-Poe
+aliases:
+  - 01-产品库/产品卡片-Poe
+  - 产品卡片-Poe
+  - Poe
 ---
 # Poe 产品卡片
 

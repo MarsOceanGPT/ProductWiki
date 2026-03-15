@@ -76,6 +76,11 @@ last_updated: '2026-03-14'
 confidence: High (公开资料+多个来源验证)
 mars_reviewed: false
 title: Chai
+permalink: /01-产品库/产品卡片-Chai
+aliases:
+  - 01-产品库/产品卡片-Chai
+  - 产品卡片-Chai
+  - Chai
 ---
 # Chai：用户生成AI的YouTube模式
 

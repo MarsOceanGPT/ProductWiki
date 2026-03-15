@@ -4,6 +4,10 @@ name: Claude Code
 status: 待建完整卡片
 related: []
 title: Claude Code
+permalink: /01-产品库/Claude Code
+aliases:
+  - 01-产品库/Claude Code
+  - Claude Code
 ---
 # Claude Code
 > Anthropic 推出的 AI 编程助手 CLI

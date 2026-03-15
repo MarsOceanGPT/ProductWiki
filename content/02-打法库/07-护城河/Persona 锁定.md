@@ -7,6 +7,10 @@
 案例:
   - Character.ai
 title: Persona 锁定
+permalink: /02-打法库/07-护城河/Persona 锁定
+aliases:
+  - 02-打法库/07-护城河/Persona 锁定
+  - Persona 锁定
 ---
 # Persona 锁定
 

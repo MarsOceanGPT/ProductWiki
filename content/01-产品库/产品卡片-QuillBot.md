@@ -75,6 +75,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: QuillBot
+permalink: /01-产品库/产品卡片-QuillBot
+aliases:
+  - 01-产品库/产品卡片-QuillBot
+  - 产品卡片-QuillBot
+  - QuillBot
 ---
 # QuillBot 产品卡片
 

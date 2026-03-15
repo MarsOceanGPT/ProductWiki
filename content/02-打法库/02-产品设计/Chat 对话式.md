@@ -11,6 +11,10 @@
   - NotebookLM
   - Character.ai
 title: Chat 对话式
+permalink: /02-打法库/02-产品设计/Chat 对话式
+aliases:
+  - 02-打法库/02-产品设计/Chat 对话式
+  - Chat 对话式
 ---
 # Chat 对话式
 

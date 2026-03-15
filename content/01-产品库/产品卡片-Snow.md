@@ -54,6 +54,11 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Snow
+permalink: /01-产品库/产品卡片-Snow
+aliases:
+  - 01-产品库/产品卡片-Snow
+  - 产品卡片-Snow
+  - Snow
 ---
 # Snow
 

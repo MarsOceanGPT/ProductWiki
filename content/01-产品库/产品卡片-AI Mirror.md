@@ -10,28 +10,21 @@
 融资: 待补充
 用户规模: iOS + Android 全平台用户
 tags:
-  opportunity:
-    - 视觉创意消费
-    - 社交分享驱动
-  design:
-    - AI 滤镜
-    - 一键转换
-  mvp:
-    - 简易拼装
-    - 核心功能聚焦
-  pmf:
-    - 视觉娱乐
-    - 社交价值
-  growth:
-    - 社交分享
-    - 病毒传播
-    - TikTok 趋势
-  monetization:
-    - 订阅制
-    - 免费试用
-  moat:
-    - 趋势快速迭代
-    - 社区驱动
+  - 视觉创意消费
+  - 社交分享驱动
+  - AI 滤镜
+  - 一键转换
+  - 简易拼装
+  - 核心功能聚焦
+  - 视觉娱乐
+  - 社交价值
+  - 社交分享
+  - 病毒传播
+  - TikTok 趋势
+  - 订阅制
+  - 免费试用
+  - 趋势快速迭代
+  - 社区驱动
 相关人物:
   - 待补充
 竞争对手:
@@ -41,6 +34,11 @@ tags:
   - Remini
 关联产品: []
 title: AI Mirror
+permalink: /01-产品库/产品卡片-AI Mirror
+aliases:
+  - 01-产品库/产品卡片-AI Mirror
+  - 产品卡片-AI Mirror
+  - AI Mirror
 ---
 # AI Mirror
 

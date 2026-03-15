@@ -83,6 +83,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Hugging Face
+permalink: /01-产品库/产品卡片-Hugging Face
+aliases:
+  - 01-产品库/产品卡片-Hugging Face
+  - 产品卡片-Hugging Face
+  - Hugging Face
 ---
 # Hugging Face 产品卡片
 

@@ -1,5 +1,10 @@
 ---
 title: 美颜相机 BeautyCam
+permalink: /01-产品库/产品卡片-BeautyCam
+aliases:
+  - 01-产品库/产品卡片-BeautyCam
+  - 产品卡片-BeautyCam
+  - 美颜相机 BeautyCam
 ---
 # 美颜相机 BeautyCam
 

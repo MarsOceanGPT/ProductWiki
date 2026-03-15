@@ -8,6 +8,11 @@ nationality: Brazilian
 background: Google Brain LaMDA 核心开发者 → Character.ai 联合创始人 → Google DeepMind 回归
 notable_for: 从被 Google 压制的对话 AI 转身创业，$2.7B 回购时刻定义了消费 AI 的价值
 title: 丹尼尔·德弗雷塔斯
+permalink: /03-人物库/Daniel De Freitas
+aliases:
+  - 03-人物库/Daniel De Freitas
+  - Daniel De Freitas
+  - 丹尼尔·德弗雷塔斯
 ---
 # Daniel De Freitas
 

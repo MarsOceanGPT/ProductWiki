@@ -9,28 +9,21 @@
 成立年份: 2021
 公开年份: 2022-09
 tags:
-  opportunity:
-    - 打开能力门槛新市场
-    - 打开价格门槛新市场
-  design:
-    - 生成式界面
-    - Chat 对话式
-    - 角色锁定
-  mvp:
-    - 简易拼装
-    - 关键功能聚焦
-  pmf:
-    - 迫切刚需
-    - 别无选择
-  growth:
-    - 病毒传播-产品即内容
-    - 社交粘性
-  monetization:
-    - 按访问-订阅
-  moat:
-    - Persona 锁定
-    - 社交粘性
-    - 数据飞轮
+  - 打开能力门槛新市场
+  - 打开价格门槛新市场
+  - 生成式界面
+  - Chat 对话式
+  - 角色锁定
+  - 简易拼装
+  - 关键功能聚焦
+  - 迫切刚需
+  - 别无选择
+  - 病毒传播-产品即内容
+  - 社交粘性
+  - 按访问-订阅
+  - Persona 锁定
+  - 社交粘性
+  - 数据飞轮
 相关人物:
   - Noam Shazeer
   - Daniel De Freitas
@@ -44,6 +37,11 @@ tags:
   - Gemini
   - Manus
 title: Character.ai
+permalink: /01-产品库/产品卡片-Character.ai
+aliases:
+  - 01-产品库/产品卡片-Character.ai
+  - 产品卡片-Character.ai
+  - Character.ai
 ---
 # Character.ai
 

@@ -8,6 +8,10 @@
   - Cursor
   - GitHub Copilot
 title: Copilot 范式
+permalink: /02-打法库/02-产品设计/Copilot 范式
+aliases:
+  - 02-打法库/02-产品设计/Copilot 范式
+  - Copilot 范式
 ---
 # Copilot 范式
 

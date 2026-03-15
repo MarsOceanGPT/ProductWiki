@@ -54,6 +54,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Pixverse
+permalink: /01-产品库/产品卡片-Pixverse
+aliases:
+  - 01-产品库/产品卡片-Pixverse
+  - 产品卡片-Pixverse
+  - Pixverse
+  - 像素宇宙
 ---
 # Pixverse
 

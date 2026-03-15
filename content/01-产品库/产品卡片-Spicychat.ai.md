@@ -10,29 +10,22 @@
 融资: 待补充
 用户规模: 20 万+ UGC 角色库
 tags:
-  opportunity:
-    - 打开价格门槛新市场
-    - 内容生态壁垒
-  design:
-    - Chat 对话式
-    - 生成式界面
-    - 角色锁定
-  mvp:
-    - 简易拼装
-    - 关键功能聚焦
-  pmf:
-    - 迫切刚需
-    - 别无选择
-  growth:
-    - 病毒传播-产品即内容
-    - 社交粘性
-  monetization:
-    - 按访问-订阅
-    - 按功能分层
-  moat:
-    - Persona 锁定
-    - UGC 角色库
-    - 社区规模
+  - 打开价格门槛新市场
+  - 内容生态壁垒
+  - Chat 对话式
+  - 生成式界面
+  - 角色锁定
+  - 简易拼装
+  - 关键功能聚焦
+  - 迫切刚需
+  - 别无选择
+  - 病毒传播-产品即内容
+  - 社交粘性
+  - 按访问-订阅
+  - 按功能分层
+  - Persona 锁定
+  - UGC 角色库
+  - 社区规模
 相关人物:
   - 待补充
 竞争对手:
@@ -44,6 +37,11 @@ tags:
   - 产品卡片-Janitor AI
   - 产品卡片-Character.ai
 title: Spicychat
+permalink: /01-产品库/产品卡片-Spicychat.ai
+aliases:
+  - 01-产品库/产品卡片-Spicychat.ai
+  - 产品卡片-Spicychat.ai
+  - Spicychat
 ---
 # Spicychat
 

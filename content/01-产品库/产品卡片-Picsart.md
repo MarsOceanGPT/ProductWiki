@@ -82,6 +82,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Picsart
+permalink: /01-产品库/产品卡片-Picsart
+aliases:
+  - 01-产品库/产品卡片-Picsart
+  - 产品卡片-Picsart
+  - Picsart
 ---
 # Picsart 产品卡片
 

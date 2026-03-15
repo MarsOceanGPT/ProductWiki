@@ -9,29 +9,22 @@
 成立年份: 2009
 公开年份: 2009-09
 tags:
-  opportunity:
-    - 打开能力门槛新市场
-    - 打开价格门槛新市场
-  design:
-    - 众创社区模式
-    - Q&A 对话式
-    - 同龄人互助
-  mvp:
-    - 极简问答
-    - 关键功能聚焦
-  pmf:
-    - 被动刚需
-    - 时间焦虑
-  growth:
-    - 社交传播-学生自发分享
-    - 学校渗透
-  monetization:
-    - 按功能-订阅
-    - 学校授权
-  moat:
-    - 内容网络效应
-    - 学生粘性
-    - 覆盖面广
+  - 打开能力门槛新市场
+  - 打开价格门槛新市场
+  - 众创社区模式
+  - Q&A 对话式
+  - 同龄人互助
+  - 极简问答
+  - 关键功能聚焦
+  - 被动刚需
+  - 时间焦虑
+  - 社交传播-学生自发分享
+  - 学校渗透
+  - 按功能-订阅
+  - 学校授权
+  - 内容网络效应
+  - 学生粘性
+  - 覆盖面广
 相关人物:
   - Michał Borkowski
   - Tomasz Kraus
@@ -45,6 +38,11 @@ tags:
   - Learna AI
   - Character.ai
 title: Brainly
+permalink: /01-产品库/产品卡片-Brainly
+aliases:
+  - 01-产品库/产品卡片-Brainly
+  - 产品卡片-Brainly
+  - Brainly
 ---
 # Brainly
 

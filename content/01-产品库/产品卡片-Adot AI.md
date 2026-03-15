@@ -10,26 +10,19 @@
 融资: 待补充
 用户规模: 待补充
 tags:
-  opportunity:
-    - 垂直领域创新
-    - Web3 套利
-  design:
-    - 搜索接口
-    - AI 增强
-  mvp:
-    - 插件化
-    - 关键功能聚焦
-  pmf:
-    - 利基社区
-    - Web3 爱好者
-  growth:
-    - 社区驱动
-    - 平台联动
-  monetization:
-    - 待补充
-  moat:
-    - Web3 索引
-    - 垂直深度
+  - 垂直领域创新
+  - Web3 套利
+  - 搜索接口
+  - AI 增强
+  - 插件化
+  - 关键功能聚焦
+  - 利基社区
+  - Web3 爱好者
+  - 社区驱动
+  - 平台联动
+  - 待补充
+  - Web3 索引
+  - 垂直深度
 相关人物:
   - 待补充
 竞争对手:
@@ -38,6 +31,11 @@ tags:
   - ChatGPT Search
 关联产品: []
 title: Adot
+permalink: /01-产品库/产品卡片-Adot AI
+aliases:
+  - 01-产品库/产品卡片-Adot AI
+  - 产品卡片-Adot AI
+  - Adot
 ---
 # Adot
 

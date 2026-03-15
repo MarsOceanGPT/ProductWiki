@@ -9,28 +9,21 @@
 成立年份: 2014
 公开年份: 2014-11
 tags:
-  opportunity:
-    - 打开能力门槛新市场
-    - 移动优先新机遇
-  design:
-    - 拍照OCR
-    - 步骤讲解
-    - 多解法展示
-  mvp:
-    - 简易拼装
-    - OCR+AI堆砌
-  pmf:
-    - 时间压力刚需
-    - 学习焦虑
-  growth:
-    - 应用商店优化
-    - 口碑传播
-  monetization:
-    - 按功能-订阅
-  moat:
-    - 品牌认知
-    - 用户沉淀
-    - Google生态
+  - 打开能力门槛新市场
+  - 移动优先新机遇
+  - 拍照OCR
+  - 步骤讲解
+  - 多解法展示
+  - 简易拼装
+  - OCR+AI堆砌
+  - 时间压力刚需
+  - 学习焦虑
+  - 应用商店优化
+  - 口碑传播
+  - 按功能-订阅
+  - 品牌认知
+  - 用户沉淀
+  - Google生态
 相关人物:
   - Darim Sabol
   - Predrag Terzić
@@ -43,6 +36,11 @@ tags:
   - Gauth
   - Google Gemini
 title: Photomath
+permalink: /01-产品库/产品卡片-Photomath
+aliases:
+  - 01-产品库/产品卡片-Photomath
+  - 产品卡片-Photomath
+  - Photomath
 ---
 # Photomath
 

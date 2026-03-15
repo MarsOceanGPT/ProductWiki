@@ -52,6 +52,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Edits
+permalink: /01-产品库/产品卡片-Edits
+aliases:
+  - 01-产品库/产品卡片-Edits
+  - 产品卡片-Edits
+  - Edits
+  - Edits（Meta版）
 ---
 # Edits
 

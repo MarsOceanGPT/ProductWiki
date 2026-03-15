@@ -4,6 +4,10 @@ name: Google Search
 status: 待建完整卡片
 related: []
 title: Google Search
+permalink: /01-产品库/Google Search
+aliases:
+  - 01-产品库/Google Search
+  - Google Search
 ---
 # Google Search
 > 全球最大的搜索引擎

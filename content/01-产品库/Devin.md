@@ -4,6 +4,10 @@ name: Devin
 status: 待建完整卡片
 related: []
 title: Devin
+permalink: /01-产品库/Devin
+aliases:
+  - 01-产品库/Devin
+  - Devin
 ---
 # Devin
 > AI 软件工程师

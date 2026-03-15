@@ -50,6 +50,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: AI Gallery
+permalink: /01-产品库/产品卡片-AI Gallery Huawei
+aliases:
+  - 01-产品库/产品卡片-AI Gallery Huawei
+  - 产品卡片-AI Gallery Huawei
+  - AI Gallery
+  - 华为AI相册
 ---
 # AI Gallery（华为AI相册）
 

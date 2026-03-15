@@ -11,31 +11,24 @@
 用户规模: 520 万注册用户，310 万 MAU
 ARR: $20M（2024）+ 预期 $18.7M 年收入
 tags:
-  opportunity:
-    - 打开价格门槛新市场
-    - 地域套利
-  design:
-    - Chat 对话式
-    - 生成式界面
-    - 角色锁定
-    - 群组角色扮演
-  mvp:
-    - 简易拼装
-    - 关键功能聚焦
-  pmf:
-    - 迫切刚需
-    - 别无选择
-  growth:
-    - 病毒传播-产品即内容
-    - 社交粘性
-    - LGBTQ+ 社区
-  monetization:
-    - 按访问-订阅
-    - 按功能-高级订阅
-  moat:
-    - Persona 锁定
-    - 无审核政策
-    - 社区忠诚度
+  - 打开价格门槛新市场
+  - 地域套利
+  - Chat 对话式
+  - 生成式界面
+  - 角色锁定
+  - 群组角色扮演
+  - 简易拼装
+  - 关键功能聚焦
+  - 迫切刚需
+  - 别无选择
+  - 病毒传播-产品即内容
+  - 社交粘性
+  - LGBTQ+ 社区
+  - 按访问-订阅
+  - 按功能-高级订阅
+  - Persona 锁定
+  - 无审核政策
+  - 社区忠诚度
 相关人物:
   - 待补充
 竞争对手:
@@ -47,6 +40,11 @@ tags:
   - 产品卡片-Janitor AI
   - 产品卡片-Character.ai
 title: CrushOn
+permalink: /01-产品库/产品卡片-CrushOn.ai
+aliases:
+  - 01-产品库/产品卡片-CrushOn.ai
+  - 产品卡片-CrushOn.ai
+  - CrushOn
 ---
 # CrushOn
 

@@ -9,31 +9,24 @@
 成立年份: 2006（桌面版），2014（移动端大升级）
 公开年份: 2006
 tags:
-  opportunity:
-    - 专业工具向大众化
-    - AI功能赋能
-  design:
-    - 非破坏性编辑
-    - AI 生成式填充
-    - 云端同步
-  mvp:
-    - 工具堆积
-    - 功能聚焦
-  pmf:
-    - 专业摄影师刚需
-    - 高端用户沉淀
-  growth:
-    - 创意社区
-    - 教育机构渗透
-    - AI功能口碑
-  monetization:
-    - 按应用-订阅
-    - 企业授权
-  moat:
-    - 专业工具标准地位
-    - 云端数据生态
-    - AI模型能力
-    - 格式垄断
+  - 专业工具向大众化
+  - AI功能赋能
+  - 非破坏性编辑
+  - AI 生成式填充
+  - 云端同步
+  - 工具堆积
+  - 功能聚焦
+  - 专业摄影师刚需
+  - 高端用户沉淀
+  - 创意社区
+  - 教育机构渗透
+  - AI功能口碑
+  - 按应用-订阅
+  - 企业授权
+  - 专业工具标准地位
+  - 云端数据生态
+  - AI模型能力
+  - 格式垄断
 相关人物:
   - Adobe 管理层
 竞争对手:
@@ -47,6 +40,11 @@ tags:
   - Firefly
   - Creative Cloud
 title: Adobe Lightroom
+permalink: /01-产品库/产品卡片-Adobe Lightroom
+aliases:
+  - 01-产品库/产品卡片-Adobe Lightroom
+  - 产品卡片-Adobe Lightroom
+  - Adobe Lightroom
 ---
 # Adobe Lightroom
 

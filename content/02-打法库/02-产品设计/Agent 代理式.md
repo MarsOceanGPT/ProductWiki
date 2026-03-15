@@ -9,6 +9,10 @@
   - Manus
   - Genspark
 title: Agent 代理式
+permalink: /02-打法库/02-产品设计/Agent 代理式
+aliases:
+  - 02-打法库/02-产品设计/Agent 代理式
+  - Agent 代理式
 ---
 # Agent 代理式
 

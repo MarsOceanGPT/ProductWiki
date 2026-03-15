@@ -70,6 +70,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Midjourney
+permalink: /01-产品库/产品卡片-Midjourney
+aliases:
+  - 01-产品库/产品卡片-Midjourney
+  - 产品卡片-Midjourney
+  - Midjourney
 ---
 # Midjourney 产品卡片
 

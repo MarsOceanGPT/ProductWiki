@@ -66,6 +66,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Gemini
+permalink: /01-产品库/产品卡片-Gemini
+aliases:
+  - 01-产品库/产品卡片-Gemini
+  - 产品卡片-Gemini
+  - Gemini
+  - Gemini（双子座）
 ---
 # Gemini
 

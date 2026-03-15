@@ -97,6 +97,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Lovable
+permalink: /01-产品库/产品卡片-Lovable
+aliases:
+  - 01-产品库/产品卡片-Lovable
+  - 产品卡片-Lovable
+  - Lovable
 ---
 # Lovable - AI 软件构建平台
 

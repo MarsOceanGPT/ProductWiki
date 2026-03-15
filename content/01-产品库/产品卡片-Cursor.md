@@ -57,6 +57,11 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Cursor
+permalink: /01-产品库/产品卡片-Cursor
+aliases:
+  - 01-产品库/产品卡片-Cursor
+  - 产品卡片-Cursor
+  - Cursor
 ---
 # Cursor
 

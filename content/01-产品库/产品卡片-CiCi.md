@@ -11,27 +11,20 @@
 用户规模: 数百万（推测）
 国家覆盖: 'UK, Mexico, Indonesia, Malaysia, Philippines（不含中国和美国）'
 tags:
-  opportunity:
-    - 国际化扩展
-    - 地域套利
-  design:
-    - Chat 对话式
-    - 多语言
-  mvp:
-    - 简易拼装
-    - 本地化
-  pmf:
-    - 便利性
-    - 多语言支持
-  growth:
-    - 字节的 App Store 优势
-    - 渠道优势
-  monetization:
-    - 待补充
-  moat:
-    - 品牌信任
-    - 渠道优势
-    - 技术资源
+  - 国际化扩展
+  - 地域套利
+  - Chat 对话式
+  - 多语言
+  - 简易拼装
+  - 本地化
+  - 便利性
+  - 多语言支持
+  - 字节的 App Store 优势
+  - 渠道优势
+  - 待补充
+  - 品牌信任
+  - 渠道优势
+  - 技术资源
 相关人物: []
 竞争对手:
   - ChatGPT
@@ -41,6 +34,11 @@ tags:
 关联产品:
   - Doubao（中国版）
 title: CiCi
+permalink: /01-产品库/产品卡片-CiCi
+aliases:
+  - 01-产品库/产品卡片-CiCi
+  - 产品卡片-CiCi
+  - CiCi
 ---
 # CiCi
 

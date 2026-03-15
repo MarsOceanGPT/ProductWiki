@@ -78,6 +78,11 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Freepik
+permalink: /01-产品库/产品卡片-Freepik
+aliases:
+  - 01-产品库/产品卡片-Freepik
+  - 产品卡片-Freepik
+  - Freepik
 ---
 # Freepik 产品卡片
 

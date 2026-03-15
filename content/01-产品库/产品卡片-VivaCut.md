@@ -50,6 +50,11 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: VivaCut
+permalink: /01-产品库/产品卡片-VivaCut
+aliases:
+  - 01-产品库/产品卡片-VivaCut
+  - 产品卡片-VivaCut
+  - VivaCut
 ---
 # VivaCut
 

@@ -70,6 +70,11 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: ChatGPT
+permalink: /01-产品库/产品卡片-ChatGPT
+aliases:
+  - 01-产品库/产品卡片-ChatGPT
+  - 产品卡片-ChatGPT
+  - ChatGPT
 ---
 # ChatGPT
 

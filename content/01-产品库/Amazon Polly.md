@@ -4,6 +4,10 @@ name: Amazon Polly
 status: 待建完整卡片
 related: []
 title: Amazon Polly
+permalink: /01-产品库/Amazon Polly
+aliases:
+  - 01-产品库/Amazon Polly
+  - Amazon Polly
 ---
 # Amazon Polly
 > 文本转语音服务

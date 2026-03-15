@@ -10,27 +10,20 @@
 融资: $3M（Sky9 Capital + North Equity）
 自研模型: JanitorLLM（被 OpenAI 封禁 API 后自建）
 tags:
-  opportunity:
-    - 打开价格门槛新市场
-    - 别无选择
-  design:
-    - Chat 对话式
-    - 生成式界面
-    - 角色锁定
-  mvp:
-    - 简易拼装
-    - 关键功能聚焦
-  pmf:
-    - 迫切刚需
-    - 别无选择
-  growth:
-    - 病毒传播-产品即内容
-    - 社交粘性
-  monetization:
-    - 按访问-订阅
-  moat:
-    - Persona 锁定
-    - 数据飞轮
+  - 打开价格门槛新市场
+  - 别无选择
+  - Chat 对话式
+  - 生成式界面
+  - 角色锁定
+  - 简易拼装
+  - 关键功能聚焦
+  - 迫切刚需
+  - 别无选择
+  - 病毒传播-产品即内容
+  - 社交粘性
+  - 按访问-订阅
+  - Persona 锁定
+  - 数据飞轮
 相关人物:
   - Jan Zoltkowski
 竞争对手:
@@ -42,6 +35,11 @@ tags:
 关联产品:
   - 产品卡片-Character.ai
 title: Janitor AI
+permalink: /01-产品库/产品卡片-Janitor AI
+aliases:
+  - 01-产品库/产品卡片-Janitor AI
+  - 产品卡片-Janitor AI
+  - Janitor AI
 ---
 # Janitor AI
 

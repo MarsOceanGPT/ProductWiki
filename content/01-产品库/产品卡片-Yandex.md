@@ -54,6 +54,12 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Yandex
+permalink: /01-产品库/产品卡片-Yandex
+aliases:
+  - 01-产品库/产品卡片-Yandex
+  - 产品卡片-Yandex
+  - Yandex
+  - 俄罗斯Yandex搜索与AI
 ---
 # Yandex（俄罗斯互联网巨头）
 

@@ -9,28 +9,21 @@
 成立年份: 2023
 公开年份: 2024-01（DeepSeek-V2），2025-01（R1 引爆）
 tags:
-  opportunity:
-    - 吃技术升级红利
-    - 把玩法封装成产品
-  design:
-    - Chat 对话式
-    - 开源颠覆
-  mvp:
-    - 技术适配
-    - 简易拼装
-  pmf:
-    - 迫切刚需
-    - 技术适配
-  growth:
-    - 开源合作
-    - 借势崛起
-    - 病毒传播-产品即内容
-  monetization:
-    - 按消耗-请求数
-  moat:
-    - AI就是壁垒
-    - 开源生态
-    - 效率优先
+  - 吃技术升级红利
+  - 把玩法封装成产品
+  - Chat 对话式
+  - 开源颠覆
+  - 技术适配
+  - 简易拼装
+  - 迫切刚需
+  - 技术适配
+  - 开源合作
+  - 借势崛起
+  - 病毒传播-产品即内容
+  - 按消耗-请求数
+  - AI就是壁垒
+  - 开源生态
+  - 效率优先
 相关人物:
   - 梁文锋
 竞争对手:
@@ -44,6 +37,11 @@ tags:
   - Gemini
   - Claude
 title: DeepSeek
+permalink: /01-产品库/产品卡片-DeepSeek
+aliases:
+  - 01-产品库/产品卡片-DeepSeek
+  - 产品卡片-DeepSeek
+  - DeepSeek
 ---
 # DeepSeek
 

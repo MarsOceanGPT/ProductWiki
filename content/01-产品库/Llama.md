@@ -4,6 +4,10 @@ name: Llama
 status: 待建完整卡片
 related: []
 title: Llama
+permalink: /01-产品库/Llama
+aliases:
+  - 01-产品库/Llama
+  - Llama
 ---
 # Llama
 > Meta 开源大语言模型
