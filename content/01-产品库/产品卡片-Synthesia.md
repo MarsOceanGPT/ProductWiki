@@ -77,12 +77,6 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Synthesia
-permalink: /01-产品库/产品卡片-Synthesia
-aliases:
-  - 01-产品库/产品卡片-Synthesia
-  - 产品卡片-Synthesia
-  - Synthesia
-  - Synthesia AI 视频生成
 ---
 ## 基本面表格
 

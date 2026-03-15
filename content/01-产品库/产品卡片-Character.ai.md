@@ -37,11 +37,6 @@ tags:
   - Gemini
   - Manus
 title: Character.ai
-permalink: /01-产品库/产品卡片-Character.ai
-aliases:
-  - 01-产品库/产品卡片-Character.ai
-  - 产品卡片-Character.ai
-  - Character.ai
 ---
 # Character.ai
 

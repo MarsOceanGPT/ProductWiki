@@ -50,12 +50,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: QQ Browser
-permalink: /01-产品库/产品卡片-QQ Browser
-aliases:
-  - 01-产品库/产品卡片-QQ Browser
-  - 产品卡片-QQ Browser
-  - QQ Browser
-  - 腾讯QQ浏览器
 ---
 # QQ Browser（腾讯QQ浏览器）
 

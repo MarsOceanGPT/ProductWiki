@@ -47,12 +47,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Seekee
-permalink: /01-产品库/产品卡片-Seekee
-aliases:
-  - 01-产品库/产品卡片-Seekee
-  - 产品卡片-Seekee
-  - Seekee
-  - 视频搜索/内容发现工具
 ---
 # Seekee
 

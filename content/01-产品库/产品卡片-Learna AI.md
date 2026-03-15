@@ -37,11 +37,6 @@ tags:
   - Khan Academy
   - Character.ai
 title: Learna AI
-permalink: /01-产品库/产品卡片-Learna AI
-aliases:
-  - 01-产品库/产品卡片-Learna AI
-  - 产品卡片-Learna AI
-  - Learna AI
 ---
 # Learna AI
 

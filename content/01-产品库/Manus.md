@@ -3,10 +3,6 @@
 名称: Manus
 状态: 已有完整卡片
 title: Manus
-permalink: /01-产品库/Manus
-aliases:
-  - 01-产品库/Manus
-  - Manus
 ---
 # Manus
 

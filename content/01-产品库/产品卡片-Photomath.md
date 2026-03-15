@@ -36,11 +36,6 @@ tags:
   - Gauth
   - Google Gemini
 title: Photomath
-permalink: /01-产品库/产品卡片-Photomath
-aliases:
-  - 01-产品库/产品卡片-Photomath
-  - 产品卡片-Photomath
-  - Photomath
 ---
 # Photomath
 

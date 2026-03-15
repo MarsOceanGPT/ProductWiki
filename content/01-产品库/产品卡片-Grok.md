@@ -62,11 +62,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Grok
-permalink: /01-产品库/产品卡片-Grok
-aliases:
-  - 01-产品库/产品卡片-Grok
-  - 产品卡片-Grok
-  - Grok
 ---
 # Grok
 

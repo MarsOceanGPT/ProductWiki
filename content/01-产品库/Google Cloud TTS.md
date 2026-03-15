@@ -4,10 +4,6 @@ name: Google Cloud TTS
 status: 待建完整卡片
 related: []
 title: Google Cloud TTS
-permalink: /01-产品库/Google Cloud TTS
-aliases:
-  - 01-产品库/Google Cloud TTS
-  - Google Cloud TTS
 ---
 # Google Cloud TTS
 > Google Cloud 文本转语音服务

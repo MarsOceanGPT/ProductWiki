@@ -55,11 +55,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Perplexity
-permalink: /01-产品库/产品卡片-Perplexity
-aliases:
-  - 01-产品库/产品卡片-Perplexity
-  - 产品卡片-Perplexity
-  - Perplexity
 ---
 # Perplexity
 

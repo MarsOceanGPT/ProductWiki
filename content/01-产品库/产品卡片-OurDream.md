@@ -55,12 +55,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Low-Medium
 mars_reviewed: false
 title: OurDream.AI
-permalink: /01-产品库/产品卡片-OurDream
-aliases:
-  - 01-产品库/产品卡片-OurDream
-  - 产品卡片-OurDream
-  - OurDream.AI
-  - OurDream
 ---
 # OurDream.AI
 

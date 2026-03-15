@@ -1,9 +1,5 @@
 ---
 title: Piotr Dąbkowski
-permalink: /03-人物库/Piotr Dąbkowski
-aliases:
-  - 03-人物库/Piotr Dąbkowski
-  - Piotr Dąbkowski
 ---
 # Piotr Dąbkowski
 

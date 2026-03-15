@@ -65,11 +65,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Meta AI
-permalink: /01-产品库/产品卡片-Meta_AI
-aliases:
-  - 01-产品库/产品卡片-Meta_AI
-  - 产品卡片-Meta_AI
-  - Meta AI
 ---
 # Meta AI
 

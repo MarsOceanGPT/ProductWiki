@@ -46,12 +46,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Quark
-permalink: /01-产品库/产品卡片-Quark
-aliases:
-  - 01-产品库/产品卡片-Quark
-  - 产品卡片-Quark
-  - Quark
-  - 夸克
 ---
 # 夸克 Quark
 

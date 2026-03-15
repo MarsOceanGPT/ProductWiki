@@ -8,11 +8,6 @@ nationality: American
 background: AI Test Kitchen → 创业经历 → Google Labs NotebookLM PM
 notable_for: 把 NotebookLM 从默默无闻的 20% 项目变成 Discord 6W 用户的现象级产品，只靠 Audio Overview 一个功能
 title: 瑞扎·马丁
-permalink: /03-人物库/Raiza Martin
-aliases:
-  - 03-人物库/Raiza Martin
-  - Raiza Martin
-  - 瑞扎·马丁
 ---
 # Raiza Martin
 

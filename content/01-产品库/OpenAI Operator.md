@@ -4,10 +4,6 @@ name: OpenAI Operator
 status: 待建完整卡片
 related: []
 title: OpenAI Operator
-permalink: /01-产品库/OpenAI Operator
-aliases:
-  - 01-产品库/OpenAI Operator
-  - OpenAI Operator
 ---
 # OpenAI Operator
 > OpenAI 推出的 AI 网页操作代理

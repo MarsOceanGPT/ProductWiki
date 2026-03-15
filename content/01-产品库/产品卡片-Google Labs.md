@@ -51,12 +51,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Google Labs
-permalink: /01-产品库/产品卡片-Google Labs
-aliases:
-  - 01-产品库/产品卡片-Google Labs
-  - 产品卡片-Google Labs
-  - Google Labs
-  - Google实验室
 ---
 # Google Labs
 

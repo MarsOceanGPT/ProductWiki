@@ -45,12 +45,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
 title: Mivi
-permalink: /01-产品库/产品卡片-Mivi
-aliases:
-  - 01-产品库/产品卡片-Mivi
-  - 产品卡片-Mivi
-  - Mivi
-  - 美唯（印度AI音乐视频创作工具）
 ---
 # Mivi
 

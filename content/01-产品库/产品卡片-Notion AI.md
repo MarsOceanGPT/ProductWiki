@@ -78,12 +78,6 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Notion AI
-permalink: /01-产品库/产品卡片-Notion AI
-aliases:
-  - 01-产品库/产品卡片-Notion AI
-  - 产品卡片-Notion AI
-  - Notion AI
-  - Notion AI 功能层
 ---
 ## 基本面表格
 

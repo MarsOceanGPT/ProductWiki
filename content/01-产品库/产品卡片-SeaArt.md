@@ -57,12 +57,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: SeaArt
-permalink: /01-产品库/产品卡片-SeaArt
-aliases:
-  - 01-产品库/产品卡片-SeaArt
-  - 产品卡片-SeaArt
-  - SeaArt
-  - 海艺 AI
 ---
 # SeaArt
 

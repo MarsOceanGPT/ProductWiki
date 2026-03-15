@@ -52,12 +52,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Baidu AI Search
-permalink: /01-产品库/产品卡片-BaiduAISearch
-aliases:
-  - 01-产品库/产品卡片-BaiduAISearch
-  - 产品卡片-BaiduAISearch
-  - Baidu AI Search
-  - 百度AI搜索/文心一言
 ---
 # 百度AI搜索 / 文心一言
 

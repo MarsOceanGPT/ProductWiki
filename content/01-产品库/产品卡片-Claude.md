@@ -65,11 +65,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Claude
-permalink: /01-产品库/产品卡片-Claude
-aliases:
-  - 01-产品库/产品卡片-Claude
-  - 产品卡片-Claude
-  - Claude
 ---
 # Claude
 

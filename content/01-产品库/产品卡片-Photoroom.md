@@ -78,11 +78,6 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Photoroom
-permalink: /01-产品库/产品卡片-Photoroom
-aliases:
-  - 01-产品库/产品卡片-Photoroom
-  - 产品卡片-Photoroom
-  - Photoroom
 ---
 # Photoroom 产品卡片
 

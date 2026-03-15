@@ -37,11 +37,6 @@ tags:
   - Gemini
   - Claude
 title: DeepSeek
-permalink: /01-产品库/产品卡片-DeepSeek
-aliases:
-  - 01-产品库/产品卡片-DeepSeek
-  - 产品卡片-DeepSeek
-  - DeepSeek
 ---
 # DeepSeek
 

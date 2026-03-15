@@ -69,12 +69,6 @@ last_updated: '2026-03-14'
 confidence: Medium
 mars_reviewed: false
 title: Replika
-permalink: /01-产品库/产品卡片-Replika
-aliases:
-  - 01-产品库/产品卡片-Replika
-  - 产品卡片-Replika
-  - Replika
-  - Replika AI
 ---
 # Replika AI 产品卡片
 

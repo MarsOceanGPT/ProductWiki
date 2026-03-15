@@ -48,11 +48,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Low
 mars_reviewed: false
 title: Hypic
-permalink: /01-产品库/产品卡片-Hypic
-aliases:
-  - 01-产品库/产品卡片-Hypic
-  - 产品卡片-Hypic
-  - Hypic
 ---
 # Hypic
 

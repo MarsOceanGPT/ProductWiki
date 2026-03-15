@@ -1,9 +1,5 @@
 ---
 title: William Beauchamp
-permalink: /03-人物库/William Beauchamp
-aliases:
-  - 03-人物库/William Beauchamp
-  - William Beauchamp
 ---
 # William Beauchamp
 

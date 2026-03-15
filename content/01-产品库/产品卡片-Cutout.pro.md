@@ -71,11 +71,6 @@ last_updated: '2026-03-14'
 confidence: Medium-High
 mars_reviewed: false
 title: Cutout.pro
-permalink: /01-产品库/产品卡片-Cutout.pro
-aliases:
-  - 01-产品库/产品卡片-Cutout.pro
-  - 产品卡片-Cutout.pro
-  - Cutout.pro
 ---
 # Cutout.pro 产品卡片
 

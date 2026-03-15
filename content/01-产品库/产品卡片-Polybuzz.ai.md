@@ -37,11 +37,6 @@ tags:
 关联产品:
   - 产品卡片-Character.ai
 title: Polybuzz
-permalink: /01-产品库/产品卡片-Polybuzz.ai
-aliases:
-  - 01-产品库/产品卡片-Polybuzz.ai
-  - 产品卡片-Polybuzz.ai
-  - Polybuzz
 ---
 # Polybuzz
 

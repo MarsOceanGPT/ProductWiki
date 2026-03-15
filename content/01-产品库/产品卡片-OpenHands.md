@@ -66,12 +66,6 @@ last_updated: '2026-03-14'
 confidence: Medium-High
 mars_reviewed: false
 title: OpenHands
-permalink: /01-产品库/产品卡片-OpenHands
-aliases:
-  - 01-产品库/产品卡片-OpenHands
-  - 产品卡片-OpenHands
-  - OpenHands
-  - OpenHands AI 编程代理
 ---
 ## 基本面表格
 

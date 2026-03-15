@@ -34,11 +34,6 @@ tags:
 关联产品:
   - Doubao（中国版）
 title: CiCi
-permalink: /01-产品库/产品卡片-CiCi
-aliases:
-  - 01-产品库/产品卡片-CiCi
-  - 产品卡片-CiCi
-  - CiCi
 ---
 # CiCi
 

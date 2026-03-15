@@ -4,10 +4,6 @@ name: DreamGen
 status: 待建完整卡片
 related: []
 title: DreamGen
-permalink: /01-产品库/DreamGen
-aliases:
-  - 01-产品库/DreamGen
-  - DreamGen
 ---
 # DreamGen
 > AI 内容创作平台

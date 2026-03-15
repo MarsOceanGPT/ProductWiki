@@ -31,11 +31,6 @@ tags:
   - Perplexity
 关联产品: []
 title: Nova
-permalink: /01-产品库/产品卡片-Nova AI
-aliases:
-  - 01-产品库/产品卡片-Nova AI
-  - 产品卡片-Nova AI
-  - Nova
 ---
 # Nova
 

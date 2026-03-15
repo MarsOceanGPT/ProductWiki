@@ -34,11 +34,6 @@ tags:
   - Remini
 关联产品: []
 title: AI Mirror
-permalink: /01-产品库/产品卡片-AI Mirror
-aliases:
-  - 01-产品库/产品卡片-AI Mirror
-  - 产品卡片-AI Mirror
-  - AI Mirror
 ---
 # AI Mirror
 

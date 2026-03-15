@@ -37,11 +37,6 @@ tags:
   - Midjourney
   - DALL-E
 title: Facemoji
-permalink: /01-产品库/产品卡片-Facemoji
-aliases:
-  - 01-产品库/产品卡片-Facemoji
-  - 产品卡片-Facemoji
-  - Facemoji
 ---
 # Facemoji
 

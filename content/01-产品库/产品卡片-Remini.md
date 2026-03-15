@@ -56,11 +56,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium-High
 mars_reviewed: false
 title: Remini
-permalink: /01-产品库/产品卡片-Remini
-aliases:
-  - 01-产品库/产品卡片-Remini
-  - 产品卡片-Remini
-  - Remini
 ---
 # Remini
 

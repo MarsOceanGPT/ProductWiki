@@ -8,11 +8,6 @@ nationality: American
 background: 科学历史学家 → 著名作家 → AI 产品哲学家
 notable_for: 《Where Good Ideas Come From》作者，用历史和脑科学告诉你为什么 NotebookLM 的设计是对的
 title: 史蒂文·约翰逊
-permalink: /03-人物库/Steven Johnson
-aliases:
-  - 03-人物库/Steven Johnson
-  - Steven Johnson
-  - 史蒂文·约翰逊
 ---
 # Steven Johnson
 

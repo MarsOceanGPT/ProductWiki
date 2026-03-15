@@ -51,12 +51,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Qwen
-permalink: /01-产品库/产品卡片-Qwen
-aliases:
-  - 01-产品库/产品卡片-Qwen
-  - 产品卡片-Qwen
-  - Qwen
-  - 通义千问
 ---
 # 通义千问 Qwen
 

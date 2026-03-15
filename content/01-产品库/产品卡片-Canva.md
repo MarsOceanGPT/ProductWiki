@@ -83,11 +83,6 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: Canva
-permalink: /01-产品库/产品卡片-Canva
-aliases:
-  - 01-产品库/产品卡片-Canva
-  - 产品卡片-Canva
-  - Canva
 ---
 # Canva 产品卡片
 

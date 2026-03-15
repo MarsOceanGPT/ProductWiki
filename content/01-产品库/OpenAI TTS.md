@@ -4,10 +4,6 @@ name: OpenAI TTS
 status: 待建完整卡片
 related: []
 title: OpenAI TTS
-permalink: /01-产品库/OpenAI TTS
-aliases:
-  - 01-产品库/OpenAI TTS
-  - OpenAI TTS
 ---
 # OpenAI TTS
 > OpenAI 文本转语音服务

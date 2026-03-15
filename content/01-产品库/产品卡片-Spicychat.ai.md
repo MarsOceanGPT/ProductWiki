@@ -37,11 +37,6 @@ tags:
   - 产品卡片-Janitor AI
   - 产品卡片-Character.ai
 title: Spicychat
-permalink: /01-产品库/产品卡片-Spicychat.ai
-aliases:
-  - 01-产品库/产品卡片-Spicychat.ai
-  - 产品卡片-Spicychat.ai
-  - Spicychat
 ---
 # Spicychat
 

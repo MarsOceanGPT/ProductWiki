@@ -40,11 +40,6 @@ tags:
   - 产品卡片-Janitor AI
   - 产品卡片-Character.ai
 title: CrushOn
-permalink: /01-产品库/产品卡片-CrushOn.ai
-aliases:
-  - 01-产品库/产品卡片-CrushOn.ai
-  - 产品卡片-CrushOn.ai
-  - CrushOn
 ---
 # CrushOn
 

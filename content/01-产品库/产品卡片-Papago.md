@@ -39,11 +39,6 @@ tags:
   - Line
   - Naver Cloud
 title: Papago
-permalink: /01-产品库/产品卡片-Papago
-aliases:
-  - 01-产品库/产品卡片-Papago
-  - 产品卡片-Papago
-  - Papago
 ---
 # Papago
 

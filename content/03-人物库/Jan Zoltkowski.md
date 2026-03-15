@@ -8,11 +8,6 @@ nationality: Australian
 background: 黑客松常客（HackerOne/EthGlobal）→ 加密工程师 → Janitor AI 创始人
 notable_for: 1.38亿月访问的 NSFW AI 平台创始人，却近乎完全隐形。低调本身就是商业策略
 title: 简·佐尔特考夫斯基
-permalink: /03-人物库/Jan Zoltkowski
-aliases:
-  - 03-人物库/Jan Zoltkowski
-  - Jan Zoltkowski
-  - 简·佐尔特考夫斯基
 ---
 # Jan Zoltkowski
 

@@ -38,11 +38,6 @@ tags:
   - Learna AI
   - Character.ai
 title: Brainly
-permalink: /01-产品库/产品卡片-Brainly
-aliases:
-  - 01-产品库/产品卡片-Brainly
-  - 产品卡片-Brainly
-  - Brainly
 ---
 # Brainly
 

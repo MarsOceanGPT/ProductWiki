@@ -57,11 +57,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: ElevenLabs
-permalink: /01-产品库/产品卡片-ElevenLabs
-aliases:
-  - 01-产品库/产品卡片-ElevenLabs
-  - 产品卡片-ElevenLabs
-  - ElevenLabs
 ---
 # ElevenLabs
 

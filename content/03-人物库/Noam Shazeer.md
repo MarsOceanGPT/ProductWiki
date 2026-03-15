@@ -10,11 +10,6 @@ background: >-
   CEO → Google DeepMind
 notable_for: Transformer 发明者之一，却用 MoE 和对话 AI 告诉你：最大的模型不一定最好的模型
 title: 诺姆·沙济尔
-permalink: /03-人物库/Noam Shazeer
-aliases:
-  - 03-人物库/Noam Shazeer
-  - Noam Shazeer
-  - 诺姆·沙济尔
 ---
 # Noam Shazeer
 

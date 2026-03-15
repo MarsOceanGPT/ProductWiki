@@ -1,10 +1,5 @@
 ---
 title: Kimi Chat
-permalink: /01-产品库/产品卡片-Kimi
-aliases:
-  - 01-产品库/产品卡片-Kimi
-  - 产品卡片-Kimi
-  - Kimi Chat
 ---
 # Kimi Chat
 

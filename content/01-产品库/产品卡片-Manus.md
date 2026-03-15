@@ -36,11 +36,6 @@ tags:
   - Monica
   - Claude
 title: Manus
-permalink: /01-产品库/产品卡片-Manus
-aliases:
-  - 01-产品库/产品卡片-Manus
-  - 产品卡片-Manus
-  - Manus
 ---
 # Manus
 

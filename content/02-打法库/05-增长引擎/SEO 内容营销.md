@@ -8,11 +8,6 @@
 案例:
   - Perplexity
 title: SEO / 内容营销
-permalink: /02-打法库/05-增长引擎/SEO 内容营销
-aliases:
-  - 02-打法库/05-增长引擎/SEO 内容营销
-  - SEO 内容营销
-  - SEO / 内容营销
 ---
 # SEO / 内容营销
 

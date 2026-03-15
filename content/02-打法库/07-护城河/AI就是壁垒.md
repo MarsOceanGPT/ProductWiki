@@ -10,10 +10,6 @@
   - DeepSeek
   - NotebookLM
 title: AI就是壁垒
-permalink: /02-打法库/07-护城河/AI就是壁垒
-aliases:
-  - 02-打法库/07-护城河/AI就是壁垒
-  - AI就是壁垒
 ---
 # AI就是壁垒
 

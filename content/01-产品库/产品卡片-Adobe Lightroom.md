@@ -40,11 +40,6 @@ tags:
   - Firefly
   - Creative Cloud
 title: Adobe Lightroom
-permalink: /01-产品库/产品卡片-Adobe Lightroom
-aliases:
-  - 01-产品库/产品卡片-Adobe Lightroom
-  - 产品卡片-Adobe Lightroom
-  - Adobe Lightroom
 ---
 # Adobe Lightroom
 

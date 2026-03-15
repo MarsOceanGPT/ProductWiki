@@ -3,10 +3,6 @@
 名称: Janitor AI
 状态: 已有完整卡片
 title: Janitor AI
-permalink: /01-产品库/Janitor AI
-aliases:
-  - 01-产品库/Janitor AI
-  - Janitor AI
 ---
 # Janitor AI
 

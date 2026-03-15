@@ -35,11 +35,6 @@ tags:
 关联产品:
   - 产品卡片-Character.ai
 title: Janitor AI
-permalink: /01-产品库/产品卡片-Janitor AI
-aliases:
-  - 01-产品库/产品卡片-Janitor AI
-  - 产品卡片-Janitor AI
-  - Janitor AI
 ---
 # Janitor AI
 

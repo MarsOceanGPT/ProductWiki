@@ -34,31 +34,6 @@ function normalizeTags(tags) {
   return [tags.toString()]
 }
 
-function mergeAliases(frontmatter, relativePath, fallbackTitle, resolvedTitle) {
-  const aliases = new Set()
-  const existingAliases = Array.isArray(frontmatter.aliases)
-    ? frontmatter.aliases
-    : frontmatter.alias != null
-      ? [frontmatter.alias]
-      : []
-
-  for (const alias of existingAliases) {
-    aliases.add(alias.toString())
-  }
-
-  aliases.add(relativePath.replace(/\.md$/, ""))
-  aliases.add(path.basename(relativePath, ".md"))
-  aliases.add(fallbackTitle)
-
-  for (const candidate of [resolvedTitle, frontmatter.名称, frontmatter.name_cn, frontmatter.name]) {
-    if (candidate) {
-      aliases.add(candidate.toString())
-    }
-  }
-
-  return [...aliases]
-}
-
 function normalizeFrontmatter(frontmatter, content, filePath, isIndex, relativePath) {
   const next = { ...frontmatter }
   const fallbackTitle = path.basename(filePath, ".md")
@@ -81,10 +56,6 @@ function normalizeFrontmatter(frontmatter, content, filePath, isIndex, relativeP
     next.title = "AI 产品策略图谱 — Product Wiki"
     next.description = "一个 Wikipedia 式的知识网络：AI 产品 × 打法 × 人物，双向链接，持续更新。"
     next.permalink = "/"
-  } else {
-    next.permalink = `/${relativePath.replace(/\.md$/, "")}`
-    next.aliases = mergeAliases(next, relativePath, fallbackTitle, resolvedTitle)
-    delete next.alias
   }
 
   return next

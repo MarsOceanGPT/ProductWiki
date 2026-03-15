@@ -74,12 +74,6 @@ last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
 title: CapCut / 剪映
-permalink: /01-产品库/产品卡片-CapCut
-aliases:
-  - 01-产品库/产品卡片-CapCut
-  - 产品卡片-CapCut
-  - CapCut / 剪映
-  - CapCut（国际版）/ 剪映（国内版）
 ---
 # CapCut / 剪映 产品卡片
 

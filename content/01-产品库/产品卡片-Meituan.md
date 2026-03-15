@@ -53,12 +53,6 @@ last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
 title: Meituan (美团)
-permalink: /01-产品库/产品卡片-Meituan
-aliases:
-  - 01-产品库/产品卡片-Meituan
-  - 产品卡片-Meituan
-  - Meituan (美团)
-  - 中国美团平台
 ---
 # Meituan（中国美团平台）
 

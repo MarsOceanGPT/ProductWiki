@@ -8,11 +8,6 @@ nationality: American
 background: MIT CS & Math 双学位 → Anysphere 创始人 → Cursor CEO
 notable_for: 从 CAD 工具起家，转身成为最快的 AI IDE，年仅25岁就掌舵 $293B 估值公司
 title: 迈克尔·特鲁尔
-permalink: /03-人物库/Michael Truell
-aliases:
-  - 03-人物库/Michael Truell
-  - Michael Truell
-  - 迈克尔·特鲁尔
 ---
 # Michael Truell
 

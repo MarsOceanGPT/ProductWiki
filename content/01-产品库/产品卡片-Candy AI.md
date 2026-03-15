@@ -38,11 +38,6 @@ tags:
 关联产品:
   - 产品卡片-Replika
 title: Candy AI
-permalink: /01-产品库/产品卡片-Candy AI
-aliases:
-  - 01-产品库/产品卡片-Candy AI
-  - 产品卡片-Candy AI
-  - Candy AI
 ---
 # Candy AI
 

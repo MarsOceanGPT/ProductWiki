@@ -37,11 +37,6 @@ tags:
   - Google 翻译
   - Gauth
 title: Hi Translate
-permalink: /01-产品库/产品卡片-Hi Translate
-aliases:
-  - 01-产品库/产品卡片-Hi Translate
-  - 产品卡片-Hi Translate
-  - Hi Translate
 ---
 # Hi Translate
 

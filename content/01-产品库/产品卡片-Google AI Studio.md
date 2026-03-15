@@ -73,11 +73,6 @@ last_updated: '2026-03-14'
 confidence: Medium
 mars_reviewed: false
 title: Google AI Studio
-permalink: /01-产品库/产品卡片-Google AI Studio
-aliases:
-  - 01-产品库/产品卡片-Google AI Studio
-  - 产品卡片-Google AI Studio
-  - Google AI Studio
 ---
 # Google AI Studio 产品卡片
 

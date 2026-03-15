@@ -36,11 +36,6 @@ tags:
   - ChatGPT
   - Gemini
 title: NotebookLM
-permalink: /01-产品库/产品卡片-NotebookLM
-aliases:
-  - 01-产品库/产品卡片-NotebookLM
-  - 产品卡片-NotebookLM
-  - NotebookLM
 ---
 # NotebookLM
 

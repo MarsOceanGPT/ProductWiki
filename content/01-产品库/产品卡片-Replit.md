@@ -43,11 +43,6 @@ tags:
   - 产品卡片-Cursor
   - 产品卡片-Lovable
 title: Replit
-permalink: /01-产品库/产品卡片-Replit
-aliases:
-  - 01-产品库/产品卡片-Replit
-  - 产品卡片-Replit
-  - Replit
 ---
 # Replit
 

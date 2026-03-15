@@ -73,11 +73,6 @@ last_updated: '2026-03-14'
 confidence: Medium
 mars_reviewed: false
 title: Turboscribe
-permalink: /01-产品库/产品卡片-Turboscribe
-aliases:
-  - 01-产品库/产品卡片-Turboscribe
-  - 产品卡片-Turboscribe
-  - Turboscribe
 ---
 # Turboscribe 产品卡片
 

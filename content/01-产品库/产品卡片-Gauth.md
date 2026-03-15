@@ -37,11 +37,6 @@ tags:
   - Learna AI
   - Brainly
 title: Gauth
-permalink: /01-产品库/产品卡片-Gauth
-aliases:
-  - 01-产品库/产品卡片-Gauth
-  - 产品卡片-Gauth
-  - Gauth
 ---
 # Gauth
 
