@@ -58,8 +58,8 @@ key_people:
 competitors:
   - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
   - '[[01-产品库/Google Search|Google Search]]'
-  - '[[ChatGPT]]'
-  - '[[Claude]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
 related_products:
   - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
   - '[[Anthropic Claude]]'

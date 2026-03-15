@@ -53,7 +53,7 @@ key_people:
   - '[[张一鸣]] (CEO, ByteDance)'
   - '[[AI 团队负责人 (信息不足，待补充)]]'
 competitors:
-  - '[[ChatGPT]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
   - '[[Kimi]]'
   - '[[文心一言]]'
 related_products:

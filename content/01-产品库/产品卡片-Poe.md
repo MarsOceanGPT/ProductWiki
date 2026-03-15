@@ -66,8 +66,8 @@ competitors:
   - Grok (X.ai)
   - Direct API access
 related_products:
-  - '[[ChatGPT]]'
-  - '[[Claude]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
   - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
   - '[[Quora]]'
 last_updated: '2026-03-14'

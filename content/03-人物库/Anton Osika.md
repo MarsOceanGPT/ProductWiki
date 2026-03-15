@@ -3,7 +3,7 @@ type: person
 name: Anton Osika
 name_cn: 安东·奥西卡
 role: Founder & CEO
-company: '[[Lovable]]'
+company: '[[01-产品库/产品卡片-Lovable|Lovable]]'
 nationality: Swedish
 background: 物理学双学位 → CERN → Sana Labs 一号工程师 → Depict CTO → Lovable CEO
 notable_for: 用开源项目 GitHub 50K stars 的势能激活 B2C AI 编程市场，8个月破 $100M ARR
@@ -29,7 +29,7 @@ title: 安东·奥西卡
 
 ## 产品 DNA
 
-[[Lovable]] 的核心设计哲学就是 Osika 的物理学思维：最少化用户认知负担。用户只需描述功能（用英文或自然语言），系统自动处理框架、集成、部署——这是"黑箱工程学"的消费者版本。
+[[01-产品库/产品卡片-Lovable|Lovable]] 的核心设计哲学就是 Osika 的物理学思维：最少化用户认知负担。用户只需描述功能（用英文或自然语言），系统自动处理框架、集成、部署——这是"黑箱工程学"的消费者版本。
 
 反而看起来"低技术含量"的界面，反而成了最高的技术壁垒：需要 100 个模型调用的完美编排。
 

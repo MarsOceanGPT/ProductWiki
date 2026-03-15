@@ -55,8 +55,8 @@ key_people:
   - '[[Daniela Amodei]] (President, Co-founder)'
   - '[[Tom Brown]] (Chief Scientist, GPT-3 主要作者)'
 competitors:
-  - '[[ChatGPT]]'
-  - '[[Gemini]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
   - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
   - '[[01-产品库/Claude Code|Claude Code]]'

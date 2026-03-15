@@ -206,10 +206,10 @@ DeepSeek-R1 的核心创新：**Chain-of-Thought 推理过程可见**——用�
 
 ## 相关案例
 
-- [[ChatGPT]] — 直接竞争对手，DeepSeek-R1 对标 OpenAI o1 的推理能力
-- [[Claude]] — Anthropic 产品，同为 Top 3-4 Web 榜，代表美国 AI 阵营
+- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 直接竞争对手，DeepSeek-R1 对标 OpenAI o1 的推理能力
+- [[01-产品库/产品卡片-Claude|Claude]] — Anthropic 产品，同为 Top 3-4 Web 榜，代表美国 AI 阵营
 - [[01-产品库/Llama|Llama]] — Meta 开源模型，DeepSeek 在开源赛道的主要竞争者
-- [[Qwen]] — 阿里开源模型，中国开源 AI 的另一个代表
+- [[01-产品库/产品卡片-Qwen|Qwen]] — 阿里开源模型，中国开源 AI 的另一个代表
 
 ---
 

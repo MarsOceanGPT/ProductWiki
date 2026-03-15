@@ -77,8 +77,8 @@ competitors:
 related_products:
   - '[[Sora]]'
   - '[[Pika]]'
-  - '[[HeyGen]]'
-  - '[[Synthesia]]'
+  - '[[01-产品库/产品卡片-HeyGen|HeyGen]]'
+  - '[[01-产品库/产品卡片-Synthesia|Synthesia]]'
   - '[[Luma AI]]'
 last_updated: '2026-03-14'
 confidence: High
@@ -748,8 +748,8 @@ Runway 选择了"生态护城河"而不是"技术护城河"。技术护城河会
 **相关产品和框架：**
 - [[Sora (OpenAI)]]（竞争对手，技术领先）
 - [[Pika]]（竞争对手，创作者友好）
-- [[HeyGen]]（相似路线但专注企业）
-- [[Synthesia]]（相似路线但专注企业 Avatar）
+- [[01-产品库/产品卡片-HeyGen|HeyGen]]（相似路线但专注企业）
+- [[01-产品库/产品卡片-Synthesia|Synthesia]]（相似路线但专注企业 Avatar）
 - [[Adobe Premiere Pro]]（战略合作伙伴）
 - [[工作流集成作为护城河]]（战略框架）
 - [[世界模型 (AI)]]（下一代技术）

@@ -52,9 +52,9 @@ key_people:
   - '[[Elon Musk]] (Executive Chairman, xAI)'
   - '[[Jared Kaplan]] (VP, xAI)'
 competitors:
-  - '[[ChatGPT]]'
-  - '[[Claude]]'
-  - '[[Gemini]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
 related_products:
   - '[[X (Twitter)]]'
   - '[[Colossus]]'

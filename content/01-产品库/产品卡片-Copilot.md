@@ -54,11 +54,11 @@ key_people:
   - '[[Satya Nadella]] (CEO, Microsoft)'
   - '[[Mustafa Suleyman]] (VP, AI, Microsoft)'
 competitors:
-  - '[[ChatGPT]]'
-  - '[[Claude]]'
-  - '[[Gemini]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
 related_products:
-  - '[[01-产品库/GitHub Copilot|GitHub Copilot]]'
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
   - '[[Office 365]]'
   - '[[Windows 11]]'
   - '[[Bing]]'

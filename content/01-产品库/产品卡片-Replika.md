@@ -63,7 +63,7 @@ competitors:
   - Romantic AI
 related_products:
   - '[[Character.AI]]'
-  - '[[Chai]]'
+  - '[[01-产品库/产品卡片-Chai|Chai]]'
   - '[[CrushOn.AI]]'
 last_updated: '2026-03-14'
 confidence: Medium

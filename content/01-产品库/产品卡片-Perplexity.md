@@ -49,8 +49,8 @@ key_people:
   - '[[03-人物库/Aravind Srinivas|Aravind Srinivas]]'
 competitors:
   - '[[01-产品库/Google Search|Google Search]]'
-  - '[[ChatGPT]]'
-  - '[[Genspark]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Genspark|Genspark]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
@@ -208,8 +208,8 @@ AI 定价象限：低自主性（人类驱动搜索过程）× 高可归因性�
 
 如果你对 Perplexity 的故事感兴趣，推荐同时看这几个：
 
-- **[[Genspark]]**：a16z 榜单新上榜，也做 AI 搜索+Agent，但走得更远——不只回答问题，还帮你执行后续任务。$3 亿 B 轮，$1 亿+ ARR。代表了 AI 搜索从"回答"到"行动"的演进方向。
-- **[[ChatGPT]]**：Perplexity 的最大竞争对手和最大"贵人"——ChatGPT 教育了用户，同时暴露了短板，给了 Perplexity 生存空间。理解两者的共生竞争关系很关键。
+- **[[01-产品库/产品卡片-Genspark|Genspark]]**：a16z 榜单新上榜，也做 AI 搜索+Agent，但走得更远——不只回答问题，还帮你执行后续任务。$3 亿 B 轮，$1 亿+ ARR。代表了 AI 搜索从"回答"到"行动"的演进方向。
+- **[[01-产品库/产品卡片-ChatGPT|ChatGPT]]**：Perplexity 的最大竞争对手和最大"贵人"——ChatGPT 教育了用户，同时暴露了短板，给了 Perplexity 生存空间。理解两者的共生竞争关系很关键。
 - **[[01-产品库/产品卡片-NotebookLM|NotebookLM]]**：Google 的另一条路线——不做开放搜索，做"基于你自己文档的 AI 研究助手"。和 Perplexity 都在解决"知识综合"问题，但切入点完全不同（你的文档 vs 全网信息）。
 - **[[01-产品库/产品卡片-DeepSeek|DeepSeek]]**：在 a16z 榜单上排名紧随 Perplexity。虽然不是搜索产品，但 DeepSeek 横跨中美俄三个市场的独特生态位，和 Perplexity 面对的"地理分化"趋势直接相关。
 

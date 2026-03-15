@@ -11,6 +11,7 @@ const INCLUDED_PATHS = ["README.md", "01-产品库", "02-打法库", "03-人物�
 const EXCLUDED_BASENAMES = new Set(["README-AI产品卡片库.md", "README-新产品卡片.md"])
 const DUPLICATE = Symbol("duplicate")
 let linkMap = new Map()
+const stubRedirects = new Map()
 
 function extractTitle(content, fallback) {
   const heading = content.match(/^#\s+(.+)$/m)
@@ -51,6 +52,26 @@ function addReferenceCandidate(linkMap, key, target) {
   }
 }
 
+function coerceArray(value) {
+  if (value == null) return []
+  return Array.isArray(value) ? value : [value]
+}
+
+function extractStubTarget(relativePath, body) {
+  const match = body
+    .trim()
+    .match(/^#\s+.+\n>\s*完整分析见：\[\[([^\]]+)\]\]\s*$/s)
+
+  if (!match) return null
+
+  const rawTarget = match[1].split("|")[0].trim()
+  if (!rawTarget) return null
+  if (rawTarget.includes("/")) return rawTarget.replace(/\.md$/, "")
+
+  const baseDir = path.posix.dirname(relativePath)
+  return path.posix.join(baseDir, rawTarget).replace(/\.md$/, "")
+}
+
 async function buildReferenceMap(sourceDir) {
   const linkMap = new Map()
 
@@ -86,8 +107,14 @@ async function buildReferenceMap(sourceDir) {
     }
 
     const fallbackTitle = path.basename(relativePath, ".md")
-    const title = extractTitle(body, fallbackTitle)
     const target = relativePath.replace(/\.md$/, "")
+    const stubTarget = extractStubTarget(relativePath, body)
+    const canonicalTarget = stubTarget ?? target
+    if (stubTarget) {
+      stubRedirects.set(relativePath, stubTarget)
+    }
+
+    const title = extractTitle(body, fallbackTitle)
     const candidates = new Set([
       fallbackTitle,
       title,
@@ -95,10 +122,12 @@ async function buildReferenceMap(sourceDir) {
       parsedData.名称,
       parsedData.name,
       parsedData.name_cn,
+      ...coerceArray(parsedData.aliases),
+      ...coerceArray(parsedData.alias),
     ])
 
     for (const candidate of candidates) {
-      addReferenceCandidate(linkMap, candidate, target)
+      addReferenceCandidate(linkMap, candidate, canonicalTarget)
     }
   }
 
@@ -212,6 +241,10 @@ async function copyEntry(srcPath, destPath, relativePath = "", isIndex = false) 
     return
   }
 
+  if (stubRedirects.has(relativePath)) {
+    return
+  }
+
   if (srcPath.endsWith(".md")) {
     await mkdir(path.dirname(destPath), { recursive: true })
     await copyMarkdown(srcPath, destPath, isIndex, relativePath)
@@ -255,6 +288,7 @@ async function main() {
 
   await rm(TARGET_DIR, { recursive: true, force: true })
   await mkdir(TARGET_DIR, { recursive: true })
+  stubRedirects.clear()
   linkMap = await buildReferenceMap(sourceDir)
 
   for (const relativePath of INCLUDED_PATHS) {

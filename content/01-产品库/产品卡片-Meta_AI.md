@@ -51,9 +51,9 @@ key_people:
   - '[[Mark Zuckerberg]] (CEO, Meta)'
   - '[[Jérôme Pesenti]] (VP, AI)'
 competitors:
-  - '[[ChatGPT]]'
-  - '[[Claude]]'
-  - '[[Gemini]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
   - '[[Open Source Models (Llama)]]'
 related_products:
   - '[[LLaMA]]'

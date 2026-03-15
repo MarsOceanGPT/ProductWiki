@@ -67,7 +67,7 @@ competitors:
   - Descript
   - Opus Clip
 related_products:
-  - '[[Synthesia]]'
+  - '[[01-产品库/产品卡片-Synthesia|Synthesia]]'
   - '[[Sora]]'
   - '[[Runway Gen-2]]'
   - '[[Descript]]'
@@ -224,7 +224,7 @@ HeyGen赢的是"**创作者的口碑**"，Synthesia赢的是"**企业IT部门的
 
 **为什么增长在加速的同时斜率变缓**（从5.75x→1.74x）：
 - 市场渗透进入"成熟期"：美国大型企业的70%已经试过或采用HeyGen
-- 竞争加剧：[[Synthesia]] 也在做Custom Avatar，Google、Meta的内部方案在升级
+- 竞争加剧：[[01-产品库/产品卡片-Synthesia|Synthesia]] 也在做Custom Avatar，Google、Meta的内部方案在升级
 - 但**绝对增长在加速**：从年增$22.5M→年增$42.5M，说明市场规模本身在扩大
 
 **关键战术**：
@@ -288,7 +288,7 @@ HeyGen赢的是"**创作者的口碑**"，Synthesia赢的是"**企业IT部门的
 3. **Creator社区粘性**
    - HeyGen视频已成为小红书、TikTok、YouTube Shorts上的"风格标签"
    - 当平台用户看到"HeyGen生成"的标签，反而成为"这个内容有专业感"的信号
-   - [[Synthesia]]从未建立起这种品牌联想
+   - [[01-产品库/产品卡片-Synthesia|Synthesia]]从未建立起这种品牌联想
 
 4. **B2B2C分发渠道的锁定**
    - HeyGen与主流企业LMS、CMS的集成已成事实

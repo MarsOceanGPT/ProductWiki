@@ -54,8 +54,8 @@ key_people:
   - '[[Sundar Pichai]] (CEO, Google)'
   - '[[Jeff Dean]] (Chief Scientist, Google DeepMind)'
 competitors:
-  - '[[ChatGPT]]'
-  - '[[Claude]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
   - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
   - '[[01-产品库/Google Search|Google Search]]'

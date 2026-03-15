@@ -77,7 +77,7 @@ related_products:
   - '[[Instagram]]'
   - '[[01-产品库/产品卡片-BeautyPlus|BeautyPlus]]'
   - '[[01-产品库/产品卡片-Canva|Canva]]'
-  - '[[Midjourney]]'
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false

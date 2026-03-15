@@ -69,7 +69,7 @@ competitors:
 related_products:
   - '[[01-产品库/产品卡片-Grammarly|Grammarly]]'
   - '[[01-产品库/产品卡片-Poe|Poe]]'
-  - '[[ChatGPT]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
   - '[[Turnitin]]'
 last_updated: '2026-03-14'
 confidence: High

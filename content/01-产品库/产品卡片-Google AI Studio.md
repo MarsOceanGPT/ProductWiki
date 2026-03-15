@@ -65,7 +65,7 @@ competitors:
   - Cohere API
   - Mistral API
 related_products:
-  - '[[Gemini]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
   - '[[Google Cloud]]'
   - '[[ChatGPT API]]'
   - '[[Claude API]]'

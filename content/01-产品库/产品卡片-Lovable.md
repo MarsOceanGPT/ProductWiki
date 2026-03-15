@@ -93,8 +93,8 @@ competitors:
   - Magic.dev
 related_products:
   - >-
-    [[Claude]], [[01-产品库/产品卡片-Cursor|Cursor]], [[Bolt]], [[V0]],
-    [[01-产品库/产品卡片-Replit|Replit]]
+    [[01-产品库/产品卡片-Claude|Claude]], [[01-产品库/产品卡片-Cursor|Cursor]], [[Bolt]],
+    [[V0]], [[01-产品库/产品卡片-Replit|Replit]]
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false

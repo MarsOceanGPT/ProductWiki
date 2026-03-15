@@ -71,7 +71,7 @@ competitors:
 related_products:
   - '[[01-产品库/产品卡片-Canva|Canva]]'
   - '[[Adobe Stock]]'
-  - '[[Midjourney]]'
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
   - '[[01-产品库/产品卡片-Runway|Runway]]'
   - '[[01-产品库/产品卡片-Remove.bg|Remove.bg]]'
 last_updated: '2026-03-14'

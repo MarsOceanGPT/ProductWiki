@@ -49,7 +49,7 @@ distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 中自主-高归因
 competitors:
-  - '[[Midjourney]]'
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
   - '[[Stable Diffusion]]'
   - '[[01-产品库/产品卡片-CivitAI|CivitAI]]'
   - '[[Ourdream]]'

@@ -50,8 +50,8 @@ pricing_quadrant: 高自主-高归因
 key_people:
   - '[[03-人物库/Michael Truell|Michael Truell]]'
 competitors:
-  - '[[01-产品库/GitHub Copilot|GitHub Copilot]]'
-  - '[[Windsurf]]'
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
+  - '[[01-产品库/产品卡片-Windsurf|Windsurf]]'
   - '[[01-产品库/Claude Code|Claude Code]]'
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
@@ -216,10 +216,10 @@ AI 定价象限：高自主性（AI 可以独立完成编码任务）× 高可�
 
 如果你对 Cursor 的故事感兴趣，推荐同时看这几个：
 
-- **[[Windsurf]]**：Cursor 最直接的竞争对手，也是 fork VS Code，但走隐私优先路线（本地索引、不传云端）。对比看两者在同一赛道的不同配置选择。
+- **[[01-产品库/产品卡片-Windsurf|Windsurf]]**：Cursor 最直接的竞争对手，也是 fork VS Code，但走隐私优先路线（本地索引、不传云端）。对比看两者在同一赛道的不同配置选择。
 - **[[01-产品库/Claude Code|Claude Code]]**：Anthropic 自己做的 AI 编程工具，CLI 形态而非 IDE。6 个月到 $10 亿年化收入。代表了"模型厂商自己下场做应用"的趋势，是 Cursor 最大的潜在威胁。
-- **[[Lovable]]**：a16z 榜单 #23，Vibe Coding 的另一个方向——不是给专业开发者用的 IDE，而是让非技术人员直接用自然语言建网站。Cursor 降低了编程门槛，Lovable 直接取消了编程门槛。
-- **[[01-产品库/GitHub Copilot|GitHub Copilot]]**：理解 Cursor 绕不开 Copilot——它定义了"AI 编程"品类，但也因为选择了插件路线而给了 Cursor 可乘之机。经典的"创新者窘境"案例。
+- **[[01-产品库/产品卡片-Lovable|Lovable]]**：a16z 榜单 #23，Vibe Coding 的另一个方向——不是给专业开发者用的 IDE，而是让非技术人员直接用自然语言建网站。Cursor 降低了编程门槛，Lovable 直接取消了编程门槛。
+- **[[01-产品库/产品卡片-Copilot|GitHub Copilot]]**：理解 Cursor 绕不开 Copilot——它定义了"AI 编程"品类，但也因为选择了插件路线而给了 Cursor 可乘之机。经典的"创新者窘境"案例。
 
 ---
 

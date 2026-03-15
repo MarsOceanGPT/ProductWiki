@@ -73,8 +73,8 @@ competitors:
 related_products:
   - '[[01-产品库/产品卡片-Canva|Canva]]'
   - '[[Beautiful.ai]]'
-  - '[[ChatGPT]]'
-  - '[[Notion AI]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Notion AI|Notion AI]]'
   - '[[Figma]]'
 last_updated: '2026-03-14'
 confidence: High
@@ -419,7 +419,7 @@ Gamma的思路：
 
 例子：
 - [[01-产品库/产品卡片-Canva|Canva]]最初也是"选template"而不是"design from scratch"
-- [[Notion AI]] 也是content-first（auto-complete based on context）
+- [[01-产品库/产品卡片-Notion AI|Notion AI]] 也是content-first（auto-complete based on context）
 
 **创新2：Template-less设计哲学**
 
@@ -488,7 +488,7 @@ Mainstream adoption开始
 Pro users become high-LTV
 ```
 
-这和[[Midjourney]]的"Free tier严格限制"strategy一致。
+这和[[01-产品库/产品卡片-Midjourney|Midjourney]]的"Free tier严格限制"strategy一致。
 
 **剧本3：Workplace Viral Loop**
 

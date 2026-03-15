@@ -66,7 +66,7 @@ key_people:
   - 'Nischay D. (3x Kaggle GrandMaster, Fine-tuning)'
 competitors:
   - '[[01-产品库/产品卡片-Character.ai|Character.ai]]'
-  - '[[Replika]]'
+  - '[[01-产品库/产品卡片-Replika|Replika]]'
   - '[[Janitor AI]]'
 related_products:
   - '[[Chaiverse (Chai Developer Platform)]]'

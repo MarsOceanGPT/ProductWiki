@@ -59,8 +59,8 @@ key_people:
   - '[[Ilya Sutskever]] (Chief Scientist)'
   - '[[Greg Brockman]] (President)'
 competitors:
-  - '[[Gemini]]'
-  - '[[Claude]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
   - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
   - '[[GPT-4]]'

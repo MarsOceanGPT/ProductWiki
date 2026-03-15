@@ -68,7 +68,7 @@ competitors:
 related_products:
   - '[[Otter.ai]]'
   - '[[Descript]]'
-  - '[[HeyGen]]'
+  - '[[01-产品库/产品卡片-HeyGen|HeyGen]]'
 last_updated: '2026-03-14'
 confidence: Medium
 mars_reviewed: false

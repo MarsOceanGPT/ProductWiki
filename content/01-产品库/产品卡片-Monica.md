@@ -67,8 +67,8 @@ competitors:
 related_products:
   - '[[Manus]]'
   - '[[01-产品库/产品卡片-Cursor|Cursor]]'
-  - '[[Lovable]]'
-  - '[[01-产品库/GitHub Copilot|GitHub Copilot]]'
+  - '[[01-产品库/产品卡片-Lovable|Lovable]]'
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false

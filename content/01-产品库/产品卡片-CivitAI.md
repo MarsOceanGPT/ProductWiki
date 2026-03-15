@@ -68,7 +68,7 @@ competitors:
 related_products:
   - '[[01-产品库/产品卡片-Hugging Face|Hugging Face]]'
   - '[[Stable Diffusion]]'
-  - '[[Midjourney]]'
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
   - '[[DALL-E]]'
 last_updated: '2026-03-14'
 confidence: Medium

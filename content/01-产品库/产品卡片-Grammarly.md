@@ -71,8 +71,8 @@ competitors:
 related_products:
   - '[[01-产品库/产品卡片-QuillBot|QuillBot]]'
   - '[[01-产品库/产品卡片-Poe|Poe]]'
-  - '[[ChatGPT]]'
-  - '[[Claude]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false

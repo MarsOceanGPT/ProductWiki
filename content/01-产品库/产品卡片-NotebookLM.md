@@ -183,9 +183,9 @@ NotebookLM 最反直觉的地方，其实是 Google 最奇怪的护城河——*
 ## 相关案例
 
 - [[01-产品库/产品卡片-Perplexity|Perplexity]] — 同为"新搜索"品类，不同路径：Perplexity 走公开网络，NotebookLM 走私有资料
-- [[ChatGPT]] — 通用 AI 助手，NotebookLM 的对立面（无源材料约束）
+- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 通用 AI 助手，NotebookLM 的对立面（无源材料约束）
 - [[01-产品库/Obsidian|Obsidian]] — 知识管理工具，NotebookLM 的部分替代/互补关系
-- [[Gemini]] — 底层模型，NotebookLM 是 Gemini 长上下文能力的最佳消费者展示窗口
+- [[01-产品库/产品卡片-Gemini|Gemini]] — 底层模型，NotebookLM 是 Gemini 长上下文能力的最佳消费者展示窗口
 
 ---
 
