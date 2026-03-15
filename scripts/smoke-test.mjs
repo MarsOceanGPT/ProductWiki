@@ -6,6 +6,7 @@ import handler from "serve-handler"
 
 const ROOT = "/Users/marsocean/Downloads/Content Master/Product Wiki Site"
 const PUBLIC_DIR = path.join(ROOT, "public")
+const SYNC_REPORT_PATH = path.join(ROOT, ".sync-report.json")
 
 const fileChecks = [
   "index.html",
@@ -113,6 +114,10 @@ async function main() {
   assert.match(contentIndex, /梁文锋/)
   assert.match(contentIndex, /AI 炼金术实验室 - 服务介绍/)
   assert.match(contentIndex, /产品卡片模板 v4\.0/)
+
+  const syncReport = await readFile(SYNC_REPORT_PATH, "utf8")
+  assert.match(syncReport, /"summary"/)
+  assert.match(syncReport, /"updated"/)
 
   const sitemap = await readFile(path.join(PUBLIC_DIR, "sitemap.xml"), "utf8")
   assert.match(sitemap, /https:\/\/wiki\.marsren\.ai\/AI-%E7%82%BC%E9%87%91%E6%9C%AF%E5%AE%9E%E9%AA%8C%E5%AE%A4---%E6%9C%8D%E5%8A%A1%E4%BB%8B%E7%BB%8D/)

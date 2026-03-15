@@ -1,4 +1,5 @@
 import { cp, mkdir, readdir, readFile, rm, stat, writeFile } from "node:fs/promises"
+import { createHash } from "node:crypto"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
@@ -7,6 +8,7 @@ const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url))
 const PROJECT_ROOT = path.resolve(SCRIPT_DIR, "..")
 const TARGET_DIR = path.join(PROJECT_ROOT, "content")
 const STUB_REDIRECTS_PATH = path.join(PROJECT_ROOT, ".stub-redirects.json")
+const SYNC_REPORT_PATH = path.join(PROJECT_ROOT, ".sync-report.json")
 const DEFAULT_SOURCE_DIR = path.resolve(PROJECT_ROOT, "../Product Wiki")
 const EXCLUDED_BASENAMES = new Set(["README-AI产品卡片库.md", "README-新产品卡片.md"])
 const EXCLUDED_RELATIVE_PATHS = new Set([
@@ -302,6 +304,105 @@ async function directoryHasFiles(targetPath) {
   }
 }
 
+async function snapshotFiles(rootDir) {
+  const snapshot = new Map()
+
+  if (!(await pathExists(rootDir))) {
+    return snapshot
+  }
+
+  async function walk(relativePath = "") {
+    const currentPath = relativePath ? path.join(rootDir, relativePath) : rootDir
+    const entries = await readdir(currentPath, { withFileTypes: true })
+
+    for (const entry of entries) {
+      const nextRelativePath = relativePath ? path.posix.join(relativePath, entry.name) : entry.name
+      const nextPath = path.join(rootDir, nextRelativePath)
+
+      if (entry.isDirectory()) {
+        await walk(nextRelativePath)
+        continue
+      }
+
+      const content = await readFile(nextPath)
+      const hash = createHash("sha1").update(content).digest("hex")
+      snapshot.set(nextRelativePath, hash)
+    }
+  }
+
+  await walk()
+  return snapshot
+}
+
+function toRoute(relativePath) {
+  if (relativePath === "index.md") {
+    return "/"
+  }
+
+  if (!relativePath.endsWith(".md")) {
+    return null
+  }
+
+  return `/${relativePath.replace(/\.md$/, "")}`
+}
+
+function summarizeDiff(previousSnapshot, nextSnapshot) {
+  const created = []
+  const updated = []
+  const deleted = []
+
+  for (const [relativePath, hash] of nextSnapshot) {
+    if (!previousSnapshot.has(relativePath)) {
+      created.push(relativePath)
+      continue
+    }
+
+    if (previousSnapshot.get(relativePath) !== hash) {
+      updated.push(relativePath)
+    }
+  }
+
+  for (const relativePath of previousSnapshot.keys()) {
+    if (!nextSnapshot.has(relativePath)) {
+      deleted.push(relativePath)
+    }
+  }
+
+  const sortPaths = (paths) => paths.sort((a, b) => a.localeCompare(b, "zh-CN"))
+  sortPaths(created)
+  sortPaths(updated)
+  sortPaths(deleted)
+
+  return {
+    created,
+    updated,
+    deleted,
+  }
+}
+
+async function writeSyncReport(sourceDir, diff) {
+  const withRoutes = (paths) =>
+    paths.map((relativePath) => ({
+      file: relativePath,
+      route: toRoute(relativePath),
+    }))
+
+  const report = {
+    generatedAt: new Date().toISOString(),
+    sourceDir,
+    summary: {
+      created: diff.created.length,
+      updated: diff.updated.length,
+      deleted: diff.deleted.length,
+    },
+    created: withRoutes(diff.created),
+    updated: withRoutes(diff.updated),
+    deleted: withRoutes(diff.deleted),
+  }
+
+  await writeFile(SYNC_REPORT_PATH, JSON.stringify(report, null, 2) + "\n", "utf8")
+}
+
 async function discoverIncludedPaths(sourceDir) {
   const entries = await readdir(sourceDir, { withFileTypes: true })
   const discovered = entries
@@ -330,6 +431,7 @@ async function main() {
     throw new Error(`Source wiki not found at ${sourceDir} and content/ is empty`)
   }
 
+  const previousSnapshot = await snapshotFiles(TARGET_DIR)
   await rm(TARGET_DIR, { recursive: true, force: true })
   await mkdir(TARGET_DIR, { recursive: true })
   stubRedirects.clear()
@@ -350,7 +452,13 @@ async function main() {
     "utf8",
   )
 
-  console.log("Synced Product Wiki content into Quartz content/")
+  const nextSnapshot = await snapshotFiles(TARGET_DIR)
+  const diff = summarizeDiff(previousSnapshot, nextSnapshot)
+  await writeSyncReport(sourceDir, diff)
+
+  console.log(
+    `Synced Product Wiki content into Quartz content/ (${diff.created.length} created, ${diff.updated.length} updated, ${diff.deleted.length} deleted)`,
+  )
 }
 
 main().catch((error) => {
