@@ -2,17 +2,15 @@
 type: product
 name: Yandex
 name_cn: 俄罗斯Yandex搜索与AI
-url: https://yandex.com
-
-# 基本信息
+url: 'https://yandex.com'
 founded: 1997
-headquarters: Moscow, Russia / Vilnius, Lithuania (2022后迁址)
-founders: [Arkady Volozh, Ilya Segalovich]
+headquarters: 'Moscow, Russia / Vilnius, Lithuania (2022后迁址)'
+founders:
+  - Arkady Volozh
+  - Ilya Segalovich
 stage: Scale
 status: Active
-
-# 关键指标（截至 2026-03-01）
-metrics_date: 2026-03-01
+metrics_date: 2026-03-01T00:00:00.000Z
 arr: ~$400M
 users: 155M月活用户（主要在俄罗斯、中亚、印度）
 monthly_visits: 1.5B
@@ -21,14 +19,13 @@ funding_total: IPO (1998)
 funding_rounds: []
 valuation: $4B估值（2022年裂分前）
 employees: 2500+
-
-# 分类
 category: 搜索/AI搜索/AI助手
 subcategory: 俄语AI搜索平台
 target_user: 俄语用户、中亚国家用户、对Google去中心化用户
-pricing_model: [free, freemium, enterprise]
-
-# 打法标签
+pricing_model:
+  - free
+  - freemium
+  - enterprise
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +33,28 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 近
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [Arkady Volozh, Ilya Segalovich(已去世2024年), Tigran Khudaverdyan]
-competitors: [Google, Bing, DuckDuckGo, GigaChat]
-related_products: [YandexGPT, YandexBrowser, Yandex Mail, Alice]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Arkady Volozh
+  - Ilya Segalovich(已去世2024年)
+  - Tigran Khudaverdyan
+competitors:
+  - Google
+  - Bing
+  - DuckDuckGo
+  - GigaChat
+related_products:
+  - YandexGPT
+  - YandexBrowser
+  - Yandex Mail
+  - Alice
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: Yandex
 ---
-
 # Yandex（俄罗斯互联网巨头）
 
 > 一句话：俄罗斯版的"搜索 + AI"混合体，在西方制裁下独立发展，用本地化 AI（YandexGPT）和搜索索引支撑区域市场，是"去中心化互联网"的最大样本。

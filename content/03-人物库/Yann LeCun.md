@@ -1,12 +1,13 @@
 ---
 type: person
-name: "Yann LeCun"
-role: "Executive Chair & Founder"
-company: "[[AMI Labs]]"
-nationality: "French-American"
-background: "Bell Labs → Facebook/Meta AI Research → AMI Labs Founder"
-notable_for: "深度学习之父之一，CNN发明者，AI界最坚定的反LLM单一主义者，主张世界模型而非单纯的文本预测；极富争议的公众知识分子"
-updated: "2026-03-14"
+name: Yann LeCun
+role: Executive Chair & Founder
+company: '[[AMI Labs]]'
+nationality: French-American
+background: Bell Labs → Facebook/Meta AI Research → AMI Labs Founder
+notable_for: 深度学习之父之一，CNN发明者，AI界最坚定的反LLM单一主义者，主张世界模型而非单纯的文本预测；极富争议的公众知识分子
+updated: '2026-03-14'
+title: Yann LeCun
 ---
 # Yann LeCun
 
@@ -155,11 +156,11 @@ LeCun虽然现在主要从事基础研究，但他对产品的影响深远：
 - [[Yoshua Bengio]] — 深度学习三驾马车之二，也开始对LLM表示怀疑
 - [[Geoffrey Hinton]] — 深度学习三驾马车之三
 - [[Francois Chollet]] — Keras作者，多模态研究倡导者
-- [[梁文锋]]（[[产品卡片-DeepSeek|DeepSeek]]） — 虽然LeCun没有直接评价，但他对梁的低成本高效率方案的观点可以推断
+- [[03-人物库/梁文锋|梁文锋]]（DeepSeek） — 虽然LeCun没有直接评价，但他对梁的低成本高效率方案的观点可以推断
 
 ### 竞争/对立的思想阵营
 - [[Sam Altman]]（OpenAI） — LLM-first的倡导者，与LeCun观点相悖
-- [[Demis Hassabis]]（DeepMind） — 虽然在AI安全上有共识，但在LLM方向上立场接近OpenAI
+- [[03-人物库/Demis Hassabis|Demis Hassabis]]（DeepMind） — 虽然在AI安全上有共识，但在LLM方向上立场接近OpenAI
 
 ## 核心观点总结
 

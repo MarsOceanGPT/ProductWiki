@@ -2,33 +2,28 @@
 type: product
 name: Seekee
 name_cn: 视频搜索/内容发现工具
-url: https://seekee.ai
-
-# 基本信息
+url: 'https://seekee.ai'
 founded: 2023
 headquarters: 北京
-founders: [字节跳动]
+founders:
+  - 字节跳动
 stage: Growth
 status: Active
-
-# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 数百万月活
-monthly_visits:
-mau:
-funding_total:
+monthly_visits: null
+mau: null
+funding_total: null
 funding_rounds: []
-valuation:
-employees:
-
-# 分类
+valuation: null
+employees: null
 category: AI视频搜索
 subcategory: 视频发现、内容搜索、推荐
 target_user: 抖音/字节用户、内容消费者
-pricing_model: [freemium, advertising]
-
-# 打法标签（双向链接）
+pricing_model:
+  - freemium
+  - advertising
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +31,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 近
 industry_layer: 应用层
 pricing_quadrant: 低自主-高归因
-
-# 人物 & 竞品
 key_people: []
-competitors: [抖音搜索, 小红书搜索, Google Video]
-related_products: [抖音, TikTok, 字节AI]
-
-# 元信息
-last_updated: 2026-03-14
+competitors:
+  - 抖音搜索
+  - 小红书搜索
+  - Google Video
+related_products:
+  - 抖音
+  - TikTok
+  - 字节AI
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: Seekee
 ---
-
 # Seekee
 
 > 短视频时代的AI搜索引擎：字节的"视频搜索"野心，用AI重新定义"我想看什么"的发现逻辑

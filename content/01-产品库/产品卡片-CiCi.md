@@ -10,20 +10,32 @@ type: product
 成立年份: 2024 年（推测）
 融资: ByteDance 内部投资
 用户规模: 数百万（推测）
-国家覆盖: UK, Mexico, Indonesia, Malaysia, Philippines（不含中国和美国）
+国家覆盖: 'UK, Mexico, Indonesia, Malaysia, Philippines（不含中国和美国）'
 tags:
-  opportunity: [国际化扩展, 地域套利]
-  design: [Chat 对话式, 多语言]
-  mvp: [简易拼装, 本地化]
-  pmf: [便利性, 多语言支持]
-  growth: [字节的 App Store 优势, 渠道优势]
-  monetization: [待补充]
-  moat: [品牌信任, 渠道优势, 技术资源]
+  - 国际化扩展
+  - 地域套利
+  - Chat 对话式
+  - 多语言
+  - 简易拼装
+  - 本地化
+  - 便利性
+  - 多语言支持
+  - 字节的 App Store 优势
+  - 渠道优势
+  - 待补充
+  - 品牌信任
+  - 渠道优势
+  - 技术资源
 相关人物: []
-竞争对手: [ChatGPT, Claude, Gemini, Local AI alternatives]
-关联产品: [Doubao（中国版）]
+竞争对手:
+  - ChatGPT
+  - Claude
+  - Gemini
+  - Local AI alternatives
+关联产品:
+  - Doubao（中国版）
+title: CiCi
 ---
-
 # CiCi
 
 > "字节的国际化 AI 助手" —— 当中国公司也要做 AI，先从被制裁的地区开始。
@@ -35,7 +47,7 @@ tags:
 | **全称** | CiCi (cici.com 推测) |
 | **母公司** | ByteDance（字节跳动） |
 | **核心定位** | 多语言 AI 助手 |
-| **中文版本** | [[产品卡片-Doubao|Doubao]]（[[产品卡片-Doubao|豆包]]，仅中国） |
+| **中文版本** | Doubao（豆包，仅中国） |
 | **国际版本** | CiCi（不含中国和美国） |
 | **覆盖国家** | UK、Mexico、Indonesia、Malaysia、Philippines |
 | **支持语言** | 15+ 语言（中文、英文、日文、韩文、法文、泰文等） |
@@ -54,7 +66,7 @@ tags:
 
 字节跳动是中国最大的内容平台（抖音、今日头条、TikTok）。在大模型浪潮中：
 
-1. **国内**：推出 Doubao（豆包）成为中国第二大对话 AI（仅次于 [[产品卡片-ChatGPT|ChatGPT]] 在中国的影响）
+1. **国内**：推出 Doubao（豆包）成为中国第二大对话 AI（仅次于 ChatGPT 在中国的影响）
 2. **国际**：需要进入全球市场，但面临 US 制裁、中国限制等问题
 
 **CiCi 的战略定位**：
@@ -80,7 +92,7 @@ tags:
 **为什么不进美国？**
 
 - **US 禁令风险** —— 美国政府限制中国科技公司进入
-- **OpenAI 垄断** —— 美国市场已经被 ChatGPT、[[产品卡片-Claude|Claude]]、[[产品卡片-Gemini|Gemini]] 占据
+- **OpenAI 垄断** —— 美国市场已经被 ChatGPT、Claude、Gemini 占据
 - **政治敏感** —— 中国公司在美国做 AI 容易引发监管关注
 
 **为什么选择这些地区？**
@@ -174,7 +186,7 @@ AI Native 产品——虚拟伴侣 AI。优势：情感共鸣深。风险：道�
 
 **竞争维度选择**：情感深度 + 个性化 + 留存率
 
-**主要竞品**：Character.AI, [[产品卡片-Replika|Replika]], 社交游戏
+**主要竞品**：Character.AI, Replika, 社交游戏
 
 **可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 情感深度 + 个性化 + 留存率 这个维度的用户心智。
 

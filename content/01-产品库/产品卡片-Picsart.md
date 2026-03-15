@@ -2,43 +2,87 @@
 type: product
 name: Picsart
 name_cn: Picsart
-url: https://www.picsart.com
+url: 'https://www.picsart.com'
 founded: 2011
-headquarters: San Francisco, USA (founded in Armenia)
-founders: ["Hovhannes Avoyan", "Jivan Tabibian", "Vahe Kuzoyan"]
+headquarters: 'San Francisco, USA (founded in Armenia)'
+founders:
+  - Hovhannes Avoyan
+  - Jivan Tabibian
+  - Vahe Kuzoyan
 stage: Series C+ Funding
 status: Active
-metrics_date: "2026-03"
-arr: "$150M+ (estimated)"
-users: "150M+ monthly"
-monthly_visits: "80M+"
-mau: "50M+"
-funding_total: "$500M+ (venture funding)"
-funding_rounds: ["Series A", "Series B", "Series C", "Growth equity"]
-valuation: "$1.4B (2023 estimate)"
-employees: "600+"
-category: "AI-powered Creative Platform"
-subcategory: "Mobile Creator Tools, Image/Video Editing"
-target_user: "Content creators, teenagers, social media influencers, artists, brands"
-pricing_model: ["Freemium", "Subscription", "Premium effects"]
-opportunity_playbooks: ["Mobile-first creator tools", "GenAI integration", "Creator monetization"]
-design_playbooks: ["Mobile-optimized editing", "One-tap filters", "Social-native workflow"]
-mvp_playbooks: ["Filter-focused mobile app"]
-pmf_playbooks: ["Teenage/Gen-Z adoption", "Social media content creation", "Viral filters"]
-growth_playbooks: ["Organic viral growth", "Social sharing", "In-feed discovery"]
-monetization_playbooks: ["Freemium effects", "Premium subscription", "Creator fund"]
-moat_playbooks: ["Filter library network effect", "Creator community", "Social integration"]
-distance_to_money: "Direct (B2C subscription + creator monetization)"
-industry_layer: "Application/Creator Tools"
-pricing_quadrant: "Freemium + Premium subscription"
-key_people: ["Hovhannes Avoyan (CEO, Co-founder)", "Jivan Tabibian", "Vahe Kuzoyan"]
-competitors: ["Instagram Filters", "Snapchat", "BeautyPlus", "Retouching apps", "TikTok", "Canva"]
-related_products: ["[[TikTok]]", "[[Snapchat]]", "[[Instagram]]", "[[BeautyPlus]]", "[[Canva]]", "[[Midjourney]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $150M+ (estimated)
+users: 150M+ monthly
+monthly_visits: 80M+
+mau: 50M+
+funding_total: $500M+ (venture funding)
+funding_rounds:
+  - Series A
+  - Series B
+  - Series C
+  - Growth equity
+valuation: $1.4B (2023 estimate)
+employees: 600+
+category: AI-powered Creative Platform
+subcategory: 'Mobile Creator Tools, Image/Video Editing'
+target_user: 'Content creators, teenagers, social media influencers, artists, brands'
+pricing_model:
+  - Freemium
+  - Subscription
+  - Premium effects
+opportunity_playbooks:
+  - Mobile-first creator tools
+  - GenAI integration
+  - Creator monetization
+design_playbooks:
+  - Mobile-optimized editing
+  - One-tap filters
+  - Social-native workflow
+mvp_playbooks:
+  - Filter-focused mobile app
+pmf_playbooks:
+  - Teenage/Gen-Z adoption
+  - Social media content creation
+  - Viral filters
+growth_playbooks:
+  - Organic viral growth
+  - Social sharing
+  - In-feed discovery
+monetization_playbooks:
+  - Freemium effects
+  - Premium subscription
+  - Creator fund
+moat_playbooks:
+  - Filter library network effect
+  - Creator community
+  - Social integration
+distance_to_money: Direct (B2C subscription + creator monetization)
+industry_layer: Application/Creator Tools
+pricing_quadrant: Freemium + Premium subscription
+key_people:
+  - 'Hovhannes Avoyan (CEO, Co-founder)'
+  - Jivan Tabibian
+  - Vahe Kuzoyan
+competitors:
+  - Instagram Filters
+  - Snapchat
+  - BeautyPlus
+  - Retouching apps
+  - TikTok
+  - Canva
+related_products:
+  - '[[TikTok]]'
+  - '[[Snapchat]]'
+  - '[[Instagram]]'
+  - '[[01-产品库/产品卡片-BeautyPlus|BeautyPlus]]'
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Picsart
 ---
-
 # Picsart 产品卡片
 
 ## 基本面表格

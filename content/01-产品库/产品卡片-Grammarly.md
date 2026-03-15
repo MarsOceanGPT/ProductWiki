@@ -2,44 +2,83 @@
 type: product
 name: Grammarly
 name_cn: Grammarly
-url: https://www.grammarly.com
+url: 'https://www.grammarly.com'
 founded: 2009
 headquarters: San Francisco
-founders: ["Max Lytvyn", "Alex Shevchenko", "Dmytro Lider"]
-stage: VC-backed, likely pre-IPO
+founders:
+  - Max Lytvyn
+  - Alex Shevchenko
+  - Dmytro Lider
+stage: 'VC-backed, likely pre-IPO'
 status: Active
-metrics_date: "2026-03"
-arr: "$150M+"
-users: "30M DAU"
-monthly_visits: "500M+"
-mau: "100M+"
-funding_total: "$400M+"
-funding_rounds: ["Series C"]
-valuation: "$13B (2024)"
-employees: "600+"
-category: "AI Writing Assistant"
-subcategory: "Productivity, Enterprise Software, AI Tools"
-target_user: "Students, professionals, enterprises, non-native English speakers"
-pricing_model: ["Freemium", "Subscription", "B2B Enterprise"]
-opportunity_playbooks: ["Freemium-to-premium conversion at scale", "Vertical integration from consumer to enterprise", "LLM-powered feature expansion"]
-design_playbooks: ["Lightweight browser extension UX", "Real-time feedback integration", "Tone detector and style guide personalization"]
-mvp_playbooks: ["Web checker as standalone product", "API-first architecture for extension/plugin integrations"]
-pmf_playbooks: ["Non-native English speakers seeking confidence", "Students needing academic writing help", "Professionals in written communication roles"]
-growth_playbooks: ["Freemium browser extension virality", "SEO content marketing strategy", "University partnerships and bulk licensing"]
-monetization_playbooks: ["Freemium to Premium conversion", "Grammarly Business for teams", "Enterprise licensing with SSO"]
-moat_playbooks: ["NLP dataset and proprietary models trained on billions of corrections", "User behavior data for personalization", "Deep OS/browser integration (extension footprint)"]
-distance_to_money: "Direct (B2C freemium + B2B2C enterprise)"
-industry_layer: "Application/Productivity Tools"
-pricing_quadrant: "Freemium with premium subscription ($12/month)"
-key_people: ["Max Lytvyn (CEO)", "Alex Shevchenko (CTO)", "Dmytro Lider (COO)"]
-competitors: ["ChatGPT + plugins", "Microsoft Copilot", "QuillBot", "Language Tool", "Apple Intelligent Writing Tools"]
-related_products: ["[[QuillBot]]", "[[Poe]]", "[[ChatGPT]]", "[[Claude]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $150M+
+users: 30M DAU
+monthly_visits: 500M+
+mau: 100M+
+funding_total: $400M+
+funding_rounds:
+  - Series C
+valuation: $13B (2024)
+employees: 600+
+category: AI Writing Assistant
+subcategory: 'Productivity, Enterprise Software, AI Tools'
+target_user: 'Students, professionals, enterprises, non-native English speakers'
+pricing_model:
+  - Freemium
+  - Subscription
+  - B2B Enterprise
+opportunity_playbooks:
+  - Freemium-to-premium conversion at scale
+  - Vertical integration from consumer to enterprise
+  - LLM-powered feature expansion
+design_playbooks:
+  - Lightweight browser extension UX
+  - Real-time feedback integration
+  - Tone detector and style guide personalization
+mvp_playbooks:
+  - Web checker as standalone product
+  - API-first architecture for extension/plugin integrations
+pmf_playbooks:
+  - Non-native English speakers seeking confidence
+  - Students needing academic writing help
+  - Professionals in written communication roles
+growth_playbooks:
+  - Freemium browser extension virality
+  - SEO content marketing strategy
+  - University partnerships and bulk licensing
+monetization_playbooks:
+  - Freemium to Premium conversion
+  - Grammarly Business for teams
+  - Enterprise licensing with SSO
+moat_playbooks:
+  - NLP dataset and proprietary models trained on billions of corrections
+  - User behavior data for personalization
+  - Deep OS/browser integration (extension footprint)
+distance_to_money: Direct (B2C freemium + B2B2C enterprise)
+industry_layer: Application/Productivity Tools
+pricing_quadrant: Freemium with premium subscription ($12/month)
+key_people:
+  - Max Lytvyn (CEO)
+  - Alex Shevchenko (CTO)
+  - Dmytro Lider (COO)
+competitors:
+  - ChatGPT + plugins
+  - Microsoft Copilot
+  - QuillBot
+  - Language Tool
+  - Apple Intelligent Writing Tools
+related_products:
+  - '[[01-产品库/产品卡片-QuillBot|QuillBot]]'
+  - '[[01-产品库/产品卡片-Poe|Poe]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Grammarly
 ---
-
-# [[产品卡片-Grammarly|Grammarly]] 产品卡片
+# Grammarly 产品卡片
 
 ## 基本面表格
 
@@ -82,7 +121,7 @@ mars_reviewed: false
 | 2021 | 推出GrammarlyGO（AI-powered改写功能） | LLM时代之前就在做"生成式写作" |
 | 2022 | ARR突破$80M，推进企业销售 | Freemium到Enterprise的双引擎 |
 | 2023.10 | 发布GrammarlyGO 2.0，基于GPT-4 | 直面LLM竞争的反击 |
-| 2024 | ARR $150M+，估值$13B | 成为写作工具的"[[产品卡片-Canva|Canva]]"（虽然还没上市） |
+| 2024 | ARR $150M+，估值$13B | 成为写作工具的"Canva"（虽然还没上市） |
 | 2025 | 面临ChatGPT内置写作功能的威胁 | 战略岔路口：继续垂直深化vs并入AI OS |
 
 ---
@@ -281,7 +320,7 @@ Infrastructure Layer
 | 竞争对手 | 强项 | 弱项 | vs Grammarly |
 |--------|------|------|-------------|
 | ChatGPT | 强大的改写能力 | 没有集成、需要切换上下文 | 更好的UX集成 |
-| MS Word [[产品卡片-Copilot|Copilot]] | 内置于Office | 不是专业写作工具 | 专业性>集成性 |
+| MS Word Copilot | 内置于Office | 不是专业写作工具 | 专业性>集成性 |
 | QuillBot | 改写功能专注 | 没有风格检查、缺少企业功能 | 功能宽度更广 |
 | Apple Writing Tools | 原生集成 | 仅限Apple生态 | 跨平台范围更广 |
 
@@ -350,7 +389,7 @@ Infrastructure Layer
 3. **垂直领域的护城河 > 通用AI的convenience**：
    - ChatGPT很强，但Grammarly比ChatGPT更懂"职业写作风格"
    - 在垂直领域积累16年的数据和用户反馈，这不是一个LLM一夜之间能学会的
-   - 未来可能不是"谁灭掉谁"，而是"谁集成谁"（Grammarly可能被集成到Claude/GPT/[[产品卡片-Gemini|Gemini]]）
+   - 未来可能不是"谁灭掉谁"，而是"谁集成谁"（Grammarly可能被集成到Claude/GPT/Gemini）
 
 ---
 

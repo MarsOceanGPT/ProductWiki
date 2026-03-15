@@ -1,3 +1,419 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+:root {
+  --page-sheen:
+    radial-gradient(circle at top left, rgba(36, 87, 101, 0.15), transparent 34%),
+    radial-gradient(circle at top right, rgba(124, 90, 43, 0.16), transparent 30%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0));
+  --panel-bg: rgba(255, 255, 255, 0.74);
+  --panel-border: rgba(124, 90, 43, 0.14);
+  --panel-shadow: 0 22px 60px rgba(26, 22, 17, 0.08);
+  --hero-shadow: 0 32px 80px rgba(26, 22, 17, 0.12);
+}
+
+[saved-theme="dark"] {
+  --page-sheen:
+    radial-gradient(circle at top left, rgba(139, 184, 196, 0.14), transparent 30%),
+    radial-gradient(circle at top right, rgba(209, 171, 115, 0.14), transparent 26%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0));
+  --panel-bg: rgba(19, 24, 31, 0.76);
+  --panel-border: rgba(209, 171, 115, 0.15);
+  --panel-shadow: 0 26px 72px rgba(0, 0, 0, 0.32);
+  --hero-shadow: 0 34px 88px rgba(0, 0, 0, 0.4);
+}
+
+html,
+body {
+  background:
+    linear-gradient(180deg, rgba(246, 241, 232, 0.98), rgba(246, 241, 232, 0.88)),
+    linear-gradient(135deg, #f5efe6 0%, #f8f5ef 48%, #ede7dc 100%);
+}
+
+[saved-theme="dark"] {
+  html,
+  body {
+    background:
+      linear-gradient(180deg, rgba(18, 21, 26, 0.98), rgba(18, 21, 26, 0.98)),
+      linear-gradient(135deg, #12151a 0%, #17202b 50%, #101722 100%);
+  }
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: var(--page-sheen);
+  opacity: 1;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(124, 90, 43, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(36, 87, 101, 0.025) 1px, transparent 1px);
+  background-size: 32px 32px;
+  mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.26), transparent 60%);
+  opacity: 0.55;
+}
+
+.page {
+  padding: 1.5rem 0 2rem;
+}
+
+.page > #quartz-body {
+  position: relative;
+  z-index: 1;
+}
+
+.page .sidebar.left,
+.page .sidebar.right,
+.page .center,
+.page .page-header,
+footer {
+  position: relative;
+}
+
+.page .sidebar.left,
+.page .sidebar.right {
+  gap: 1rem;
+}
+
+.page .sidebar.left > *,
+.page .sidebar.right > *,
+.page .center > article,
+footer {
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 24px;
+  box-shadow: var(--panel-shadow);
+  backdrop-filter: blur(18px);
+}
+
+.page .sidebar.left > *,
+.page .sidebar.right > * {
+  padding: 1rem 1rem 1.1rem;
+}
+
+.page .center > article {
+  padding: 2rem 2.2rem 2.8rem;
+  overflow: hidden;
+}
+
+.page .center > article::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 220px;
+  background:
+    radial-gradient(circle at top left, rgba(36, 87, 101, 0.18), transparent 42%),
+    radial-gradient(circle at top right, rgba(124, 90, 43, 0.16), transparent 34%);
+  pointer-events: none;
+}
+
+.page .center > article > * {
+  position: relative;
+}
+
+.page-title,
+.article-title,
+article h1,
+article h2,
+article h3,
+.folder-container div > a,
+.folder-container div > button span,
+.breadcrumbs a {
+  letter-spacing: -0.02em;
+}
+
+.page-title a {
+  display: block;
+  padding: 0.3rem 0.1rem;
+  color: var(--dark);
+  font-size: 1.12rem;
+}
+
+.page-title a::after {
+  content: "Knowledge Graph for AI Builders";
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--gray);
+  font-family: var(--bodyFont);
+  font-size: 0.74rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.article-title {
+  font-size: clamp(2.6rem, 5vw, 4.4rem);
+  line-height: 0.96;
+  margin: 0.4rem 0 0.8rem;
+  max-width: 12ch;
+}
+
+.breadcrumbs {
+  margin-bottom: 1.3rem;
+}
+
+.breadcrumbs a {
+  color: color-mix(in srgb, var(--secondary) 78%, var(--dark));
+  font-size: 0.96rem;
+}
+
+.content-meta {
+  color: var(--gray);
+  font-size: 0.96rem;
+  letter-spacing: 0.01em;
+}
+
+.tags .internal.tag-link,
+a.internal,
+article li > a.internal {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.24rem;
+  padding: 0.18rem 0.58rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--highlight) 70%, white 30%);
+  border: 1px solid color-mix(in srgb, var(--panel-border) 70%, transparent);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.42);
+}
+
+a.internal:hover,
+.tags .internal.tag-link:hover {
+  color: var(--dark);
+  background: color-mix(in srgb, var(--highlight) 90%, white 10%);
+}
+
+article p,
+article li,
+article td,
+article blockquote {
+  font-size: 1.04rem;
+  line-height: 1.88;
+}
+
+article h2 {
+  margin-top: 2.6rem;
+  margin-bottom: 0.8rem;
+  padding-top: 0.35rem;
+  font-size: 1.5rem;
+}
+
+article h3 {
+  margin-top: 1.7rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.16rem;
+  font-family: var(--bodyFont);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--secondary);
+}
+
+article blockquote {
+  margin: 1.6rem 0;
+  padding: 1.2rem 1.3rem;
+  border-left: 4px solid color-mix(in srgb, var(--secondary) 74%, var(--tertiary));
+  background: color-mix(in srgb, var(--highlight) 78%, white 22%);
+  border-radius: 16px;
+}
+
+article table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.4rem 0 2rem;
+  overflow: hidden;
+  border: 1px solid var(--panel-border);
+  border-radius: 18px;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+article th {
+  background: color-mix(in srgb, var(--highlight) 75%, white 25%);
+  color: var(--dark);
+  font-weight: 600;
+}
+
+article td,
+article th {
+  padding: 0.9rem 1rem;
+  border-color: var(--panel-border);
+}
+
+article hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--panel-border), transparent);
+  margin: 2.2rem 0;
+}
+
+.search > .search-button {
+  height: 3rem;
+  padding-right: 1rem;
+  border: 1px solid var(--panel-border);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--panel-bg) 82%, white 18%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.45);
+}
+
+.search > .search-button > p {
+  color: var(--gray);
+}
+
+.search > .search-container {
+  backdrop-filter: blur(16px);
+  background: rgba(15, 18, 23, 0.24);
+}
+
+.search > .search-container > .search-space > input,
+.search > .search-container > .search-space > .search-layout {
+  border-radius: 24px;
+  border-color: var(--panel-border);
+  background: color-mix(in srgb, var(--panel-bg) 85%, white 15%);
+}
+
+.search .result-card.focus,
+.search .result-card:hover {
+  background: color-mix(in srgb, var(--highlight) 76%, white 24%);
+}
+
+.explorer button.desktop-explorer,
+.explorer button.mobile-explorer {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.explorer button.desktop-explorer h2,
+.explorer button.mobile-explorer h2,
+.toc h3,
+.backlinks h3,
+.graph > h3 {
+  font-size: 0.78rem;
+  font-family: var(--bodyFont);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.explorer-content {
+  margin-top: 0.9rem;
+}
+
+.explorer-content .folder-outer > ul {
+  border-left: 1px solid var(--panel-border);
+}
+
+.explorer-content ul li > a {
+  border-radius: 12px;
+  padding: 0.18rem 0.45rem;
+}
+
+.explorer-content ul li > a.active,
+.explorer-content ul li > a:hover {
+  background: color-mix(in srgb, var(--highlight) 84%, white 16%);
+}
+
+.toc,
+.backlinks,
+.graph,
+.explorer {
+  overflow: hidden;
+}
+
+.toc ul,
+.backlinks ul {
+  margin-top: 0.9rem;
+}
+
+.graph > h3,
+.toc h3,
+.backlinks h3 {
+  margin-top: 0;
+}
+
+.backlinks ul li,
+.toc ul li {
+  margin-bottom: 0.55rem;
+}
+
+footer {
+  margin-top: 1rem;
+  padding: 1rem 1.25rem 1.2rem;
+  opacity: 1;
+}
+
+footer p {
+  margin: 0 0 0.7rem;
+  color: var(--gray);
+  font-size: 0.92rem;
+}
+
+footer ul {
+  gap: 0.7rem;
+  margin-top: 0;
+  flex-wrap: wrap;
+}
+
+footer a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.42rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid var(--panel-border);
+  background: color-mix(in srgb, var(--panel-bg) 82%, white 18%);
+}
+
+.center article > h1:first-child,
+.center article > p:first-child + h1 {
+  text-wrap: balance;
+}
+
+img {
+  border-radius: 20px;
+  box-shadow: var(--hero-shadow);
+}
+
+@media all and (max-width: 1200px) {
+  .page .sidebar.left,
+  .page .sidebar.right {
+    padding-top: 1rem;
+  }
+
+  .page .center > article {
+    padding: 1.6rem 1.3rem 2rem;
+  }
+
+  .article-title {
+    font-size: clamp(2.2rem, 10vw, 3.2rem);
+  }
+}
+
+@media all and (max-width: 800px) {
+  body::after {
+    opacity: 0.28;
+  }
+
+  .page {
+    padding-top: 0.4rem;
+  }
+
+  .page .sidebar.left > *,
+  .page .sidebar.right > *,
+  .page .center > article,
+  footer {
+    border-radius: 20px;
+  }
+
+  .page .sidebar.left > *,
+  .page .sidebar.right > * {
+    padding: 0.9rem 1rem;
+  }
+
+  .page-title a::after {
+    letter-spacing: 0.08em;
+  }
+}

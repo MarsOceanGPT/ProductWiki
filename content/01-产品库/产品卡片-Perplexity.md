@@ -1,73 +1,101 @@
 ---
 type: product
-name: "Perplexity"
-name_cn: "Perplexity"
-url: "https://perplexity.ai"
+name: Perplexity
+name_cn: Perplexity
+url: 'https://perplexity.ai'
 founded: 2022-08
-headquarters: "San Francisco, US"
-founders: [[[Aravind Srinivas]], [[Denis Yarats]], [[Johnny Ho]], [[Andy Konwinski]]]
-stage: "Growth"
-status: "Active"
+headquarters: 'San Francisco, US'
+founders:
+  - Aravind Srinivas
+  - Denis Yarats
+  - Johnny Ho
+  - Andy Konwinski
+stage: Growth
+status: Active
 metrics_date: 2026-02
-arr: "$200M"
-mau: "45M+"
-monthly_visits: "1.7B"
-funding_total: "$1.5B+"
+arr: $200M
+mau: 45M+
+monthly_visits: 1.7B
+funding_total: $1.5B+
 funding_rounds:
-  - {round: "Seed", amount: "$3.1M", investors: ["Elad Gil", "Nat Friedman"], date: "2022-09"}
-  - {round: "A", amount: "$25.6M", investors: [], date: "2023"}
-  - {round: "B", amount: "$73.6M", investors: ["Jeff Bezos", "NVIDIA"], date: "2024-01"}
-  - {round: "D", amount: "$500M", investors: ["IVP", "Wayra"], date: "2024-12"}
-  - {round: "Continued Growth", amount: "$200M", investors: [], date: "2025-09"}
-valuation: "$21.21B"
-employees: "~1200"
-category: "AI Search"
-subcategory: "Answer Engine"
-target_user: "Knowledge Workers, Researchers, Students, Enterprises"
-pricing_model: ["subscription", "freemium", "usage"]
+  - round: Seed
+    amount: $3.1M
+    investors:
+      - Elad Gil
+      - Nat Friedman
+    date: 2022-09
+  - round: A
+    amount: $25.6M
+    investors: []
+    date: '2023'
+  - round: B
+    amount: $73.6M
+    investors:
+      - Jeff Bezos
+      - NVIDIA
+    date: 2024-01
+  - round: D
+    amount: $500M
+    investors:
+      - IVP
+      - Wayra
+    date: 2024-12
+  - round: Continued Growth
+    amount: $200M
+    investors: []
+    date: 2025-09
+valuation: $21.21B
+employees: ~1200
+category: AI Search
+subcategory: Answer Engine
+target_user: 'Knowledge Workers, Researchers, Students, Enterprises'
+pricing_model:
+  - subscription
+  - freemium
+  - usage
 opportunity_playbooks:
-  - "[[打开能力门槛新市场]]"
-  - "[[从做任务到出成果]]"
+  - '[[02-打法库/01-机会识别/打开能力门槛新市场|打开能力门槛新市场]]'
+  - '[[02-打法库/01-机会识别/从做任务到出成果|从做任务到出成果]]'
 design_playbooks:
-  - "[[Chat 对话式]]"
-  - "[[Agent 智能体]]"
+  - '[[02-打法库/02-产品设计/Chat 对话式|Chat 对话式]]'
+  - '[[Agent 智能体]]'
 mvp_playbooks:
-  - "[[简易拼装]]"
+  - '[[02-打法库/03-MVP策略/简易拼装|简易拼装]]'
 pmf_playbooks:
-  - "[[迫切刚需]]"
-  - "[[技术适配]]"
+  - '[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]]'
+  - '[[02-打法库/03-MVP策略/技术适配|技术适配]]'
 growth_playbooks:
-  - "[[借势崛起]]"
-  - "[[SEO / 内容营销]]"
-  - "[[硬件预装分发]]"
+  - '[[02-打法库/05-增长引擎/借势崛起|借势崛起]]'
+  - '[[SEO / 内容营销]]'
+  - '[[硬件预装分发]]'
 monetization_playbooks:
-  - "[[按访问-订阅]]"
-  - "[[出版商分成]]"
+  - '[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]]'
+  - '[[出版商分成]]'
 moat_playbooks:
-  - "[[品牌信任]]"
-  - "[[工作流嵌入]]"
-  - "[[内容合作网络]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "低自主-高归因"
+  - '[[02-打法库/07-护城河/品牌信任|品牌信任]]'
+  - '[[02-打法库/07-护城河/工作流嵌入|工作流嵌入]]'
+  - '[[内容合作网络]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 低自主-高归因
 key_people:
-  - "[[Aravind Srinivas]]"
+  - '[[03-人物库/Aravind Srinivas|Aravind Srinivas]]'
 competitors:
-  - "[[Google Search]]"
-  - "[[ChatGPT]]"
-  - "[[Google Gemini]]"
-  - "[[Genspark]]"
-  - "[[Xai Grok]]"
+  - '[[01-产品库/Google Search|Google Search]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[Google Gemini]]'
+  - '[[01-产品库/产品卡片-Genspark|Genspark]]'
+  - '[[Xai Grok]]'
 related_products:
-  - "[[ChatGPT]]"
-  - "[[Genspark]]"
-  - "[[NotebookLM]]"
-  - "[[DeepSeek]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Genspark|Genspark]]'
+  - '[[01-产品库/产品卡片-NotebookLM|NotebookLM]]'
+  - '[[01-产品库/产品卡片-DeepSeek|DeepSeek]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: Perplexity
 ---
-
 # Perplexity
 
 > 一句话：不给你链接列表，直接给你答案+来源。AI 时代的新搜索引擎，已从"回答问题"扩展到"执行任务"。
@@ -142,7 +170,7 @@ Aravind Srinivas（CEO）是关键。IIT Madras 本科生，UC Berkeley 计算�
 
 Perplexity 在两者之间发现了一个 Blue Ocean：AI 合成答案 + 强制标注来源。这不是搜索也不是聊天，而是一个新品类。
 
-相关打法：[[打开能力门槛新市场]]、[[从做任务到出成果]]
+相关打法：[[02-打法库/01-机会识别/打开能力门槛新市场|打开能力门槛新市场]]、[[02-打法库/01-机会识别/从做任务到出成果|从做任务到出成果]]
 
 ### 2.2 产品怎么设计的
 
@@ -167,7 +195,7 @@ Perplexity 的架构哲学是"用最小的模型达到最好的用户体验"。�
 
 这个编排靠成本控制。Perplexity 的基础设施（基于 Vespa.ai）在实时信息检索和排序上做了大量优化。这也是为什么 Perplexity 的推理成本相对可控——虽然 2024 年报告的推理成本（$57M）超过了收入（$34M），但架构本身留了巨大的优化空间（模型变便宜、编排更聪明）。
 
-相关打法：[[Chat 对话式]]、[[Agent 智能体]]
+相关打法：[[02-打法库/02-产品设计/Chat 对话式|Chat 对话式]]、[[Agent 智能体]]
 
 ### 2.3 怎么验证的（MVP）
 
@@ -195,7 +223,7 @@ Perplexity 的架构哲学是"用最小的模型达到最好的用户体验"。�
 
 **MVP 策略类型**：简易拼装（API 组合），但核心功能（引用系统）自建
 
-相关打法：[[简易拼装]]
+相关打法：[[02-打法库/03-MVP策略/简易拼装|简易拼装]]
 
 ### 2.4 怎么切入市场的（PMF）
 
@@ -218,7 +246,7 @@ Perplexity 走的是"迫切刚需"路线。不是培养习惯（"空闲时刷一
 
 Perplexity 故意不在"搜索速度"或"索引规模"上和 Google 竞争，而是在"答案可信度"和"获取效率"上竞争。这是一个战略性的维度转移——从 Google 擅长的地盘挪到 Google 不在乎的地盘。
 
-相关打法：[[迫切刚需]]、[[技术适配]]
+相关打法：[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]]、[[02-打法库/03-MVP策略/技术适配|技术适配]]
 
 ### 2.5 怎么增长的
 
@@ -266,7 +294,7 @@ Google 搜索用户点击进来，体验到"无需自己综合"的便利
 
 这个决定看似激进，实际上是防守：如果 ChatGPT 或 Google 加上广告，用户可能无法区分。Perplexity 通过"主动放弃"这个维度来建立差异化——**用户可以信任这个答案是纯客观的，没有商业考量**。
 
-相关打法：[[借势崛起]]、[[SEO / 内容营销]]、[[硬件预装分发]]
+相关打法：[[02-打法库/05-增长引擎/借势崛起|借势崛起]]、[[SEO / 内容营销]]、[[硬件预装分发]]
 
 ### 2.6 怎么赚钱的
 
@@ -315,7 +343,7 @@ $20/月这个价点的选择很有意思。对标：
 - （2）自研模型：Sonar 模型的优化，减少对外部 API 的依赖
 - （3）推理优化：减少不必要的搜索请求，提升缓存命中率
 
-相关打法：[[按访问-订阅]]、[[出版商分成]]
+相关打法：[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]]、[[出版商分成]]
 
 ### 2.7 壁垒在哪
 
@@ -383,7 +411,7 @@ $20/月这个价点的选择很有意思。对标：
 
 这些不可复制的部分，在整个成功中大概占 30-40%。
 
-相关打法：[[品牌信任]]、[[工作流嵌入]]、[[内容合作网络]]
+相关打法：[[02-打法库/07-护城河/品牌信任|品牌信任]]、[[02-打法库/07-护城河/工作流嵌入|工作流嵌入]]、[[内容合作网络]]
 
 ---
 
@@ -706,11 +734,11 @@ Google 通过链接列表让用户自己综合，Perplexity 通过 AI 为用户�
 
 ## 相关案例
 
-- **[[Genspark]]** — 也做 AI 搜索 + 智能体，但定位更激进（不仅回答，还执行任务）。对比 Perplexity 可以看到"搜索 vs Agent"的分化
-- **[[ChatGPT]]** — Perplexity 的最大竞争对手和"贵人"。ChatGPT 教育市场，Perplexity 承接需求。两者从竞争到共生的关系很有学习价值
+- **[[01-产品库/产品卡片-Genspark|Genspark]]** — 也做 AI 搜索 + 智能体，但定位更激进（不仅回答，还执行任务）。对比 Perplexity 可以看到"搜索 vs Agent"的分化
+- **[[01-产品库/产品卡片-ChatGPT|ChatGPT]]** — Perplexity 的最大竞争对手和"贵人"。ChatGPT 教育市场，Perplexity 承接需求。两者从竞争到共生的关系很有学习价值
 - **[[Google Gemini]]** — 从大厂维度理解"AI 搜索整合"的威胁。Google 的优势（用户量、资金）和劣势（广告模式与信任冲突）
-- **[[NotebookLM]]** — Google 的另一种路线：不做开放搜索，而是"基于你的文档的 AI 研究助手"。与 Perplexity 都在解决"知识综合"，但切口完全不同
-- **[[Cursor]]** — 对比来看距钱距离。Cursor 距钱很近（代码 → 直接产出），Perplexity 距钱中等（搜索 → 辅助决策）
+- **[[01-产品库/产品卡片-NotebookLM|NotebookLM]]** — Google 的另一种路线：不做开放搜索，而是"基于你的文档的 AI 研究助手"。与 Perplexity 都在解决"知识综合"，但切口完全不同
+- **[[01-产品库/产品卡片-Cursor|Cursor]]** — 对比来看距钱距离。Cursor 距钱很近（代码 → 直接产出），Perplexity 距钱中等（搜索 → 辅助决策）
 - **[[Xai Grok]]** — 竞品。依附 X 平台分发，市场份额最近已超过 Perplexity
 
 ---

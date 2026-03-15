@@ -13,18 +13,38 @@ type: product
 用户规模: 4000 万+ 用户
 ARR: $100M+（2025 年，从 $10M 仅用 5.5 个月）
 tags:
-  opportunity: [教育市场, 开发者工具, AI 原生编程]
-  design: [IDE 集成, AI 驱动, 自然语言编程]
-  mvp: [简易拼装, 渐进式发展]
-  pmf: [开发者刚需, 教育用途]
-  growth: [教育渠道, 自然口碑, 企业扩展]
-  monetization: [订阅制, 企业销售]
-  moat: [教育用户基础, AI 集成深度, 社区效应]
-相关人物: [Amjad Masad, Faris Masad, Haya Odeh]
-竞争对手: [Cursor, Lovable, GitHub Copilot, Replit Alternatives]
-关联产品: [产品卡片-Cursor, 产品卡片-Lovable]
+  - 教育市场
+  - 开发者工具
+  - AI 原生编程
+  - IDE 集成
+  - AI 驱动
+  - 自然语言编程
+  - 简易拼装
+  - 渐进式发展
+  - 开发者刚需
+  - 教育用途
+  - 教育渠道
+  - 自然口碑
+  - 企业扩展
+  - 订阅制
+  - 企业销售
+  - 教育用户基础
+  - AI 集成深度
+  - 社区效应
+相关人物:
+  - Amjad Masad
+  - Faris Masad
+  - Haya Odeh
+竞争对手:
+  - Cursor
+  - Lovable
+  - GitHub Copilot
+  - Replit Alternatives
+关联产品:
+  - 产品卡片-Cursor
+  - 产品卡片-Lovable
+title: Replit
 ---
-
 # Replit
 
 > "AI 编程的大众化通路" —— 从在线 IDE 到"和 AI 对话编程"，一个 10 年企业的涅槃。

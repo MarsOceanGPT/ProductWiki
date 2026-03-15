@@ -1,65 +1,72 @@
 ---
 type: product
-name: "Claude"
-name_cn: "Claude"
-url: "https://claude.ai"
+name: Claude
+name_cn: Claude
+url: 'https://claude.ai'
 founded: 2023
-headquarters: "San Francisco, US"
-founders: ["Dario Amodei", "Daniela Amodei", "Anthropic 团队"]
-stage: "Growth"
-status: "Active"
+headquarters: 'San Francisco, US'
+founders:
+  - Dario Amodei
+  - Daniela Amodei
+  - Anthropic 团队
+stage: Growth
+status: Active
 metrics_date: 2026-03
-arr: "$500M+ (estimated)"
-users: "100M+ (estimated)"
-monthly_visits: "200M+"
-mau: "50M+"
-funding_total: "$5.3B"
-valuation: "$15B (Series B, 2024)"
-employees: "300+"
-category: "AI Assistant"
-subcategory: "Safe AI / Enterprise-focused LLM"
-target_user: "Developers, enterprises, knowledge workers"
-pricing_model: ["Free", "Claude Pro $20/mo", "Claude Team $30/user/mo", "Enterprise custom"]
+arr: $500M+ (estimated)
+users: 100M+ (estimated)
+monthly_visits: 200M+
+mau: 50M+
+funding_total: $5.3B
+valuation: '$15B (Series B, 2024)'
+employees: 300+
+category: AI Assistant
+subcategory: Safe AI / Enterprise-focused LLM
+target_user: 'Developers, enterprises, knowledge workers'
+pricing_model:
+  - Free
+  - Claude Pro $20/mo
+  - Claude Team $30/user/mo
+  - Enterprise custom
 opportunity_playbooks:
-  - "[[AI 安全差异化]]"
-  - "[[企业端专攻]]"
-  - "[[长上下文]]"
+  - '[[AI 安全差异化]]'
+  - '[[企业端专攻]]'
+  - '[[长上下文]]'
 design_playbooks:
-  - "[[Constitutional AI]]"
-  - "[[Projects/Files 功能]]"
+  - '[[Constitutional AI]]'
+  - '[[Projects/Files 功能]]'
 mvp_playbooks:
-  - "[[从 OpenAI 出走]]"
+  - '[[从 OpenAI 出走]]'
 pmf_playbooks:
-  - "[[开发者和企业认可]]"
+  - '[[开发者和企业认可]]'
 growth_playbooks:
-  - "[[口碑 + 企业销售]]"
+  - '[[口碑 + 企业销售]]'
 monetization_playbooks:
-  - "[[按 token 消耗]]"
-  - "[[企业按人头]]"
+  - '[[按 token 消耗]]'
+  - '[[企业按人头]]'
 moat_playbooks:
-  - "[[模型能力]]"
-  - "[[安全信任]]"
-  - "[[企业粘性]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "中频次中单价"
+  - '[[模型能力]]'
+  - '[[安全信任]]'
+  - '[[企业粘性]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 中频次中单价
 key_people:
-  - "[[Dario Amodei]] (CEO, Co-founder)"
-  - "[[Daniela Amodei]] (President, Co-founder)"
-  - "[[Tom Brown]] (Chief Scientist, GPT-3 主要作者)"
+  - '[[Dario Amodei]] (CEO, Co-founder)'
+  - '[[Daniela Amodei]] (President, Co-founder)'
+  - '[[Tom Brown]] (Chief Scientist, GPT-3 主要作者)'
 competitors:
-  - "[[ChatGPT]]"
-  - "[[Gemini]]"
-  - "[[Copilot]]"
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
+  - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
-  - "[[Claude Code]]"
-  - "[[Constitutional AI]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[01-产品库/Claude Code|Claude Code]]'
+  - '[[Constitutional AI]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: Claude
 ---
-
-# [[产品卡片-Claude|Claude]]
+# Claude
 
 > 一句话：OpenAI 的技术副总 Dario Amodei 出走创办 Anthropic，用"宪法 AI"和"安全优先"打出"我们是最可信的 AI"的人设，3 年内月活 5000 万，融资 $53 亿，在某些任务上性能超过 GPT-4。
 
@@ -115,7 +122,7 @@ mars_reviewed: false
 
 1. **Constitutional AI**：用一套"宪法"（值观规则）来训练 Claude，而不是传统的 RLHF。这让 Claude 的行为更"一致"和"可预测"
 2. **200K 上下文**：能处理整个代码库、文档库
-3. **Projects & Files**：可以上传文件、建项目、持久化对话上下文（不像 [[产品卡片-ChatGPT|ChatGPT]] 每次都是新对话）
+3. **Projects & Files**：可以上传文件、建项目、持久化对话上下文（不像 ChatGPT 每次都是新对话）
 4. **长思考能力**：Claude 会先内部思考（用户看不到）再回答，这降低了幻觉率
 
 ### 增长关键数据
@@ -178,7 +185,7 @@ Claude 是**AI Native**——没有安全和企业信任的定位，Claude 就�
 
 | 维度 | Claude 策略 | 竞品策略 | 胜负 |
 |-----|-----------|--------|-----|
-| **模型能力** | Claude 3.5 Sonnet 在编程、分析上领先 | ChatGPT o1 在推理上更强；[[产品卡片-Gemini|Gemini]] 1.5 Pro 上下文 200 万 token | 五五开 → Claude 赢编程，ChatGPT 赢推理 |
+| **模型能力** | Claude 3.5 Sonnet 在编程、分析上领先 | ChatGPT o1 在推理上更强；Gemini 1.5 Pro 上下文 200 万 token | 五五开 → Claude 赢编程，ChatGPT 赢推理 |
 | **上下文窗口** | Claude 200K token（Opus） | Gemini 1M token，ChatGPT 128K | Gemini 赢 |
 | **企业安全** | Constitutional AI + 数据隐私承诺 + 审计报告 | ChatGPT Enterprise 在做，但 Claude 信任度更高 | Claude 赢（品牌信任） |
 | **价格** | Pro $20/月 = ChatGPT Plus | 持平 | 五五开 |
@@ -195,7 +202,7 @@ Claude 是**AI Native**——没有安全和企业信任的定位，Claude 就�
 | 大厂 | 如果做"企业级安全 AI" | 需要多久 | 最大阻力 |
 |-----|---------------|--------|--------|
 | **Google（Gemini Enterprise）** | 已经有基础产品 | 已完成 | 谷歌的"监管审查"和"商业化"的矛盾，影响信任度 |
-| **Microsoft（[[产品卡片-Copilot|Copilot]] Enterprise）** | 已经推出 | 已完成 | 微软虽然强大，但在"AI 伦理"上的公信力不如 Anthropic |
+| **Microsoft（Copilot Enterprise）** | 已经推出 | 已完成 | 微软虽然强大，但在"AI 伦理"上的公信力不如 Anthropic |
 | **OpenAI（ChatGPT Enterprise）** | 已经推出 | 已完成 | 最大威胁。如果 OpenAI 的 Enterprise 版能提供同等的安全承诺，Claude 就失去了核心差异 |
 | **Meta（暂无）** | 如果想做，需要重建信任 | 12+ 个月 | Meta 在数据隐私上历来被质疑，很难建立"安全"的品牌认知 |
 
@@ -315,7 +322,7 @@ Claude 是**AI Native**——没有安全和企业信任的定位，Claude 就�
 | 品牌人设虚假 | 宣称"我们很安全"但没有第三方审计来支撑，用户会觉得虚伪 |
 | 忽视消费端 | 全力打企业端，忽视消费端的病毒式增长，导致品牌知名度不足 |
 | 定价太高 | Claude Team $30/用户/月看起来贵，不如把免费层做得更慷慨 |
-| 不敢与大厂竞争 | Claude 在欧美市场强，但在中国、东南亚等市场缺乏本地化，被豆包/[[产品卡片-Kimi|Kimi]] 压制 |
+| 不敢与大厂竞争 | Claude 在欧美市场强，但在中国、东南亚等市场缺乏本地化，被豆包/Kimi 压制 |
 
 **不可复制的成功因素**：
 

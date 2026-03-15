@@ -2,33 +2,29 @@
 type: product
 name: Qwen
 name_cn: 通义千问
-url: https://tongyi.aliyun.com
-
-# 基本信息
+url: 'https://tongyi.aliyun.com'
 founded: 2023
 headquarters: 杭州
-founders: [阿里巴巴集团]
+founders:
+  - 阿里巴巴集团
 stage: Scale
 status: Active
-
-# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 数千万月活
-monthly_visits:
-mau:
-funding_total:
+monthly_visits: null
+mau: null
+funding_total: null
 funding_rounds: []
-valuation:
-employees:
-
-# 分类
+valuation: null
+employees: null
 category: AI助手+大模型
 subcategory: LLM、AI对话、开源模型
 target_user: 开发者、企业用户、普通消费者
-pricing_model: [subscription, usage-based, open-source]
-
-# 打法标签（双向链接）
+pricing_model:
+  - subscription
+  - usage-based
+  - open-source
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +32,26 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 近
 industry_layer: 模型层+应用层
 pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [张勇, 周靖人]
-competitors: [ChatGPT, Claude, 豆包, Gemini]
-related_products: [夸克, 钉钉, 阿里云]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - 张勇
+  - 周靖人
+competitors:
+  - ChatGPT
+  - Claude
+  - 豆包
+  - Gemini
+related_products:
+  - 夸克
+  - 钉钉
+  - 阿里云
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
+title: Qwen
 ---
-
 # 通义千问 Qwen
 
 > 阿里云的双重战略：一边to B卖模型算力，一边to C争用户心智；用开源+闭源的组合拳，绕过ChatGPT的技术壁垒
@@ -584,9 +583,9 @@ AI 草稿——待 Mars 确认
 
 ## 相关案例
 
-- [[夸克]] — 通义千问的应用层产品，展示了"模型如何被集成到消费级产品"
-- [[豆包]] — 竞品，也采用了类似的开源+API+C端的三元战略
-- [[ChatGPT]] — 对标产品，单一闭源模式与通义千问的混合模式形成对比
+- [[01-产品库/产品卡片-Quark|夸克]] — 通义千问的应用层产品，展示了"模型如何被集成到消费级产品"
+- [[01-产品库/产品卡片-Doubao|豆包]] — 竞品，也采用了类似的开源+API+C端的三元战略
+- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 对标产品，单一闭源模式与通义千问的混合模式形成对比
 
 ---
 

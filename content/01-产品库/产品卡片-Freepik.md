@@ -2,44 +2,84 @@
 type: product
 name: Freepik
 name_cn: Freepik
-url: https://www.freepik.com
+url: 'https://www.freepik.com'
 founded: 2010
-headquarters: Madrid, Spain
-founders: ["Claudio Sanchez-Sanchez"]
+headquarters: 'Madrid, Spain'
+founders:
+  - Claudio Sanchez-Sanchez
 stage: Public Company (Listed on Spanish stock exchange 2024)
 status: Active
-metrics_date: "2026-03"
-arr: "$200M+ (estimated)"
-users: "50M+ monthly"
-monthly_visits: "100M+"
-mau: "30M+"
-funding_total: "$100M+ (venture + IPO)"
-funding_rounds: ["Series A", "Series B", "Growth Equity", "IPO 2024"]
-valuation: "$800M (market cap at IPO)"
-employees: "800+"
-category: "AI-powered Design Assets + Generation"
-subcategory: "Creative Tools, Design Resources"
-target_user: "Designers, content creators, marketers, SMBs, agencies"
-pricing_model: ["Freemium", "Subscription", "Enterprise"]
-opportunity_playbooks: ["Design asset library to AI generation", "From B2C to B2B", "Stock photo replacement"]
-design_playbooks: ["Massive template library", "AI image generation integration", "Search + discovery"]
-mvp_playbooks: ["Free design resources library"]
-pmf_playbooks: ["Designer adoption", "SMB cost savings", "Fast design creation"]
-growth_playbooks: ["SEO-driven growth", "Freemium conversion", "Enterprise sales"]
-monetization_playbooks: ["Freemium subscription", "Premium templates", "AI generation premium"]
-moat_playbooks: ["Design asset library network effect", "SEO authority", "Creator ecosystem"]
-distance_to_money: "Direct (B2C + B2B)"
-industry_layer: "Application/Creator Tools"
-pricing_quadrant: "Freemium + Premium subscription"
-key_people: ["Claudio Sanchez-Sanchez (Founder, CEO)", "Pablo Sanchez (Co-founder)", "Raul Sanchez-Sanchez (Co-founder)"]
-competitors: ["Canva", "Adobe Stock", "Shutterstock", "Getty Images", "Unsplash"]
-related_products: ["[[Canva]]", "[[Adobe Stock]]", "[[Midjourney]]", "[[Runway]]", "[[Remove.bg]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $200M+ (estimated)
+users: 50M+ monthly
+monthly_visits: 100M+
+mau: 30M+
+funding_total: $100M+ (venture + IPO)
+funding_rounds:
+  - Series A
+  - Series B
+  - Growth Equity
+  - IPO 2024
+valuation: $800M (market cap at IPO)
+employees: 800+
+category: AI-powered Design Assets + Generation
+subcategory: 'Creative Tools, Design Resources'
+target_user: 'Designers, content creators, marketers, SMBs, agencies'
+pricing_model:
+  - Freemium
+  - Subscription
+  - Enterprise
+opportunity_playbooks:
+  - Design asset library to AI generation
+  - From B2C to B2B
+  - Stock photo replacement
+design_playbooks:
+  - Massive template library
+  - AI image generation integration
+  - Search + discovery
+mvp_playbooks:
+  - Free design resources library
+pmf_playbooks:
+  - Designer adoption
+  - SMB cost savings
+  - Fast design creation
+growth_playbooks:
+  - SEO-driven growth
+  - Freemium conversion
+  - Enterprise sales
+monetization_playbooks:
+  - Freemium subscription
+  - Premium templates
+  - AI generation premium
+moat_playbooks:
+  - Design asset library network effect
+  - SEO authority
+  - Creator ecosystem
+distance_to_money: Direct (B2C + B2B)
+industry_layer: Application/Creator Tools
+pricing_quadrant: Freemium + Premium subscription
+key_people:
+  - 'Claudio Sanchez-Sanchez (Founder, CEO)'
+  - Pablo Sanchez (Co-founder)
+  - Raul Sanchez-Sanchez (Co-founder)
+competitors:
+  - Canva
+  - Adobe Stock
+  - Shutterstock
+  - Getty Images
+  - Unsplash
+related_products:
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[Adobe Stock]]'
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
+  - '[[01-产品库/产品卡片-Remove.bg|Remove.bg]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Freepik
 ---
-
-# [[产品卡片-Freepik|Freepik]] 产品卡片
+# Freepik 产品卡片
 
 ## 基本面表格
 
@@ -367,7 +407,7 @@ mars_reviewed: false
 
 **Freepik的生态位**：
 - **不是**：AI image generation tool（那是Midjourney/DALL-E）
-- **不是**：Design tool（那是Figma/[[产品卡片-Canva|Canva]]）
+- **不是**：Design tool（那是Figma/Canva）
 - **不是**：Stock photo库（那是Shutterstock/Getty）
 - **是**：**"设计资源的万能钥匙" + "AI辅助设计"**
 
@@ -395,7 +435,7 @@ mars_reviewed: false
 
 **赌注2：AI-native内容生成 vs 库为核心**
 - **选择**：Freepik采取混合策略——库仍是核心，AI生成是补充
-- **不同策略**：[[产品卡片-Midjourney|Midjourney]]/DALL-E赌"100%生成"，Freepik赌"库+生成"并存
+- **不同策略**：Midjourney/DALL-E赌"100%生成"，Freepik赌"库+生成"并存
 - **可能性**：如果生成质量足够好，会削弱库的优势；但库的licensing简单性短期内优于生成
 - **时间窗口**：2023-2027年生成模型会快速进化，Freepik需要加速AI能力以抵御威胁
 

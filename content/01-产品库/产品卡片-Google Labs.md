@@ -2,33 +2,28 @@
 type: product
 name: Google Labs
 name_cn: Google实验室
-url: https://labs.google
-
-# 基本信息
+url: 'https://labs.google'
 founded: 2018
-headquarters: Mountain View, California
-founders: [Google]
+headquarters: 'Mountain View, California'
+founders:
+  - Google
 stage: Growth
 status: Active
-
-# 关键指标（截至 2026-03-01）
-metrics_date: 2026-03-01
-arr: ""
+metrics_date: 2026-03-01T00:00:00.000Z
+arr: ''
 users: 500M+月活（NotebookLM估计）
-monthly_visits: ""
-mau: ""
-funding_total: ""
+monthly_visits: ''
+mau: ''
+funding_total: ''
 funding_rounds: []
-valuation: ""
-employees: ""
-
-# 分类
+valuation: ''
+employees: ''
 category: 产品孵化平台/AI实验室
 subcategory: 产品研发方法论
 target_user: 开发者、知识工作者、创意工作者、研究人员
-pricing_model: [free, freemium]
-
-# 打法标签
+pricing_model:
+  - free
+  - freemium
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,32 +31,36 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 远
 industry_layer: 应用层
 pricing_quadrant: 高自主-低归因
-
-# 人物 & 竞品
-key_people: [Sundar Pichai, Demis Hassabis]
-competitors: [OpenAI GPT Lab, Anthropic Playground, Meta Research]
-related_products: [Gemini, Bard, NotebookLM, MusicLM, ImageFX]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Sundar Pichai
+  - Demis Hassabis
+competitors:
+  - OpenAI GPT Lab
+  - Anthropic Playground
+  - Meta Research
+related_products:
+  - Gemini
+  - Bard
+  - NotebookLM
+  - MusicLM
+  - ImageFX
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: Google Labs
 ---
-
 # Google Labs
 
-> 一句话：Google 的 AI 产品"孵化器"，用免费试用和快速迭代来测试 [[产品卡片-Gemini|Gemini]]/Bard 等大模型的新应用场景，试图找到"下一个杀手级应用"。
+> 一句话：Google 的 AI 产品"孵化器"，用免费试用和快速迭代来测试 Gemini/Bard 等大模型的新应用场景，试图找到"下一个杀手级应用"。
 
 ## 基本面
 
 | 字段 | 内容 |
 |------|------|
-| **全称** | Google Labs（包括 [[产品卡片-NotebookLM|NotebookLM]]、ImageFX、MusicLM 等产品） |
+| **全称** | Google Labs（包括 NotebookLM、ImageFX、MusicLM 等产品） |
 | **归属** | Google DeepMind |
 | **核心定位** | AI 新产品孵化平台，提前向用户推介"下一代"AI 应用 |
 | **关键指标** | 月活 500M+（主要贡献来自 Gemini Apps 中的实验功能）；NotebookLM 用户 200M+ |
@@ -85,11 +84,11 @@ Google Labs 其实不是"创业产品"，而是**大公司的"产品试验田"**
 
 | 时间 | 关键动作 | 飞跃式结果 |
 |------|---------|-----------|
-| 2023 年 2 月 | 推出 Bard Labs（对标 [[产品卡片-ChatGPT|ChatGPT]] 的对话 AI） | 获得 1000 万日活；引发"Google 是否会被 ChatGPT 打败"的讨论 |
+| 2023 年 2 月 | 推出 Bard Labs（对标 ChatGPT 的对话 AI） | 获得 1000 万日活；引发"Google 是否会被 ChatGPT 打败"的讨论 |
 | 2024 年 3 月 | NotebookLM 开放测试（"将长文档转化为 AI 音频对话"） | 创意不重复，获得创意工作者的高度关注 |
 | 2024 年 7 月 | 将 Bard Labs 的功能全量集成到 Gemini（统一品牌） | Labs 模式逐步演变为"Gemini 内的实验开关" |
-| 2024 年底 | 推出 ImageFX（类似 DALL-E）和 Video Creator（类似 [[产品卡片-Runway|Runway]]） | 试图复制 OpenAI 产品矩阵的成功 |
-| 2025 年 Q1 | 推出"Deep Research"模式（长时间思考的网络研究） | 尝试让 Gemini 和 [[产品卡片-Perplexity|Perplexity]] AI 搜索打对抗 |
+| 2024 年底 | 推出 ImageFX（类似 DALL-E）和 Video Creator（类似 Runway） | 试图复制 OpenAI 产品矩阵的成功 |
+| 2025 年 Q1 | 推出"Deep Research"模式（长时间思考的网络研究） | 尝试让 Gemini 和 Perplexity AI 搜索打对抗 |
 
 ---
 
@@ -454,7 +453,7 @@ Google Labs 的机会源于**"大厂意识到自己变得不够敏捷"的时刻*
 
 **最核心的配置论选择**：**选择"快"而非"完美"**。这是 Google Labs 与竞品最大的区别。
 
-**[[产品卡片-Cursor|Cursor]] for X 评估**
+**Cursor for X 评估**
 
 Google Labs（以 NotebookLM 为例）的工作流复杂度：
 

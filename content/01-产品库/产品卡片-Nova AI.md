@@ -11,18 +11,28 @@ type: product
 融资: 待补充
 用户规模: iOS + Android + Web 跨平台用户
 tags:
-  opportunity: [低差异化市场, App 分发优势]
-  design: [Chat 对话式, 跨平台]
-  mvp: [简易拼装, 快速上线]
-  pmf: [通用聊天需求, 多设备体验]
-  growth: [App Store 排名, 口碑增长]
-  monetization: [待补充]
-  moat: [弱]
-相关人物: [待补充]
-竞争对手: [ChatGPT, Claude, Grok, Perplexity]
+  - 低差异化市场
+  - App 分发优势
+  - Chat 对话式
+  - 跨平台
+  - 简易拼装
+  - 快速上线
+  - 通用聊天需求
+  - 多设备体验
+  - App Store 排名
+  - 口碑增长
+  - 待补充
+  - 弱
+相关人物:
+  - 待补充
+竞争对手:
+  - ChatGPT
+  - Claude
+  - Grok
+  - Perplexity
 关联产品: []
+title: Nova
 ---
-
 # Nova
 
 > "又一个 AI 聊天 App" —— 当市场已经拥挤，活下来就是胜利。

@@ -2,47 +2,90 @@
 type: product
 name: HeyGen
 name_cn: HeyGen
-url: https://www.heygen.com
+url: 'https://www.heygen.com'
 founded: 2020
-headquarters: Los Angeles, USA
-founders: ["Joshua Xu", "Wayne Liang"]
+headquarters: 'Los Angeles, USA'
+founders:
+  - Joshua Xu
+  - Wayne Liang
 stage: Growth
 status: Active
-metrics_date: "2025-09"
-arr: "$100M"
-users: "100,000+ businesses, millions of creators"
-monthly_visits: "Information not available"
-mau: "Information not available"
-funding_total: "$65.6M"
-funding_rounds: [
-  "Seed (Sarah Guo/Conviction, $5.6M, Nov 2023)",
-  "Series A ($60M, Benchmark led, Jun 2024)"
-]
-valuation: "$500M (as of Jun 2024)"
-employees: "157"
-category: "AI Video Generation"
-subcategory: "AI Avatar Video, Interactive Avatar, Text-to-Video"
-target_user: "Content creators, SMBs, enterprises, marketing teams, L&D departments, global video teams"
-pricing_model: ["Freemium", "Subscription", "Pay-per-use", "Enterprise Custom"]
-opportunity_playbooks: ["B2B SLG expansion", "Enterprise video workflow", "Multilingual content automation", "Interactive avatar API"]
-design_playbooks: ["Avatar customization", "Voice synthesis at scale", "Template-driven UI/UX", "Real-time interactive avatars"]
-mvp_playbooks: ["Garage demo to viral growth", "Focus on ease-of-use over features"]
-pmf_playbooks: ["Creator-to-enterprise crossover", "Use-case expansion (marketing, training, education)"]
-growth_playbooks: ["Viral content creation from users", "Integration with content platforms", "B2B2C channel partnerships", "G2 fastest-growing 2025"]
-monetization_playbooks: ["Freemium with seat-based pricing", "API/enterprise licensing", "Volume-based credits", "PLG + Direct Sales hybrid"]
-moat_playbooks: ["Avatar IV photorealism advantage", "Custom avatar creation IP", "Multilingual AI voice quality (175+ languages)", "Data network effects"]
-distance_to_money: "Direct (B2B/B2C transaction revenue, high proximity)"
-industry_layer: "Application Layer / Creator Tools"
-pricing_quadrant: "High autonomy, High attribution (video credits)"
-key_people: ["Joshua Xu (CEO, Co-founder, ex-Snapchat/VSCO)", "Wayne Liang (CIO, Co-founder)"]
-competitors: ["Synthesia", "D-ID", "Descript", "Opus Clip", "Google Vids"]
-related_products: ["[[Synthesia]]", "[[Sora]]", "[[Runway Gen-2]]", "[[Descript]]", "[[Character.AI]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2025-09
+arr: $100M
+users: '100,000+ businesses, millions of creators'
+monthly_visits: Information not available
+mau: Information not available
+funding_total: $65.6M
+funding_rounds:
+  - 'Seed (Sarah Guo/Conviction, $5.6M, Nov 2023)'
+  - 'Series A ($60M, Benchmark led, Jun 2024)'
+valuation: $500M (as of Jun 2024)
+employees: '157'
+category: AI Video Generation
+subcategory: 'AI Avatar Video, Interactive Avatar, Text-to-Video'
+target_user: >-
+  Content creators, SMBs, enterprises, marketing teams, L&D departments, global
+  video teams
+pricing_model:
+  - Freemium
+  - Subscription
+  - Pay-per-use
+  - Enterprise Custom
+opportunity_playbooks:
+  - B2B SLG expansion
+  - Enterprise video workflow
+  - Multilingual content automation
+  - Interactive avatar API
+design_playbooks:
+  - Avatar customization
+  - Voice synthesis at scale
+  - Template-driven UI/UX
+  - Real-time interactive avatars
+mvp_playbooks:
+  - Garage demo to viral growth
+  - Focus on ease-of-use over features
+pmf_playbooks:
+  - Creator-to-enterprise crossover
+  - 'Use-case expansion (marketing, training, education)'
+growth_playbooks:
+  - Viral content creation from users
+  - Integration with content platforms
+  - B2B2C channel partnerships
+  - G2 fastest-growing 2025
+monetization_playbooks:
+  - Freemium with seat-based pricing
+  - API/enterprise licensing
+  - Volume-based credits
+  - PLG + Direct Sales hybrid
+moat_playbooks:
+  - Avatar IV photorealism advantage
+  - Custom avatar creation IP
+  - Multilingual AI voice quality (175+ languages)
+  - Data network effects
+distance_to_money: 'Direct (B2B/B2C transaction revenue, high proximity)'
+industry_layer: Application Layer / Creator Tools
+pricing_quadrant: 'High autonomy, High attribution (video credits)'
+key_people:
+  - 'Joshua Xu (CEO, Co-founder, ex-Snapchat/VSCO)'
+  - 'Wayne Liang (CIO, Co-founder)'
+competitors:
+  - Synthesia
+  - D-ID
+  - Descript
+  - Opus Clip
+  - Google Vids
+related_products:
+  - '[[01-产品库/产品卡片-Synthesia|Synthesia]]'
+  - '[[Sora]]'
+  - '[[Runway Gen-2]]'
+  - '[[Descript]]'
+  - '[[Character.AI]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: HeyGen
 ---
-
-# [[产品卡片-HeyGen|HeyGen]] 产品卡片
+# HeyGen 产品卡片
 
 ## 基本面表格
 
@@ -158,7 +201,7 @@ Joshua Xu 的职业轨迹印刻了"从工程转向产品创新"的典型硅谷�
 3. **社会证明效应快** → 一个企业成功用HeyGen做了营销视频后，整个行业竞品都想复制
 
 **与Synthesia的对标**：
-| 维度 | HeyGen | [[产品卡片-Synthesia|Synthesia]] |
+| 维度 | HeyGen | Synthesia |
 |------|--------|----------|
 | 用户入门难度 | 低（3分钟) | 中等（需要学习参数) |
 | Avatar质感 | 更自然、人类化 | 更"企业感"、可信但稍显生硬 |
@@ -190,7 +233,7 @@ HeyGen赢的是"**创作者的口碑**"，Synthesia赢的是"**企业IT部门的
 
 **为什么增长在加速的同时斜率变缓**（从5.75x→1.74x）：
 - 市场渗透进入"成熟期"：美国大型企业的70%已经试过或采用HeyGen
-- 竞争加剧：[[Synthesia]] 也在做Custom Avatar，Google、Meta的内部方案在升级
+- 竞争加剧：[[01-产品库/产品卡片-Synthesia|Synthesia]] 也在做Custom Avatar，Google、Meta的内部方案在升级
 - 但**绝对增长在加速**：从年增$22.5M→年增$42.5M，说明市场规模本身在扩大
 
 **关键战术**：
@@ -263,7 +306,7 @@ HeyGen赢的是"**创作者的口碑**"，Synthesia赢的是"**企业IT部门的
 3. **Creator社区粘性**
    - HeyGen视频已成为小红书、TikTok、YouTube Shorts上的"风格标签"
    - 当平台用户看到"HeyGen生成"的标签，反而成为"这个内容有专业感"的信号
-   - [[Synthesia]]从未建立起这种品牌联想
+   - [[01-产品库/产品卡片-Synthesia|Synthesia]]从未建立起这种品牌联想
 
 4. **B2B2C分发渠道的锁定**
    - HeyGen与主流企业LMS、CMS的集成已成事实
@@ -314,7 +357,7 @@ HeyGen本质上是"**AI Native产品**"——没有AI就不存在这个业务形
 | **定价灵活性** | 按产出量计费（Credits） | 按席位/月订阅 | HeyGen（SMB和变量成本敏感方） |
 
 **为什么HeyGen没有选择竞争的维度**：
-- ✗ 不在"专业视频特效"维度竞争（那是[[After Effects]]、[[[[产品卡片-Runway|Runway]]]]）
+- ✗ 不在"专业视频特效"维度竞争（那是[[After Effects]]、[[01-产品库/产品卡片-Runway|Runway]]）
 - ✗ 不在"实时流媒体"竞争（那是Zoom、OBS）
 - ✗ 不在"AI模型创新"竞争（OpenAI和Google已经赢了）
 
@@ -387,13 +430,13 @@ HeyGen本质上是"**AI Native产品**"——没有AI就不存在这个业务形
 ### 生态位定位
 
 **HeyGen的生态位**：
-- **不是**: 电影级视频特效工具（那是[[After Effects]]、[[Runway]]）
+- **不是**: 电影级视频特效工具（那是[[After Effects]]、[[01-产品库/产品卡片-Runway|Runway]]）
 - **不是**: 企业直播平台（那是Zoom、OBS）
 - **是**: "内容工厂的生产设备"
 
 **垂直整合的方向**：
 - ↓ 往上游：模型微调服务（企业可上传自己的video data，微调Avatar的说话方式）
-- → 往平面：与[[[[产品卡片-Canva|Canva]]]]、[[Figma]]等设计工具集成（"一键从设计稿生成视频")
+- → 往平面：与[[01-产品库/产品卡片-Canva|Canva]]、[[Figma]]等设计工具集成（"一键从设计稿生成视频")
 - ↑ 往下游：与内容分发平台深度集成（直接发布到YouTube、TikTok）
 
 ---

@@ -1,68 +1,73 @@
 ---
 type: product
-name: "Gemini"
-name_cn: "Gemini"
-url: "https://gemini.google.com"
+name: Gemini
+name_cn: Gemini
+url: 'https://gemini.google.com'
 founded: 2023
-headquarters: "Mountain View, US"
-founders: ["DeepMind 团队（Demis Hassabis 领导）"]
-stage: "Scale"
-status: "Active"
+headquarters: 'Mountain View, US'
+founders:
+  - DeepMind 团队（Demis Hassabis 领导）
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$1B+ (estimated)"
-users: "500M+ (estimated from Google ecosystem)"
-monthly_visits: "800M+ (estimated)"
-mau: "400M+"
-funding_total: "内部培育"
-valuation: "Google 子业务"
-employees: "500+ (DeepMind 相关)"
-category: "AI Assistant"
-subcategory: "Conversational AI / Multimodal LLM"
-target_user: "Google ecosystem users, enterprises"
-pricing_model: ["Free", "Gemini Advanced $20/mo", "Google One Premium $20/mo", "Enterprise custom"]
+arr: $1B+ (estimated)
+users: 500M+ (estimated from Google ecosystem)
+monthly_visits: 800M+ (estimated)
+mau: 400M+
+funding_total: 内部培育
+valuation: Google 子业务
+employees: 500+ (DeepMind 相关)
+category: AI Assistant
+subcategory: Conversational AI / Multimodal LLM
+target_user: 'Google ecosystem users, enterprises'
+pricing_model:
+  - Free
+  - Gemini Advanced $20/mo
+  - Google One Premium $20/mo
+  - Enterprise custom
 opportunity_playbooks:
-  - "[[生态内置]]"
-  - "[[搜索替代]]"
-  - "[[垂直深度]]"
+  - '[[生态内置]]'
+  - '[[搜索替代]]'
+  - '[[垂直深度]]'
 design_playbooks:
-  - "[[Gemini 1.5 Pro 长上下文]]"
-  - "[[多模态]]"
-  - "[[Google 搜索集成]]"
+  - '[[Gemini 1.5 Pro 长上下文]]'
+  - '[[多模态]]'
+  - '[[Google 搜索集成]]'
 mvp_playbooks:
-  - "[[Bard 的迭代]]"
+  - '[[Bard 的迭代]]'
 pmf_playbooks:
-  - "[[企业端深度集成]]"
+  - '[[企业端深度集成]]'
 growth_playbooks:
-  - "[[Google 全家桶嵌入]]"
+  - '[[Google 全家桶嵌入]]'
 monetization_playbooks:
-  - "[[企业采购]]"
-  - "[[API 定价]]"
+  - '[[企业采购]]'
+  - '[[API 定价]]'
 moat_playbooks:
-  - "[[搜索数据]]"
-  - "[[生态网络效应]]"
-  - "[[计算基础设施]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "高频次低单价"
+  - '[[搜索数据]]'
+  - '[[生态网络效应]]'
+  - '[[计算基础设施]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 高频次低单价
 key_people:
-  - "[[Demis Hassabis]] (Chief Executive Officer, DeepMind)"
-  - "[[Sundar Pichai]] (CEO, Google)"
-  - "[[Jeff Dean]] (Chief Scientist, Google DeepMind)"
+  - '[[03-人物库/Demis Hassabis|Demis Hassabis]] (Chief Executive Officer, DeepMind)'
+  - '[[Sundar Pichai]] (CEO, Google)'
+  - '[[03-人物库/Jeff Dean|Jeff Dean]] (Chief Scientist, Google DeepMind)'
 competitors:
-  - "[[ChatGPT]]"
-  - "[[Claude]]"
-  - "[[Copilot]]"
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
-  - "[[Google Search]]"
-  - "[[Google Workspace]]"
-  - "[[YouTube]]"
-  - "[[Google Cloud]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[01-产品库/Google Search|Google Search]]'
+  - '[[Google Workspace]]'
+  - '[[YouTube]]'
+  - '[[Google Cloud]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: Gemini
 ---
-
-# [[产品卡片-Gemini|Gemini]]
+# Gemini
 
 > 一句话：Google 用 DeepMind 的多模态模型做了个"掌握所有牌"的助手，反而被一个初创公司（OpenAI）的对话界面打了个措手不及，然后花 3 年追赶。
 
@@ -77,7 +82,7 @@ mars_reviewed: false
 | **核心定位** | 多模态 AI 助手，集成 Google Search、Workspace、YouTube 等生态 |
 | **关键指标** | 500M+ 生态用户（内部激活），文件理解能力 1M+ tokens（Gemini 1.5）|
 | **定价** | 免费版（有限）/ Gemini Advanced $20/月（无限访问+Workspace集成）|
-| **标志性时刻** | 2023.2 Bard 发布 → 2023.3 [[产品卡片-ChatGPT|ChatGPT]] "打懵"Google → 2024.2 Gemini 1.5 发布(100K上下文) → 2024.12 Gemini 2.0 发布(1M tokens) → 企业端付费增长 258% |
+| **标志性时刻** | 2023.2 Bard 发布 → 2023.3 ChatGPT "打懵"Google → 2024.2 Gemini 1.5 发布(100K上下文) → 2024.12 Gemini 2.0 发布(1M tokens) → 企业端付费增长 258% |
 | **核心差异** | （1）多模态原生（图、文、音、视频一体）（2）Google Search 实时集成（3）Workspace 深度融合（Gmail、Docs、Sheets 直接调用）（4）长上下文能力业界最强|
 
 ---
@@ -86,11 +91,11 @@ mars_reviewed: false
 
 ### 创始人基因分析
 
-**[[Demis Hassabis]]**（DeepMind CEO）：英国计算神经科学家，MindGames Ltd 创始人（2005），DeepMind 创始人（2010），AlphaGo 之父。Demis 的基因是"跨界集成"——他把神经科学、游戏 AI、强化学习结合在一起。在 Google 架构中，Demis 负责 AI 科研方向（不做具体产品）。
+**Demis Hassabis**（DeepMind CEO）：英国计算神经科学家，MindGames Ltd 创始人（2005），DeepMind 创始人（2010），AlphaGo 之父。Demis 的基因是"跨界集成"——他把神经科学、游戏 AI、强化学习结合在一起。在 Google 架构中，Demis 负责 AI 科研方向（不做具体产品）。
 
 **Sundar Pichai**（Google CEO）：Google Search 早期团队成员，一手把 Google Chrome 做成全球最强浏览器，后来成为 Google CEO。Pichai 的角色是"把研究转化为产品"——Gemini 的商业化战略由他推动。
 
-**[[Jeff Dean]]**（Chief Scientist, Google DeepMind）：Google 三驾马车之一（与 Sanjay Ghemawat），Bigtable/MapReduce 的设计者。Jeff 负责 LLM 的工程化（如何把 DeepMind 的研究从"论文"变成"产品"）。
+**Jeff Dean**（Chief Scientist, Google DeepMind）：Google 三驾马车之一（与 Sanjay Ghemawat），Bigtable/MapReduce 的设计者。Jeff 负责 LLM 的工程化（如何把 DeepMind 的研究从"论文"变成"产品"）。
 
 三人的杠杆组合：Demis 做"最强的研究"，Pichai 做"最快的商业化"，Jeff 做"最高效的工程"。理论上 Google 应该赢。但实际上... OpenAI 赢了。
 
@@ -132,7 +137,7 @@ mars_reviewed: false
 
 **架构选择**：为什么 Gemini 从一开始就是"多模态"而不是"纯文本"？
 - Google 掌握 YouTube（1 亿小时视频）、Photos（数十亿张图片），数据优势天然指向多模态
-- 多模态比纯文本更难复现——OpenAI 的 GPT-4V 晚了 6 个月，[[产品卡片-Claude|Claude]] 的多模态到现在都不完整
+- 多模态比纯文本更难复现——OpenAI 的 GPT-4V 晚了 6 个月，Claude 的多模态到现在都不完整
 
 **交互范式**：
 - Bard 最初是独立应用（类似 ChatGPT）
@@ -252,7 +257,7 @@ Google 后来意识到——企业愿意为"集成到我现有工作流"的功�
 **最大威胁**：
 1. **Claude 的"道德优越感"**：Anthropic 积极宣传"更安全的 AI"，吸引了重视隐私的企业
 2. **OpenAI 的"品牌垄断"**：即使 Gemini 能力更强，很多用户还是会说"我用 ChatGPT"
-3. **本地模型的开源威胁**：[[产品卡片-DeepSeek|DeepSeek]]、[[Llama]] 等开源模型逐步商品化，企业可能自建而不用 Gemini
+3. **本地模型的开源威胁**：DeepSeek、Llama 等开源模型逐步商品化，企业可能自建而不用 Gemini
 4. **Chrome 和 Gmail 无法"强制"升级**：Google 掌握 Chrome 和 Gmail，但用户对"强推 Gemini"有抗性
 
 ---
@@ -314,7 +319,7 @@ Gemini 是**AI Wrapper**（关键角色）——去掉 Gmail、Workspace、Searc
 |-----|---------------|--------|--------|
 | **OpenAI（GPT-5/6）** | 能做，但晚了 1-2 年 | 12-18 个月 | 自身数据库不如 Google 的多媒体资源丰富 |
 | **Meta** | Llama 可以长上下文，但多模态较弱 | 已完成长上下文，多模态还需 6 个月 | Meta 的数据库（FB、Instagram）不如 YouTube 那么优势明显 |
-| **Microsoft** | [[产品卡片-Copilot|Copilot]] 整合 Office，但多模态刚起步 | 12+ 个月 | Office 深度集成不如 Workspace 那么紧密 |
+| **Microsoft** | Copilot 整合 Office，但多模态刚起步 | 12+ 个月 | Office 深度集成不如 Workspace 那么紧密 |
 
 **可替代性与迁移成本**：
 

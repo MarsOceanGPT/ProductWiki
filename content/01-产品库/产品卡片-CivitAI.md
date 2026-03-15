@@ -2,43 +2,79 @@
 type: product
 name: CivitAI
 name_cn: CivitAI
-url: https://civitai.com
+url: 'https://civitai.com'
 founded: 2022
 headquarters: United States (distributed)
-founders: ["Justin Maier"]
-stage: VC-backed, Series A
+founders:
+  - Justin Maier
+stage: 'VC-backed, Series A'
 status: Active
-metrics_date: "2026-03"
-arr: "Not disclosed (likely $5M-10M)"
-users: "500K+ registered, 100K+ monthly active"
-monthly_visits: "100M+"
-mau: "100K+"
-funding_total: "$45M+ (Series A)"
-funding_rounds: ["Seed", "Series A"]
-valuation: "Estimated $100M-200M"
-employees: "30-50"
-category: "AI Art/Model Community"
-subcategory: "Open Source Models, Creator Community, NSFW Content Hub"
-target_user: "Digital artists, Stable Diffusion users, AI model enthusiasts, indie creators"
-pricing_model: ["Free with optional premium", "Model monetization for creators"]
-opportunity_playbooks: ["Open source image model hub", "Creator monetization for models", "Permissive content policy vs regulation"]
-design_playbooks: ["Model discovery and filtering", "Showcase gallery", "Community voting and reviews", "Creator revenue sharing"]
-mvp_playbooks: ["Simple model repository", "Gallery for showcasing generations", "Creator upload interface"]
-pmf_playbooks: ["Stable Diffusion power users wanting custom models", "Artists wanting to share their LoRA/checkpoint", "Communities exploring edge-case generations"]
-growth_playbooks: ["Stable Diffusion community adoption", "Creator content sharing", "Discord community", "Permissive content policy (NSFW tolerance)"]
-monetization_playbooks: ["Creator tip system", "Model monetization (creators set price)", "Premium membership consideration"]
-moat_playbooks: ["Network effect of model ecosystem", "Creator community lock-in", "Permissive culture vs competition"]
-distance_to_money: "Direct but weak (creator-centric, not platform-centric)"
-industry_layer: "Community/Marketplace Layer"
-pricing_quadrant: "Free with optional creator monetization"
-key_people: ["Justin Maier (CEO/Founder)"]
-competitors: ["Hugging Face (for models)", "Notion Community (for portfolios)", "Discord communities (for sharing)"]
-related_products: ["[[Hugging Face]]", "[[Stable Diffusion]]", "[[Midjourney]]", "[[DALL-E]]"]
-last_updated: "2026-03-14"
-confidence: "Medium"
+metrics_date: 2026-03
+arr: Not disclosed (likely $5M-10M)
+users: '500K+ registered, 100K+ monthly active'
+monthly_visits: 100M+
+mau: 100K+
+funding_total: $45M+ (Series A)
+funding_rounds:
+  - Seed
+  - Series A
+valuation: Estimated $100M-200M
+employees: 30-50
+category: AI Art/Model Community
+subcategory: 'Open Source Models, Creator Community, NSFW Content Hub'
+target_user: 'Digital artists, Stable Diffusion users, AI model enthusiasts, indie creators'
+pricing_model:
+  - Free with optional premium
+  - Model monetization for creators
+opportunity_playbooks:
+  - Open source image model hub
+  - Creator monetization for models
+  - Permissive content policy vs regulation
+design_playbooks:
+  - Model discovery and filtering
+  - Showcase gallery
+  - Community voting and reviews
+  - Creator revenue sharing
+mvp_playbooks:
+  - Simple model repository
+  - Gallery for showcasing generations
+  - Creator upload interface
+pmf_playbooks:
+  - Stable Diffusion power users wanting custom models
+  - Artists wanting to share their LoRA/checkpoint
+  - Communities exploring edge-case generations
+growth_playbooks:
+  - Stable Diffusion community adoption
+  - Creator content sharing
+  - Discord community
+  - Permissive content policy (NSFW tolerance)
+monetization_playbooks:
+  - Creator tip system
+  - Model monetization (creators set price)
+  - Premium membership consideration
+moat_playbooks:
+  - Network effect of model ecosystem
+  - Creator community lock-in
+  - Permissive culture vs competition
+distance_to_money: 'Direct but weak (creator-centric, not platform-centric)'
+industry_layer: Community/Marketplace Layer
+pricing_quadrant: Free with optional creator monetization
+key_people:
+  - Justin Maier (CEO/Founder)
+competitors:
+  - Hugging Face (for models)
+  - Notion Community (for portfolios)
+  - Discord communities (for sharing)
+related_products:
+  - '[[01-产品库/产品卡片-Hugging Face|Hugging Face]]'
+  - '[[Stable Diffusion]]'
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
+  - '[[DALL-E]]'
+last_updated: '2026-03-14'
+confidence: Medium
 mars_reviewed: false
+title: CivitAI
 ---
-
 # CivitAI 产品卡片
 
 ## 基本面表格
@@ -206,7 +242,7 @@ CivitAI vs Hugging Face的核心差异：
 
 **Phase 3: 市场成熟和风险（2024-2025）**
 - 监管压力（NSFW content controversy）
-- [[产品卡片-Midjourney|Midjourney]]/Adobe等官方工具也开始支持custom models
+- Midjourney/Adobe等官方工具也开始支持custom models
 - 增长放缓，但retention高
 
 **具体数据**：
@@ -280,7 +316,7 @@ CivitAI vs Hugging Face的核心差异：
 **第三层壁垒：Monetization for creators**
 - 艺术家可以从models获得收入
 - 这激励了高质量model的creation
-- 其他platforms（[[产品卡片-Hugging Face|Hugging Face]]）不提供这个
+- 其他platforms（Hugging Face）不提供这个
 
 **第四层壁垒：...脆弱**
 - NSFW内容面临监管风险（Payment processors可能reject）

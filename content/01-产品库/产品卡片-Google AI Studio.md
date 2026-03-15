@@ -2,43 +2,78 @@
 type: product
 name: Google AI Studio
 name_cn: Google AI Studio
-url: https://aistudio.google.com
+url: 'https://aistudio.google.com'
 founded: 2023
 headquarters: Mountain View
-founders: ["Google (Product by Google Labs/Bard team)"]
+founders:
+  - Google (Product by Google Labs/Bard team)
 stage: Major tech company product
 status: Active
-metrics_date: "2026-03"
-arr: "Not directly monetized (strategic product)"
-users: "Millions of developers (estimated)"
-monthly_visits: "50M+"
-mau: "500K+"
-funding_total: "Internal (Google resources)"
+metrics_date: 2026-03
+arr: Not directly monetized (strategic product)
+users: Millions of developers (estimated)
+monthly_visits: 50M+
+mau: 500K+
+funding_total: Internal (Google resources)
 funding_rounds: []
-valuation: "Strategic value only"
-employees: "Embedded in Google org"
-category: "AI Developer Tools / LLM API Access"
-subcategory: "Developer Platform, API Gateway, Model Access"
-target_user: "Developers, startups, enterprises using Google AI models"
-pricing_model: ["Freemium", "Pay-as-you-go API pricing"]
-opportunity_playbooks: ["Free tier to drive model adoption", "Gemini API distribution", "Low-cost competitive positioning vs OpenAI"]
-design_playbooks: ["Web IDE for prompting", "Code generation examples", "Model parameter tuning UI", "API documentation integration"]
-mvp_playbooks: ["Simple web interface for Gemini API", "Free tier with rate limits"]
-pmf_playbooks: ["Developers wanting free/cheap AI API", "Startups avoiding OpenAI costs", "Enterprise standardization on Google"]
-growth_playbooks: ["Zero advertising, organic discovery", "Enterprise sales integration", "Cloud integration (GCP)", "Competitive pricing vs OpenAI"]
-monetization_playbooks: ["Pay-as-you-go API pricing", "Volume discounts for enterprise", "Integration with GCP for scaling"]
-moat_playbooks: ["Google infrastructure efficiency", "Gemini model quality", "GCP ecosystem integration", "Enterprise relationships"]
-distance_to_money: "Direct (through GCP/API pricing)"
-industry_layer: "Application/API Platform"
-pricing_quadrant: "Freemium with low pay-as-you-go pricing"
-key_people: ["Product managed by Google DeepMind/Google Labs"]
-competitors: ["OpenAI Platform (ChatGPT API)", "Anthropic Claude API", "Cohere API", "Mistral API"]
-related_products: ["[[Gemini]]", "[[Google Cloud]]", "[[ChatGPT API]]", "[[Claude API]]"]
-last_updated: "2026-03-14"
-confidence: "Medium"
+valuation: Strategic value only
+employees: Embedded in Google org
+category: AI Developer Tools / LLM API Access
+subcategory: 'Developer Platform, API Gateway, Model Access'
+target_user: 'Developers, startups, enterprises using Google AI models'
+pricing_model:
+  - Freemium
+  - Pay-as-you-go API pricing
+opportunity_playbooks:
+  - Free tier to drive model adoption
+  - Gemini API distribution
+  - Low-cost competitive positioning vs OpenAI
+design_playbooks:
+  - Web IDE for prompting
+  - Code generation examples
+  - Model parameter tuning UI
+  - API documentation integration
+mvp_playbooks:
+  - Simple web interface for Gemini API
+  - Free tier with rate limits
+pmf_playbooks:
+  - Developers wanting free/cheap AI API
+  - Startups avoiding OpenAI costs
+  - Enterprise standardization on Google
+growth_playbooks:
+  - 'Zero advertising, organic discovery'
+  - Enterprise sales integration
+  - Cloud integration (GCP)
+  - Competitive pricing vs OpenAI
+monetization_playbooks:
+  - Pay-as-you-go API pricing
+  - Volume discounts for enterprise
+  - Integration with GCP for scaling
+moat_playbooks:
+  - Google infrastructure efficiency
+  - Gemini model quality
+  - GCP ecosystem integration
+  - Enterprise relationships
+distance_to_money: Direct (through GCP/API pricing)
+industry_layer: Application/API Platform
+pricing_quadrant: Freemium with low pay-as-you-go pricing
+key_people:
+  - Product managed by Google DeepMind/Google Labs
+competitors:
+  - OpenAI Platform (ChatGPT API)
+  - Anthropic Claude API
+  - Cohere API
+  - Mistral API
+related_products:
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
+  - '[[Google Cloud]]'
+  - '[[ChatGPT API]]'
+  - '[[Claude API]]'
+last_updated: '2026-03-14'
+confidence: Medium
 mars_reviewed: false
+title: Google AI Studio
 ---
-
 # Google AI Studio 产品卡片
 
 ## 基本面表格
@@ -51,7 +86,7 @@ mars_reviewed: false
 | **月活用户** | 500K+ 注册开发者（推测） |
 | **月度访问量** | 50M+ 页面浏览 |
 | **免费配额** | 60请求/分钟，2百万token/月 |
-| **付费定价** | $0.00075/输入token, $0.003/输出token（[[产品卡片-Gemini|Gemini]] 1.5 Flash） |
+| **付费定价** | $0.00075/输入token, $0.003/输出token（Gemini 1.5 Flash） |
 | **团队规模** | 嵌入Google组织（几十到几百人） |
 | **关键定位** | "OpenAI Platform的平价替代品" |
 | **战略地位** | Gemini生态的关键distribution channel |
@@ -242,7 +277,7 @@ Web IDE（或直接API）→ 调用Gemini模型 → 显示结果
 
 **但相比OpenAI的壁垒**：
 - **开发者习惯**：开发者已经用了OpenAI一年多，switching cost存在
-- **应用生态**：[[产品卡片-ChatGPT|ChatGPT]] plugins已经是ecosystem，Gemini还在building
+- **应用生态**：ChatGPT plugins已经是ecosystem，Gemini还在building
 - **品牌**：OpenAI在"AI"领域的品牌强度依然是market leader
 
 ---
@@ -418,7 +453,7 @@ Google AI Studio代表了一个有趣的战略转变：**从"垄断产品本身"
 
 - **短期优势（2023-2024）**：Gemini的长上下文在特定用途上超越GPT-4
 - **中期风险（2024-2026）**：OpenAI推出GPT-4 Turbo/后续版本，缩小差距
-- **长期威胁**：如果开源模型（[[Llama]] 3/4）追平Gemini能力，API定价会被迫下压，利润率归零
+- **长期威胁**：如果开源模型（Llama 3/4）追平Gemini能力，API定价会被迫下压，利润率归零
 
 ---
 

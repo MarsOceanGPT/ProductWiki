@@ -1,83 +1,106 @@
 ---
 type: product
-name: "Lovable"
-name_cn: "Lovable"
-url: "https://lovable.dev"
+name: Lovable
+name_cn: Lovable
+url: 'https://lovable.dev'
 founded: 2023-11
-headquarters: "Stockholm, Sweden"
-founders: ["Anton Osika", "Fabian Hedin"]
-stage: "Series B"
-status: "Active"
-metrics_date: "2026-03"
-arr: "$400M+ (Feb 2026)"
-users: "15M DAU"
-monthly_visits: "39.33M (Jan 2026)"
-mau: "8M (Nov 2025)"
-funding_total: "$537.5M"
-funding_rounds: [
-  {
-    "round": "Pre-Seed",
-    "amount": "$7.5M",
-    "date": "Oct 2024",
-    "lead": "byFounders, Hummingbird Ventures"
-  },
-  {
-    "round": "Pre-Series A",
-    "amount": "€14.3M",
-    "date": "Jan 2025",
-    "lead": "Creandum"
-  },
-  {
-    "round": "Series A",
-    "amount": "$200M",
-    "date": "Jul 2025",
-    "lead": "Accel",
-    "valuation": "$1.8B"
-  },
-  {
-    "round": "Series B",
-    "amount": "$330M",
-    "date": "Dec 2025",
-    "lead": "CapitalG, Menlo Ventures, NVentures",
-    "valuation": "$6.6B"
-  }
-]
-valuation: "$6.6B (Dec 2025)"
-employees: "146 (Mar 2026)"
-category: "AI 开发工具"
-subcategory: "AI Web App Builder / Vibe Coding"
-target_user: "Non-technical users, product managers, founders, enterprises"
-pricing_model: ["Freemium", "Credit-based", "Pro $25/mo", "Business $50/mo", "Enterprise custom"]
-opportunity_playbooks: ["开放源代码->商业化", "低代码到无代码", "B2B2C渠道", "PLG+企业销售双轨"]
-design_playbooks: ["Lovability as moat", "品牌温暖度", "社区优先"]
-mvp_playbooks: ["GitHub open source MVP", "多次失败后的rebranding"]
-pmf_playbooks: ["$4M ARR in 30 days", "85% Day 30 retention"]
-growth_playbooks: ["Product Hunt #1 + HN同步", "嵌入式attribution viral loop", "模板remixing", "企业自上而下+个人自下而上双驱动"]
-monetization_playbooks: ["Credit消耗制", "个人->企业升级路径", "50%企业转化来自个人引入"]
-moat_playbooks: ["UX/warmth vs competition", "速度advantage", "社区网络效应", "生态链接(GitHub+Vercel+Supabase)"]
-distance_to_money: "极近 - 直接现金消耗，$2.77M ARR per employee"
-industry_layer: "AI应用层 - 代码生成/软件开发工具"
-pricing_quadrant: "高频次低单价 -> 企业高ARPU"
-key_people: [
-  {
-    "name": "Anton Osika",
-    "title": "Co-founder & CEO",
-    "background": "物理学家(CERN) -> Sana Labs founding engineer -> Depict.ai co-founder & CTO"
-  },
-  {
-    "name": "Fabian Hedin",
-    "title": "Co-founder & CTO",
-    "background": "KTH毕业生, Depict Frontend Lead, 11岁时在Minecraft赚数千美元"
-  }
-]
-competitors: ["Bolt.new", "Vercel v0", "Replit", "Cursor", "Magic.dev"]
-related_products: ["[[Claude]], [[Cursor]], [[Bolt]], [[V0]], [[Replit]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+headquarters: 'Stockholm, Sweden'
+founders:
+  - Anton Osika
+  - Fabian Hedin
+stage: Series B
+status: Active
+metrics_date: 2026-03
+arr: $400M+ (Feb 2026)
+users: 15M DAU
+monthly_visits: 39.33M (Jan 2026)
+mau: 8M (Nov 2025)
+funding_total: $537.5M
+funding_rounds:
+  - round: Pre-Seed
+    amount: $7.5M
+    date: Oct 2024
+    lead: 'byFounders, Hummingbird Ventures'
+  - round: Pre-Series A
+    amount: €14.3M
+    date: Jan 2025
+    lead: Creandum
+  - round: Series A
+    amount: $200M
+    date: Jul 2025
+    lead: Accel
+    valuation: $1.8B
+  - round: Series B
+    amount: $330M
+    date: Dec 2025
+    lead: 'CapitalG, Menlo Ventures, NVentures'
+    valuation: $6.6B
+valuation: $6.6B (Dec 2025)
+employees: 146 (Mar 2026)
+category: AI 开发工具
+subcategory: AI Web App Builder / Vibe Coding
+target_user: 'Non-technical users, product managers, founders, enterprises'
+pricing_model:
+  - Freemium
+  - Credit-based
+  - Pro $25/mo
+  - Business $50/mo
+  - Enterprise custom
+opportunity_playbooks:
+  - 开放源代码->商业化
+  - 低代码到无代码
+  - B2B2C渠道
+  - PLG+企业销售双轨
+design_playbooks:
+  - Lovability as moat
+  - 品牌温暖度
+  - 社区优先
+mvp_playbooks:
+  - GitHub open source MVP
+  - 多次失败后的rebranding
+pmf_playbooks:
+  - $4M ARR in 30 days
+  - 85% Day 30 retention
+growth_playbooks:
+  - 'Product Hunt #1 + HN同步'
+  - 嵌入式attribution viral loop
+  - 模板remixing
+  - 企业自上而下+个人自下而上双驱动
+monetization_playbooks:
+  - Credit消耗制
+  - 个人->企业升级路径
+  - 50%企业转化来自个人引入
+moat_playbooks:
+  - UX/warmth vs competition
+  - 速度advantage
+  - 社区网络效应
+  - 生态链接(GitHub+Vercel+Supabase)
+distance_to_money: 极近 - 直接现金消耗，$2.77M ARR per employee
+industry_layer: AI应用层 - 代码生成/软件开发工具
+pricing_quadrant: 高频次低单价 -> 企业高ARPU
+key_people:
+  - name: Anton Osika
+    title: Co-founder & CEO
+    background: 物理学家(CERN) -> Sana Labs founding engineer -> Depict.ai co-founder & CTO
+  - name: Fabian Hedin
+    title: Co-founder & CTO
+    background: 'KTH毕业生, Depict Frontend Lead, 11岁时在Minecraft赚数千美元'
+competitors:
+  - Bolt.new
+  - Vercel v0
+  - Replit
+  - Cursor
+  - Magic.dev
+related_products:
+  - >-
+    [[01-产品库/产品卡片-Claude|Claude]], [[01-产品库/产品卡片-Cursor|Cursor]], [[Bolt]],
+    [[V0]], [[01-产品库/产品卡片-Replit|Replit]]
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Lovable
 ---
-
-# [[产品卡片-Lovable|Lovable]] - AI 软件构建平台
+# Lovable - AI 软件构建平台
 
 ## 基本面
 
@@ -91,7 +114,7 @@ mars_reviewed: false
 | **员工数** | 146人 | Mar 2026，$2.77M ARR/employee |
 | **核心指标** | 85% Day-30 Retention | 超过ChatGPT初期 |
 | **成立时间** | 2023年11月 | ~2.5年达$6.6B独角兽 |
-| **产品形态** | No-code full-stack app builder | React+Supabase+[[产品卡片-Claude|Claude]]+Deployment |
+| **产品形态** | No-code full-stack app builder | React+Supabase+Claude+Deployment |
 
 ---
 
@@ -99,7 +122,7 @@ mars_reviewed: false
 
 ### 创始人DNA
 
-**[[Anton Osika]] - 物理学家到AI企业家的轨迹**
+**Anton Osika - 物理学家到AI企业家的轨迹**
 
 - **CERN粒子物理时期**：在欧洲核子研究中心从事高性能计算、大规模数据系统研究，获得了"系统设计思维"
 - **Sana Labs founding engineer**：第一员工，参与教育AI公司从0到融资$80M+的过程，学习了PLG+产品驱动的打法
@@ -364,7 +387,7 @@ Business: $50/month + 200 credits - 团队/小公司
 **1. UX/情感壁垒 ("Lovability")**
 
 竞品分析：
-- [[产品卡片-Cursor|Cursor]]：黑色、开发者中心、高度对标VS Code
+- Cursor：黑色、开发者中心、高度对标VS Code
 - Bolt：简洁、快速、但无温度感
 - v0：限制在React+Tailwind，有意见对立
 
@@ -755,7 +778,7 @@ remix/share的应用也保留这个badge
   - 下一步：HIPAA, FedRAMP for US government
 
 - Focus: AI模型灵活性
-  - 支持用户选择Claude/GPT-4o/[[Llama]]
+  - 支持用户选择Claude/GPT-4o/Llama
   - 而不是被单一模型绑定
 
 **中期 (2027-2028)**

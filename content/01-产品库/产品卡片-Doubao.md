@@ -1,66 +1,71 @@
 ---
 type: product
-name: "Doubao"
-name_cn: "豆包"
-url: "https://doubao.com"
+name: Doubao
+name_cn: 豆包
+url: 'https://doubao.com'
 founded: 2023
-headquarters: "Beijing, China"
-founders: ["ByteDance AI Team", "张一鸣领导"]
-stage: "Scale"
-status: "Active"
+headquarters: 'Beijing, China'
+founders:
+  - ByteDance AI Team
+  - 张一鸣领导
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$200M+ (estimated)"
-users: "315M MAU (Dec 2024)"
-monthly_visits: "800M+"
-mau: "315M"
-funding_total: "内部资本（字节每年 AI 投资 $20B+）"
-valuation: "字节跳动子业务"
-employees: "500+ (AI 团队相关)"
-category: "AI Assistant"
-subcategory: "Mobile-first AI / Recommendation-driven AI"
-target_user: "Mobile users (China), Gen Z, content creators"
-pricing_model: ["Free (limited)", "Doubao Pro (subscription)", "Enterprise"]
+arr: $200M+ (estimated)
+users: 315M MAU (Dec 2024)
+monthly_visits: 800M+
+mau: 315M
+funding_total: 内部资本（字节每年 AI 投资 $20B+）
+valuation: 字节跳动子业务
+employees: 500+ (AI 团队相关)
+category: AI Assistant
+subcategory: Mobile-first AI / Recommendation-driven AI
+target_user: 'Mobile users (China), Gen Z, content creators'
+pricing_model:
+  - Free (limited)
+  - Doubao Pro (subscription)
+  - Enterprise
 opportunity_playbooks:
-  - "[[移动优先]]"
-  - "[[推荐算法驱动]]"
-  - "[[本地化差异化]]"
+  - '[[移动优先]]'
+  - '[[推荐算法驱动]]'
+  - '[[本地化差异化]]'
 design_playbooks:
-  - "[[信息流集成]]"
-  - "[[个性化推荐]]"
+  - '[[信息流集成]]'
+  - '[[个性化推荐]]'
 mvp_playbooks:
-  - "[[快速迭代补贴]]"
+  - '[[快速迭代补贴]]'
 pmf_playbooks:
-  - "[[移动原住民偏好]]"
+  - '[[移动原住民偏好]]'
 growth_playbooks:
-  - "[[抖音/头条内嵌]]"
-  - "[[补贴烧钱]]"
+  - '[[抖音/头条内嵌]]'
+  - '[[补贴烧钱]]'
 monetization_playbooks:
-  - "[[暂未充分货币化]]"
-  - "[[虚拟商品]]"
+  - '[[暂未充分货币化]]'
+  - '[[虚拟商品]]'
 moat_playbooks:
-  - "[[推荐算法]]"
-  - "[[本地化内容]]"
-  - "[[移动生态]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "高频次低单价"
+  - '[[推荐算法]]'
+  - '[[本地化内容]]'
+  - '[[移动生态]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 高频次低单价
 key_people:
-  - "[[张一鸣]] (CEO, ByteDance)"
-  - "[[AI 团队负责人 (信息不足，待补充)]]"
+  - '[[张一鸣]] (CEO, ByteDance)'
+  - '[[AI 团队负责人 (信息不足，待补充)]]'
 competitors:
-  - "[[ChatGPT]]"
-  - "[[Kimi]]"
-  - "[[文心一言]]"
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[Kimi]]'
+  - '[[文心一言]]'
 related_products:
-  - "[[抖音]]"
-  - "[[头条]]"
-  - "[[Pika (字节投资)]]"
-last_updated: 2026-03-14
-confidence: "Medium"
+  - '[[抖音]]'
+  - '[[头条]]'
+  - '[[Pika (字节投资)]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium
 mars_reviewed: false
+title: Doubao
 ---
-
-# [[产品卡片-Doubao|豆包]] [[产品卡片-Doubao|Doubao]]
+# 豆包 Doubao
 
 > 一句话：字节跳动用本地化、信息流推荐和移动优先的打法，把 AI 从"搜索+对话"转变成"信息流内自然出现"，300M 月活用户仅 1 年内达成，是中国版的"AI 民主化"。
 
@@ -73,7 +78,7 @@ mars_reviewed: false
 | **全称** | 豆包（ByteDance AI Assistant） |
 | **归属** | 字节跳动 |
 | **核心定位** | 移动优先、推荐驱动的 AI 助手，集成于抖音、头条信息流 |
-| **关键指标** | 315M 月活用户（全球第 3，仅次于 [[产品卡片-ChatGPT|ChatGPT]] 和 Meta AI），日活 100M+ 去年仅用 1 年 |
+| **关键指标** | 315M 月活用户（全球第 3，仅次于 ChatGPT 和 Meta AI），日活 100M+ 去年仅用 1 年 |
 | **定价** | 完全免费（目前无付费层）|
 | **标志性时刻** | 2023.11 豆包发布 → 2024.03 集成抖音/头条 → 2024.12 315M MAU（全球第 3）→ 2025 虚拟商品变现开始 |
 | **核心差异** | （1）完全免费（0 付费墙，与 ChatGPT 截然相反）（2）推荐算法驱动（不是"用户搜索"而是"信息流推荐"）（3）本地化内容（中文体验接近完美）（4）集成于移动应用（不是独立应用）|
@@ -139,7 +144,7 @@ mars_reviewed: false
 
 - 优势：无与伦比的推荐能力（字节的算法是全球最强）。用户不用主动搜索，被动激活的转化率极高
 - 风险：完全依赖"信息流"这种使用模式。如果用户的使用习惯改变（比如转向搜索而不是信息流消费），豆包的优势瓦解
-- 时间窗口：2-3 年。一旦竞品（ChatGPT、[[产品卡片-Gemini|Gemini]]）也做出良好的"推荐"功能，豆包的差异化就消失
+- 时间窗口：2-3 年。一旦竞品（ChatGPT、Gemini）也做出良好的"推荐"功能，豆包的差异化就消失
 
 **AI Native vs AI Wrapper**：
 
@@ -149,7 +154,7 @@ mars_reviewed: false
 
 | 维度 | 豆包 策略 | 竞品策略 | 胜负 |
 |-----|-----------|--------|-----|
-| **推荐算法** | 字节推荐算法（全球最强） | ChatGPT/[[产品卡片-Claude|Claude]] 无推荐，Gemini 有但不如字节 | 豆包赢 |
+| **推荐算法** | 字节推荐算法（全球最强） | ChatGPT/Claude 无推荐，Gemini 有但不如字节 | 豆包赢 |
 | **移动体验** | 原生移动优先 | ChatGPT 是 Web 优先 | 豆包赢 |
 | **本地化** | 中文完美本地化 | ChatGPT 中文一般 | 豆包赢 |
 | **模型能力** | 使用字节 Doubao 模型（中等水平） | ChatGPT GPT-4，Claude 更强 | 竞品赢 |

@@ -1,63 +1,7 @@
 ---
-type: product
-name: "Kimi"
-name_cn: "Kimi Chat"
-url: "https://kimi.ai"
-founded: 2023
-headquarters: "Beijing, China"
-founders: ["杨植麟", "月之暗面 Moonshot AI"]
-stage: "Series C"
-status: "Active"
-metrics_date: 2026-03
-arr: "$100M+ (estimated)"
-users: "100M+ MAU (estimated)"
-monthly_visits: "300M+"
-mau: "100M+"
-funding_total: "$300M+ (Series B, 2024)"
-valuation: "$3.3B (Series B, Mar 2024)"
-employees: "150+"
-category: "AI Assistant"
-subcategory: "Long-context LLM / Search-integrated AI"
-target_user: "Chinese knowledge workers, students, researchers"
-pricing_model: ["Free (limited)", "Kimi Pro $20/mo (CNY 148)", "Kimi Enterprise"]
-opportunity_playbooks:
-  - "[[长上下文差异化]]"
-  - "[["不烧钱"增长]]"
-  - "[[本地化垂直深化]]"
-design_playbooks:
-  - "[[搜索集成]]"
-  - "[[文档理解]]"
-mvp_playbooks:
-  - "[[超长上下文作为差异化]]"
-pmf_playbooks:
-  - "[[学生和研究者]]"
-growth_playbooks:
-  - "[[口碑传播]]"
-  - "[[口碑vs烧钱]]"
-monetization_playbooks:
-  - "[[按 token 消耗精细化定价]]"
-moat_playbooks:
-  - "[[长上下文模型]]"
-  - "[[成本效率]]"
-distance_to_money: "极近"
-industry_layer: "应用层"
-pricing_quadrant: "高频次低单价"
-key_people:
-  - "[[杨植麟]] (Co-founder, CEO)"
-  - "[[周明]] (Co-founder, President)"
-competitors:
-  - "[[ChatGPT]]"
-  - "[[豆包]]"
-  - "[[Claude]]"
-related_products:
-  - "[[Claude (Anthropic)]]"
-  - "[[DeepSeek]]"
-last_updated: 2026-03-14
-confidence: "High"
-mars_reviewed: false
+title: Kimi Chat
 ---
-
-# [[产品卡片-Kimi|Kimi]] Chat
+# Kimi Chat
 
 > 一句话：从 Google Brain 出走的杨植麟打造"长上下文 AI"，10 天破 100 万用户不靠融资烧钱，靠的是"同学介绍同学"的口碑，现在月活 1 亿用户，估值 $33 亿。
 
@@ -122,7 +66,7 @@ mars_reviewed: false
 **"不烧钱"的口碑增长**：
 - 2023.08 发布 → 10 天破 100 万用户（完全口碑，0 营销投入）
 - 主要渠道：学生告诉学生、论文作者推荐论文作者
-- 与 [[产品卡片-ChatGPT|ChatGPT]] 的 100 万（5 天）相当，但是 Kimi 完全没有融资支持
+- 与 ChatGPT 的 100 万（5 天）相当，但是 Kimi 完全没有融资支持
 
 **融资节奏的理性**：
 - Pre-seed：融资不足 $10M
@@ -147,7 +91,7 @@ mars_reviewed: false
 Kimi 的赌注是：**自研长上下文模型，在成本和能力上找到平衡点**。
 
 - 优势：长上下文（目前 200K tokens）被证明有市场需求，Kimi 在这个维度的专注让它体验最好
-- 风险：竞品在追赶。[[产品卡片-Gemini|Gemini]] 1.5 Pro 已经做到 1M tokens，ChatGPT 128K，[[产品卡片-Claude|Claude]] 200K。长上下文可能变成"标配"而不是"差异化"
+- 风险：竞品在追赶。Gemini 1.5 Pro 已经做到 1M tokens，ChatGPT 128K，Claude 200K。长上下文可能变成"标配"而不是"差异化"
 - 时间窗口：1-2 年。这个差异化正在快速缩小
 
 **竞争格局**：

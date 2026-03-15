@@ -1,72 +1,103 @@
 ---
 type: product
-name: "Cursor"
-name_cn: ""
-url: "https://cursor.com"
+name: Cursor
+name_cn: ''
+url: 'https://cursor.com'
 founded: 2022
-headquarters: "San Francisco, US"
-founders: ["Michael Truell", "Sualeh Asif", "Aman Sanger", "Arvid Lunnemark"]
-stage: "Scale"
-status: "Active"
+headquarters: 'San Francisco, US'
+founders:
+  - Michael Truell
+  - Sualeh Asif
+  - Aman Sanger
+  - Arvid Lunnemark
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$2B+"
-users: "1M+ DAU, 360K+ 付费"
-monthly_visits: "N/A"
-mau: "2M+"
-funding_total: "$3.5B+"
+arr: $2B+
+users: '1M+ DAU, 360K+ 付费'
+monthly_visits: N/A
+mau: 2M+
+funding_total: $3.5B+
 funding_rounds:
-  - {round: "Seed", amount: "$8M", investors: ["OpenAI Startup Fund"], date: "2023-10"}
-  - {round: "Series A", amount: "$60M", investors: ["Andreessen Horowitz"], date: "2024-08"}
-  - {round: "Series B", amount: "$105M", investors: ["a16z"], date: "2024-12"}
-  - {round: "Series C", amount: "$900M", investors: ["Thrive Capital"], date: "2025-06"}
-  - {round: "Series D", amount: "$2.3B", investors: ["Accel", "Coatue", "NVIDIA", "Google", "Thrive Capital"], date: "2025-11"}
-valuation: "$29.3B"
-employees: "300+"
-category: "AI Coding"
-subcategory: "IDE"
-target_user: "Developers, Engineering Teams, Fortune 500 Companies"
-pricing_model: ["subscription", "usage", "hybrid"]
+  - round: Seed
+    amount: $8M
+    investors:
+      - OpenAI Startup Fund
+    date: 2023-10
+  - round: Series A
+    amount: $60M
+    investors:
+      - Andreessen Horowitz
+    date: 2024-08
+  - round: Series B
+    amount: $105M
+    investors:
+      - a16z
+    date: 2024-12
+  - round: Series C
+    amount: $900M
+    investors:
+      - Thrive Capital
+    date: 2025-06
+  - round: Series D
+    amount: $2.3B
+    investors:
+      - Accel
+      - Coatue
+      - NVIDIA
+      - Google
+      - Thrive Capital
+    date: 2025-11
+valuation: $29.3B
+employees: 300+
+category: AI Coding
+subcategory: IDE
+target_user: 'Developers, Engineering Teams, Fortune 500 Companies'
+pricing_model:
+  - subscription
+  - usage
+  - hybrid
 opportunity_playbooks:
-  - "[[吃技术升级红利]]"
-  - "[[把玩法封装成产品]]"
+  - '[[02-打法库/01-机会识别/吃技术升级红利|吃技术升级红利]]'
+  - '[[02-打法库/01-机会识别/把玩法封装成产品|把玩法封装成产品]]'
 design_playbooks:
-  - "[[Copilot 范式]]"
-  - "[[Agent 代理式]]"
+  - '[[02-打法库/02-产品设计/Copilot 范式|Copilot 范式]]'
+  - '[[02-打法库/02-产品设计/Agent 代理式|Agent 代理式]]'
 mvp_playbooks:
-  - "[[简易拼装]]"
+  - '[[02-打法库/03-MVP策略/简易拼装|简易拼装]]'
 pmf_playbooks:
-  - "[[技术适配]]"
-  - "[[关键功能聚焦]]"
+  - '[[02-打法库/03-MVP策略/技术适配|技术适配]]'
+  - '[[02-打法库/03-MVP策略/关键功能聚焦|关键功能聚焦]]'
 growth_playbooks:
-  - "[[借势崛起]]"
-  - "[[病毒传播-产品即内容]]"
+  - '[[02-打法库/05-增长引擎/借势崛起|借势崛起]]'
+  - '[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]'
 monetization_playbooks:
-  - "[[按访问-订阅]]"
-  - "[[按消耗-请求数]]"
+  - '[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]]'
+  - '[[02-打法库/06-商业化/按消耗-请求数|按消耗-请求数]]'
 moat_playbooks:
-  - "[[AI就是壁垒]]"
-  - "[[工作流嵌入]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "高自主-高归因"
+  - '[[02-打法库/07-护城河/AI就是壁垒|AI就是壁垒]]'
+  - '[[02-打法库/07-护城河/工作流嵌入|工作流嵌入]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 高自主-高归因
 key_people:
-  - "[[Michael Truell]]"
-  - "[[Sualeh Asif]]"
-  - "[[Aman Sanger]]"
+  - '[[03-人物库/Michael Truell|Michael Truell]]'
+  - '[[Sualeh Asif]]'
+  - '[[Aman Sanger]]'
 competitors:
-  - "[[GitHub Copilot]]"
-  - "[[Windsurf]]"
-  - "[[Claude Code]]"
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
+  - '[[01-产品库/产品卡片-Windsurf|Windsurf]]'
+  - '[[01-产品库/Claude Code|Claude Code]]'
 related_products:
-  - "[[GitHub Copilot]]"
-  - "[[Windsurf]]"
-  - "[[Claude Code]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
+  - '[[01-产品库/产品卡片-Windsurf|Windsurf]]'
+  - '[[01-产品库/Claude Code|Claude Code]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: Cursor
 ---
-
-# [[产品卡片-Cursor|Cursor]]
+# Cursor
 
 > 一句话：Fork VS Code 做成 AI 原生 IDE，让开发者用自然语言写代码。17 个月冲到 $1B ARR，如今已突破 $2B，重新定义软件编写方式。
 
@@ -92,7 +123,7 @@ mars_reviewed: false
 
 Anysphere 由四位 MIT 计算机科学系校友于 2022 年 4 月创立，当时均为 22 岁。创始团队配置极为稀有：
 
-- **[[Michael Truell]]**（CEO，25 岁）：MIT CS，算法竞赛背景，2025 年 11 月后成为最年轻的独角兽 CEO。
+- **Michael Truell**（CEO，25 岁）：MIT CS，算法竞赛背景，2025 年 11 月后成为最年轻的独角兽 CEO。
 - **Sualeh Asif**（CPO）：巴基斯坦数学奥赛冠军，MIT 毕业。主导产品和 UX 设计。
 - **Aman Sanger**（COO）：运营和增长负责人，21 个月内将 ARR 从 $100M 扩展到 $500M 的核心人物。
 - **Arvid Lunnemark**（前 CTO，已离职）：瑞典系统架构专家。2025 年 10 月离开创办 Integrous Research（AI 安全研究）。
@@ -122,7 +153,7 @@ Anysphere 由四位 MIT 计算机科学系校友于 2022 年 4 月创立，当�
 | 2022.04 | 从 CAD pivot 到编程 IDE | 识别更大市场 TAM |
 | 2023.03 | 与 GPT-4 同步发布 MVP | 锁定模型能力拐点 |
 | 2023 年底 | Inline Command + Chat 上线 | 第一次 PMF 爆发，使用量翻 10 倍 |
-| 2024.06 | [[产品卡片-Claude|Claude]] 3.5 Sonnet 发布后集成 | ARR 加速 100 倍增长催化剂 |
+| 2024.06 | Claude 3.5 Sonnet 发布后集成 | ARR 加速 100 倍增长催化剂 |
 | 2024.08 | A 轮融资 + 媒体突然关注 | 破圈进入主流开发者视野 |
 | 2024.11 | ARR 突破 $65M（YoY 6400%） | 增长指数级加速证实 |
 | 2025.06 | Plan Mode 正式推出 | 从被动补全到主动规划的范式升级 |
@@ -141,7 +172,7 @@ Anysphere 由四位 MIT 计算机科学系校友于 2022 年 4 月创立，当�
 
 1. **模型能力拐点**：GPT-3 还在 "能生成代码但经常出错" 的阶段，2022 年底 GPT-3.5 发布后编程能力有明显提升，2023 年 3 月 GPT-4 发布时已经能通过 SWE-bench 部分测试。Cursor 的发布时机与 GPT-4 同步，充分利用了模型能力拐点。
 
-2. **[[产品卡片-[[产品卡片-Copilot|Copilot]]|GitHub Copilot]] 的执行无力**：Copilot 2021 年推出，但到 2023 年仍然是 "一个高级自动补全" 的定位。Copilot X 宣布到实际功能上线间隔 9 个月——说明插件架构下的深度创新极其困难。这给了创业公司可乘之机。
+2. **GitHub Copilot 的执行无力**：Copilot 2021 年推出，但到 2023 年仍然是 "一个高级自动补全" 的定位。Copilot X 宣布到实际功能上线间隔 9 个月——说明插件架构下的深度创新极其困难。这给了创业公司可乘之机。
 
 3. **开发者期待空白**：开发工具链经历了从 IDE（Eclipse/IntelliJ）到编辑器（VS Code）的转变，2023 年尚无一个被广泛认可的 "AI 原生编辑器"。
 
@@ -165,7 +196,7 @@ Anysphere 由四位 MIT 计算机科学系校友于 2022 年 4 月创立，当�
 
 **机会类型**：供给侧技术突破 + 价值重新定义
 
-相关打法：[[吃技术升级红利]]、[[把玩法封装成产品]]
+相关打法：[[02-打法库/01-机会识别/吃技术升级红利|吃技术升级红利]]、[[02-打法库/01-机会识别/把玩法封装成产品|把玩法封装成产品]]
 
 ### 2.2 产品怎么设计的
 
@@ -215,12 +246,12 @@ Cursor 的交互设计分三个阶段：
 
 2024 年中 Cursor 做出关键决策：**不锁定单一模型提供商，而是支持无缝切换**：
 - 默认模型：Auto（自动选择最合适的便宜模型）
-- 高阶模型：Claude Opus、Claude Sonnet、GPT-4o、GPT-5、[[产品卡片-Gemini|Gemini]] Pro
-- 本地模型：支持用户运行开源模型（如 Mistral、[[Llama]]）
+- 高阶模型：Claude Opus、Claude Sonnet、GPT-4o、GPT-5、Gemini Pro
+- 本地模型：支持用户运行开源模型（如 Mistral、Llama）
 
 这个选择在 2024.06 Claude 3.5 Sonnet 发布时立刻兑现价值——用户可直接体验 Claude 编程能力的提升，Cursor 成为最佳入口。
 
-相关打法：[[Copilot 范式]]、[[Agent 代理式]]
+相关打法：[[02-打法库/02-产品设计/Copilot 范式|Copilot 范式]]、[[02-打法库/02-产品设计/Agent 代理式|Agent 代理式]]
 
 ### 2.3 怎么验证的（MVP）
 
@@ -290,7 +321,7 @@ Cursor 面临的问题：LLM 的编程能力依赖海量代码训练数据。
 
 **MVP 策略类型**：简易拼装（借用 VS Code 成熟度） + 服务先行（Anthropic/OpenAI 官方 API 支持）
 
-相关打法：[[简易拼装]]
+相关打法：[[02-打法库/03-MVP策略/简易拼装|简易拼装]]
 
 ### 2.4 怎么切入市场的（PMF）
 
@@ -344,7 +375,7 @@ Fortune 500（规模化采购）
 - **业务聚焦**：不做咨询、不做白标、不做模型训练。专注于 "IDE 本身"。
 - **用户聚焦**：不追求 "所有开发者"，而是聚焦在 "最能从 AI 代码生成获益的"——Python、JavaScript、TypeScript 开发者。
 
-相关打法：[[技术适配]]、[[关键功能聚焦]]
+相关打法：[[02-打法库/03-MVP策略/技术适配|技术适配]]、[[02-打法库/03-MVP策略/关键功能聚焦|关键功能聚焦]]
 
 ### 2.5 怎么增长的
 
@@ -441,7 +472,7 @@ Cursor 的增长高度依赖三个"大平台"的生态：
    - 创始人和核心贡献者主动回答用户问题，建立信任。
    - 这种积极参与本身就是病毒式营销。
 
-相关打法：[[借势崛起]]、[[病毒传播-产品即内容]]
+相关打法：[[02-打法库/05-增长引擎/借势崛起|借势崛起]]、[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]
 
 ### 2.6 怎么赚钱的
 
@@ -517,7 +548,7 @@ Cursor 的毛利率核心受模型使用率影响：
 - 用户已经验证了价值，企业不需要说服。
 - 合同高留存率（因为用户已经习惯了工作流）。
 
-相关打法：[[按访问-订阅]]、[[按消耗-请求数]]
+相关打法：[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]]、[[02-打法库/06-商业化/按消耗-请求数|按消耗-请求数]]
 
 ### 2.7 壁垒在哪
 
@@ -550,7 +581,7 @@ Cursor 的壁垒本质上分为三层，但强度和可持续性分别不同：
 | 阶段 | 护城河类型 | 具体表现 | 威胁 |
 |------|----------|---------|------|
 | 早期（2023） | 架构创新 | Fork + AI 深度集成 | 容易被模仿 |
-| 增长期（2024） | UX 领先 + 品牌 | Plan Mode、Agent | Copilot/[[产品卡片-Windsurf|Windsurf]] 快速跟进 |
+| 增长期（2024） | UX 领先 + 品牌 | Plan Mode、Agent | Copilot/Windsurf 快速跟进 |
 | 当前（2025+） | 用户网络效应 | 1M DAU、社区、企业绑定 | 大厂追赶+资源投入 |
 | 未来（2026+） | 数据飞轮（潜在） | 自研模型或 specialized RAG | 时间窗口可能关闭 |
 
@@ -586,7 +617,7 @@ Cursor 的壁垒本质上分为三层，但强度和可持续性分别不同：
 - **人才密度**：团队都是对 "改进开发体验" 有深刻理解的工程师，不像大厂团队分散。
 - **决策速度**：创始人直接参与产品决策，没有层级递级的拖累。
 
-相关打法：[[AI就是壁垒]]、[[工作流嵌入]]
+相关打法：[[02-打法库/07-护城河/AI就是壁垒|AI就是壁垒]]、[[02-打法库/07-护城河/工作流嵌入|工作流嵌入]]
 
 ---
 
@@ -876,11 +907,11 @@ Cursor 在应用层，完全依赖模型层。不控制上游。
 
 ## 相关案例
 
-- **[[GitHub Copilot]]**：理解 Cursor 绕不开 Copilot——它定义了"AI 编程"品类。但因为选择了插件路线而给了 Cursor 机会。2026 年 Copilot 正在追赶，但产品迭代速度仍慢于 Cursor。
-- **[[Windsurf]]**：Codeium 的新一代 IDE，也是 fork VS Code。对标 Cursor，但走隐私优先路线（本地索引、数据不上云）和价格优势（$15/月）。两者在同一赛道的不同配置选择。
-- **[[Claude Code]]**：Anthropic 自己做的 AI 编程工具，CLI 形态而非 IDE。代表"模型厂商自己下场做应用"。虽然用户不及 Cursor，但 Anthropic 的深度支持使其成为潜在威胁。
-- **[[[[产品卡片-Lovable|Lovable]]]]** — Vibe Coding 的另一个方向，让非技术人员用自然语言建网站。Cursor 降低编程门槛，Lovable 直接取消门槛。
-- **[[GitHub Copilot]] vs [[Windsurf]] vs [[Cursor]]** — 2026 年 AI IDE 竞争格局由这三者主导。比较它们的不同战术选择。
+- **[[01-产品库/产品卡片-Copilot|GitHub Copilot]]**：理解 Cursor 绕不开 Copilot——它定义了"AI 编程"品类。但因为选择了插件路线而给了 Cursor 机会。2026 年 Copilot 正在追赶，但产品迭代速度仍慢于 Cursor。
+- **[[01-产品库/产品卡片-Windsurf|Windsurf]]**：Codeium 的新一代 IDE，也是 fork VS Code。对标 Cursor，但走隐私优先路线（本地索引、数据不上云）和价格优势（$15/月）。两者在同一赛道的不同配置选择。
+- **[[01-产品库/Claude Code|Claude Code]]**：Anthropic 自己做的 AI 编程工具，CLI 形态而非 IDE。代表"模型厂商自己下场做应用"。虽然用户不及 Cursor，但 Anthropic 的深度支持使其成为潜在威胁。
+- **[[01-产品库/产品卡片-Lovable|Lovable]]** — Vibe Coding 的另一个方向，让非技术人员用自然语言建网站。Cursor 降低编程门槛，Lovable 直接取消门槛。
+- **[[01-产品库/产品卡片-Copilot|GitHub Copilot]] vs [[01-产品库/产品卡片-Windsurf|Windsurf]] vs [[01-产品库/产品卡片-Cursor|Cursor]]** — 2026 年 AI IDE 竞争格局由这三者主导。比较它们的不同战术选择。
 
 ---
 

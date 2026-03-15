@@ -2,44 +2,89 @@
 type: product
 name: Canva
 name_cn: Canva
-url: https://www.canva.com
+url: 'https://www.canva.com'
 founded: 2012
-headquarters: Sydney, Australia
-founders: ["Melanie Perkins", "Cliff Obrecht", "Cameron Adams"]
+headquarters: 'Sydney, Australia'
+founders:
+  - Melanie Perkins
+  - Cliff Obrecht
+  - Cameron Adams
 stage: Public (IPO planned / Series funding)
 status: Active
-metrics_date: "2026-03"
-arr: "$600M+"
-users: "170M+ (December 2025)"
-monthly_visits: "100M+"
-mau: "50M+"
-funding_total: "$400M+"
-funding_rounds: ["Series A $6M (2013)", "Series C $60M (2017)", "Series D $85M (2021)", "IPO preparation"]
-valuation: "$45B (2024 private valuation)"
-employees: "3500+"
-category: "AI-powered Design Platform"
-subcategory: "Creative Tools, Design Software"
-target_user: "Non-designers, SMBs, content creators, enterprises"
-pricing_model: ["Freemium", "Subscription", "Teams plan"]
-opportunity_playbooks: ["Design democratization", "AI integration into existing workflow", "B2B SaaS expansion"]
-design_playbooks: ["Drag-and-drop simplification", "Template-first approach", "AI Magic Studio"]
-mvp_playbooks: ["Template library as core", "No coding required UX"]
-pmf_playbooks: ["Small business adoption", "Social media content creators", "Educational institutions"]
-growth_playbooks: ["Organic word-of-mouth", "YouTube creator partnerships", "Teams/Enterprise expansion"]
-monetization_playbooks: ["Freemium conversion", "Teams subscription", "Enterprise licensing", "Magic Studio premium"]
-moat_playbooks: ["Template library network effect", "Brand trust (design authority)", "Integration ecosystem", "Data network from 170M users"]
-distance_to_money: "Direct (B2C + B2B2C)"
-industry_layer: "Application/Creator Tools"
-pricing_quadrant: "Freemium + Premium subscription"
-key_people: ["Melanie Perkins (CEO, Co-founder)", "Cliff Obrecht (CTO, Co-founder)", "Cameron Adams (Co-founder)"]
-competitors: ["Adobe Suite", "Figma", "Affinity Designer", "Procreate", "Beautiful.ai"]
-related_products: ["[[Adobe Creative Cloud]]", "[[Figma]]", "[[Beautiful.ai]]", "[[Midjourney]]", "[[Runway]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $600M+
+users: 170M+ (December 2025)
+monthly_visits: 100M+
+mau: 50M+
+funding_total: $400M+
+funding_rounds:
+  - Series A $6M (2013)
+  - Series C $60M (2017)
+  - Series D $85M (2021)
+  - IPO preparation
+valuation: $45B (2024 private valuation)
+employees: 3500+
+category: AI-powered Design Platform
+subcategory: 'Creative Tools, Design Software'
+target_user: 'Non-designers, SMBs, content creators, enterprises'
+pricing_model:
+  - Freemium
+  - Subscription
+  - Teams plan
+opportunity_playbooks:
+  - Design democratization
+  - AI integration into existing workflow
+  - B2B SaaS expansion
+design_playbooks:
+  - Drag-and-drop simplification
+  - Template-first approach
+  - AI Magic Studio
+mvp_playbooks:
+  - Template library as core
+  - No coding required UX
+pmf_playbooks:
+  - Small business adoption
+  - Social media content creators
+  - Educational institutions
+growth_playbooks:
+  - Organic word-of-mouth
+  - YouTube creator partnerships
+  - Teams/Enterprise expansion
+monetization_playbooks:
+  - Freemium conversion
+  - Teams subscription
+  - Enterprise licensing
+  - Magic Studio premium
+moat_playbooks:
+  - Template library network effect
+  - Brand trust (design authority)
+  - Integration ecosystem
+  - Data network from 170M users
+distance_to_money: Direct (B2C + B2B2C)
+industry_layer: Application/Creator Tools
+pricing_quadrant: Freemium + Premium subscription
+key_people:
+  - 'Melanie Perkins (CEO, Co-founder)'
+  - 'Cliff Obrecht (CTO, Co-founder)'
+  - Cameron Adams (Co-founder)
+competitors:
+  - Adobe Suite
+  - Figma
+  - Affinity Designer
+  - Procreate
+  - Beautiful.ai
+related_products:
+  - '[[Adobe Creative Cloud]]'
+  - '[[Figma]]'
+  - '[[Beautiful.ai]]'
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Canva
 ---
-
-# [[产品卡片-Canva|Canva]] 产品卡片
+# Canva 产品卡片
 
 ## 基本面表格
 
@@ -367,7 +412,7 @@ Canva 的赌注是：**用海量高质量模板 + AI 生成能力，而不是用
 
 | 产品 | 定位 | 用户 | 优势 | 劣势 |
 |------|------|------|------|------|
-| **Canva** | 民主化创意工具 + AI生成 | 非设计师、小企业、Creator | 易用性、模板库、AI整合 | AI生图质量<[[产品卡片-Midjourney|Midjourney]] |
+| **Canva** | 民主化创意工具 + AI生成 | 非设计师、小企业、Creator | 易用性、模板库、AI整合 | AI生图质量<Midjourney |
 | **Adobe Suite** | 专业设计工具 | 专业设计师 | 功能全面、行业标准 | 学习曲线陡、价格高 |
 | **Figma** | 团队协作设计 | UI设计师、设计team | 协作、实时编辑 | 为web/app设计优化，非通用 |
 | **Beautiful.ai** | AI演示文稿 | 商务演讲 | 自动化设计、专业感 | 功能单一、模板库小 |

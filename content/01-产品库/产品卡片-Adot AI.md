@@ -11,21 +11,31 @@ type: product
 融资: 待补充
 用户规模: 待补充
 tags:
-  opportunity: [垂直领域创新, Web3 套利]
-  design: [搜索接口, AI 增强]
-  mvp: [插件化, 关键功能聚焦]
-  pmf: [利基社区, Web3 爱好者]
-  growth: [社区驱动, 平台联动]
-  monetization: [待补充]
-  moat: [Web3 索引, 垂直深度]
-相关人物: [待补充]
-竞争对手: [Perplexity, Google Search, ChatGPT Search]
+  - 垂直领域创新
+  - Web3 套利
+  - 搜索接口
+  - AI 增强
+  - 插件化
+  - 关键功能聚焦
+  - 利基社区
+  - Web3 爱好者
+  - 社区驱动
+  - 平台联动
+  - 待补充
+  - Web3 索引
+  - 垂直深度
+相关人物:
+  - 待补充
+竞争对手:
+  - Perplexity
+  - Google Search
+  - ChatGPT Search
 关联产品: []
+title: Adot
 ---
-
 # Adot
 
-> "Web3 搜索的 [[产品卡片-Perplexity|Perplexity]]" —— 当通用搜索不够，垂直搜索成为机会。
+> "Web3 搜索的 Perplexity" —— 当通用搜索不够，垂直搜索成为机会。
 
 ## 基本面
 
@@ -36,7 +46,7 @@ tags:
 | **核心定位** | Web3/区块链专用搜索引擎 |
 | **搜索范围** | DeFi、NFT、DAO、区块链相关内容 |
 | **主要产品形态** | Chrome 插件 + Web 界面 |
-| **支持的 AI 模型** | [[产品卡片-ChatGPT|ChatGPT]]、Perplexity、[[产品卡片-Claude|Claude]]、[[产品卡片-Grok|Grok]] |
+| **支持的 AI 模型** | ChatGPT、Perplexity、Claude、Grok |
 | **特色** | 用户可切换多个 AI 模型进行搜索 |
 | **融资与估值** | 待补充 |
 | **用户规模** | 待补充 |
@@ -160,7 +170,7 @@ AI Native 产品——针对广告营销的垂直 AI。优势：深度优化。�
 
 **竞争维度选择**：垂直深度 + 广告效果
 
-**主要竞品**：ChatGPT, [[产品卡片-Gemini|Gemini]], Claude
+**主要竞品**：ChatGPT, Gemini, Claude
 
 **可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 垂直深度 + 广告效果 这个维度的用户心智。
 

@@ -2,33 +2,28 @@
 type: product
 name: YouCut
 name_cn: YouCut视频编辑（InShot旗下）
-url: https://www.inshot.com
-
-# 基本信息
+url: 'https://www.inshot.com'
 founded: 2015
-headquarters: San Francisco, USA (InShot/Nextwave Software)
-founders: [Inshot Team]
+headquarters: 'San Francisco, USA (InShot/Nextwave Software)'
+founders:
+  - Inshot Team
 stage: Scale
 status: Active
-
-# 关键指标（截至 2026-03-01）
-metrics_date: 2026-03-01
+metrics_date: 2026-03-01T00:00:00.000Z
 arr: ~$80-120M估计
 users: 120M月活用户（YouCut）
-monthly_visits: ""
+monthly_visits: ''
 mau: 120M
 funding_total: $100M+
 funding_rounds: []
 valuation: $1.5B+估计
 employees: 400+
-
-# 分类
 category: 移动视频编辑
 subcategory: 无水印视频编辑应用矩阵
 target_user: 短视频创作者、社交媒体用户
-pricing_model: [freemium, subscription]
-
-# 打法标签
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +31,27 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [Inshot CEO, Nextwave Software Team]
-competitors: [CapCut, VN Video Editor, Adobe Premiere Rush, FilmRoll]
-related_products: [InShot, VivaCut, Splice, FilmStock]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Inshot CEO
+  - Nextwave Software Team
+competitors:
+  - CapCut
+  - VN Video Editor
+  - Adobe Premiere Rush
+  - FilmRoll
+related_products:
+  - InShot
+  - VivaCut
+  - Splice
+  - FilmStock
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: YouCut
 ---
-
 # YouCut（InShot 旗下视频编辑应用）
 
 > 一句话：InShot 生态矩阵中的一员，与 InShot、VivaCut 形成"多品牌多定位"战略，用"无水印"和"轻量级"击败竞品，是"产品线垂直一体化"的代表。

@@ -1,56 +1,59 @@
 ---
 type: product
-name: "Wink"
-name_cn: "Wink"
-url: "https://winkapp.com"
+name: Wink
+name_cn: Wink
+url: 'https://winkapp.com'
 founded: 2022
-headquarters: "Xiamen & Singapore"
-founders: ["美图公司 Meitu"]
-stage: "Growth"
-status: "Active"
+headquarters: Xiamen & Singapore
+founders:
+  - 美图公司 Meitu
+stage: Growth
+status: Active
 metrics_date: 2024-12
-arr: "$30M-50M (估)"
-users: "50M+ downloads, 3M+ MAU"
-funding_total: "美图集团内部"
-valuation: "美图子产品"
-employees: "20-30"
-category: "Video Enhancement"
-subcategory: "AI Video Beauty & AR Effects"
-target_user: "Video creators, short video enthusiasts"
-pricing_model: ["freemium", "subscription"]
+arr: $30M-50M (估)
+users: '50M+ downloads, 3M+ MAU'
+funding_total: 美图集团内部
+valuation: 美图子产品
+employees: 20-30
+category: Video Enhancement
+subcategory: AI Video Beauty & AR Effects
+target_user: 'Video creators, short video enthusiasts'
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks:
-  - "[[短视频赛道红利]]"
-  - "[[新兴市场空白]]"
+  - '[[短视频赛道红利]]'
+  - '[[新兴市场空白]]'
 design_playbooks:
-  - "[[实时视频美颜]]"
-  - "[[创意 AR 效果]]"
+  - '[[实时视频美颜]]'
+  - '[[创意 AR 效果]]'
 mvp_playbooks:
-  - "[[快速迭代]]"
+  - '[[快速迭代]]'
 pmf_playbooks:
-  - "[[创意效果即内容]]"
+  - '[[创意效果即内容]]'
 growth_playbooks:
-  - "[[新兴市场爆发]]"
-  - "[[TikTok 协同]]"
+  - '[[新兴市场爆发]]'
+  - '[[TikTok 协同]]'
 monetization_playbooks:
-  - "[[订阅制]]"
-  - "[[效果付费]]"
+  - '[[订阅制]]'
+  - '[[效果付费]]'
 moat_playbooks:
-  - "[[本地化优化]]"
-  - "[[新兴市场先发]]"
-distance_to_money: "中-高"
-industry_layer: "应用层"
-pricing_quadrant: "低自主-高归因"
+  - '[[本地化优化]]'
+  - '[[新兴市场先发]]'
+distance_to_money: 中-高
+industry_layer: 应用层
+pricing_quadrant: 低自主-高归因
 key_people:
-  - "[[美图团队]]"
+  - '[[美图团队]]'
 competitors:
-  - "[[CapCut]]"
-  - "[[Snapchat]]"
-  - "[[TikTok]]"
-last_updated: 2026-03-14
-confidence: "Medium"
+  - '[[CapCut]]'
+  - '[[Snapchat]]'
+  - '[[TikTok]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium
 mars_reviewed: false
+title: Wink
 ---
-
 # Wink
 
 > 一句话：美图 2022 年推出的 AI 视频美颜工具，主打"实时视频美颜"和"创意 AR 效果"。在肯尼亚、尼日利亚等新兴市场冲上 App Store 总榜第一。$30-50M ARR（估），代表了美图从"照片编辑"到"视频编辑"的产品延伸。

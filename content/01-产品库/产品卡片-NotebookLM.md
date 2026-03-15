@@ -6,22 +6,38 @@ type: product
 上榜: a16z Top 50 Web (2026年3月)
 月访问量: 4800万+（2026年1月）
 付费模式: Freemium + Plus ($19.99/月)
-创始人: Raiza Martin（产品负责人）, Steven Johnson（顾问）
+创始人: 'Raiza Martin（产品负责人）, Steven Johnson（顾问）'
 成立年份: 2023（内部，原名 Project Tailwind）
 公开年份: 2023-07
 tags:
-  opportunity: [打开能力门槛新市场, 从做任务到出成果]
-  design: [Chat 对话式, 生成式界面]
-  mvp: [技术适配, 关键功能聚焦]
-  pmf: [迫切刚需, 技术适配]
-  growth: [病毒传播-产品即内容, 借势崛起]
-  monetization: [按访问-订阅]
-  moat: [源材料锁定, 品牌信任, AI就是壁垒]
-相关人物: [Raiza Martin, Steven Johnson]
-竞争对手: [[[产品卡片-ChatGPT\|ChatGPT]], [[产品卡片-Perplexity\|Perplexity]], Obsidian, [[产品卡片-Notion AI\|Notion AI]]]
-关联产品: [[[产品卡片-Perplexity\|Perplexity]], [[产品卡片-ChatGPT\|ChatGPT]], [[产品卡片-Gemini\|Gemini]]]
+  - 打开能力门槛新市场
+  - 从做任务到出成果
+  - Chat 对话式
+  - 生成式界面
+  - 技术适配
+  - 关键功能聚焦
+  - 迫切刚需
+  - 技术适配
+  - 病毒传播-产品即内容
+  - 借势崛起
+  - 按访问-订阅
+  - 源材料锁定
+  - 品牌信任
+  - AI就是壁垒
+相关人物:
+  - Raiza Martin
+  - Steven Johnson
+竞争对手:
+  - ChatGPT
+  - Perplexity
+  - Obsidian
+  - Notion AI
+关联产品:
+  - Perplexity
+  - ChatGPT
+  - Gemini
+title: NotebookLM
 ---
-
 # NotebookLM
 
 > "上传你的资料，AI 只基于你的资料回答。" — 源材料锁定，让幻觉无处遁形。
@@ -54,7 +70,7 @@ tags:
 
 ### 阶段二：产品设计
 
-**核心交互范式**：[[Chat 对话式]] + [[生成式界面]]
+**核心交互范式**：[[02-打法库/02-产品设计/Chat 对话式|Chat 对话式]] + [[02-打法库/02-产品设计/生成式界面|生成式界面]]
 
 用户上传资料（PDF、网页、YouTube视频、Google Docs）→ 创建"Notebook"→ 对着这些资料对话。每一条 AI 回答都附有来源引用，可点击跳转原文。
 
@@ -70,9 +86,9 @@ tags:
 
 ### 阶段三：MVP 策略
 
-[[关键功能聚焦]]：只做一件事——你的私人资料 + AI 对话。不做笔记编辑器（Notion 做），不做搜索引擎（Perplexity 做），不做知识管理（Obsidian 做）。
+[[02-打法库/03-MVP策略/关键功能聚焦|关键功能聚焦]]：只做一件事——你的私人资料 + AI 对话。不做笔记编辑器（Notion 做），不做搜索引擎（Perplexity 做），不做知识管理（Obsidian 做）。
 
-[[技术适配]]：核心是 Google 自家 Gemini 1.5 Pro 的长上下文能力。1M token 上下文窗口让"整本书进去"成为标准功能，这是 OpenAI 短期内的技术劣势。
+[[02-打法库/03-MVP策略/技术适配|技术适配]]：核心是 Google 自家 Gemini 1.5 Pro 的长上下文能力。1M token 上下文窗口让"整本书进去"成为标准功能，这是 OpenAI 短期内的技术劣势。
 
 ---
 
@@ -85,15 +101,15 @@ tags:
 - "我用 NotebookLM 读完了整本书" 成为 Twitter/X 上的高频晒单内容
 - 2024年全年月活从数百万增长到 4800 万
 
-**[[迫切刚需]]**：研究生写论文、律师查案例、分析师读财报——这些用户不需要被教育，他们只需要知道这个工具存在。
+**[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]]**：研究生写论文、律师查案例、分析师读财报——这些用户不需要被教育，他们只需要知道这个工具存在。
 
 ---
 
 ### 阶段五：增长引擎
 
-**[[病毒传播-产品即内容]]**：Audio Overview 本身就是可分享的内容——用户在社交媒体上分享 AI 生成的播客片段，每一次分享都是产品展示。这是 NotebookLM 增长最重要的引擎。
+**[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]**：Audio Overview 本身就是可分享的内容——用户在社交媒体上分享 AI 生成的播客片段，每一次分享都是产品展示。这是 NotebookLM 增长最重要的引擎。
 
-**[[借势崛起]]**：Google 的分发网络（Search、Gmail、Drive、Classroom）是隐形武器。NotebookLM 与 Google Workspace 的打通让企业用户直接从 Drive 上传文档。
+**[[02-打法库/05-增长引擎/借势崛起|借势崛起]]**：Google 的分发网络（Search、Gmail、Drive、Classroom）是隐形武器。NotebookLM 与 Google Workspace 的打通让企业用户直接从 Drive 上传文档。
 
 **内容创作者社区**：YouTube 创作者、播客主、作家把 NotebookLM 当成"写作助理"——这批用户的公开分享带来了巨大曝光。
 
@@ -101,7 +117,7 @@ tags:
 
 ### 阶段六：商业化
 
-[[按访问-订阅]] 模式：
+[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]] 模式：
 
 | 版本 | 价格 | 限制 |
 |------|------|------|
@@ -115,11 +131,11 @@ tags:
 
 ### 阶段七：护城河
 
-**[[源材料锁定]]**：用户上传的所有资料都在 NotebookLM 里——迁移成本不是技术成本，而是"重新整理所有 Notebook"的心理成本。
+**[[02-打法库/07-护城河/源材料锁定|源材料锁定]]**：用户上传的所有资料都在 NotebookLM 里——迁移成本不是技术成本，而是"重新整理所有 Notebook"的心理成本。
 
-**[[品牌信任]]**：在"AI 幻觉"成为公众认知的时代，"基于你的资料"是极强的信任锚点。专业用户对准确性的要求使得 NotebookLM 的差异化壁垒反而因 AI 的普及而加强。
+**[[02-打法库/07-护城河/品牌信任|品牌信任]]**：在"AI 幻觉"成为公众认知的时代，"基于你的资料"是极强的信任锚点。专业用户对准确性的要求使得 NotebookLM 的差异化壁垒反而因 AI 的普及而加强。
 
-**[[AI就是壁垒]]**：Gemini 长上下文是护城河的技术基础——1M token 上下文让竞争对手用 GPT-4 很难复刻相同体验。
+**[[02-打法库/07-护城河/AI就是壁垒|AI就是壁垒]]**：Gemini 长上下文是护城河的技术基础——1M token 上下文让竞争对手用 GPT-4 很难复刻相同体验。
 
 ---
 
@@ -240,10 +256,10 @@ NotebookLM 最反直觉的地方，其实是 Google 最奇怪的护城河——*
 
 ## 相关案例
 
-- [[Perplexity]] — 同为"新搜索"品类，不同路径：Perplexity 走公开网络，NotebookLM 走私有资料
-- [[ChatGPT]] — 通用 AI 助手，NotebookLM 的对立面（无源材料约束）
-- [[Obsidian]] — 知识管理工具，NotebookLM 的部分替代/互补关系
-- [[Gemini]] — 底层模型，NotebookLM 是 Gemini 长上下文能力的最佳消费者展示窗口
+- [[01-产品库/产品卡片-Perplexity|Perplexity]] — 同为"新搜索"品类，不同路径：Perplexity 走公开网络，NotebookLM 走私有资料
+- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 通用 AI 助手，NotebookLM 的对立面（无源材料约束）
+- [[01-产品库/Obsidian|Obsidian]] — 知识管理工具，NotebookLM 的部分替代/互补关系
+- [[01-产品库/产品卡片-Gemini|Gemini]] — 底层模型，NotebookLM 是 Gemini 长上下文能力的最佳消费者展示窗口
 
 ---
 

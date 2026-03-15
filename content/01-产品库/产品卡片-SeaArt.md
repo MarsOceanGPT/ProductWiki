@@ -1,57 +1,63 @@
 ---
 type: product
-name: "SeaArt"
-name_cn: "海艺 AI"
-url: "https://seaart.ai"
+name: SeaArt
+name_cn: 海艺 AI
+url: 'https://seaart.ai'
 founded: 2022
-headquarters: "Singapore (运营)"
-founders: ["Ma Fei (马飞)", "Chen Li (陈力)", "游戏行业出身"]
-stage: "Scale"
-status: "Active"
+headquarters: Singapore (运营)
+founders:
+  - Ma Fei (马飞)
+  - Chen Li (陈力)
+  - 游戏行业出身
+stage: Scale
+status: Active
 metrics_date: 2026-01
-arr: "$50M+"
-users: "50M+"
-creation_triggered: "300M+ 次"
-funding_total: "未公开"
-valuation: "未公开"
-employees: "N/A"
-category: "AI Image Generation"
-subcategory: "Creative Community"
-target_user: "Game artists, illustrators, concept artists, indie creators"
-pricing_model: ["freemium", "subscription", "creator_revenue_share"]
+arr: $50M+
+users: 50M+
+creation_triggered: 300M+ 次
+funding_total: 未公开
+valuation: 未公开
+employees: N/A
+category: AI Image Generation
+subcategory: Creative Community
+target_user: 'Game artists, illustrators, concept artists, indie creators'
+pricing_model:
+  - freemium
+  - subscription
+  - creator_revenue_share
 opportunity_playbooks:
-  - "[[Stable Diffusion 生态]]"
-  - "[[中国出海]]"
-  - "[[社区变现]]"
+  - '[[Stable Diffusion 生态]]'
+  - '[[中国出海]]'
+  - '[[社区变现]]'
 design_playbooks:
-  - "[[社区优先]]"
-  - "[[创作者激励]]"
+  - '[[社区优先]]'
+  - '[[创作者激励]]'
 mvp_playbooks:
-  - "[[公司内部工具]]"
+  - '[[公司内部工具]]'
 pmf_playbooks:
-  - "[[全球社区]]"
+  - '[[全球社区]]'
 growth_playbooks:
-  - "[[社区分发]]"
-  - "[[创作者经济]]"
+  - '[[社区分发]]'
+  - '[[创作者经济]]'
 monetization_playbooks:
-  - "[[虚拟货币]]"
-  - "[[创作者分成]]"
+  - '[[虚拟货币]]'
+  - '[[创作者分成]]'
 moat_playbooks:
-  - "[[社区粘性]]"
-  - "[[Stable Diffusion 优化]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "中自主-高归因"
+  - '[[社区粘性]]'
+  - '[[Stable Diffusion 优化]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 中自主-高归因
 competitors:
-  - "[[Midjourney]]"
-  - "[[Stable Diffusion]]"
-  - "[[CivitAI]]"
-  - "[[Ourdream]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[01-产品库/产品卡片-Midjourney|Midjourney]]'
+  - '[[Stable Diffusion]]'
+  - '[[01-产品库/产品卡片-CivitAI|CivitAI]]'
+  - '[[Ourdream]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: SeaArt
 ---
-
 # SeaArt
 
 > 一句话：游戏团队创办的 Stable Diffusion 社区，做成"Instagram + Figma"的混合体，5000 万用户、5000 万美元 ARR，代表"平台型"而非"工具型"的 AI 艺术出海模式。

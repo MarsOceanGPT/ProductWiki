@@ -1,14 +1,17 @@
 ---
 type: person
-name: "Piotr Dąbkowski"
-role: "Co-founder & CTO"
-company: "[[ElevenLabs]]"
-nationality: "Polish"
-age: "31"
-background: "Oxford CS + Cambridge MPhil（深度学习） → Google ML 工程师（语音） → ElevenLabs CTO"
-notable_for: "让 AI 语音从『机械味』升级到『完全不可区分』。29种语言的多语言模型，99%+ 用户分不出是 AI 还是真人。用个人的执念驱动了 $330M ARR 公司的模型端完美"
-key_quote: "小时候看美国电影的波兰配音，那种『配音质量差』的痛楚，一直伴随我。我就是想做出最好的配音。"
-updated: "2026-03-14"
+name: Piotr Dąbkowski
+role: Co-founder & CTO
+company: '[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]'
+nationality: Polish
+age: '31'
+background: Oxford CS + Cambridge MPhil（深度学习） → Google ML 工程师（语音） → ElevenLabs CTO
+notable_for: >-
+  让 AI 语音从『机械味』升级到『完全不可区分』。29种语言的多语言模型，99%+ 用户分不出是 AI 还是真人。用个人的执念驱动了 $330M ARR
+  公司的模型端完美
+key_quote: 小时候看美国电影的波兰配音，那种『配音质量差』的痛楚，一直伴随我。我就是想做出最好的配音。
+updated: '2026-03-14'
+title: Piotr Dąbkowski
 ---
 # Piotr Dąbkowski
 
@@ -26,9 +29,9 @@ updated: "2026-03-14"
 
 语音合成的难点不在参数量，而在**"如何让 AI 的声音听起来像人"**。这需要在频谱、韵律、停顿上都精确控制。
 
-### [[产品卡片-ElevenLabs|ElevenLabs]] 的创办：与 Mati 的配对
+### ElevenLabs 的创办：与 Mati 的配对
 
-2022 年，Piotr 和童年好友 [[Mati Staniszewski]] 启动了 [[产品卡片-ElevenLabs|ElevenLabs]]。Piotr 负责模型，Mati 负责商业。
+2022 年，Piotr 和童年好友 Mati Staniszewski 启动了 ElevenLabs。Piotr 负责模型，Mati 负责商业。
 
 这是"技术天才 + 商业天才"的经典组合。
 
@@ -56,19 +59,19 @@ Piotr 坚持全覆盖，这意味着模型复杂度成倍增加。但这开了�
 
 ### 决策4：从消费到企业的聚焦
 
-[[产品卡片-ElevenLabs|ElevenLabs]] 最初有消费端（阅读工具、播客生成），但 Piotr 和 Mati 很快认识到企业端（客服、内容配音）的利润率更高，集中火力。
+ElevenLabs 最初有消费端（阅读工具、播客生成），但 Piotr 和 Mati 很快认识到企业端（客服、内容配音）的利润率更高，集中火力。
 
 ---
 
 ## 产品 DNA
 
-[[ElevenLabs]] 的模型设计是 Piotr 的"执念"体现：不追求参数量的庞大，而追求**声音质量的极致**。
+[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]] 的模型设计是 Piotr 的"执念"体现：不追求参数量的庞大，而追求**声音质量的极致**。
 
 这意味着在 Google 时代学到的"模型精调"技巧被充分应用——每一个语言、每一个声色都有专门优化。
 
 跨语言能力（29 种语言）意味着模型做了大量的多任务学习，这不是简单的"翻译后合成"，而是真正理解每种语言的韵律特性。
 
-现在的 [[产品卡片-ElevenLabs|ElevenLabs]] 能做到 99%+ 的用户分不出是 AI 还是真人配音，这是 Piotr 执念的胜利。
+现在的 ElevenLabs 能做到 99%+ 的用户分不出是 AI 还是真人配音，这是 Piotr 执念的胜利。
 
 ---
 
@@ -92,23 +95,23 @@ Piotr 坚持全覆盖，这意味着模型复杂度成倍增加。但这开了�
 |------|------|
 | 支持语言 | 29+ |
 | 用户分辨不出 AI 的概率 | 99%+ |
-| [[产品卡片-ElevenLabs|ElevenLabs]] ARR | $330M |
+| ElevenLabs ARR | $330M |
 | 论文引用 | 677（高质量指标） |
 
 ---
 
 ## 相关产品
 
-- **[[ElevenLabs]]** — AI 语音合成平台，CTO
+- **[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]** — AI 语音合成平台，CTO
 - **[[ElevenLabs VoiceAgent]]** — 企业客服方案
 
 ## 相关人物
 
-- [[Mati Staniszewski]] — [[产品卡片-ElevenLabs|ElevenLabs]] CEO，商业搭档
+- [[03-人物库/Mati Staniszewski|Mati Staniszewski]] — ElevenLabs CEO，商业搭档
 
 ---
 
 ## 来源与参考
 
-1. [[产品卡片-ElevenLabs|ElevenLabs]] 官方博客和技术文档
+1. ElevenLabs 官方博客和技术文档
 2. Piotr 的学术论文列表

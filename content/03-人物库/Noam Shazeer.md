@@ -1,14 +1,19 @@
 ---
 type: person
-name: "Noam Shazeer"
-role: "VP & Gemini Co-Lead"
-company: "Google DeepMind"
-nationality: "American"
-age: "48"
-background: "Google Brain 20年+ → Transformer/LaMDA/Switch Transformer 核心开发 → Character.ai 创始人/CEO → Google DeepMind VP/Gemini Co-Lead"
-notable_for: "Transformer 发明者之一。用 MoE 和对话 AI 践行：最大的模型≠最好的模型。2.7B 回购反映的不是融资，而是 Google 对其战略眼光的认可"
-key_quote: "为什么 LLM 能工作？这是我最希望被问到的问题"
-updated: "2025-03-14"
+name: Noam Shazeer
+role: VP & Gemini Co-Lead
+company: Google DeepMind
+nationality: American
+age: '48'
+background: >-
+  Google Brain 20年+ → Transformer/LaMDA/Switch Transformer 核心开发 → Character.ai
+  创始人/CEO → Google DeepMind VP/Gemini Co-Lead
+notable_for: >-
+  Transformer 发明者之一。用 MoE 和对话 AI 践行：最大的模型≠最好的模型。2.7B 回购反映的不是融资，而是 Google
+  对其战略眼光的认可
+key_quote: 为什么 LLM 能工作？这是我最希望被问到的问题
+updated: '2025-03-14'
+title: Noam Shazeer
 ---
 # Noam Shazeer
 
@@ -16,14 +21,14 @@ updated: "2025-03-14"
 
 ## 身份与背景
 
-**简短版**：AI 时代的"逆向选手"。全球最顶级的 NLP 架构师，Google Brain 资深科学家，[[产品卡片-Character.ai|Character.ai]] 创始人，现任 Google DeepMind VP 和 [[产品卡片-Gemini|Gemini]] 三大领导人之一。
+**简短版**：AI 时代的"逆向选手"。全球最顶级的 NLP 架构师，Google Brain 资深科学家，Character.ai 创始人，现任 Google DeepMind VP 和 Gemini 三大领导人之一。
 
 **完整版**：
 
 Noam Shazeer 在 Google 工作超过 20 年，参与和主导了现代 NLP 最核心的三个突破：
 1. **Transformer 架构**（2017）— "Attention Is All You Need" 共同作者，改变了整个 AI 领域
 2. **Mixture of Experts（MoE）**（2017-2021） — Switch Transformer 的核心贡献，证明了"稀疏激活"比"更大"更聪明
-3. **对话 AI 商业化**（2021-2024） — 通过 [[产品卡片-Character.ai|Character.ai]] 验证了"角色化对话"的产品-市场匹配
+3. **对话 AI 商业化**（2021-2024） — 通过 Character.ai 验证了"角色化对话"的产品-市场匹配
 
 **不公平优势的组合**：
 - 全球最顶级的深度学习架构师（Transformer 发明者）
@@ -47,13 +52,13 @@ Shazeer 在多个场合表示，真正令他困惑和着迷的不是"如何让�
 
 "我想我让 OpenAI 的人开始走上了这条路。据我所知，他们来听了我的讲座。"
 
-他的核心观点：**好的研究应该被公开分享**，即使竞争对手也会从中受益。这个理念后来驱动了他对 [[产品卡片-Character.ai|Character.ai]] 的设计——让用户有选择权。
+他的核心观点：**好的研究应该被公开分享**，即使竞争对手也会从中受益。这个理念后来驱动了他对 Character.ai 的设计——让用户有选择权。
 
 [来源：Axios 采访，"I think I got OpenAI started on that path"]（https://www.axioshq.com/insights/characterai-ceo-i-think-i-got-openai-started-on-that-path）
 
-### 与 [[Ashish Vaswani]] 等人的共创
+### 与 Ashish Vaswani 等人的共创
 
-在 GTC 2024 NVIDIA 研讨会上，Shazeer 与其他 Transformer 论文作者（包括 [[Ashish Vaswani]], Lukasz Kaiser, Aidan Gomez, Llion Jones, Jakob Uszkoreit, Illia Polosukhin）共同反思了这篇被引用超过 173,000 次的论文如何改变了整个 AI 行业。
+在 GTC 2024 NVIDIA 研讨会上，Shazeer 与其他 Transformer 论文作者（包括 Ashish Vaswani, Lukasz Kaiser, Aidan Gomez, Llion Jones, Jakob Uszkoreit, Illia Polosukhin）共同反思了这篇被引用超过 173,000 次的论文如何改变了整个 AI 行业。
 
 [来源：NVIDIA GTC 2024，"Talk About Transformation"]（https://blogs.nvidia.com/blog/gtc-2024-transformer-ai-research-panel-jensen/）
 
@@ -74,7 +79,7 @@ Shazeer 在多个场合表示，真正令他困惑和着迷的不是"如何让�
 
 [来源：ArXiv 论文，1701.06538]（https://arxiv.org/abs/1701.06538）
 
-这个工作被 [[产品卡片-DeepSeek|DeepSeek]]-R1 在 2024 年底验证了——稀疏模型在推理成本和智能程度的权衡上远优于密集模型。**Shazeer 的预言比业界早了 7 年**。
+这个工作被 DeepSeek-R1 在 2024 年底验证了——稀疏模型在推理成本和智能程度的权衡上远优于密集模型。**Shazeer 的预言比业界早了 7 年**。
 
 ### 语言建模是"最好的问题"
 
@@ -91,23 +96,23 @@ Shazeer 在多个场合表示，真正令他困惑和着迷的不是"如何让�
 
 ### 计算资源是 AI 进步的第一要素
 
-与 [[Jeff Dean]] 一起在 Dwarkesh 播客中出现时（2025 年 2 月），Shazeer 强调：
+与 Jeff Dean 一起在 Dwarkesh 播客中出现时（2025 年 2 月），Shazeer 强调：
 
 "计算资源是最重要的东西。更多的 FLOPS = 更大的模型 = 更长的上下文 = 更强的推理能力。"
 
 这个观点很扎根于现实：**硬件架构和芯片设计成为 AGI 路线的中心瓶颈**。Noam 甚至提到了通过自动化芯片设计本身来突破——让 AI 设计更好的 AI 芯片。
 
-[来源：Dwarkesh 播客，[[Jeff Dean]] & Noam Shazeer，2025年2月]（https://www.dwarkesh.com/p/jeff-dean-and-noam-shazeer）
+[来源：Dwarkesh 播客，Jeff Dean & Noam Shazeer，2025年2月]（https://www.dwarkesh.com/p/jeff-dean-and-noam-shazeer）
 
 ---
 
-## 关于 [[产品卡片-Character.ai|Character.ai]] 与产品商业化
+## 关于 Character.ai 与产品商业化
 
-### 反 [[产品卡片-ChatGPT|ChatGPT]] 的产品设计哲学
+### 反 ChatGPT 的产品设计哲学
 
-Shazeer 在 2021 年离职 Google 创建 [[产品卡片-Character.ai|Character.ai]]，这个决定的背景是：**Google 拒绝承认 Meena 和 LaMDA 这样的对话 AI 有真实的商业价值**。Google 的担忧很直接：对话 AI 威胁搜索引擎业务。
+Shazeer 在 2021 年离职 Google 创建 Character.ai，这个决定的背景是：**Google 拒绝承认 Meena 和 LaMDA 这样的对话 AI 有真实的商业价值**。Google 的担忧很直接：对话 AI 威胁搜索引擎业务。
 
-[[产品卡片-Character.ai|Character.ai]] 的设计反而采用了完全不同的策略：不建立"万能助手"（[[产品卡片-ChatGPT|ChatGPT]] 模式），而是"可扮演不同角色的对话平台"。这个看似细微的差别实际上是：
+Character.ai 的设计反而采用了完全不同的策略：不建立"万能助手"（ChatGPT 模式），而是"可扮演不同角色的对话平台"。这个看似细微的差别实际上是：
 
 **避免与 OpenAI 的正面竞争，同时占领被忽视的"陪伴和娱乐"市场**。
 
@@ -117,13 +122,13 @@ Shazeer 在 2021 年离职 Google 创建 [[产品卡片-Character.ai|Character.a
 
 ### 用户选择权 > 公司预设的观点
 
-在 Fortune 采访中，Shazeer 强调了 [[产品卡片-Character.ai|Character.ai]] 的核心理念：
+在 Fortune 采访中，Shazeer 强调了 Character.ai 的核心理念：
 
 "我们想给人们机会来定义他们想要什么。大型语言模型是'超级好用的'——你可以用直接的方式与你创建的角色对话。"
 
-他的产品观：**平台应该让用户创意，而不是公司决定什么是"正确的"对话**。这与 OpenAI 对 [[产品卡片-ChatGPT|ChatGPT]] 的指导、限制和价值观注入形成了鲜明对比。
+他的产品观：**平台应该让用户创意，而不是公司决定什么是"正确的"对话**。这与 OpenAI 对 ChatGPT 的指导、限制和价值观注入形成了鲜明对比。
 
-同时，Shazeer 指出，[[产品卡片-Character.ai|Character.ai]] 看到了机会——数百万用户可以想到公司想不到的用例。真实的创新来自于用户，不是产品经理。
+同时，Shazeer 指出，Character.ai 看到了机会——数百万用户可以想到公司想不到的用例。真实的创新来自于用户，不是产品经理。
 
 [来源：Fortune，"Character.AI's Noam Shazeer on what we know about AI"]（https://fortune.com/2024/08/02/character-ais-noam-shazeer-what-we-know-about-ai/）
 
@@ -140,7 +145,7 @@ Shazeer 反复强调的一个主题是：**AI 太贵了，这是问题**。
 
 [来源：Axios，"Character.AI's CEO wants to make AI way, way cheaper"]（https://www.axioshq.com/insights/character-ai-ceo-wants-to-make-ai-cheaper）
 
-### [[产品卡片-Character.ai|Character.ai]] 的平台 DNA
+### Character.ai 的平台 DNA
 
 与 Aarthi 和 Sriram 的播客中，Shazeer 解释了为什么对话 AI 本质上是一个平台问题：
 
@@ -148,7 +153,7 @@ Shazeer 反复强调的一个主题是：**AI 太贵了，这是问题**。
 
 关键观点：**不应该试图预测所有伟大的用例。那里有数百万用户，他们能想到比我们更好的东西。**
 
-这是对"平台 vs. 产品"问题的深刻理解——后来被验证为正确的，因为 [[产品卡片-Character.ai|Character.ai]] 的许多最成功的用例（学习伙伴、心理援助、角色扮演）都来自用户创新，而非公司预设。
+这是对"平台 vs. 产品"问题的深刻理解——后来被验证为正确的，因为 Character.ai 的许多最成功的用例（学习伙伴、心理援助、角色扮演）都来自用户创新，而非公司预设。
 
 [来源：The Aarthi and Sriram Show，EP 31，2023年1月]（https://www.aarthiandsriram.com/p/dig-into-the-research-breakthroughs）
 
@@ -158,11 +163,11 @@ Shazeer 反复强调的一个主题是：**AI 太贵了，这是问题**。
 
 ### $2.7B 回购协议的本质
 
-2024 年 8 月，Google 以 $2.7B 授权费用（加上重新聘用 Shazeer 和部分 [[产品卡片-Character.ai|Character.ai]] 团队）的独特结构收购了 [[产品卡片-Character.ai|Character.ai]] 的技术。这个结构很重要，因为它不是传统的 M&A，而是：
+2024 年 8 月，Google 以 $2.7B 授权费用（加上重新聘用 Shazeer 和部分 Character.ai 团队）的独特结构收购了 Character.ai 的技术。这个结构很重要，因为它不是传统的 M&A，而是：
 
-- Google 支付 $2.7B 获得 [[产品卡片-Character.ai|Character.ai]] 的 IP
+- Google 支付 $2.7B 获得 Character.ai 的 IP
 - Shazeer 和核心团队回到 Google DeepMind
-- [[产品卡片-Character.ai|Character.ai]] 品牌和产品继续独立运营（由 Google 许可）
+- Character.ai 品牌和产品继续独立运营（由 Google 许可）
 
 **本质上，这是 Google 说"我们承认你是对的"的最有代价的方式**。这笔钱不是为了产品用户，而是为了**确保这个人和他的想法回到公司**。
 
@@ -170,7 +175,7 @@ Shazeer 反复强调的一个主题是：**AI 太贵了，这是问题**。
 
 ### 回归后的角色与雄心
 
-Shazeer 现在是 Google [[产品卡片-Gemini|Gemini]] 的三大领导人之一（另两位是 [[Jeff Dean]] 和 [[Oriol Vinyals]]）。他的官方使命很清晰：**推动 AGI 的开发**。
+Shazeer 现在是 Google Gemini 的三大领导人之一（另两位是 Jeff Dean 和 Oriol Vinyals）。他的官方使命很清晰：**推动 AGI 的开发**。
 
 在多个访谈中，Shazeer 表达了对 Google 未来的愿景：
 
@@ -180,9 +185,9 @@ Shazeer 现在是 Google [[产品卡片-Gemini|Gemini]] 的三大领导人之一
 
 [来源：Fast Company，"Noam Shazeer is back at Google, and this time he's aiming for AGI"]（https://www.fastcompany.com/91233846/noam-shazeer-back-at-google-agi）
 
-### 与 [[Jeff Dean]] 的对话：25 年的 Google AI 历史
+### 与 Jeff Dean 的对话：25 年的 Google AI 历史
 
-在 2025 年 2 月最新的 Dwarkesh 播客中，Shazeer 与 Google Chief Scientist [[Jeff Dean]] 共同讨论了 25 年的 Google AI 进展——从 PageRank 到 MapReduce 到 Transformer 到 MoE，最后到"可能的 AGI"。
+在 2025 年 2 月最新的 Dwarkesh 播客中，Shazeer 与 Google Chief Scientist Jeff Dean 共同讨论了 25 年的 Google AI 进展——从 PageRank 到 MapReduce 到 Transformer 到 MoE，最后到"可能的 AGI"。
 
 关键话题包括：
 - **Pathways** —— Google 关于硬件和算法设计的统一愿景
@@ -192,11 +197,11 @@ Shazeer 现在是 Google [[产品卡片-Gemini|Gemini]] 的三大领导人之一
 
 这个播客展现了 Shazeer 最大胆的思维——他本质上在想象 AI 不仅改进现有产品，而是**重新定义什么是计算、研究和经济增长**。
 
-[来源：Dwarkesh Podcast，"[[Jeff Dean]] & Noam Shazeer — 25 years at Google: from PageRank to AGI"]（https://www.dwarkesh.com/p/jeff-dean-and-noam-shazeer）
+[来源：Dwarkesh Podcast，"Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI"]（https://www.dwarkesh.com/p/jeff-dean-and-noam-shazeer）
 
-### [[产品卡片-Gemini|Gemini]] 3.1 Flash-Lite 与"思维模型"的未来
+### Gemini 3.1 Flash-Lite 与"思维模型"的未来
 
-最近（2025 年），Shazeer 推出了 [[产品卡片-Gemini|Gemini]] 3.1 Flash-Lite，这是一个特别优化的高效模型，同时引入了"思维等级"的概念——用户可以根据问题的复杂性调整计算量。
+最近（2025 年），Shazeer 推出了 Gemini 3.1 Flash-Lite，这是一个特别优化的高效模型，同时引入了"思维等级"的概念——用户可以根据问题的复杂性调整计算量。
 
 这反映了他对 MoE 思想的最新应用：**不是所有问题都需要相同的计算**。有些问题可以通过快速直观反应解决，有些需要深度推理。模型应该能够动态分配计算资源。
 
@@ -210,17 +215,17 @@ Shazeer 现在是 Google [[产品卡片-Gemini|Gemini]] 的三大领导人之一
 
 Shazeer 离职 Google 的一个关键原因是**对话 AI 安全性的过度谨慎**。Google 构建了 Meena 和 LaMDA，两个在对话能力上远超当时所有产品的模型。但出于"安全和公平"的考量，Google 拒绝公开发布它们。
 
-Shazeer 对此感到沮丧，认为 Google 的组织官僚主义阻止了有价值的技术进入现实世界。这推动他创建了 [[产品卡片-Character.ai|Character.ai]]——一个更敢于"让用户接触真实 AI 能力"的平台。
+Shazeer 对此感到沮丧，认为 Google 的组织官僚主义阻止了有价值的技术进入现实世界。这推动他创建了 Character.ai——一个更敢于"让用户接触真实 AI 能力"的平台。
 
-**悖论**：现在 [[产品卡片-Character.ai|Character.ai]] 因为缺乏足够的安全防护措施而面临诉讼（青少年与 AI 陪伴角色的心理健康问题）。这表明 Shazeer 的"更开放 vs. 更谨慎"的思维框架可能需要更复杂的安全设计。
+**悖论**：现在 Character.ai 因为缺乏足够的安全防护措施而面临诉讼（青少年与 AI 陪伴角色的心理健康问题）。这表明 Shazeer 的"更开放 vs. 更谨慎"的思维框架可能需要更复杂的安全设计。
 
 [来源：Google DeepMind 安全承诺新闻]（https://www.calcalistech.com/ctechnews/article/rksxmxsj0）
 
 ### 对话 AI 应该赋予用户选择权
 
-相比 OpenAI 对 [[产品卡片-ChatGPT|ChatGPT]] 的价值观注入（系统提示、安全对齐、内容过滤），Shazeer 更倾向于让用户和创作者定义 AI 角色应该是什么。
+相比 OpenAI 对 ChatGPT 的价值观注入（系统提示、安全对齐、内容过滤），Shazeer 更倾向于让用户和创作者定义 AI 角色应该是什么。
 
-这在产品上的体现是：**[[产品卡片-Character.ai|Character.ai]] 允许用户创建任何角色**，而不是公司决定什么是"安全的"或"道德的"。
+这在产品上的体现是：**Character.ai 允许用户创建任何角色**，而不是公司决定什么是"安全的"或"道德的"。
 
 换句话说：**Shazeer 相信市场和用户行为会自我调节，而不是公司的道德守门人**。这个立场现在被部分质疑，因为一些用户创建的不适合青少年的内容导致了严重的伤害。
 
@@ -260,7 +265,7 @@ Shazeer 对此感到沮丧，认为 Google 的组织官僚主义阻止了有价�
 
 ### Pathways 与 Google 的大一统 AI 愿景
 
-Shazeer 支持 [[Jeff Dean]] 的"Pathways"愿景——Google 未来的硬件和算法应该是统一的，允许一个巨大的 Mixture of Experts 模型横跨整个 Google 基础设施。
+Shazeer 支持 Jeff Dean 的"Pathways"愿景——Google 未来的硬件和算法应该是统一的，允许一个巨大的 Mixture of Experts 模型横跨整个 Google 基础设施。
 
 这个想象很大胆：**不是构建许多小模型，而是构建一个足够灵活的全球模型，可以针对不同的用户需求动态调整**。
 
@@ -276,7 +281,7 @@ Shazeer 支持 [[Jeff Dean]] 的"Pathways"愿景——Google 未来的硬件和�
 
 2. **产品第一的研究者**：不是研究完全脱离商业，也不是商业压倒研究。相反，Shazeer 一直在寻找"什么研究能解决实际的用户问题"。
 
-3. **开放性优先主义者**：相信好的想法应该被分享（他的 Transformer 演讲启发了 OpenAI），相信用户应该有自主权定义 AI 的使用方式。这在 [[产品卡片-Character.ai|Character.ai]] 中清晰可见。
+3. **开放性优先主义者**：相信好的想法应该被分享（他的 Transformer 演讲启发了 OpenAI），相信用户应该有自主权定义 AI 的使用方式。这在 Character.ai 中清晰可见。
 
 4. **系统设计思维**：不是优化单一指标（参数、速度、安全），而是考虑整个系统的权衡——成本 vs. 能力，控制 vs. 自由，安全 vs. 创新。
 
@@ -296,11 +301,11 @@ Shazeer 支持 [[Jeff Dean]] 的"Pathways"愿景——Google 未来的硬件和�
 |------|------|
 | Google Brain 工作年限 | 20+ 年 |
 | Transformer 论文引用数 | 173,000+ |
-| [[产品卡片-Character.ai|Character.ai]] 融资规模 | $150M（2024年3月） |
+| Character.ai 融资规模 | $150M（2024年3月） |
 | Google 授权协议价值 | $2.7B（2024年8月） |
-| [[产品卡片-Gemini|Gemini]] 三大领导人 | 3（[[Jeff Dean]], [[Oriol Vinyals]], Noam Shazeer） |
+| Gemini 三大领导人 | 3（Jeff Dean, Oriol Vinyals, Noam Shazeer） |
 | MoE 论文发表年份 | 2017 |
-| MoE 被验证为优越（[[产品卡片-DeepSeek|DeepSeek]]）年份 | 2024 |
+| MoE 被验证为优越（DeepSeek）年份 | 2024 |
 | **预言领先时间** | **7 年** |
 
 ---
@@ -323,21 +328,21 @@ Shazeer 支持 [[Jeff Dean]] 的"Pathways"愿景——Google 未来的硬件和�
 
 ## 相关产品与组织
 
-- **[[[产品卡片-Character.ai|Character.ai]]](https://character.ai)** — 角色对话平台，Shazeer 创始人兼 CEO（2021-2024），现由 Google 许可
-- **Google DeepMind** — 现在工作地，[[产品卡片-Gemini|Gemini]] 三大 Co-Lead 之一
+- **[Character.ai](https://character.ai)** — 角色对话平台，Shazeer 创始人兼 CEO（2021-2024），现由 Google 许可
+- **Google DeepMind** — 现在工作地，Gemini 三大 Co-Lead 之一
 - **Google Brain** — 20+ 年的研究家
-- **[[产品卡片-Gemini|Gemini]]** — 现在领导的 AI 模型族系
+- **Gemini** — 现在领导的 AI 模型族系
 
 ## 相关人物
 
-- [[Jeff Dean]] — Google Chief Scientist，25 年的工作搭档，[[产品卡片-Gemini|Gemini]] Co-Lead
-- [[Daniel De Freitas]] — [[产品卡片-Character.ai|Character.ai]] 联合创始人兼 President
-- [[Ashish Vaswani]] — Transformer 共同作者，现在 Google（参与 Pathways 愿景）
-- [[Oriol Vinyals]] — [[产品卡片-Gemini|Gemini]] Co-Lead，对话 AI 研究专家
+- [[03-人物库/Jeff Dean|Jeff Dean]] — Google Chief Scientist，25 年的工作搭档，Gemini Co-Lead
+- [[03-人物库/Daniel De Freitas|Daniel De Freitas]] — Character.ai 联合创始人兼 President
+- [[03-人物库/Ashish Vaswani|Ashish Vaswani]] — Transformer 共同作者，现在 Google（参与 Pathways 愿景）
+- [[03-人物库/Oriol Vinyals|Oriol Vinyals]] — Gemini Co-Lead，对话 AI 研究专家
 
 ## 相关概念
 
 - **Mixture of Experts (MoE)** — 稀疏激活架构，参数效率最高的突破
 - **Transformer 架构** — 现代 NLP 的基础
-- **对话 AI 商业化** — [[产品卡片-Character.ai|Character.ai]] 验证的产品-市场匹配
+- **对话 AI 商业化** — Character.ai 验证的产品-市场匹配
 - **AGI 路线图** — 通过 Pathways 和自动化研究实现

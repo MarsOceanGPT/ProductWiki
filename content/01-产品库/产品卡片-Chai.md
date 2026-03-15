@@ -1,61 +1,82 @@
 ---
 type: product
-name: "Chai"
-name_cn: "Chai"
-url: "https://chai.ml"
+name: Chai
+name_cn: Chai
+url: 'https://chai.ml'
 founded: 2021
-headquarters: "Palo Alto, CA, USA"
-founders: ["William R. G. Beauchamp"]
-stage: "Growth/Scale"
-status: "Active"
-metrics_date: "2026-03"
-arr: "$48-58M"
-users: "10M+ downloads"
-monthly_visits: "不足，待补充"
-mau: "1M+ DAU (2025)"
-funding_total: "$55M+"
+headquarters: 'Palo Alto, CA, USA'
+founders:
+  - William R. G. Beauchamp
+stage: Growth/Scale
+status: Active
+metrics_date: 2026-03
+arr: $48-58M
+users: 10M+ downloads
+monthly_visits: 不足，待补充
+mau: 1M+ DAU (2025)
+funding_total: $55M+
 funding_rounds:
-  - "Strategic Round I (Jan 2024)"
-  - "Strategic Round II (Jul 2025, $47M, CoreWeave/AMD)"
-valuation: "$450M (2025)"
-employees: "11-21"
-category: "AI 社交/陪伴"
-subcategory: "AI Companion Platform - User-Generated AI"
-target_user: "Gen Z users; AI enthusiasts; creators/developers"
+  - Strategic Round I (Jan 2024)
+  - 'Strategic Round II (Jul 2025, $47M, CoreWeave/AMD)'
+valuation: $450M (2025)
+employees: 11-21
+category: AI 社交/陪伴
+subcategory: AI Companion Platform - User-Generated AI
+target_user: Gen Z users; AI enthusiasts; creators/developers
 pricing_model:
-  - "Freemium (70 messages/day)"
-  - "Premium: $13.99/month (unlimited messages)"
-  - "Premium+: $134.99/year (annual discount)"
-  - "Ultra: $30/month (exclusive models & bots)"
-opportunity_playbooks: ["AI社交娱乐", "创意者经济", "LLM众创平台"]
-design_playbooks: ["用户生成内容", "排行榜游戏化", "角色创建工具"]
-mvp_playbooks: ["快速迭代周期", "社区反馈驱动"]
-pmf_playbooks: ["移动优先策略", "低摩擦创建流程", "排行榜激励"]
-growth_playbooks: ["口碑/社区驱动", "开发者竞赛(Guanaco)", "无营销高增长"]
-monetization_playbooks: ["订阅模式", "按消息计费", "精准分层定价"]
-moat_playbooks: ["创意者网络效应", "海量定制模型库", "社区反馈数据"]
-distance_to_money: "贴近交易：订阅+应用内消费"
-industry_layer: "应用层"
-pricing_quadrant: "中-高价格，高频使用"
+  - Freemium (70 messages/day)
+  - 'Premium: $13.99/month (unlimited messages)'
+  - 'Premium+: $134.99/year (annual discount)'
+  - 'Ultra: $30/month (exclusive models & bots)'
+opportunity_playbooks:
+  - AI社交娱乐
+  - 创意者经济
+  - LLM众创平台
+design_playbooks:
+  - 用户生成内容
+  - 排行榜游戏化
+  - 角色创建工具
+mvp_playbooks:
+  - 快速迭代周期
+  - 社区反馈驱动
+pmf_playbooks:
+  - 移动优先策略
+  - 低摩擦创建流程
+  - 排行榜激励
+growth_playbooks:
+  - 口碑/社区驱动
+  - 开发者竞赛(Guanaco)
+  - 无营销高增长
+monetization_playbooks:
+  - 订阅模式
+  - 按消息计费
+  - 精准分层定价
+moat_playbooks:
+  - 创意者网络效应
+  - 海量定制模型库
+  - 社区反馈数据
+distance_to_money: 贴近交易：订阅+应用内消费
+industry_layer: 应用层
+pricing_quadrant: 中-高价格，高频使用
 key_people:
-  - "William R. G. Beauchamp (CEO/Co-Founder)"
-  - "Shiya L. (Engineering Lead)"
-  - "Vineet M. (Team)"
-  - "Christie-Carol B. (Team)"
-  - "Nischay D. (3x Kaggle GrandMaster, Fine-tuning)"
+  - William R. G. Beauchamp (CEO/Co-Founder)
+  - Shiya L. (Engineering Lead)
+  - Vineet M. (Team)
+  - Christie-Carol B. (Team)
+  - 'Nischay D. (3x Kaggle GrandMaster, Fine-tuning)'
 competitors:
-  - "[[Character.ai]]"
-  - "[[Replika]]"
-  - "[[Janitor AI]]"
+  - '[[01-产品库/产品卡片-Character.ai|Character.ai]]'
+  - '[[01-产品库/产品卡片-Replika|Replika]]'
+  - '[[Janitor AI]]'
 related_products:
-  - "[[Chaiverse (Chai Developer Platform)]]"
-  - "[[CoreWeave]]"
-  - "[[Character.ai]]"
-last_updated: "2026-03-14"
-confidence: "High (公开资料+多个来源验证)"
+  - '[[Chaiverse (Chai Developer Platform)]]'
+  - '[[CoreWeave]]'
+  - '[[01-产品库/产品卡片-Character.ai|Character.ai]]'
+last_updated: '2026-03-14'
+confidence: High (公开资料+多个来源验证)
 mars_reviewed: false
+title: Chai
 ---
-
 # Chai：用户生成AI的YouTube模式
 
 ## 基本面
@@ -124,8 +145,8 @@ mars_reviewed: false
 3. **反转距离结构**：制作者→消费者的距离远小于传统媒体
 
 **市场空隙**：
-- [[产品卡片-Character.ai|Character.ai]] (2022年推出) 侧重Web + 严格内容审核
-- [[产品卡片-Replika|Replika]] (2017年) 侧重单一长期关系
+- Character.ai (2022年推出) 侧重Web + 严格内容审核
+- Replika (2017年) 侧重单一长期关系
 - **Chai空隙**：移动优先 + 开放创建 + 社区多样性
 
 ---
@@ -275,8 +296,8 @@ mars_reviewed: false
 
 | 维度 | 技术选择 | 赌注内容 | 时间窗口 |
 |------|--------|--------|--------|
-| **基础模型** | 不自建大模型，聚合开源 | 赌开源LLM([[Llama]]/Mistral)性能足够，不需自建GPT级模型 | 模型能力每年+30%，Chai的优势在编排而非基础模型 |
-| **微调架构** | 众多小模型+路由器 | 赌"专家小模型"比"通用大模型"更优（[[产品卡片-DeepSeek|DeepSeek]] MoE思路） | 如果基础模型性能10倍提升，路由价值↓，但聚合价值↑ |
+| **基础模型** | 不自建大模型，聚合开源 | 赌开源LLM(Llama/Mistral)性能足够，不需自建GPT级模型 | 模型能力每年+30%，Chai的优势在编排而非基础模型 |
+| **微调架构** | 众多小模型+路由器 | 赌"专家小模型"比"通用大模型"更优（DeepSeek MoE思路） | 如果基础模型性能10倍提升，路由价值↓，但聚合价值↑ |
 | **推理成本** | 依赖基础设施合作(CoreWeave) | 赌与基础设施深度绑定优于自建 | GPU成本继续下降，但如CoreWeave陨落，Chai的成本结构受限 |
 | **数据获取** | 通过用户对话实时收集 | 赌RLHF反馈循环比离线数据更有价值 | 如果用户转向其他平台，反馈数据优势消失 |
 
@@ -504,7 +525,7 @@ mars_reviewed: false
 
 ## Mars 视角
 
-职业扑克手开一个 AI 陪伴平台，这个背景不是偶然的。[[William Beauchamp]] 从扑克里学到的是什么？概率思维和激励设计。Chai 的整个逻辑就是这两个东西的组合——排行榜就是最纯粹的激励博弈。
+职业扑克手开一个 AI 陪伴平台，这个背景不是偶然的。William Beauchamp 从扑克里学到的是什么？概率思维和激励设计。Chai 的整个逻辑就是这两个东西的组合——排行榜就是最纯粹的激励博弈。
 
 看起来 Chai 没做什么新技术，但反而看到了别人看不见的东西：**竞争对手的自我设限就是你的护城河**。Character.ai 严格审核是道德选择，导致了大量创意者流失。Chai 敞开怀抱，直接捡了那些用户。然后最聪明的地方来了——排行榜制度。这不是 YouTube 那种"算法推荐"，而是纯粹的"透明排名"。创意者看到自己的模型排名，就会不断优化，无需 Chai 花钱激励，甚至不需要给分成。这是从扑克里学来的：**透明的排名本身就是最强的动机**。
 
@@ -635,7 +656,7 @@ Chai配置：
 
 这是**很聪明的设计**——不是All In单一赌注，而是"稳+激"的平衡。
 
-### 6.5 "[[产品卡片-Cursor|Cursor]] for X" 框架
+### 6.5 "Cursor for X" 框架
 
 **Chai本质是什么？**
 
@@ -785,7 +806,7 @@ Chai赌的是**这个世界观**对了。如果对了，Chai从"应用"变成"�
 
 ### 用户与增长
 - [Wikipedia: Chai AI](https://en.wikipedia.org/wiki/Chai_AI)
-- [Latent Space Podcast: Outlasting [[Noam Shazeer]], crowdsourcing Chat + AI with >1.4m DAU](https://www.latent.space/p/chai)
+- [Latent Space Podcast: Outlasting Noam Shazeer, crowdsourcing Chat + AI with >1.4m DAU](https://www.latent.space/p/chai)
 - [GetLatka: How Chai Research hit $30M revenue with a 21 person team in 2025](https://getlatka.com/companies/chai-research.com)
 
 ### 竞争分析

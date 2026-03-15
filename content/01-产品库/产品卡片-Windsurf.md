@@ -2,47 +2,77 @@
 type: product
 name: Windsurf
 name_cn: Windsurf
-url: https://windsurf.com
+url: 'https://windsurf.com'
 founded: 2021
 headquarters: San Francisco (distributed)
-founders: ["Varun Mohan", "Douglas Chen"]
+founders:
+  - Varun Mohan
+  - Douglas Chen
 stage: Acquired by Google + Cognition AI (2025)
 status: Active
-metrics_date: "2026-03"
-arr: "Information not available"
-users: "1M+ developers"
-monthly_visits: "Information not available"
-mau: "Information not available"
-funding_total: "$243M"
-funding_rounds: [
-  "Series A (undisclosed, 2023)",
-  "Series B $50M (General Catalyst, Jan 2024, $500M valuation)",
-  "Series C $150M (General Catalyst led, Aug 2024, $1.25B valuation)"
-]
-valuation: "Hired by Google for $2.4B (technology license, 2025)"
-employees: "~40-50 (core team hired by Google)"
-category: "AI Code Editor"
-subcategory: "IDE, Developer Tools, AI Coding Assistant"
-target_user: "Individual developers, teams working with complex codebases"
-pricing_model: ["Subscription", "Enterprise licensing"]
-opportunity_playbooks: ["Agent-first IDE paradigm", "Enterprise codebase transformation", "Developer workflow optimization"]
-design_playbooks: ["Cascade agentic system", "Automatic context retrieval", "Multi-file code understanding"]
-mvp_playbooks: ["Pivot from autocomplete (Codeium) to agent-first IDE"]
-pmf_playbooks: ["Superpowers for developers", "Monorepo and large codebase specialization"]
-growth_playbooks: ["Early adopter focus (developers love new tools)", "Community building on Discord/Twitter"]
-monetization_playbooks: ["Subscription pricing ($15/month vs Cursor $20)", "Enterprise licensing"]
-moat_playbooks: ["Codebase understanding through SWE-1.5", "Agentic architecture", "Enterprise relationships"]
-distance_to_money: "Direct (B2C + B2B subscription)"
-industry_layer: "Application/Developer Tools"
-pricing_quadrant: "Premium subscription"
-key_people: ["Varun Mohan (CEO, Co-founder)", "Douglas Chen (Co-founder)", "Team at Google (acquired)"]
-competitors: ["Cursor", "GitHub Copilot", "Claude Code", "JetBrains AI Assistant"]
-related_products: ["[[Cursor]]", "[[GitHub Copilot]]", "[[Claude Code]]", "[[Codeium]]"]
-last_updated: "2026-03-14"
-confidence: "Medium-High"
+metrics_date: 2026-03
+arr: Information not available
+users: 1M+ developers
+monthly_visits: Information not available
+mau: Information not available
+funding_total: $243M
+funding_rounds:
+  - 'Series A (undisclosed, 2023)'
+  - 'Series B $50M (General Catalyst, Jan 2024, $500M valuation)'
+  - 'Series C $150M (General Catalyst led, Aug 2024, $1.25B valuation)'
+valuation: 'Hired by Google for $2.4B (technology license, 2025)'
+employees: ~40-50 (core team hired by Google)
+category: AI Code Editor
+subcategory: 'IDE, Developer Tools, AI Coding Assistant'
+target_user: 'Individual developers, teams working with complex codebases'
+pricing_model:
+  - Subscription
+  - Enterprise licensing
+opportunity_playbooks:
+  - Agent-first IDE paradigm
+  - Enterprise codebase transformation
+  - Developer workflow optimization
+design_playbooks:
+  - Cascade agentic system
+  - Automatic context retrieval
+  - Multi-file code understanding
+mvp_playbooks:
+  - Pivot from autocomplete (Codeium) to agent-first IDE
+pmf_playbooks:
+  - Superpowers for developers
+  - Monorepo and large codebase specialization
+growth_playbooks:
+  - Early adopter focus (developers love new tools)
+  - Community building on Discord/Twitter
+monetization_playbooks:
+  - Subscription pricing ($15/month vs Cursor $20)
+  - Enterprise licensing
+moat_playbooks:
+  - Codebase understanding through SWE-1.5
+  - Agentic architecture
+  - Enterprise relationships
+distance_to_money: Direct (B2C + B2B subscription)
+industry_layer: Application/Developer Tools
+pricing_quadrant: Premium subscription
+key_people:
+  - 'Varun Mohan (CEO, Co-founder)'
+  - Douglas Chen (Co-founder)
+  - Team at Google (acquired)
+competitors:
+  - Cursor
+  - GitHub Copilot
+  - Claude Code
+  - JetBrains AI Assistant
+related_products:
+  - '[[01-产品库/产品卡片-Cursor|Cursor]]'
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
+  - '[[01-产品库/Claude Code|Claude Code]]'
+  - '[[Codeium]]'
+last_updated: '2026-03-14'
+confidence: Medium-High
 mars_reviewed: false
+title: Windsurf
 ---
-
 # Windsurf (Codeium) 产品卡片
 
 ## 基本面表格

@@ -2,43 +2,89 @@
 type: product
 name: Runway
 name_cn: Runway AI 视频生成平台
-url: https://runwayml.com
+url: 'https://runwayml.com'
 founded: 2018
-headquarters: "New York City, USA"
-founders: ["Cristóbal Valenzuela", "Alejandro Matamala-Ortiz", "Anastasis Germanidis"]
+headquarters: 'New York City, USA'
+founders:
+  - Cristóbal Valenzuela
+  - Alejandro Matamala-Ortiz
+  - Anastasis Germanidis
 stage: Late Stage / Pre-IPO
 status: Active
-metrics_date: "2026-03"
-arr: "$300M+"
-users: "300,000+"
-monthly_visits: ""
-mau: ""
-funding_total: "$700M+"
-funding_rounds: ["Series A", "Series B", "Series C", "Series D", "Series E"]
-valuation: "$5.3B (Feb 2026)"
-employees: "140+"
-category: "AI Media Creation / Video Generation"
-subcategory: "Generative AI for Film & Creative Professionals"
-target_user: "Creative professionals, filmmakers, designers, content creators, Hollywood studios"
-pricing_model: ["Freemium", "Creator Tier", "Professional Tier", "Enterprise Contracts"]
-opportunity_playbooks: ["Creator-to-Professional Progression", "Hollywood Partnership Strategy", "World Models Evolution"]
-design_playbooks: ["Multi-modal AI Editing", "Real-time Video Synthesis", "World Model Interaction"]
-mvp_playbooks: ["Text-to-Video MVP", "Green Screen Replacement"]
-pmf_playbooks: ["Professional Video Creator Adoption", "Studio Workflow Integration"]
-growth_playbooks: ["Creator Community", "Entertainment Industry Partnership", "Technical Demos"]
-monetization_playbooks: ["Creator Freemium + Pro", "Studio Enterprise License", "API Access"]
-moat_playbooks: ["Proprietary Video Models", "Creative Professional Relationships", "World Model Research"]
-distance_to_money: "Medium-Close (Creator + Studio)"
-industry_layer: "Application Layer / Media Creation"
-pricing_quadrant: "Medium-High Price, Niche Professional Market"
-key_people: ["Cristóbal Valenzuela - CEO & Co-founder", "Alejandro Matamala-Ortiz - Co-founder", "Anastasis Germanidis - Co-founder"]
-competitors: ["Sora (OpenAI)", "Pika", "HeyGen", "Synthesia", "D-ID"]
-related_products: ["[[Sora]]", "[[Pika]]", "[[HeyGen]]", "[[Synthesia]]", "[[Luma AI]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $300M+
+users: '300,000+'
+monthly_visits: ''
+mau: ''
+funding_total: $700M+
+funding_rounds:
+  - Series A
+  - Series B
+  - Series C
+  - Series D
+  - Series E
+valuation: $5.3B (Feb 2026)
+employees: 140+
+category: AI Media Creation / Video Generation
+subcategory: Generative AI for Film & Creative Professionals
+target_user: >-
+  Creative professionals, filmmakers, designers, content creators, Hollywood
+  studios
+pricing_model:
+  - Freemium
+  - Creator Tier
+  - Professional Tier
+  - Enterprise Contracts
+opportunity_playbooks:
+  - Creator-to-Professional Progression
+  - Hollywood Partnership Strategy
+  - World Models Evolution
+design_playbooks:
+  - Multi-modal AI Editing
+  - Real-time Video Synthesis
+  - World Model Interaction
+mvp_playbooks:
+  - Text-to-Video MVP
+  - Green Screen Replacement
+pmf_playbooks:
+  - Professional Video Creator Adoption
+  - Studio Workflow Integration
+growth_playbooks:
+  - Creator Community
+  - Entertainment Industry Partnership
+  - Technical Demos
+monetization_playbooks:
+  - Creator Freemium + Pro
+  - Studio Enterprise License
+  - API Access
+moat_playbooks:
+  - Proprietary Video Models
+  - Creative Professional Relationships
+  - World Model Research
+distance_to_money: Medium-Close (Creator + Studio)
+industry_layer: Application Layer / Media Creation
+pricing_quadrant: 'Medium-High Price, Niche Professional Market'
+key_people:
+  - Cristóbal Valenzuela - CEO & Co-founder
+  - Alejandro Matamala-Ortiz - Co-founder
+  - Anastasis Germanidis - Co-founder
+competitors:
+  - Sora (OpenAI)
+  - Pika
+  - HeyGen
+  - Synthesia
+  - D-ID
+related_products:
+  - '[[Sora]]'
+  - '[[Pika]]'
+  - '[[01-产品库/产品卡片-HeyGen|HeyGen]]'
+  - '[[01-产品库/产品卡片-Synthesia|Synthesia]]'
+  - '[[Luma AI]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Runway
 ---
-
 ## 基本面表格
 
 | 指标 | 数据 | 备注 |
@@ -788,8 +834,8 @@ Runway 选择了"生态护城河"而不是"技术护城河"。技术护城河会
 **相关产品和框架：**
 - [[Sora (OpenAI)]]（竞争对手，技术领先）
 - [[Pika]]（竞争对手，创作者友好）
-- [[HeyGen]]（相似路线但专注企业）
-- [[Synthesia]]（相似路线但专注企业 Avatar）
+- [[01-产品库/产品卡片-HeyGen|HeyGen]]（相似路线但专注企业）
+- [[01-产品库/产品卡片-Synthesia|Synthesia]]（相似路线但专注企业 Avatar）
 - [[Adobe Premiere Pro]]（战略合作伙伴）
 - [[工作流集成作为护城河]]（战略框架）
 - [[世界模型 (AI)]]（下一代技术）

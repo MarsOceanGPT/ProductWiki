@@ -10,18 +10,35 @@ type: product
 成立年份: 2022
 公开年份: 2023
 tags:
-  opportunity: [打开能力门槛新市场, 个性化教育新范式]
-  design: [自适应学习路径, AI个性化师生, 进度追踪]
-  mvp: [AI+内容库拼装, 学习数据驱动]
-  pmf: [主动学习需求, 学习焦虑降低]
-  growth: [待补充]
-  monetization: [按功能-订阅, 学校授权]
-  moat: [学习数据, 适应算法, 内容库]
-相关人物: [待补充]
-竞争对手: [Duolingo, Khan Academy, Coursera, Skillshare, 2U]
-关联产品: [Duolingo, Khan Academy, Character.ai]
+  - 打开能力门槛新市场
+  - 个性化教育新范式
+  - 自适应学习路径
+  - AI个性化师生
+  - 进度追踪
+  - AI+内容库拼装
+  - 学习数据驱动
+  - 主动学习需求
+  - 学习焦虑降低
+  - 待补充
+  - 按功能-订阅
+  - 学校授权
+  - 学习数据
+  - 适应算法
+  - 内容库
+相关人物:
+  - 待补充
+竞争对手:
+  - Duolingo
+  - Khan Academy
+  - Coursera
+  - Skillshare
+  - 2U
+关联产品:
+  - Duolingo
+  - Khan Academy
+  - Character.ai
+title: Learna AI
 ---
-
 # Learna AI
 
 > "每个学生都应该有自己的 AI 家教。" — 个性化学习从承诺变成现实，但也暴露了 AI 教育的真实困局。
@@ -117,7 +134,7 @@ tags:
 ### 2.4 功能迭代与 AI 升级（2024-2026）
 
 **2024 年新增功能**：
-- **AI 家教**：学生可以和 AI 实时对话，提问不会的地方（类似 [[产品卡片-Character.ai|Character.ai]] 的智能版）
+- **AI 家教**：学生可以和 AI 实时对话，提问不会的地方（类似 Character.ai 的智能版）
 - **学习小组**：自动匹配进度相近的学生进行协作学习
 - **家长追踪**：家长可以实时看到孩子的学习进度和薄弱点
 
@@ -159,7 +176,7 @@ tags:
 
 ### 生态位
 
-**"全科个性化学习平台"** — 这个定位很吸引人，但也很拥挤。Khan Academy 在做、Coursera 在做、甚至大模型（[[产品卡片-ChatGPT|ChatGPT]] + [[产品卡片-Claude|Claude]]）也能做类似功能。
+**"全科个性化学习平台"** — 这个定位很吸引人，但也很拥挤。Khan Academy 在做、Coursera 在做、甚至大模型（ChatGPT + Claude）也能做类似功能。
 
 ---
 
@@ -197,7 +214,7 @@ tags:
 - 教育的真正价值在"资格认证"和"社交筛选"（Signaling），而非"学会知识"
 
 **模式风险**：
-- 如果 ChatGPT/[[产品卡片-Gemini|Gemini]] 直接集成个性化学习功能，Learna 会被直接威胁
+- 如果 ChatGPT/Gemini 直接集成个性化学习功能，Learna 会被直接威胁
 - 开源模型的普及可能让任何团队都能做"AI 个性化教学"
 - 学校对私人平台的数据隐私疑虑可能限制 B2B 扩展
 

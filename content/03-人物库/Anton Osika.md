@@ -1,14 +1,19 @@
 ---
 type: person
-name: "Anton Osika"
-role: "Founder & CEO"
-company: "[[Lovable]]"
-nationality: "Swedish"
-age: "30"
-background: "物理学双学位（KTH）→ CERN 研究员 → Sana Labs 一号工程师 → Depict CTO → GPT Engineer 开源项目 → Lovable CEO"
-notable_for: "用『非技术用户也能编程』这个反共识赌注，创造了 GitHub 50K+ stars 的势能，8个月达成 $100M ARR，迄今最快的 AI IDE 增长曲线，2026年3月时 Lovable 已达 $400M ARR"
-key_quote: "我在 CERN 做粒子物理，才明白一个道理：改变世界不在基础层，而在消费端。"
-updated: "2026-03-14"
+name: Anton Osika
+role: Founder & CEO
+company: '[[01-产品库/产品卡片-Lovable|Lovable]]'
+nationality: Swedish
+age: '30'
+background: >-
+  物理学双学位（KTH）→ CERN 研究员 → Sana Labs 一号工程师 → Depict CTO → GPT Engineer 开源项目 →
+  Lovable CEO
+notable_for: >-
+  用『非技术用户也能编程』这个反共识赌注，创造了 GitHub 50K+ stars 的势能，8个月达成 $100M ARR，迄今最快的 AI IDE
+  增长曲线，2026年3月时 Lovable 已达 $400M ARR
+key_quote: 我在 CERN 做粒子物理，才明白一个道理：改变世界不在基础层，而在消费端。
+updated: '2026-03-14'
+title: Anton Osika
 ---
 # Anton Osika
 
@@ -43,11 +48,11 @@ KTH 工程物理硕士，加速完成。随后进入 CERN（欧洲核子研究�
 
 ### 阶段四：商业化转折（2023年底 - 2026年3月）
 
-Osika 与 Fabian Hedin 联合，2023年底将 GPT Engineer 的核心思想商业化为 [[Lovable]]。
+Osika 与 Fabian Hedin 联合，2023年底将 GPT Engineer 的核心思想商业化为 [[01-产品库/产品卡片-Lovable|Lovable]]。
 
 一开始的假设是：开发者工具市场——让专业程序员更快编码。
 
-但一个月的用户数据打碎了这个假设：**使用 [[产品卡片-Lovable|Lovable]] 的人 80% 不是开发者。是创意人、产品经理、非技术创业者**。
+但一个月的用户数据打碎了这个假设：**使用 Lovable 的人 80% 不是开发者。是创意人、产品经理、非技术创业者**。
 
 Osika 的反应很快——砍掉了"面向开发者"的所有营销，转而专注"人人可编程"的定位。
 
@@ -58,7 +63,7 @@ Osika 的反应很快——砍掉了"面向开发者"的所有营销，转而专
 - 2025年6月：$300M ARR
 - **2026年3月：$400M ARR**（增速从未下降）
 
-**这是历史上最快的 AI 应用增长曲线**，超过了 [[产品卡片-ChatGPT|ChatGPT]] 早期、[[产品卡片-Cursor|Cursor]]、[[产品卡片-Perplexity|Perplexity]] 等所有先发者。
+**这是历史上最快的 AI 应用增长曲线**，超过了 ChatGPT 早期、Cursor、Perplexity 等所有先发者。
 
 **不公平优势的组合**：
 - 物理学背景给了他"直觉性思维"而非"工程思维"（理科人往往想复杂了）
@@ -78,7 +83,7 @@ Osika 的反应很快——砍掉了"面向开发者"的所有营销，转而专
 
 ### 决策2：拒绝成为"开发者工具"
 
-GPT Engineer 成功后，硅谷经典的做法是：融资 → 围绕开发者社区构建 → 卖给公司。Notion、Figma、[[产品卡片-Cursor|Cursor]] 都走过这条路。
+GPT Engineer 成功后，硅谷经典的做法是：融资 → 围绕开发者社区构建 → 卖给公司。Notion、Figma、Cursor 都走过这条路。
 
 但 Osika 做的是反面。用户数据告诉他"大多数用户根本不是开发者"后，他不是试图教非开发者如何成为开发者，而是问：**我们能否直接面向最终用户，让他们跳过"学编程"这个环节？**
 
@@ -90,23 +95,23 @@ GPT Engineer 成功后，硅谷经典的做法是：融资 → 围绕开发者�
 
 ### 决策3：坚持"完整产品"而非"集成方案"
 
-2024年有很多竞争者涌现：[[产品卡片-Cursor|Cursor]] 的"编程 IDE"、[[产品卡片-Copilot|GitHub Copilot]] 的"补全工具"、[[产品卡片-Claude|Claude]] Projects 的"项目管理"。
+2024年有很多竞争者涌现：Cursor 的"编程 IDE"、GitHub Copilot 的"补全工具"、Claude Projects 的"项目管理"。
 
-[[产品卡片-Lovable|Lovable]] 的选择是：不要"最强的代码补全"，而要"最完整的应用生成"。从设计稿 → 代码 → 测试 → 部署，一整套都要做到让非技术人可用。
+Lovable 的选择是：不要"最强的代码补全"，而要"最完整的应用生成"。从设计稿 → 代码 → 测试 → 部署，一整套都要做到让非技术人可用。
 
 这个决策看似"什么都做"（最容易失焦），但实际上是"非常专注"（只关心 "end-to-end 应用生成"）。
 
 ### 决策4：保持欧洲总部而非迁往硅谷
 
-2025年，当 [[产品卡片-Lovable|Lovable]] 已经是独角兽时，Osika 做了一个反直觉的决策：保持在斯德哥尔摩的总部，而非迁往硅谷。
+2025年，当 Lovable 已经是独角兽时，Osika 做了一个反直觉的决策：保持在斯德哥尔摩的总部，而非迁往硅谷。
 
-他在 TechCrunch Disrupt 上公开说过：**"欧洲人才成本更低，团队更专注，不被硅谷的 bubble 影响。"** 这在融资圈听起来是"吃不到葡萄说葡萄酸"，但数字说话——[[产品卡片-Lovable|Lovable]] 的工程效率（人均 ARR）可能是整个 AI IDE 赛道最高的。
+他在 TechCrunch Disrupt 上公开说过：**"欧洲人才成本更低，团队更专注，不被硅谷的 bubble 影响。"** 这在融资圈听起来是"吃不到葡萄说葡萄酸"，但数字说话——Lovable 的工程效率（人均 ARR）可能是整个 AI IDE 赛道最高的。
 
 ---
 
 ## 产品 DNA：黑箱工程学的消费化
 
-[[Lovable]] 的设计哲学完全源于 Osika 的物理学思维：**隐藏复杂性，暴露意图**。
+[[01-产品库/产品卡片-Lovable|Lovable]] 的设计哲学完全源于 Osika 的物理学思维：**隐藏复杂性，暴露意图**。
 
 用户的工作流很简单：
 1. 描述你要什么（自然语言）
@@ -120,12 +125,12 @@ GPT Engineer 成功后，硅谷经典的做法是：融资 → 围绕开发者�
 
 ### "完全不可区分"的 AI 协作体验
 
-[[产品卡片-Lovable|Lovable]] 的另一个特点是：AI 不是以"助手"的身份出现，而是以"协作者"的身份。你描述功能时，Osika 的系统会：
+Lovable 的另一个特点是：AI 不是以"助手"的身份出现，而是以"协作者"的身份。你描述功能时，Osika 的系统会：
 - 提问澄清（"你想要什么样的用户认证？"）
 - 推荐方案（"基于你的需求，我建议用...架构"）
 - 主动改进（"我注意到你的表单没有验证，要加上吗？"）
 
-这不是 [[产品卡片-ChatGPT|ChatGPT]] 的"你问我答"，也不是 [[产品卡片-Copilot|GitHub Copilot]] 的"自动补全"。而是一种新的**协作模式**，感觉像是在与一个"非常有经验的开发者"pair programming。
+这不是 ChatGPT 的"你问我答"，也不是 GitHub Copilot 的"自动补全"。而是一种新的**协作模式**，感觉像是在与一个"非常有经验的开发者"pair programming。
 
 ---
 
@@ -135,7 +140,7 @@ GPT Engineer 成功后，硅谷经典的做法是：融资 → 围绕开发者�
 
 Osika 反复强调的一个观点：**AI 编程工具的最大市场不在"让开发者更快"，而在"让非开发者编程"**。
 
-这听起来显而易见，但在 2024-2025 年，所有竞争对手都在优化"开发者体验"（更快的补全、更多的上下文、更好的语言支持）。只有 [[产品卡片-Lovable|Lovable]] 在问"我们如何让一个不懂编程的人也能构建应用"。
+这听起来显而易见，但在 2024-2025 年，所有竞争对手都在优化"开发者体验"（更快的补全、更多的上下文、更好的语言支持）。只有 Lovable 在问"我们如何让一个不懂编程的人也能构建应用"。
 
 这个选择有一个隐含的假设：**潜在用户数量的乘法因子**。
 - 全球开发者：300-500 万
@@ -145,9 +150,9 @@ Osika 反复强调的一个观点：**AI 编程工具的最大市场不在"让�
 
 ### 第二个洞见：完全缺失的"推销"
 
-[[产品卡片-Lovable|Lovable]] 几乎没有做过大规模广告。它的增长完全来自：
+Lovable 几乎没有做过大规模广告。它的增长完全来自：
 - Product Hunt 排名第一
-- Twitter 有机传播（创意人分享他们用 [[产品卡片-Lovable|Lovable]] 做出的应用）
+- Twitter 有机传播（创意人分享他们用 Lovable 做出的应用）
 - Discord 社区的口碑
 
 这在一个烧钱买量成为常态的 AI 行业里，显得异常。
@@ -165,7 +170,7 @@ Osika 对此的解释：**"如果产品不足以让人主动分享，更多的�
 | 从 $0 到 $400M ARR | 18 个月 |
 | 2026年3月ARR | $400M |
 | 最新融资（2024年8月） | $653M（Series A），估值 $6.6B → $18B（Series B, 2025） |
-| 日均留存率（Day 30） | 85%（超过 [[产品卡片-ChatGPT|ChatGPT]]） |
+| 日均留存率（Day 30） | 85%（超过 ChatGPT） |
 | 员工数 | ~100 人（推测） |
 | 融资完成速度 | 最快的 AI IDE 公司 |
 
@@ -173,15 +178,15 @@ Osika 对此的解释：**"如果产品不足以让人主动分享，更多的�
 
 ## 相关产品与人物
 
-- [[产品卡片-Lovable|Lovable]] — 全栈应用生成器，CEO
+- [[01-产品库/产品卡片-Lovable|Lovable]] — 全栈应用生成器，CEO
 - [[GPT Engineer]] — 原始开源项目，GitHub 50K stars
-- [[Claude 3.5 Sonnet]] — [[产品卡片-Lovable|Lovable]] 的主要 AI 底座
+- [[Claude 3.5 Sonnet]] — Lovable 的主要 AI 底座
 
 ## 相关人物
 
-- [[Fabian Hedin]] — [[产品卡片-Lovable|Lovable]] 联合创始人，商业化伙伴
-- [[Michael Truell]] — [[产品卡片-Cursor|Cursor]] CEO，同赛道竞争者（编程工具 vs 应用生成）
-- [[Anton Osika]] — 来自 [[产品卡片-Lovable|Lovable]] 的产品观察
+- [[Fabian Hedin]] — Lovable 联合创始人，商业化伙伴
+- [[03-人物库/Michael Truell|Michael Truell]] — Cursor CEO，同赛道竞争者（编程工具 vs 应用生成）
+- [[03-人物库/Anton Osika|Anton Osika]] — 来自 Lovable 的产品观察
 
 ## 相关概念
 
@@ -193,8 +198,8 @@ Osika 对此的解释：**"如果产品不足以让人主动分享，更多的�
 
 ## 来源与参考
 
-1. [5 Things to Know About Anton Osika, Co-Founder of the Vibe-Coding Unicorn [[产品卡片-Lovable|Lovable]]](https://www.inc.com/chloe-aiello/5-things-to-know-about-anton-osika-co-founder-of-the-vibe-coding-unicorn-lovable/91223446) — [[产品卡片-Lovable|Lovable]] 的快速增长故事和 Osika 的背景
+1. [5 Things to Know About Anton Osika, Co-Founder of the Vibe-Coding Unicorn Lovable](https://www.inc.com/chloe-aiello/5-things-to-know-about-anton-osika-co-founder-of-the-vibe-coding-unicorn-lovable/91223446) — Lovable 的快速增长故事和 Osika 的背景
 2. [Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025](https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/) — CEO 的战略思考
-3. [Building [[产品卡片-Lovable|Lovable]]: $10M ARR in 60 days - Lenny's Newsletter](https://www.lennysnewsletter.com/p/building-lovable-anton-osika) — 产品-市场匹配的深度分析
-4. [[[产品卡片-Lovable|Lovable]] has jumped to $400M ARR with 33% monthly growth](https://dnyuz.com/2026/03/11/lovables-revenue-has-jumped-33-percent-in-a-month-amid-vibe-coding-frenzy/) — 最新增长数据（2026年3月）
-5. [[[产品卡片-Lovable|Lovable]] hits $200M ARR, CEO credits staying in Europe](https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/) — 组织结构和地理策略的选择
+3. [Building Lovable: $10M ARR in 60 days - Lenny's Newsletter](https://www.lennysnewsletter.com/p/building-lovable-anton-osika) — 产品-市场匹配的深度分析
+4. [Lovable has jumped to $400M ARR with 33% monthly growth](https://dnyuz.com/2026/03/11/lovables-revenue-has-jumped-33-percent-in-a-month-amid-vibe-coding-frenzy/) — 最新增长数据（2026年3月）
+5. [Lovable hits $200M ARR, CEO credits staying in Europe](https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/) — 组织结构和地理策略的选择

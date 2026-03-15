@@ -1,79 +1,113 @@
 ---
 type: product
-name: "ElevenLabs"
-name_cn: "ElevenLabs"
-url: "https://elevenlabs.io"
+name: ElevenLabs
+name_cn: ElevenLabs
+url: 'https://elevenlabs.io'
 founded: 2022-04
-headquarters: "London, UK"
-founders: ["Piotr Dąbkowski", "Mati Staniszewski"]
-stage: "Scale"
-status: "Active"
+headquarters: 'London, UK'
+founders:
+  - Piotr Dąbkowski
+  - Mati Staniszewski
+stage: Scale
+status: Active
 metrics_date: 2026-02
-arr: "$330M"
-users: "60%+ Fortune 500"
-monthly_visits: "Unknown"
-mau: "Unknown"
-funding_total: "$781M+"
+arr: $330M
+users: 60%+ Fortune 500
+monthly_visits: Unknown
+mau: Unknown
+funding_total: $781M+
 funding_rounds:
-  - {round: "Pre-seed", amount: "$2M", investors: [""], date: "2023-01"}
-  - {round: "Series A", amount: "$19M", investors: ["a16z"], date: "2023-06", notes: "$100M估值"}
-  - {round: "Series B", amount: "$80M", investors: ["a16z", "Sequoia"], date: "2024-01", notes: "$11亿估值"}
-  - {round: "Series C", amount: "$180M", investors: ["a16z", "Iconiq"], date: "2025-01", notes: "$33亿估值"}
-  - {round: "Series D", amount: "$500M", investors: ["Sequoia"], date: "2026-02", notes: "$110亿估值"}
-valuation: "$11B"
-employees: "600-700"
-category: "AI Audio"
-subcategory: "Voice Synthesis & Voice Agents"
-target_user: "Content Creators, Developers, Enterprise Media, Customer Service, Global Enterprises"
-pricing_model: ["subscription", "usage", "marketplace", "outcome"]
+  - round: Pre-seed
+    amount: $2M
+    investors:
+      - ''
+    date: 2023-01
+  - round: Series A
+    amount: $19M
+    investors:
+      - a16z
+    date: 2023-06
+    notes: $100M估值
+  - round: Series B
+    amount: $80M
+    investors:
+      - a16z
+      - Sequoia
+    date: 2024-01
+    notes: $11亿估值
+  - round: Series C
+    amount: $180M
+    investors:
+      - a16z
+      - Iconiq
+    date: 2025-01
+    notes: $33亿估值
+  - round: Series D
+    amount: $500M
+    investors:
+      - Sequoia
+    date: 2026-02
+    notes: $110亿估值
+valuation: $11B
+employees: 600-700
+category: AI Audio
+subcategory: Voice Synthesis & Voice Agents
+target_user: >-
+  Content Creators, Developers, Enterprise Media, Customer Service, Global
+  Enterprises
+pricing_model:
+  - subscription
+  - usage
+  - marketplace
+  - outcome
 opportunity_playbooks:
-  - "[[打开价格门槛新市场]]"
-  - "[[从工具到工人]]"
-  - "[[平台型网络效应]]"
+  - '[[02-打法库/01-机会识别/打开价格门槛新市场|打开价格门槛新市场]]'
+  - '[[从工具到工人]]'
+  - '[[平台型网络效应]]'
 design_playbooks:
-  - "[[生成式界面]]"
-  - "[[极简 MVP]]"
+  - '[[02-打法库/02-产品设计/生成式界面|生成式界面]]'
+  - '[[极简 MVP]]'
 mvp_playbooks:
-  - "[[服务先行]]"
+  - '[[服务先行]]'
 pmf_playbooks:
-  - "[[迫切刚需]]"
-  - "[[别无选择]]"
+  - '[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]]'
+  - '[[02-打法库/04-PMF验证/别无选择|别无选择]]'
 growth_playbooks:
-  - "[[病毒传播-产品即内容]]"
-  - "[[借势崛起]]"
-  - "[[开发者生态]]"
+  - '[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]'
+  - '[[02-打法库/05-增长引擎/借势崛起|借势崛起]]'
+  - '[[开发者生态]]'
 monetization_playbooks:
-  - "[[按访问-订阅]]"
-  - "[[按消耗-请求数]]"
-  - "[[平台分成]]"
+  - '[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]]'
+  - '[[02-打法库/06-商业化/按消耗-请求数|按消耗-请求数]]'
+  - '[[平台分成]]'
 moat_playbooks:
-  - "[[AI就是壁垒]]"
-  - "[[数据飞轮]]"
-  - "[[品牌信任]]"
-  - "[[生态锁定]]"
-distance_to_money: "近"
-industry_layer: "中间件层"
-pricing_quadrant: "高自主-高归因"
+  - '[[02-打法库/07-护城河/AI就是壁垒|AI就是壁垒]]'
+  - '[[02-打法库/07-护城河/数据飞轮|数据飞轮]]'
+  - '[[02-打法库/07-护城河/品牌信任|品牌信任]]'
+  - '[[生态锁定]]'
+distance_to_money: 近
+industry_layer: 中间件层
+pricing_quadrant: 高自主-高归因
 key_people:
-  - "[[Piotr Dąbkowski]]"
-  - "[[Mati Staniszewski]]"
+  - '[[03-人物库/Piotr Dąbkowski|Piotr Dąbkowski]]'
+  - '[[03-人物库/Mati Staniszewski|Mati Staniszewski]]'
 competitors:
-  - "[[OpenAI TTS]]"
-  - "[[Google Cloud TTS]]"
-  - "[[Amazon Polly]]"
-  - "[[Google Gemini TTS]]"
-  - "[[Cartesia]]"
+  - '[[01-产品库/OpenAI TTS|OpenAI TTS]]'
+  - '[[01-产品库/Google Cloud TTS|Google Cloud TTS]]'
+  - '[[01-产品库/Amazon Polly|Amazon Polly]]'
+  - '[[Google Gemini TTS]]'
+  - '[[Cartesia]]'
 related_products:
-  - "[[Suno]]"
-  - "[[Synthesia]]"
-  - "[[HeyGen]]"
-  - "[[Runway]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[01-产品库/产品卡片-Suno|Suno]]'
+  - '[[01-产品库/产品卡片-Synthesia|Synthesia]]'
+  - '[[01-产品库/产品卡片-HeyGen|HeyGen]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: ElevenLabs
 ---
-
-# [[产品卡片-ElevenLabs|ElevenLabs]]
+# ElevenLabs
 
 > 一句话：让 AI 说话像真人一样——从配音、克隆到音乐和对话 Agent，做"所有声音 AI"的基础设施和平台。出现在每一版 a16z 榜单上，已成为欧洲最高估值的 AI 音频公司。
 
@@ -99,9 +133,9 @@ mars_reviewed: false
 
 两个波兰高中同学，却拥有全球顶尖科技背景的不公平优势。
 
-**[[Piotr Dąbkowski]]（CEO/CTO）**：前 Google ML 工程师，牛津本科+剑桥硕士，NeurIPS 发表研究成果。拥有神经网络和音频信号处理的深度背景。
+**Piotr Dąbkowski（CEO/CTO）**：前 Google ML 工程师，牛津本科+剑桥硕士，NeurIPS 发表研究成果。拥有神经网络和音频信号处理的深度背景。
 
-**[[Mati Staniszewski]]（COO）**：前 Palantir 部署策略师，帝国理工数学一等荣誉学位，BlackRock 产品经理。具有端到端的系统设计和企业交付能力。
+**Mati Staniszewski（COO）**：前 Palantir 部署策略师，帝国理工数学一等荣誉学位，BlackRock 产品经理。具有端到端的系统设计和企业交付能力。
 
 **童年困扰 → 创业起点**：小时候看波兰电影，被单人配音员的单调配音折磨——一个声音配所有角色、没有情感起伏。这个生活痛点，被他们识别为一个被大厂忽视的万亿级市场机会：**不是"TTS 能不能做"，而是"有谁认真做"**。大厂把语音当附属功能，ElevenLabs 把它当唯一产品。
 
@@ -148,9 +182,9 @@ mars_reviewed: false
 1. **神经声码器成熟**（HiFi-GAN 2020-2022）：从传统信号处理到神经网络生成高保真语音，音质从"机器人"升级到"可信"。
 2. **Transformer 架构在语音领域应用**（2020-2022）：捕捉长距离韵律依赖、情感连贯性，不再是逐字符合成。
 3. **创作者经济爆炸**（2020-2022）：YouTube 创作者 1000 万 → 3000 万，播客、有声书市场年增 30%+。AI 配音工具的刚需显性。
-4. **[[产品卡片-ChatGPT|ChatGPT]] 文化接纳**（2022.11）：大众对"AI 生成内容"的心理接纳度瞬间跃升，克隆真人声音从"黑科技"变成"日常工具"。
+4. **ChatGPT 文化接纳**（2022.11）：大众对"AI 生成内容"的心理接纳度瞬间跃升，克隆真人声音从"黑科技"变成"日常工具"。
 
-**时间窗口的关键性**：早两年（2020），神经声码器还不稳定，TTS 听起来仍是"机器人"。晚两年（2024），Google 和 OpenAI 已经在 ChatGPT/[[产品卡片-Gemini|Gemini]] 里嵌入原生语音功能，市场格局已定。2022 年正是"技术可行 + 市场急需 + 大厂尚未重视"的完美时间窗口。
+**时间窗口的关键性**：早两年（2020），神经声码器还不稳定，TTS 听起来仍是"机器人"。晚两年（2024），Google 和 OpenAI 已经在 ChatGPT/Gemini 里嵌入原生语音功能，市场格局已定。2022 年正是"技术可行 + 市场急需 + 大厂尚未重视"的完美时间窗口。
 
 #### 非共识判断与技术赌注
 
@@ -184,7 +218,7 @@ mars_reviewed: false
 
 **价值再定义**：从"TTS 是锦上添花的功能"升级到"声音是内容的生命周期的第一个维度"。一个视频可以有 50 种语言版本，每个版本听起来都像原始演员在说当地语言。
 
-相关打法：[[打开价格门槛新市场]]、[[从工具到工人]]、[[平台型网络效应]]
+相关打法：[[02-打法库/01-机会识别/打开价格门槛新市场|打开价格门槛新市场]]、[[从工具到工人]]、[[平台型网络效应]]
 
 ---
 
@@ -233,7 +267,7 @@ ElevenLabs 的产品设计逻辑是**研究层 + 应用层深度整合**，这�
 - **处理端**：模型推理 <500ms（通常 <300ms），支持流式和批量
 - **输出端**：MP3/WAV/PCM，可立即试听/修改/发布
 
-相关打法：[[生成式界面]]、[[极简 MVP]]
+相关打法：[[02-打法库/02-产品设计/生成式界面|生成式界面]]、[[极简 MVP]]
 
 ---
 
@@ -338,7 +372,7 @@ MVP 策略类型：**服务先行**（手动配音服务 → 自助工具 → AP
 
 #### 市场切口与聚焦策略
 
-**切口策略**：[[迫切刚需]] × [[别无选择]]
+**切口策略**：[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]] × [[02-打法库/04-PMF验证/别无选择|别无选择]]
 
 - **迫切刚需**：创作者对"低成本高质量配音"的需求是 1 级（生存级），不是便利级。如果没有 ElevenLabs，他们要么雇配音员（贵、慢），要么用 Google TTS（质量差、听起来像机器）。别无选择。
 
@@ -349,7 +383,7 @@ MVP 策略类型：**服务先行**（手动配音服务 → 自助工具 → AP
 - 业务聚焦：优先在"内容创作者"这个单一细分市场深入，不在初期同时追企业
 - 资源聚焦：7 名音频 AI 专家全部投入模型改进，不分散到销售、市场、企业账户管理
 
-相关打法：[[迫切刚需]]、[[别无选择]]
+相关打法：[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]]、[[02-打法库/04-PMF验证/别无选择|别无选择]]
 
 ---
 
@@ -403,7 +437,7 @@ Voice Library 网络效应正循环
 
 这形成一个自适应的、无成本的分发机制。每多一个创作者采用 ElevenLabs，都会为平台带来 N 个新的潜在用户。
 
-相关打法：[[病毒传播-产品即内容]]、[[借势崛起]]、[[开发者生态]]
+相关打法：[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]、[[02-打法库/05-增长引擎/借势崛起|借势崛起]]、[[开发者生态]]
 
 ---
 
@@ -480,7 +514,7 @@ Voice Library 网络效应正循环
 - Google Cloud TTS：$16 per 100 万字符 = $0.016（类似 OpenAI）
 - ElevenLabs 超额：$0.06-0.30 per 1K（取决于版本），**看起来贵，但质量溢价合理**
 
-相关打法：[[按访问-订阅]]、[[按消耗-请求数]]、[[平台分成]]
+相关打法：[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]]、[[02-打法库/06-商业化/按消耗-请求数|按消耗-请求数]]、[[平台分成]]
 
 ---
 
@@ -557,7 +591,7 @@ Voice Library 网络效应正循环
 
 **最坚固的防线**：Voice Library 生态 + 企业工作流嵌入。这两个壁垒的切换成本最高，不是单纯的技术可以跨越。
 
-相关打法：[[AI就是壁垒]]、[[数据飞轮]]、[[品牌信任]]、[[生态锁定]]
+相关打法：[[02-打法库/07-护城河/AI就是壁垒|AI就是壁垒]]、[[02-打法库/07-护城河/数据飞轮|数据飞轮]]、[[02-打法库/07-护城河/品牌信任|品牌信任]]、[[生态锁定]]
 
 ---
 
@@ -808,7 +842,7 @@ ElevenLabs 处在**高自主性 × 高可归因性**象限。
 1. **Voice Agents 成为主流**：从"语音生成"扩展到"实时双向对话 Agent"，开启新的 $10B+ 市场
    - ElevenLabs 已布局，走在前面
 
-2. **音乐生成爆发**（Eleven Music）：从文字生成音乐，成为"[[产品卡片-Suno|Suno]] 级别"的竞争力
+2. **音乐生成爆发**（Eleven Music）：从文字生成音乐，成为"Suno 级别"的竞争力
    - ElevenLabs 已在做（2025.08 发布）
 
 3. **全球化扩张**：75% 的创作者和企业仍在美国，印度、日本、巴西、墨西哥市场未开发
@@ -873,8 +907,8 @@ ElevenLabs 一开始只是"TTS 工具"，但通过 Voice Library 市场的设计
 
 **相邻机会**（可以在哪个相邻市场"像素级"复制）：
 - 文本转音乐（Suno 的成功经验）：极简 UI + 免费层 + 创作者社区
-- AI 视频生成（[[产品卡片-Runway|Runway]]、[[产品卡片-Synthesia|Synthesia]]）：同样的"创意工具 → 免费冷启动 → 创作者 → 社区口碑"路线
-- 代码生成（[[产品卡片-Cursor|Cursor]]、[[产品卡片-[[产品卡片-Copilot|Copilot]]|GitHub Copilot]]）：虽然是开发者工具，但"免费层 + 口碑"路线完全适用
+- AI 视频生成（Runway、Synthesia）：同样的"创意工具 → 免费冷启动 → 创作者 → 社区口碑"路线
+- 代码生成（Cursor、GitHub Copilot）：虽然是开发者工具，但"免费层 + 口碑"路线完全适用
 
 ---
 
@@ -928,7 +962,7 @@ ElevenLabs 一开始只是"TTS 工具"，但通过 Voice Library 市场的设计
 - 新产品的毛利率要接近核心产品（70-80%），否则会稀释整体盈利
 
 **相邻机会**：
-- 图像生成（DALL-E、[[产品卡片-Midjourney|Midjourney]]）：从文生图扩展到图编辑、3D 生成
+- 图像生成（DALL-E、Midjourney）：从文生图扩展到图编辑、3D 生成
 - 代码编辑器（Cursor）：从代码补完扩展到 Agent、多文件编辑
 - 视频生成（Runway）：从基础生成扩展到编辑、效果合成
 
@@ -1117,13 +1151,13 @@ ElevenLabs 的成功故事，表面上是"技术壁垒"（MOS 4.54 vs 竞品 4.2
 
 比较视角：
 
-- **[[Suno]]**：a16z 榜单 #15，AI 音乐生成。和 ElevenLabs 的 Eleven Music 直接竞争。有趣的对比是：Suno 从音乐起步，已建立市场认知；ElevenLabs 从语音切入音乐，需要教育市场但拥有企业客户基础。谁能定义"AI 音频"这个大品类？
+- **[[01-产品库/产品卡片-Suno|Suno]]**：a16z 榜单 #15，AI 音乐生成。和 ElevenLabs 的 Eleven Music 直接竞争。有趣的对比是：Suno 从音乐起步，已建立市场认知；ElevenLabs 从语音切入音乐，需要教育市场但拥有企业客户基础。谁能定义"AI 音频"这个大品类？
 
-- **[[Synthesia]]**：AI 视频生成，但核心卖点是"AI 数字人 + 配音"。和 ElevenLabs 的配音工作室有交集，但走的是"视频+声音"捆绑路线。说明音视频 AI 正在融合，未来可能是"声音为驱动的多模态生成"。
+- **[[01-产品库/产品卡片-Synthesia|Synthesia]]**：AI 视频生成，但核心卖点是"AI 数字人 + 配音"。和 ElevenLabs 的配音工作室有交集，但走的是"视频+声音"捆绑路线。说明音视频 AI 正在融合，未来可能是"声音为驱动的多模态生成"。
 
-- **[[Cursor]]**：AI 代码编辑器，从"Copilot"到"Agent"的演变路线。和 ElevenLabs 从"TTS"到"Voice Agent"的扩展逻辑相似——都是在"聚焦单一维度做极致"后，向代理型/Agent 型产品演进。
+- **[[01-产品库/产品卡片-Cursor|Cursor]]**：AI 代码编辑器，从"Copilot"到"Agent"的演变路线。和 ElevenLabs 从"TTS"到"Voice Agent"的扩展逻辑相似——都是在"聚焦单一维度做极致"后，向代理型/Agent 型产品演进。
 
-- **[[[[产品卡片-HeyGen|HeyGen]]]]**：AI 视频翻译和数字人。MVP 阶段用"先提供服务再封装产品"的打法（服务先行）。和 ElevenLabs 都在解决"内容多语言化"问题，但一个从声音切入，一个从视频切入。殊途同归的两个案例。
+- **[[01-产品库/产品卡片-HeyGen|HeyGen]]**：AI 视频翻译和数字人。MVP 阶段用"先提供服务再封装产品"的打法（服务先行）。和 ElevenLabs 都在解决"内容多语言化"问题，但一个从声音切入，一个从视频切入。殊途同归的两个案例。
 
 ---
 

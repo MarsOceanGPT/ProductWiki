@@ -2,43 +2,79 @@
 type: product
 name: Poe
 name_cn: Poe
-url: https://poe.com
+url: 'https://poe.com'
 founded: 2022
 headquarters: San Francisco
-founders: ["Adam D'Angelo"]
-stage: VC-backed, private
+founders:
+  - Adam D'Angelo
+stage: 'VC-backed, private'
 status: Active
-metrics_date: "2026-03"
-arr: "$80M"
-users: "50M+ MAU"
-monthly_visits: "200M+"
-mau: "50M+"
-funding_total: "$100M+"
-funding_rounds: ["Series A", "Series B"]
-valuation: "$500M-1B (estimated)"
-employees: "150-200"
-category: "AI Chatbot Aggregator"
-subcategory: "AI Platform, Multi-Model LLM Access"
-target_user: "AI enthusiasts, power users, developers wanting to compare models"
-pricing_model: ["Freemium", "Subscription"]
-opportunity_playbooks: ["Multi-model aggregation strategy vs single-model approach", "Quora distribution advantage", "Creator economy monetization"]
-design_playbooks: ["Unified chat interface across multiple LLMs", "Bot customization and creation", "Conversation threading and favorites"]
-mvp_playbooks: ["Simple wrapper around multiple LLM APIs", "Unified prompt interface"]
-pmf_playbooks: ["Early adopters wanting to try multiple AI models", "Developers comparing model outputs", "Power users frustrated with ChatGPT's limitations"]
-growth_playbooks: ["Quora integration and distribution", "Bot marketplace and creator monetization", "Multi-model feature richness"]
-monetization_playbooks: ["Freemium with pay-per-message model", "Creator revenue sharing", "Premium subscription ($20/month)"]
-moat_playbooks: ["Quora ecosystem integration", "Bot creator community", "UX advantage in multi-model comparison"]
-distance_to_money: "Direct (B2C freemium + subscription)"
-industry_layer: "Application/AI Infrastructure Aggregation"
-pricing_quadrant: "Freemium with premium subscription"
-key_people: ["Adam D'Angelo (CEO, Quora founder)", "Paul Teich (Product Lead)"]
-competitors: [[[产品卡片-ChatGPT\|ChatGPT]], [[产品卡片-Claude\|Claude.ai]], [[产品卡片-Gemini\|Gemini]], [[产品卡片-Grok\|Grok (X.ai)]], "Direct API access"]
-related_products: [[[产品卡片-ChatGPT\|ChatGPT]], [[产品卡片-Claude\|Claude]], [[产品卡片-Perplexity\|Perplexity]], "[[Quora]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $80M
+users: 50M+ MAU
+monthly_visits: 200M+
+mau: 50M+
+funding_total: $100M+
+funding_rounds:
+  - Series A
+  - Series B
+valuation: $500M-1B (estimated)
+employees: 150-200
+category: AI Chatbot Aggregator
+subcategory: 'AI Platform, Multi-Model LLM Access'
+target_user: 'AI enthusiasts, power users, developers wanting to compare models'
+pricing_model:
+  - Freemium
+  - Subscription
+opportunity_playbooks:
+  - Multi-model aggregation strategy vs single-model approach
+  - Quora distribution advantage
+  - Creator economy monetization
+design_playbooks:
+  - Unified chat interface across multiple LLMs
+  - Bot customization and creation
+  - Conversation threading and favorites
+mvp_playbooks:
+  - Simple wrapper around multiple LLM APIs
+  - Unified prompt interface
+pmf_playbooks:
+  - Early adopters wanting to try multiple AI models
+  - Developers comparing model outputs
+  - Power users frustrated with ChatGPT's limitations
+growth_playbooks:
+  - Quora integration and distribution
+  - Bot marketplace and creator monetization
+  - Multi-model feature richness
+monetization_playbooks:
+  - Freemium with pay-per-message model
+  - Creator revenue sharing
+  - Premium subscription ($20/month)
+moat_playbooks:
+  - Quora ecosystem integration
+  - Bot creator community
+  - UX advantage in multi-model comparison
+distance_to_money: Direct (B2C freemium + subscription)
+industry_layer: Application/AI Infrastructure Aggregation
+pricing_quadrant: Freemium with premium subscription
+key_people:
+  - 'Adam D''Angelo (CEO, Quora founder)'
+  - Paul Teich (Product Lead)
+competitors:
+  - ChatGPT
+  - Claude.ai
+  - Gemini
+  - Grok (X.ai)
+  - Direct API access
+related_products:
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+  - '[[Quora]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Poe
 ---
-
 # Poe 产品卡片
 
 ## 基本面表格

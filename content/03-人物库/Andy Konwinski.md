@@ -1,12 +1,15 @@
 ---
 type: person
-name: "Andy Konwinski"
-role: "Co-founder"
-company: "[[Perplexity]]"
-nationality: "American"
-background: "UC Berkeley PhD → Apache Mesos & Spark → Databricks Co-founder → Perplexity Co-founder"
-notable_for: "大数据基础设施的建筑师，Databricks把研究成果商业化的设计师，Perplexity的产品和生态构建者，最懂如何从实验室跨越到产业应用"
-updated: "2026-03-14"
+name: Andy Konwinski
+role: Co-founder
+company: '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+nationality: American
+background: >-
+  UC Berkeley PhD → Apache Mesos & Spark → Databricks Co-founder → Perplexity
+  Co-founder
+notable_for: 大数据基础设施的建筑师，Databricks把研究成果商业化的设计师，Perplexity的产品和生态构建者，最懂如何从实验室跨越到产业应用
+updated: '2026-03-14'
+title: Andy Konwinski
 ---
 # Andy Konwinski
 
@@ -73,7 +76,7 @@ Andy在Databricks的十多年里养成的核心能力是：
 2. **AI是下一个大浪**：搜索引擎和推理系统可能会成为下一个"Spark级别"的基础设施
 3. **想从1到100而不是从0到1**：Databricks是"从研究项目变成产品"，Perplexity是"从想法变成大规模应用"
 
-和[[Aravind Srinivas]]等从0开始创业的创始人不同，Andy带来的是**"怎么把一个想法规模化"的成熟经验**。
+和[[03-人物库/Aravind Srinivas|Aravind Srinivas]]等从0开始创业的创始人不同，Andy带来的是**"怎么把一个想法规模化"的成熟经验**。
 
 ## Perplexity中的角色与贡献
 
@@ -123,7 +126,7 @@ Databricks最赚钱的部分是企业版本（Data Warehouse、AI功能等）。
 Andy有一个独特的能力：**他做过两次"从研究到产品"的转化**
 
 1. 第一次：Apache Spark（学术代码）→ Databricks（企业产品）
-2. 第二次：AI研究（论文）→ [[产品卡片-Perplexity|Perplexity]]（消费产品）
+2. 第二次：AI研究（论文）→ Perplexity（消费产品）
 
 每一次都积累了宝贵的经验——什么会成功，什么会失败。
 
@@ -162,7 +165,7 @@ Perplexity现在也在做类似的事——从消费搜索到API、到Copilot集
 
 ### 都在解决"规模化"问题
 
-| Databricks | [[产品卡片-Perplexity|Perplexity]] |
+| Databricks | Perplexity |
 |-----------|-----------|
 | 如何让数千家企业用Spark | 如何让数百万用户用AI搜索 |
 | 管理PB级别的数据 | 管理实时搜索的TB级数据 |
@@ -181,16 +184,16 @@ Perplexity现在也在做类似的事——从消费搜索到API、到Copilot集
 ## 相关产品与人物
 
 ### 核心产品线
-- [[Perplexity]] — 联合创始人，产品负责人
+- [[01-产品库/产品卡片-Perplexity|Perplexity]] — 联合创始人，产品负责人
 - [[Databricks]] — 共同创办人（现已离职）
 - [[Apache Spark]] — 早期核心贡献者
 - [[Apache Mesos]] — UC Berkeley时代的项目
 - [[Laude Institute]] — 2026年创办，$100M AI研究资金
 
 ### 联合创始人
-- [[Aravind Srinivas]] — CEO，愿景和对外代表
-- [[Denis Yarats]] — CTO，搜索和AI技术
-- [[Johnny Ho]] — CSO，策略
+- [[03-人物库/Aravind Srinivas|Aravind Srinivas]] — CEO，愿景和对外代表
+- [[03-人物库/Denis Yarats|Denis Yarats]] — CTO，搜索和AI技术
+- [[03-人物库/Johnny Ho|Johnny Ho]] — CSO，策略
 
 ### 职业轨迹中的关键人物
 - [[Matei Zaharia]] — Databricks共同创始人，Spark主设计者

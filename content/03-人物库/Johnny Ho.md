@@ -1,16 +1,17 @@
 ---
 type: person
-name: "Johnny Ho"
-role: "Co-founder & Chief Strategy Officer"
-company: "[[Perplexity]]"
-nationality: "American"
-background: "竞技编程 → Quora ML工程师 → Tower Research高频交易 → Perplexity CSO"
-notable_for: "Perplexity的策略和产品负责人，三时国际编程竞赛金牌得主，不太公开露面但对产品方向有重大影响"
-updated: "2026-03-14"
+name: Johnny Ho
+role: Co-founder & Chief Strategy Officer
+company: '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+nationality: American
+background: 竞技编程 → Quora ML工程师 → Tower Research高频交易 → Perplexity CSO
+notable_for: Perplexity的策略和产品负责人，三时国际编程竞赛金牌得主，不太公开露面但对产品方向有重大影响
+updated: '2026-03-14'
+title: Johnny Ho
 ---
 # Johnny Ho
 
-> 这个人最值得记住的是：在Perplexity的四位联合创始人中，Johnny是"产品思维"和"策略思维"的枢纽。虽然他的公众知名度远不如[[Aravind Srinivas]]，但他在决定"我们做什么和不做什么"这个关键问题上的话语权最大。从Quora到交易到搜索，他的职业轨迹本质上是"如何更高效地找到答案"的不断演变。
+> 这个人最值得记住的是：在Perplexity的四位联合创始人中，Johnny是"产品思维"和"策略思维"的枢纽。虽然他的公众知名度远不如[[03-人物库/Aravind Srinivas|Aravind Srinivas]]，但他在决定"我们做什么和不做什么"这个关键问题上的话语权最大。从Quora到交易到搜索，他的职业轨迹本质上是"如何更高效地找到答案"的不断演变。
 
 ## 背景与职业轨迹
 
@@ -55,7 +56,7 @@ Johnny的官方头衔是"Chief Strategy Officer"，这意味着他负责的是�
 
 ### 对产品方向的影响
 
-虽然[[Aravind Srinivas]]是CEO和对外代表，但很多Perplexity的关键产品决策背后很可能有Johnny的思想：
+虽然[[03-人物库/Aravind Srinivas|Aravind Srinivas]]是CEO和对外代表，但很多Perplexity的关键产品决策背后很可能有Johnny的思想：
 
 | 产品决策 | 可能的Johnny思维 |
 |---------|------------|
@@ -66,7 +67,7 @@ Johnny的官方头衔是"Chief Strategy Officer"，这意味着他负责的是�
 
 ### 为什么他很少露面
 
-和[[Aravind Srinivas]]经常接受采访、上TED演讲不同，Johnny几乎不公开露面。这可能是有意为之：
+和[[03-人物库/Aravind Srinivas|Aravind Srinivas]]经常接受采访、上TED演讲不同，Johnny几乎不公开露面。这可能是有意为之：
 
 1. **让Aravind成为品牌代表**：一个公司不需要四个CEO都做宣传
 2. **专注于内部工作**：策略工作需要深度思考，而不是外部宣传
@@ -106,9 +107,9 @@ Johnny的官方头衔是"Chief Strategy Officer"，这意味着他负责的是�
 - 这三个领域都是"在约束下高效决策"
 
 **B. 对Perplexity团队结构的深刻理解**
-- [[Aravind Srinivas]]：愿景和对外代表
-- [[Denis Yarats]]：搜索和AI技术
-- [[Andy Konwinski]]：产品和生态
+- [[03-人物库/Aravind Srinivas|Aravind Srinivas]]：愿景和对外代表
+- [[03-人物库/Denis Yarats|Denis Yarats]]：搜索和AI技术
+- [[03-人物库/Andy Konwinski|Andy Konwinski]]：产品和生态
 - Johnny：策略和优先级设置
 
 这个团队分工极其清晰，Johnny知道每个人的最佳位置。
@@ -124,20 +125,20 @@ Johnny的官方头衔是"Chief Strategy Officer"，这意味着他负责的是�
 ## 相关产品和人物
 
 ### Perplexity的产品线
-- [[Perplexity]] — AI搜索引擎，Johnny是策略负责人
+- [[01-产品库/产品卡片-Perplexity|Perplexity]] — AI搜索引擎，Johnny是策略负责人
 - [[Focus Mode]] — 垂直搜索，可能是Johnny的想法（竞技编程的分治思想）
 - [[Comet]] — AI浏览器
 - [[Perplexity Personal Computer]] — 2026年最新产品
 
 ### 联合创始人
-- [[Aravind Srinivas]] — CEO，愿景
-- [[Denis Yarats]] — CTO，技术核心
-- [[Andy Konwinski]] — 产品和生态
+- [[03-人物库/Aravind Srinivas|Aravind Srinivas]] — CEO，愿景
+- [[03-人物库/Denis Yarats|Denis Yarats]] — CTO，技术核心
+- [[03-人物库/Andy Konwinski|Andy Konwinski]] — 产品和生态
 
 ### 职业轨迹中的关键公司
 - [[Quora]] — 学习搜索排序
 - [[Tower Research Capital]] — 学习高性能系统
-- [[Perplexity]] — 整合所有经验
+- [[01-产品库/产品卡片-Perplexity|Perplexity]] — 整合所有经验
 
 ## 核心特征总结
 

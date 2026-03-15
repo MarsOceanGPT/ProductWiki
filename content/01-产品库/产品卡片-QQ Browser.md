@@ -2,33 +2,27 @@
 type: product
 name: QQ Browser
 name_cn: 腾讯QQ浏览器
-url: https://browser.qq.com
-
-# 基本信息
+url: 'https://browser.qq.com'
 founded: 2010
-headquarters: Shenzhen, China
-founders: [Tencent]
+headquarters: 'Shenzhen, China'
+founders:
+  - Tencent
 stage: Scale
 status: Active
-
-# 关键指标（截至 2026-03-01）
-metrics_date: 2026-03-01
-arr: ""
+metrics_date: 2026-03-01T00:00:00.000Z
+arr: ''
 users: 180M月活用户
-monthly_visits: ""
+monthly_visits: ''
 mau: 180M
-funding_total: ""
+funding_total: ''
 funding_rounds: []
-valuation: ""
-employees: ""
-
-# 分类
+valuation: ''
+employees: ''
 category: 浏览器/AI浏览器
 subcategory: 中国本地化AI浏览器
 target_user: 中国网民，QQ/微信生态用户
-pricing_model: [free]
-
-# 打法标签
+pricing_model:
+  - free
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +30,27 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 低自主-低归因
-
-# 人物 & 竞品
-key_people: [Ma Huateng (腾讯CEO), 张小龙 (WeChat之父)]
-competitors: [Chrome, Safari, UC浏览器, 360浏览器]
-related_products: [WeChat, QQ, Tencent Cloud, Tencent AI Lab]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Ma Huateng (腾讯CEO)
+  - 张小龙 (WeChat之父)
+competitors:
+  - Chrome
+  - Safari
+  - UC浏览器
+  - 360浏览器
+related_products:
+  - WeChat
+  - QQ
+  - Tencent Cloud
+  - Tencent AI Lab
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: QQ Browser
 ---
-
 # QQ Browser（腾讯QQ浏览器）
 
 > 一句话：中国第二大浏览器，通过与微信/QQ 的生态整合和本地 AI 集成（腾讯混元 Hunyuan），试图把浏览器变成"微信生态内的入口"，而非独立产品。

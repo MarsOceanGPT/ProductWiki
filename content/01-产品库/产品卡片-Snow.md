@@ -1,57 +1,60 @@
 ---
 type: product
-name: "Snow"
-name_cn: "Snow"
-url: "https://snow.me"
+name: Snow
+name_cn: Snow
+url: 'https://snow.me'
 founded: 2015
-headquarters: "Seoul, South Korea"
-founders: ["SNOW Corporation (Naver 子公司)"]
-stage: "Mature/Global"
-status: "Active"
+headquarters: 'Seoul, South Korea'
+founders:
+  - SNOW Corporation (Naver 子公司)
+stage: Mature/Global
+status: Active
 metrics_date: 2024-12
-arr: "$40M-60M (估)"
-users: "200M+ downloads, 12M+ MAU"
-funding_total: "Naver/Line ecosystem"
-valuation: "Not disclosed"
-employees: "100-150"
-category: "Selfie Camera & Social"
-subcategory: "AI Beauty + K-pop Culture"
-target_user: "Young females 13-25, K-pop fans"
-pricing_model: ["freemium", "virtual_goods"]
+arr: $40M-60M (估)
+users: '200M+ downloads, 12M+ MAU'
+funding_total: Naver/Line ecosystem
+valuation: Not disclosed
+employees: 100-150
+category: Selfie Camera & Social
+subcategory: AI Beauty + K-pop Culture
+target_user: 'Young females 13-25, K-pop fans'
+pricing_model:
+  - freemium
+  - virtual_goods
 opportunity_playbooks:
-  - "[[粉丝经济驱动]]"
-  - "[[社交游戏化]]"
+  - '[[粉丝经济驱动]]'
+  - '[[社交游戏化]]'
 design_playbooks:
-  - "[[趣味性设计]]"
-  - "[[明星效应]]"
+  - '[[趣味性设计]]'
+  - '[[明星效应]]'
 mvp_playbooks:
-  - "[[社交应用杂揉]]"
+  - '[[社交应用杂揉]]'
 pmf_playbooks:
-  - "[[社区网络效应]]"
+  - '[[社区网络效应]]'
 growth_playbooks:
-  - "[[K-pop 粉丝]]"
-  - "[[社交内容传播]]"
+  - '[[K-pop 粉丝]]'
+  - '[[社交内容传播]]'
 monetization_playbooks:
-  - "[[虚拟礼物]]"
-  - "[[粉丝应援]]"
+  - '[[虚拟礼物]]'
+  - '[[粉丝应援]]'
 moat_playbooks:
-  - "[[粉丝社区锁定]]"
-  - "[[明星生态]]"
-distance_to_money: "中-低"
-industry_layer: "应用层"
-pricing_quadrant: "低自主-低归因"
+  - '[[粉丝社区锁定]]'
+  - '[[明星生态]]'
+distance_to_money: 中-低
+industry_layer: 应用层
+pricing_quadrant: 低自主-低归因
 key_people:
-  - "[[Naver 管理层]]"
+  - '[[Naver 管理层]]'
 competitors:
-  - "[[Snapchat]]"
-  - "[[TikTok]]"
-  - "[[Instagram Stories]]"
-  - "[[B612]]"
-last_updated: 2026-03-14
-confidence: "Medium"
+  - '[[Snapchat]]'
+  - '[[TikTok]]'
+  - '[[Instagram Stories]]'
+  - '[[01-产品库/产品卡片-B612|B612]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium
 mars_reviewed: false
+title: Snow
 ---
-
 # Snow
 
 > 一句话：韩国 Naver 旗下的 AI 自拍应用，核心驱动力不是美颜功能，而是"K-pop 粉丝社区"。通过与 K-pop 明星的深度合作，把一个自拍相机变成了粉丝应援平台。$40-60M ARR。

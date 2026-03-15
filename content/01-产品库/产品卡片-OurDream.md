@@ -1,58 +1,61 @@
 ---
 type: product
-name: "OurDream.AI"
-name_cn: "OurDream"
-url: "https://ourdream.ai"
+name: OurDream.AI
+name_cn: OurDream
+url: 'https://ourdream.ai'
 founded: 2023
-headquarters: "Uncertain（国际或中国）"
-founders: ["AI创业团队"]
-stage: "Growth"
-status: "Active"
+headquarters: Uncertain（国际或中国）
+founders:
+  - AI创业团队
+stage: Growth
+status: Active
 metrics_date: 2026-01
-arr: "未公开（估计$30M+）"
-users: "1000万+ 全球"
-user_generated_characters: "700万+ 角色"
-funding_total: "未公开融资"
-valuation: "未公开"
-employees: "N/A"
-category: "AI Companions"
-subcategory: "Character Generation & Chat"
-target_user: "AI companion enthusiasts, roleplayers, chat users"
-pricing_model: ["freemium", "subscription"]
+arr: 未公开（估计$30M+）
+users: 1000万+ 全球
+user_generated_characters: 700万+ 角色
+funding_total: 未公开融资
+valuation: 未公开
+employees: N/A
+category: AI Companions
+subcategory: Character Generation & Chat
+target_user: 'AI companion enthusiasts, roleplayers, chat users'
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks:
-  - "[[AI陪伴经济]]"
-  - "[[角色创意]]"
-  - "[[UGC平台]]"
+  - '[[AI陪伴经济]]'
+  - '[[角色创意]]'
+  - '[[UGC平台]]'
 design_playbooks:
-  - "[[角色定制]]"
-  - "[[记忆系统]]"
-  - "[[多模式交互]]"
+  - '[[角色定制]]'
+  - '[[记忆系统]]'
+  - '[[多模式交互]]'
 mvp_playbooks:
-  - "[[聊天优先]]"
+  - '[[聊天优先]]'
 pmf_playbooks:
-  - "[[社区创意]]"
+  - '[[社区创意]]'
 growth_playbooks:
-  - "[[社群分发]]"
-  - "[[病毒式传播]]"
+  - '[[社群分发]]'
+  - '[[病毒式传播]]'
 monetization_playbooks:
-  - "[[虚拟货币]]"
-  - "[[订阅]]"
-  - "[[创作者分成]]"
+  - '[[虚拟货币]]'
+  - '[[订阅]]'
+  - '[[创作者分成]]'
 moat_playbooks:
-  - "[[角色社区]]"
-  - "[[记忆体系]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "中自主-中等归因"
+  - '[[角色社区]]'
+  - '[[记忆体系]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 中自主-中等归因
 competitors:
-  - "[[Character AI]]"
-  - "[[Replika]]"
-  - "[[Candy AI]]"
-last_updated: 2026-03-14
-confidence: "Low-Medium"
+  - '[[Character AI]]'
+  - '[[01-产品库/产品卡片-Replika|Replika]]'
+  - '[[01-产品库/产品卡片-Candy AI|Candy AI]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Low-Medium
 mars_reviewed: false
+title: OurDream.AI
 ---
-
 # OurDream.AI
 
 > 一句话：AI 角色创建和聊天平台，用户可以创建定制化 AI 伴侣并与之互动，1000 万+用户、700 万+用户生成角色，代表"AI 陪伴经济"和"UGC 驱动"的新模式。

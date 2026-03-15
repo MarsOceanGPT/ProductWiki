@@ -2,43 +2,76 @@
 type: product
 name: Cutout.pro
 name_cn: Cutout.pro
-url: https://www.cutout.pro
+url: 'https://www.cutout.pro'
 founded: 2017
-headquarters: Shanghai, China (Global operations)
-founders: ["Chinese AI team"]
+headquarters: 'Shanghai, China (Global operations)'
+founders:
+  - Chinese AI team
 stage: Bootstrapped / Self-funded
 status: Active
-metrics_date: "2026-03"
-arr: "$30M+ (estimated)"
-users: "30M+ monthly"
-monthly_visits: "20M+"
-mau: "5M+"
-funding_total: "Bootstrapped（自融资）"
+metrics_date: 2026-03
+arr: $30M+ (estimated)
+users: 30M+ monthly
+monthly_visits: 20M+
+mau: 5M+
+funding_total: Bootstrapped（自融资）
 funding_rounds: []
-valuation: "Private estimate $150-200M"
-employees: "200+"
-category: "AI Image Processing"
-subcategory: "Multiple AI image tools, Creator tools"
-target_user: "E-commerce sellers, designers, content creators, photo editors"
-pricing_model: ["Freemium", "Subscription", "Enterprise"]
-opportunity_playbooks: ["AI tools portfolio", "Chinese market to global", "SEO-driven growth"]
-design_playbooks: ["Multiple AI tools in one platform", "Simple web UI", "Mobile-friendly"]
-mvp_playbooks: ["Background removal + portrait enhancement"]
-pmf_playbooks: ["E-commerce adoption", "SEO-driven discovery", "Global reach from China"]
-growth_playbooks: ["SEO excellence", "User acquisition via organic search", "Platform expansion"]
-monetization_playbooks: ["Freemium with limits", "Subscription tiers", "Enterprise API"]
-moat_playbooks: ["Multiple AI capabilities", "SEO authority", "Cost efficiency"]
-distance_to_money: "Direct (B2C subscription)"
-industry_layer: "Application/Creator Tools"
-pricing_quadrant: "Freemium + Premium subscription"
-key_people: ["Chinese AI team", "Founders private"]
-competitors: ["Remove.bg", "Photoroom", "Canva", "Adobe"]
-related_products: ["[[Remove.bg]]", "[[Photoroom]]", "[[Canva]]", "[[Freepik]]"]
-last_updated: "2026-03-14"
-confidence: "Medium-High"
+valuation: Private estimate $150-200M
+employees: 200+
+category: AI Image Processing
+subcategory: 'Multiple AI image tools, Creator tools'
+target_user: 'E-commerce sellers, designers, content creators, photo editors'
+pricing_model:
+  - Freemium
+  - Subscription
+  - Enterprise
+opportunity_playbooks:
+  - AI tools portfolio
+  - Chinese market to global
+  - SEO-driven growth
+design_playbooks:
+  - Multiple AI tools in one platform
+  - Simple web UI
+  - Mobile-friendly
+mvp_playbooks:
+  - Background removal + portrait enhancement
+pmf_playbooks:
+  - E-commerce adoption
+  - SEO-driven discovery
+  - Global reach from China
+growth_playbooks:
+  - SEO excellence
+  - User acquisition via organic search
+  - Platform expansion
+monetization_playbooks:
+  - Freemium with limits
+  - Subscription tiers
+  - Enterprise API
+moat_playbooks:
+  - Multiple AI capabilities
+  - SEO authority
+  - Cost efficiency
+distance_to_money: Direct (B2C subscription)
+industry_layer: Application/Creator Tools
+pricing_quadrant: Freemium + Premium subscription
+key_people:
+  - Chinese AI team
+  - Founders private
+competitors:
+  - Remove.bg
+  - Photoroom
+  - Canva
+  - Adobe
+related_products:
+  - '[[01-产品库/产品卡片-Remove.bg|Remove.bg]]'
+  - '[[01-产品库/产品卡片-Photoroom|Photoroom]]'
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[01-产品库/产品卡片-Freepik|Freepik]]'
+last_updated: '2026-03-14'
+confidence: Medium-High
 mars_reviewed: false
+title: Cutout.pro
 ---
-
 # Cutout.pro 产品卡片
 
 ## 基本面表格
@@ -163,7 +196,7 @@ mars_reviewed: false
 **这个设计的天才之处**：
 
 1. **工具集使得用户visit频率提高**
-   - [[产品卡片-Remove.bg|Remove.bg]]：用户来一次，removal一次，走
+   - Remove.bg：用户来一次，removal一次，走
    - Cutout.pro：用户来一次，可能用3个不同tools
    - 这increase LTV显著
 
@@ -385,7 +418,7 @@ mars_reviewed: false
 
 **竞争维度分析**：
 
-| 维度 | Cutout.pro | Remove.bg | Adobe | [[产品卡片-Canva|Canva]] | 评价 |
+| 维度 | Cutout.pro | Remove.bg | Adobe | Canva | 评价 |
 |------|-----------|-----------|-------|-------|------|
 | **工具多样性** | ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Cutout.pro > Adobe > Canva |
 | **单工具质量** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Adobe > Remove.bg ≈ Canva > Cutout.pro |

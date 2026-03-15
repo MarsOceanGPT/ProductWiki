@@ -2,10 +2,15 @@
 type: person
 name: Demis Hassabis
 role: CEO & Co-founder
-company: "[[Google DeepMind]]"
+company: '[[Google DeepMind]]'
 nationality: British
-background: Ph.D. in Cognitive Neuroscience from University College London, studied at Cambridge University
-notable_for: DeepMind founder, AlphaGo, AlphaFold, Nobel Prize in Chemistry 2024, chess prodigy, game designer
+background: >-
+  Ph.D. in Cognitive Neuroscience from University College London, studied at
+  Cambridge University
+notable_for: >-
+  DeepMind founder, AlphaGo, AlphaFold, Nobel Prize in Chemistry 2024, chess
+  prodigy, game designer
+title: Demis Hassabis
 ---
 # Demis Hassabis
 
@@ -56,11 +61,11 @@ AlphaFold 项目开始于 2016 年，但真正的突破来自 2018 年和 2020 �
 
 这个时刻的象征意义：**AI 不再是"计算机科学的工具"，而是"可以解决科学问题"的独立学科**。
 
-**5. [[产品卡片-Gemini|Gemini]] 时代的战略家（2023-现在）**
+**5. Gemini 时代的战略家（2023-现在）**
 
 2023 年，Google Brain 和 DeepMind 合并为 Google DeepMind，Hassabis 担任首席顾问（Chief AI Advisor）。
 
-现在的 DeepMind 不仅仅是研究机构，更是 Google 整个 AI 战略的核心。Hassabis 与 [[Jeff Dean]] 在 AI 研究的方向上有巨大影响力。
+现在的 DeepMind 不仅仅是研究机构，更是 Google 整个 AI 战略的核心。Hassabis 与 Jeff Dean 在 AI 研究的方向上有巨大影响力。
 
 **不公平优势**：神经科学和游戏设计的跨学科背景 + AlphaGo 和 AlphaFold 两个历史级别的成就 + Nobel Prize 的光环 + Google CEO 级别的信任 + DeepMind 计算资源的完全掌控权
 
@@ -88,13 +93,13 @@ Hassabis 的思维方式虽然主要体现在研究而非产品中，但对 Deep
 - [[AlphaFold]] - 蛋白质结构预测
 - [[AlphaZero]] - 通用强化学习系统
 - [[Google DeepMind]] - Google 与 DeepMind 合并后的研究部门
-- [[Gemini]] - Google 的旗舰 AI 模型
+- [[01-产品库/产品卡片-Gemini|Gemini]] - Google 的旗舰 AI 模型
 
 ## 相关人物
 
-- [[Jeff Dean]] - Google DeepMind 首席科学家，与 Hassabis 共同制定技术方向
-- [[Noam Shazeer]] - [[产品卡片-Gemini|Gemini]] 联合领导者
-- [[Oriol Vinyals]] - DeepMind VP，AlphaStar 的技术领导
+- [[03-人物库/Jeff Dean|Jeff Dean]] - Google DeepMind 首席科学家，与 Hassabis 共同制定技术方向
+- [[03-人物库/Noam Shazeer|Noam Shazeer]] - Gemini 联合领导者
+- [[03-人物库/Oriol Vinyals|Oriol Vinyals]] - DeepMind VP，AlphaStar 的技术领导
 - [[Shane Legg]] - DeepMind 联合创始人
 - [[Mustafa Suleyman]] - DeepMind 联合创始人
 - [[John Jumper]] - AlphaFold 的核心开发者，2024 Nobel Prize 共同得主

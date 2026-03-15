@@ -1,58 +1,62 @@
 ---
 type: product
-name: "Remini"
-name_cn: "Remini"
-url: "https://remini.app"
+name: Remini
+name_cn: Remini
+url: 'https://remini.app'
 founded: 2017
-headquarters: "Milan, Italy / San Francisco, US"
-founders: ["Marco Truffelli (创始人)", "Daniele Canevari (创始人)"]
-stage: "Scale"
-status: "Active"
+headquarters: 'Milan, Italy / San Francisco, US'
+founders:
+  - Marco Truffelli (创始人)
+  - Daniele Canevari (创始人)
+stage: Scale
+status: Active
 metrics_date: 2024-12
-arr: "$50M+"
-users: "150M+ downloads, 30M+ MAU"
-funding_total: "Acquired by Bending Spoons"
-valuation: "Not disclosed (收购)"
-employees: "50-100"
-category: "Photo Enhancement"
-subcategory: "AI Photo Restoration & Enhancement"
-target_user: "Photo enthusiasts, casual users, anyone with old photos"
-pricing_model: ["freemium", "subscription"]
+arr: $50M+
+users: '150M+ downloads, 30M+ MAU'
+funding_total: Acquired by Bending Spoons
+valuation: Not disclosed (收购)
+employees: 50-100
+category: Photo Enhancement
+subcategory: AI Photo Restoration & Enhancement
+target_user: 'Photo enthusiasts, casual users, anyone with old photos'
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks:
-  - "[[情感触发的病毒营销]]"
-  - "[[整合收购策略]]"
+  - '[[情感触发的病毒营销]]'
+  - '[[整合收购策略]]'
 design_playbooks:
-  - "[[情感化设计]]"
-  - "[[单一超级功能]]"
+  - '[[情感化设计]]'
+  - '[[单一超级功能]]'
 mvp_playbooks:
-  - "[[垂直场景深耕]]"
+  - '[[垂直场景深耕]]'
 pmf_playbooks:
-  - "[[用户生成的情感内容]]"
+  - '[[用户生成的情感内容]]'
 growth_playbooks:
-  - "[[病毒式传播-情感故事]]"
-  - "[[社交媒体UGC]]"
+  - '[[病毒式传播-情感故事]]'
+  - '[[社交媒体UGC]]'
 monetization_playbooks:
-  - "[[订阅制]]"
-  - "[[功能解锁]]"
+  - '[[订阅制]]'
+  - '[[功能解锁]]'
 moat_playbooks:
-  - "[[AI模型积累]]"
-  - "[[用户数据优势]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "低自主-高归因"
+  - '[[AI模型积累]]'
+  - '[[用户数据优势]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 低自主-高归因
 key_people:
-  - "[[Marco Truffelli]]"
-  - "[[Daniele Canevari]]"
-  - "[[Luca Ferrari (Bending Spoons CEO)]]"
+  - '[[Marco Truffelli]]'
+  - '[[Daniele Canevari]]'
+  - '[[Luca Ferrari (Bending Spoons CEO)]]'
 competitors:
-  - "[[FaceApp]]"
-  - "[[Google Photos]]"
-  - "[[Adobe Photoshop]]"
-last_updated: 2026-03-14
-confidence: "Medium-High"
+  - '[[01-产品库/产品卡片-FaceApp|FaceApp]]'
+  - '[[Google Photos]]'
+  - '[[Adobe Photoshop]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium-High
 mars_reviewed: false
+title: Remini
 ---
-
 # Remini
 
 > 一句话：意大利创业团队的 AI 照片修复工具，把"翻新家庭老照片"变成了全球情感病毒。$50M+ ARR，被 Bending Spoons 收购后成为其全球美化工具矩阵的核心。

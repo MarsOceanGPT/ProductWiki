@@ -1,52 +1,55 @@
 ---
 type: product
-name: "Polish"
-name_cn: "Polish"
-url: "https://polishphoto.com"
+name: Polish
+name_cn: Polish
+url: 'https://polishphoto.com'
 founded: 2018
-headquarters: "待补充"
-founders: ["待补充"]
-stage: "待补充"
-status: "Active"
+headquarters: 待补充
+founders:
+  - 待补充
+stage: 待补充
+status: Active
 metrics_date: 2024-12
-arr: "待补充"
-users: "5M+ downloads (估)"
-funding_total: "待补充"
-valuation: "待补充"
-employees: "待补充"
-category: "Photo Editing"
-subcategory: "AI Photo Enhancement & Editing"
-target_user: "Photo enthusiasts, content creators"
-pricing_model: ["freemium", "subscription"]
+arr: 待补充
+users: 5M+ downloads (估)
+funding_total: 待补充
+valuation: 待补充
+employees: 待补充
+category: Photo Editing
+subcategory: AI Photo Enhancement & Editing
+target_user: 'Photo enthusiasts, content creators'
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks:
-  - "[[AI 照片编辑红利]]"
+  - '[[AI 照片编辑红利]]'
 design_playbooks:
-  - "[[一键编辑]]"
+  - '[[一键编辑]]'
 mvp_playbooks:
-  - "[[待补充]]"
+  - '[[待补充]]'
 pmf_playbooks:
-  - "[[待补充]]"
+  - '[[待补充]]'
 growth_playbooks:
-  - "[[待补充]]"
+  - '[[待补充]]'
 monetization_playbooks:
-  - "[[订阅制]]"
+  - '[[订阅制]]'
 moat_playbooks:
-  - "[[待补充]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "待补充"
+  - '[[待补充]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 待补充
 key_people:
-  - "[[待补充]]"
+  - '[[待补充]]'
 competitors:
-  - "[[Remini]]"
-  - "[[FaceApp]]"
-  - "[[Adobe Lightroom]]"
-  - "[[Google Photos]]"
-last_updated: 2026-03-14
-confidence: "Low"
+  - '[[01-产品库/产品卡片-Remini|Remini]]'
+  - '[[01-产品库/产品卡片-FaceApp|FaceApp]]'
+  - '[[01-产品库/产品卡片-Adobe Lightroom|Adobe Lightroom]]'
+  - '[[Google Photos]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Low
 mars_reviewed: false
+title: Polish
 ---
-
 # Polish
 
 > 一句话：AI 照片编辑工具，主打"一键优化"和"智能增强"。下载量约 500 万-1000 万，属于"小众但有粘性"的照片编辑应用。公开信息有限，信息不足处标注待补充。

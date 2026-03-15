@@ -10,18 +10,35 @@ type: product
 成立年份: 2021
 公开年份: 2022
 tags:
-  opportunity: [打开地域门槛新市场, 实时通讯新需求]
-  design: [实时语音翻译, 多语言支持, 社交集成]
-  mvp: [API拼装, 实时讲解]
-  pmf: [跨境沟通刚需, 商务应急]
-  growth: [社交分享, 地域优化]
-  monetization: [按功能-订阅]
-  moat: [本地化, 东南亚用户积累, 新兴市场覆盖]
-相关人物: [待补充]
-竞争对手: [Google 翻译, DeepL, 讯飞翻译, Papago, Microsoft 翻译]
-关联产品: [Papago, Google 翻译, Gauth]
+  - 打开地域门槛新市场
+  - 实时通讯新需求
+  - 实时语音翻译
+  - 多语言支持
+  - 社交集成
+  - API拼装
+  - 实时讲解
+  - 跨境沟通刚需
+  - 商务应急
+  - 社交分享
+  - 地域优化
+  - 按功能-订阅
+  - 本地化
+  - 东南亚用户积累
+  - 新兴市场覆盖
+相关人物:
+  - 待补充
+竞争对手:
+  - Google 翻译
+  - DeepL
+  - 讯飞翻译
+  - Papago
+  - Microsoft 翻译
+关联产品:
+  - Papago
+  - Google 翻译
+  - Gauth
+title: Hi Translate
 ---
-
 # Hi Translate
 
 > "用你的语言，连接世界。" — 东南亚团队用地域优化打破 Google 垄断的尝试。

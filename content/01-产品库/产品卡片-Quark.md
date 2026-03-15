@@ -2,33 +2,28 @@
 type: product
 name: Quark
 name_cn: 夸克
-url: https://quark.cn
-
-# 基本信息
+url: 'https://quark.cn'
 founded: 2010
 headquarters: 杭州
-founders: [阿里巴巴集团]
+founders:
+  - 阿里巴巴集团
 stage: Scale
 status: Active
-
-# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 超1亿月活
-monthly_visits:
+monthly_visits: null
 mau: 1亿+
-funding_total:
+funding_total: null
 funding_rounds: []
-valuation:
-employees:
-
-# 分类
+valuation: null
+employees: null
 category: AI搜索与学习
 subcategory: 学生学习助手、AI搜索
 target_user: 中小学生、大学生、知识学习者
-pricing_model: [freemium, premium]
-
-# 打法标签（双向链接）
+pricing_model:
+  - freemium
+  - premium
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +31,22 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
 key_people: []
-competitors: [百度、Kimi、ChatGPT, Google Search]
-related_products: [豆包, 通义千问, Genspark]
-
-# 元信息
-last_updated: 2026-03-14
+competitors:
+  - 百度、Kimi、ChatGPT
+  - Google Search
+related_products:
+  - 豆包
+  - 通义千问
+  - Genspark
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: Quark
 ---
-
 # 夸克 Quark
 
 > 从浏览器到AI学习助手的转型：用AI搜索、文档处理和学习辅导的组合拳，抢占学生用户心智的新一代搜索工具
@@ -552,9 +546,9 @@ AI 草稿——待 Mars 确认
 
 ## 相关案例
 
-- [[豆包]] — 同为AI搜索竞品，但基于抖音生态，用户构成和变现路径完全不同
-- [[通义千问]] — 夸克背后的模型方，展示了"模型+应用"的分工关系
-- [[Genspark]] — 美国市场的AI搜索对标，对比国内外的产品差异
+- [[01-产品库/产品卡片-Doubao|豆包]] — 同为AI搜索竞品，但基于抖音生态，用户构成和变现路径完全不同
+- [[01-产品库/产品卡片-Qwen|通义千问]] — 夸克背后的模型方，展示了"模型+应用"的分工关系
+- [[01-产品库/产品卡片-Genspark|Genspark]] — 美国市场的AI搜索对标，对比国内外的产品差异
 
 ---
 

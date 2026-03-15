@@ -10,18 +10,35 @@ type: product
 成立年份: 2022
 公开年份: 2023
 tags:
-  opportunity: [打开表达门槛新市场, 社交表情创新]
-  design: [AI 虚拟形象生成, 个性化表情, 移动优先]
-  mvp: [生成式 AI 拼装, 简易上手]
-  pmf: [个性表达需求, 社交内容生成]
-  growth: [社交分享, 年轻用户优先]
-  monetization: [按功能-订阅]
-  moat: [用户数据, 模型个性化, 社交沉淀]
-相关人物: [待补充]
-竞争对手: [Bitmoji, Nendo, Picrew, Character.ai 虚拟形象版, Snapchat Bitmoji]
-关联产品: [Character.ai, Midjourney, DALL-E]
+  - 打开表达门槛新市场
+  - 社交表情创新
+  - AI 虚拟形象生成
+  - 个性化表情
+  - 移动优先
+  - 生成式 AI 拼装
+  - 简易上手
+  - 个性表达需求
+  - 社交内容生成
+  - 社交分享
+  - 年轻用户优先
+  - 按功能-订阅
+  - 用户数据
+  - 模型个性化
+  - 社交沉淀
+相关人物:
+  - 待补充
+竞争对手:
+  - Bitmoji
+  - Nendo
+  - Picrew
+  - Character.ai 虚拟形象版
+  - Snapchat Bitmoji
+关联产品:
+  - Character.ai
+  - Midjourney
+  - DALL-E
+title: Facemoji
 ---
-
 # Facemoji
 
 > "让你的表情包活起来。" — AI 头像生成打破了表情包的静态边界，但也暴露了"个性化"商业化的困难。
@@ -51,7 +68,7 @@ tags:
 - **Bitmoji**（Snapchat 旗下）已经验证了"虚拟形象"的社交需求（月活数千万）
 - 但 Bitmoji 是"2D 卡通风格"，无法满足所有用户的个性化需求
 - **Picrew**（日本社交创意工具）证明了"用户生成虚拟形象"有强需求
-- Stable Diffusion、[[产品卡片-Midjourney|Midjourney]] 等生成式 AI 工具的开源，让"虚拟形象生成"成为可能
+- Stable Diffusion、Midjourney 等生成式 AI 工具的开源，让"虚拟形象生成"成为可能
 
 **关键洞察**：
 - 每个人都想要"真正属于自己"的虚拟形象（而不是 Bitmoji 的通用风格）
@@ -81,7 +98,7 @@ tags:
 **与竞争对手的差异**：
 - vs Bitmoji：更高度定制化，AI 生成而非卡通风格
 - vs Picrew：更快速，无需手工操作
-- vs [[产品卡片-Character.ai|Character.ai]]：专注虚拟形象而非对话陪伴
+- vs Character.ai：专注虚拟形象而非对话陪伴
 
 ---
 

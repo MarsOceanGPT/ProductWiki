@@ -10,18 +10,37 @@ type: product
 成立年份: 2015
 公开年份: 2015
 tags:
-  opportunity: [企业内部孵化, 亚洲语言垂直]
-  design: [神经机器翻译, 亚洲语言专精, 生态集成]
-  mvp: [企业资源支持, AI模型堆砌]
-  pmf: [商务翻译刚需, 亚洲跨语言]
-  growth: [Naver生态推送, 地域口碑]
-  monetization: [API 按量, 企业授权, 免费工具]
-  moat: [韩日中翻译精准度, Naver 生态, 企业集成]
-相关人物: [Naver 管理层]
-竞争对手: [Google 翻译, DeepL, Hi Translate, Microsoft 翻译, 讯飞翻译]
-关联产品: [Naver Search, Line, Naver Cloud]
+  - 企业内部孵化
+  - 亚洲语言垂直
+  - 神经机器翻译
+  - 亚洲语言专精
+  - 生态集成
+  - 企业资源支持
+  - AI模型堆砌
+  - 商务翻译刚需
+  - 亚洲跨语言
+  - Naver生态推送
+  - 地域口碑
+  - API 按量
+  - 企业授权
+  - 免费工具
+  - 韩日中翻译精准度
+  - Naver 生态
+  - 企业集成
+相关人物:
+  - Naver 管理层
+竞争对手:
+  - Google 翻译
+  - DeepL
+  - Hi Translate
+  - Microsoft 翻译
+  - 讯飞翻译
+关联产品:
+  - Naver Search
+  - Line
+  - Naver Cloud
+title: Papago
 ---
-
 # Papago
 
 > "用我们的语言连接亚洲。" — 大厂内部孵化的翻译工具，展示了企业控制 vs 创新的矛盾。

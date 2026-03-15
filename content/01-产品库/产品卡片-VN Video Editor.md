@@ -2,33 +2,32 @@
 type: product
 name: VN Video Editor
 name_cn: VN视频编辑器
-url: https://vnvideoed.com
-
-# 基本信息
+url: 'https://vnvideoed.com'
 founded: 2015
-headquarters: Ho Chi Minh City, Vietnam
-founders: [Viet Nam Team]
+headquarters: 'Ho Chi Minh City, Vietnam'
+founders:
+  - Viet Nam Team
 stage: Scale
 status: Active
-
-# 关键指标（截至 2026-03-01）
-metrics_date: 2026-03-01
+metrics_date: 2026-03-01T00:00:00.000Z
 arr: ~$30-50M估计
 users: 150M+月活用户
-monthly_visits: ""
+monthly_visits: ''
 mau: 150M
 funding_total: $20M+
-funding_rounds: [Seed, Series A, Series B, Series C]
+funding_rounds:
+  - Seed
+  - Series A
+  - Series B
+  - Series C
 valuation: $200-300M估计
 employees: 200+
-
-# 分类
 category: 移动视频编辑/短视频工具
 subcategory: 无水印视频编辑应用
 target_user: 短视频创作者、内容运营、抖音/TikTok用户
-pricing_model: [freemium, subscription]
-
-# 打法标签
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +35,26 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [Truong Quoc Dong, 越南创业团队]
-competitors: [CapCut, Adobe Premiere Rush, InShot, FilmRoll]
-related_products: [VN Video Maker Pro, Splice音乐编辑, FilmStock素材库]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Truong Quoc Dong
+  - 越南创业团队
+competitors:
+  - CapCut
+  - Adobe Premiere Rush
+  - InShot
+  - FilmRoll
+related_products:
+  - VN Video Maker Pro
+  - Splice音乐编辑
+  - FilmStock素材库
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: VN Video Editor
 ---
-
 # VN Video Editor（越南视频编辑应用）
 
 > 一句话：越南团队做的全球短视频编辑工具，用"无水印"和"模板丰富"击败国际竞品，是"小国团队做全球产品"的典范。

@@ -11,21 +11,35 @@ type: product
 融资: $3M（Sky9 Capital + North Equity）
 自研模型: JanitorLLM（被 OpenAI 封禁 API 后自建）
 tags:
-  opportunity: [打开价格门槛新市场, 别无选择]
-  design: [Chat 对话式, 生成式界面, 角色锁定]
-  mvp: [简易拼装, 关键功能聚焦]
-  pmf: [迫切刚需, 别无选择]
-  growth: [病毒传播-产品即内容, 社交粘性]
-  monetization: [按访问-订阅]
-  moat: [Persona 锁定, 数据飞轮]
-相关人物: [Jan Zoltkowski]
-竞争对手: [Character.ai, CrushOn, Spicychat, Replika, DreamGen]
-关联产品: [产品卡片-Character.ai]
+  - 打开价格门槛新市场
+  - 别无选择
+  - Chat 对话式
+  - 生成式界面
+  - 角色锁定
+  - 简易拼装
+  - 关键功能聚焦
+  - 迫切刚需
+  - 别无选择
+  - 病毒传播-产品即内容
+  - 社交粘性
+  - 按访问-订阅
+  - Persona 锁定
+  - 数据飞轮
+相关人物:
+  - Jan Zoltkowski
+竞争对手:
+  - Character.ai
+  - CrushOn
+  - Spicychat
+  - Replika
+  - DreamGen
+关联产品:
+  - 产品卡片-Character.ai
+title: Janitor AI
 ---
-
 # Janitor AI
 
-> [[产品卡片-Character.ai|Character.ai]] 不让你做的，我让你做——然后把"被拒绝的需求"变成了一个 1.38 亿月访问的市场。
+> Character.ai 不让你做的，我让你做——然后把"被拒绝的需求"变成了一个 1.38 亿月访问的市场。
 
 ## 基本面
 
@@ -48,7 +62,7 @@ tags:
 
 ### 创始人基因
 
-[[[[Jan Zoltkowski]]]]，澳大利亚籍软件工程师 + 加密工程师。在创建 Janitor AI 之前，他是 HackerOne 和 EthGlobal 黑客松的多次获奖者——这个背景解释了两件事：
+[[03-人物库/Jan Zoltkowski|Jan Zoltkowski]]，澳大利亚籍软件工程师 + 加密工程师。在创建 Janitor AI 之前，他是 HackerOne 和 EthGlobal 黑客松的多次获奖者——这个背景解释了两件事：
 
 1. **技术能力强**：能独立搭建完整的前后端 + LLM 集成系统
 2. **Hacker 心态**：追求快速构建、快速验证，不追求完美
@@ -86,7 +100,7 @@ Sky9 的投资逻辑值得分析：
 
 **Janitor AI 的非共识**："**Character.ai 的 NSFW 审核不是'正确策略'，而是'主动放弃了收入最高的用户群'。** NSFW 用户的付费意愿是 SFW 用户的 10 倍，而大公司永远不会进来抢——你的竞争对手的自我设限就是你的护城河。"
 
-这个判断的本质是：**在其他人看到风险的地方看到机会。** 主流 AI 公司（Character.ai、[[产品卡片-ChatGPT|ChatGPT]]、[[产品卡片-Replika|Replika]]）都在做内容安全，这是正确的道德选择——但从商业角度看，它创造了一个被故意留空的巨大市场。
+这个判断的本质是：**在其他人看到风险的地方看到机会。** 主流 AI 公司（Character.ai、ChatGPT、Replika）都在做内容安全，这是正确的道德选择——但从商业角度看，它创造了一个被故意留空的巨大市场。
 
 ### JTBD 与价值再定义
 
@@ -151,7 +165,7 @@ Jan Zoltkowski 的应对：
 - 成本结构：JanitorLLM 免费提供 = 极低用户获取门槛
 - 差异化：**JanitorLLM 的"无过滤"特性成为核心卖点**
 
-这是经典的"约束催生创新"——和 [[产品卡片-DeepSeek|DeepSeek]] 因芯片制裁发展出 MoE 效率优势的逻辑完全一致。
+这是经典的"约束催生创新"——和 DeepSeek 因芯片制裁发展出 MoE 效率优势的逻辑完全一致。
 
 ### 数据飞轮冷启动
 
@@ -200,7 +214,7 @@ TikTok 是 Janitor AI 的核心增长渠道——不是官方账号（NSFW 平�
 
 **对 Character.ai 的寄生**：Janitor AI 的整个存在都是寄生于 Character.ai 的内容审核政策。如果 Character.ai 开放 NSFW，Janitor AI 的核心差异化消失。但——Character.ai 已经被 Google 收购（$2.7B 授权协议），Google 品牌不可能允许 NSFW，所以这个"寄生"是安全的。
 
-**对开源 LLM 生态的寄生**：JanitorLLM 的底层能力来自开源模型社区。随着 [[Llama]]/Qwen 等开源模型持续进步，JanitorLLM 的上限也在提高——不需要自己突破技术前沿。
+**对开源 LLM 生态的寄生**：JanitorLLM 的底层能力来自开源模型社区。随着 Llama/Qwen 等开源模型持续进步，JanitorLLM 的上限也在提高——不需要自己突破技术前沿。
 
 ### 护城河演变
 
@@ -282,7 +296,7 @@ Janitor AI 的核心创新是发现了一个极其稳定的市场空白：大公
 | 3 | 用最简 MVP 服务这个需求（Janitor AI 的 MVP 就是 Character.ai + 无审核） |
 | 4 | 竞品的每一次审核收紧都是你的增长催化剂 |
 
-适用场景：任何有"道德审查 → 用户流失"现象的品类。AI 写作（主流工具禁止生成暴力/色情内容）、AI 图像（DALL-E 和 [[产品卡片-Midjourney|Midjourney]] 限制多）、AI 视频（所有平台都有严格审核）。
+适用场景：任何有"道德审查 → 用户流失"现象的品类。AI 写作（主流工具禁止生成暴力/色情内容）、AI 图像（DALL-E 和 Midjourney 限制多）、AI 视频（所有平台都有严格审核）。
 
 **剧本二："濒死求生 → 技术自主"——被断供后自建能力**
 
@@ -408,11 +422,11 @@ Janitor AI 的故事其实很简单但很聪明：在别人看到风险的地方
 
 ## 相关案例
 
-- [[产品卡片-Character.ai]] — 直接对照：相同技术、相反的内容政策 → 相反的商业结果（2 亿月访问但 0.3% 付费 vs. 1.38 亿月访问但可能更高的付费率）
-- [[Replika]] — AI 伴侣先驱，2023年曾因取消"成人模式"导致用户暴怒，部分用户流向 Janitor AI
-- [[CrushOn]] — 更彻底的 NSFW 平台（零过滤），是 Janitor AI 在"自由度"维度上的上限
-- [[Spicychat]] — 同类竞品，免费、低门槛，与 Janitor AI 争夺轻度用户
-- [[产品卡片-[[产品卡片-ElevenLabs|ElevenLabs]]]] — 对比案例：同为"大公司不做/不敢做"的品类创新（语音克隆 vs. NSFW 角色），不同的品牌策略
+- [[01-产品库/产品卡片-Character.ai|产品卡片-Character.ai]] — 直接对照：相同技术、相反的内容政策 → 相反的商业结果（2 亿月访问但 0.3% 付费 vs. 1.38 亿月访问但可能更高的付费率）
+- [[01-产品库/产品卡片-Replika|Replika]] — AI 伴侣先驱，2023年曾因取消"成人模式"导致用户暴怒，部分用户流向 Janitor AI
+- [[01-产品库/产品卡片-CrushOn.ai|CrushOn]] — 更彻底的 NSFW 平台（零过滤），是 Janitor AI 在"自由度"维度上的上限
+- [[01-产品库/产品卡片-Spicychat.ai|Spicychat]] — 同类竞品，免费、低门槛，与 Janitor AI 争夺轻度用户
+- [[01-产品库/产品卡片-ElevenLabs|产品卡片-ElevenLabs]] — 对比案例：同为"大公司不做/不敢做"的品类创新（语音克隆 vs. NSFW 角色），不同的品牌策略
 
 ---
 

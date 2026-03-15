@@ -2,33 +2,27 @@
 type: product
 name: Microsoft Edge
 name_cn: 微软Edge浏览器
-url: https://microsoft.com/edge
-
-# 基本信息
+url: 'https://microsoft.com/edge'
 founded: 2015
-headquarters: Redmond, Washington
-founders: [Microsoft]
+headquarters: 'Redmond, Washington'
+founders:
+  - Microsoft
 stage: Scale
 status: Active
-
-# 关键指标（截至 2026-03-01）
-metrics_date: 2026-03-01
-arr: ""
+metrics_date: 2026-03-01T00:00:00.000Z
+arr: ''
 users: 325M月活用户
-monthly_visits: ""
+monthly_visits: ''
 mau: 325M
-funding_total: ""
+funding_total: ''
 funding_rounds: []
-valuation: ""
-employees: ""
-
-# 分类
+valuation: ''
+employees: ''
 category: 浏览器/AI浏览器
 subcategory: AI增强型浏览器
 target_user: Windows/Mac用户，需要AI生产力工具的用户
-pricing_model: [free]
-
-# 打法标签
+pricing_model:
+  - free
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +30,27 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 中远
 industry_layer: 应用层
 pricing_quadrant: 低自主-低归因
-
-# 人物 & 竞品
-key_people: [Satya Nadella, Joe Belfiore]
-competitors: [Google Chrome, Mozilla Firefox, Apple Safari, Opera]
-related_products: [Copilot, Bing Chat, Microsoft 365, Windows]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Satya Nadella
+  - Joe Belfiore
+competitors:
+  - Google Chrome
+  - Mozilla Firefox
+  - Apple Safari
+  - Opera
+related_products:
+  - Copilot
+  - Bing Chat
+  - Microsoft 365
+  - Windows
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
+title: Microsoft Edge
 ---
-
 # Microsoft Edge
 
 > 一句话：从失败的浏览器重生为"AI分发渠道"，用 Copilot 内置能力，试图把浏览器变成AI生产力工具的第一入口。
@@ -64,10 +62,10 @@ mars_reviewed: false
 | **全称** | Microsoft Edge |
 | **归属** | Microsoft |
 | **核心定位** | AI增强浏览器，内置Copilot助手、Web捕获、总结等功能 |
-| **关键指标** | MAU 3.25亿（全球第2大浏览器，仅次于[[产品卡片-Chrome\|Chrome]]）；Windows预装率99% |
+| **关键指标** | MAU 3.25亿（全球第2大浏览器，仅次于Chrome）；Windows预装率99% |
 | **定价** | 免费；Copilot Pro集成 |
-| **标志性时刻** | 2015年初版Edge发布（失败）；2018年切换Chromium内核（重生）；2021年重新设计UI；2023年集成AI [[产品卡片-Copilot\|Copilot]]（变身） |
-| **核心差异** | 不是更快的浏览器，而是"AI助手的宿主"；深度集成Windows/Office/[[产品卡片-Copilot\|Copilot]]的唯一浏览器；同步功能优于[[产品卡片-Chrome\|Chrome]]（OneDrive集成） |
+| **标志性时刻** | 2015年初版Edge发布（失败）；2018年切换Chromium内核（重生）；2021年重新设计UI；2023年集成AI Copilot（变身） |
+| **核心差异** | 不是更快的浏览器，而是"AI助手的宿主"；深度集成Windows/Office/Copilot的唯一浏览器；同步功能优于Chrome（OneDrive集成） |
 
 ---
 
@@ -78,7 +76,7 @@ mars_reviewed: false
 Edge 的DNA是一场**"从耻辱到救赎"的重生故事**。三个基因特别值得关注：
 
 1. **系统特权基因**：Edge 是唯一被 Windows 系统深度绑定的浏览器，享受 "preload 权力"——用户从未选择过 Edge，它就已经在那儿
-2. **战术灵活基因**：当 Chromium 开源后，微软没有固执己见坚持自研引擎，而是快速投降，这种"技术谦虚"反而救了 [[产品卡片-Microsoft Edge\|Edge]]
+2. **战术灵活基因**：当 Chromium 开源后，微软没有固执己见坚持自研引擎，而是快速投降，这种"技术谦虚"反而救了 Edge
 3. **补充者心态基因**：Edge 不是要"统治浏览器市场"，而是作为"Windows 的附件"存在，目标是"足够好就行"
 
 ### 关键跃迁表
@@ -111,9 +109,9 @@ Edge 作为浏览器，其实没有"发现机会"——它的机会是**被动�
 
 | | 内容 |
 |--|------|
-| **当时的共识** | "浏览器是标准化商品，[[产品卡片-Chrome\|Chrome]] 已经赢了，没有创新空间" |
+| **当时的共识** | "浏览器是标准化商品，Chrome 已经赢了，没有创新空间" |
 | **他们的非共识** | **浏览器不是浏览工具，是计算平台**；AI 时代的浏览器应该是"智能助手"而非"标签页集合" |
-| **下的赌注** | 把浏览器从"查看网页"升级为"使用网页 + AI 增强"，内置 [[产品卡片-Copilot\|Copilot]]、网页总结、代码解释等功能 |
+| **下的赌注** | 把浏览器从"查看网页"升级为"使用网页 + AI 增强"，内置 Copilot、网页总结、代码解释等功能 |
 | **验证结果** | 部分验证。Copilot 集成让 Edge 的日活增长 15-20%，但用户留存仍不如 Chrome（用户如果同时装了 Chrome，大部分任务还是用 Chrome） |
 
 **JTBD 与价值再定义**
@@ -124,8 +122,8 @@ Edge 作为浏览器，其实没有"发现机会"——它的机会是**被动�
 2. **主动用户**（AI 生产力用户）：他们的 JTBD 是"快速理解网页内容 + 用 AI 辅助工作"，Copilot 助手满足这个需求
 
 旧体验 vs 新体验：
-- **旧**：打开网页 → 自己阅读 → 逐行找信息 → 如果复杂问题，切换到 [[产品卡片-ChatGPT\|ChatGPT]] 对话
-- **新**：打开网页 → 点击 [[产品卡片-Copilot\|Copilot]] → "总结这个页面" / "解释代码" / "翻译内容" → 即刻得到答案，无需切标签页
+- **旧**：打开网页 → 自己阅读 → 逐行找信息 → 如果复杂问题，切换到 ChatGPT 对话
+- **新**：打开网页 → 点击 Copilot → "总结这个页面" / "解释代码" / "翻译内容" → 即刻得到答案，无需切标签页
 
 化学反应：**减少上下文切换成本**。用户不再需要"在浏览器和 ChatGPT 之间来回切"。
 

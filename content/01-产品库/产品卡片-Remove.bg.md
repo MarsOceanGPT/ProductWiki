@@ -2,43 +2,78 @@
 type: product
 name: Remove.bg
 name_cn: Remove.bg
-url: https://www.remove.bg
+url: 'https://www.remove.bg'
 founded: 2017
-headquarters: Berlin, Germany (Kaleido AI)
-founders: ["Florian Christl"]
+headquarters: 'Berlin, Germany (Kaleido AI)'
+founders:
+  - Florian Christl
 stage: Acquired (by Canva 2021)
 status: Active
-metrics_date: "2026-03"
-arr: "$10M+ (estimated, part of Canva)"
-users: "50M+ (cumulative)"
-monthly_visits: "50M+"
-mau: "5M+"
-funding_total: "$N/A (acquired by Canva)"
-funding_rounds: ["Seed", "Series A", "Canva acquisition 2021"]
-valuation: "Part of Canva $45B"
-employees: "20+ (part of Canva team)"
-category: "AI Background Removal"
-subcategory: "Image Processing, API Service"
-target_user: "Designers, photographers, e-commerce businesses, casual users"
-pricing_model: ["Freemium", "API subscription", "Enterprise"]
-opportunity_playbooks: ["Single-function API excellence", "From tool to acquisition", "Infrastructure as service"]
-design_playbooks: ["Simplicity first", "One-button operation", "API-first architecture"]
-mvp_playbooks: ["Web-based background removal only"]
-pmf_playbooks: ["Viral product on ProductHunt", "Designer adoption", "API monetization"]
-growth_playbooks: ["Viral marketing", "API ecosystem partners", "Social sharing"]
-monetization_playbooks: ["API usage-based billing", "Freemium web", "Enterprise licensing"]
-moat_playbooks: ["Background removal AI quality", "Developer ecosystem"]
-distance_to_money: "Direct (API charges)"
-industry_layer: "Infrastructure/API"
-pricing_quadrant: "Freemium + Usage-based API"
-key_people: ["Florian Christl (Founder)", "Now part of Canva leadership"]
-competitors: ["Photoroom", "Adobe removal", "Pixlr", "Cutout.pro"]
-related_products: ["[[Canva]]", "[[Photoroom]]", "[[Cutout.pro]]", "[[Adobe]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: '$10M+ (estimated, part of Canva)'
+users: 50M+ (cumulative)
+monthly_visits: 50M+
+mau: 5M+
+funding_total: $N/A (acquired by Canva)
+funding_rounds:
+  - Seed
+  - Series A
+  - Canva acquisition 2021
+valuation: Part of Canva $45B
+employees: 20+ (part of Canva team)
+category: AI Background Removal
+subcategory: 'Image Processing, API Service'
+target_user: 'Designers, photographers, e-commerce businesses, casual users'
+pricing_model:
+  - Freemium
+  - API subscription
+  - Enterprise
+opportunity_playbooks:
+  - Single-function API excellence
+  - From tool to acquisition
+  - Infrastructure as service
+design_playbooks:
+  - Simplicity first
+  - One-button operation
+  - API-first architecture
+mvp_playbooks:
+  - Web-based background removal only
+pmf_playbooks:
+  - Viral product on ProductHunt
+  - Designer adoption
+  - API monetization
+growth_playbooks:
+  - Viral marketing
+  - API ecosystem partners
+  - Social sharing
+monetization_playbooks:
+  - API usage-based billing
+  - Freemium web
+  - Enterprise licensing
+moat_playbooks:
+  - Background removal AI quality
+  - Developer ecosystem
+distance_to_money: Direct (API charges)
+industry_layer: Infrastructure/API
+pricing_quadrant: Freemium + Usage-based API
+key_people:
+  - Florian Christl (Founder)
+  - Now part of Canva leadership
+competitors:
+  - Photoroom
+  - Adobe removal
+  - Pixlr
+  - Cutout.pro
+related_products:
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[01-产品库/产品卡片-Photoroom|Photoroom]]'
+  - '[[01-产品库/产品卡片-Cutout.pro|Cutout.pro]]'
+  - '[[Adobe]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Remove.bg
 ---
-
 # Remove.bg 产品卡片
 
 ## 基本面表格

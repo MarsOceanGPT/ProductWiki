@@ -1,67 +1,71 @@
 ---
 type: product
-name: "Meta AI"
-name_cn: "Meta AI"
-url: "https://www.meta.ai"
+name: Meta AI
+name_cn: Meta AI
+url: 'https://www.meta.ai'
 founded: 2024
-headquarters: "Menlo Park, US"
-founders: ["Yann LeCun", "Meta AI 团队"]
-stage: "Growth"
-status: "Active"
+headquarters: 'Menlo Park, US'
+founders:
+  - Yann LeCun
+  - Meta AI 团队
+stage: Growth
+status: Active
 metrics_date: 2026-03
-arr: "$0 (free, 内部投资)"
-users: "2B+ monthly (WhatsApp/Instagram/Facebook)"
-monthly_visits: "2B+"
-mau: "2B+"
-funding_total: "内部资本（Meta 年 AI 投资 $50B+）"
-valuation: "Meta 子业务"
-employees: "300+ (FAIR 相关)"
-category: "AI Assistant"
-subcategory: "Conversational AI / Open Source Models"
-target_user: "WhatsApp users, Instagram users, Facebook users, enterprises"
-pricing_model: ["Free", "Enterprise custom"]
+arr: '$0 (free, 内部投资)'
+users: 2B+ monthly (WhatsApp/Instagram/Facebook)
+monthly_visits: 2B+
+mau: 2B+
+funding_total: 内部资本（Meta 年 AI 投资 $50B+）
+valuation: Meta 子业务
+employees: 300+ (FAIR 相关)
+category: AI Assistant
+subcategory: Conversational AI / Open Source Models
+target_user: 'WhatsApp users, Instagram users, Facebook users, enterprises'
+pricing_model:
+  - Free
+  - Enterprise custom
 opportunity_playbooks:
-  - "[[开源模型商品化]]"
-  - "[[生态垄断]]"
-  - "[[横向整合]]"
+  - '[[开源模型商品化]]'
+  - '[[生态垄断]]'
+  - '[[横向整合]]'
 design_playbooks:
-  - "[[多平台无缝集成]]"
+  - '[[多平台无缝集成]]'
 mvp_playbooks:
-  - "[[开源 LLaMA 作为基础]]"
+  - '[[开源 LLaMA 作为基础]]'
 pmf_playbooks:
-  - "[[嵌入式使用]]"
+  - '[[嵌入式使用]]'
 growth_playbooks:
-  - "[[全球 2B 用户的被动激活]]"
+  - '[[全球 2B 用户的被动激活]]'
 monetization_playbooks:
-  - "[[暂未货币化]]"
-  - "[[潜在企业服务]]"
+  - '[[暂未货币化]]'
+  - '[[潜在企业服务]]'
 moat_playbooks:
-  - "[[开源社区]]"
-  - "[[平台垄断]]"
-  - "[[用户规模]]"
-distance_to_money: "远（暂未商业化）"
-industry_layer: "应用层 + 模型层"
-pricing_quadrant: "免费 / 潜在企业"
+  - '[[开源社区]]'
+  - '[[平台垄断]]'
+  - '[[用户规模]]'
+distance_to_money: 远（暂未商业化）
+industry_layer: 应用层 + 模型层
+pricing_quadrant: 免费 / 潜在企业
 key_people:
-  - "[[Yann LeCun]] (Chief AI Scientist, Meta)"
-  - "[[Mark Zuckerberg]] (CEO, Meta)"
-  - "[[Jérôme Pesenti]] (VP, AI)"
+  - '[[03-人物库/Yann LeCun|Yann LeCun]] (Chief AI Scientist, Meta)'
+  - '[[Mark Zuckerberg]] (CEO, Meta)'
+  - '[[Jérôme Pesenti]] (VP, AI)'
 competitors:
-  - "[[ChatGPT]]"
-  - "[[Claude]]"
-  - "[[Gemini]]"
-  - "[[Open Source Models (Llama)]]"
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
+  - '[[Open Source Models (Llama)]]'
 related_products:
-  - "[[LLaMA]]"
-  - "[[Llama 3]]"
-  - "[[WhatsApp]]"
-  - "[[Instagram]]"
-  - "[[Facebook]]"
-last_updated: 2026-03-14
-confidence: "Medium"
+  - '[[LLaMA]]'
+  - '[[Llama 3]]'
+  - '[[WhatsApp]]'
+  - '[[Instagram]]'
+  - '[[Facebook]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium
 mars_reviewed: false
+title: Meta AI
 ---
-
 # Meta AI
 
 > 一句话：Yann LeCun 用开源 LLaMA 和 Meta 的 2B 用户打造"免费的全民 AI"，表面上不赚钱，实际上在建最大的"AI 数据飞轮"和"用户粘性"。
@@ -86,7 +90,7 @@ mars_reviewed: false
 
 ### 创始人基因分析
 
-**[[Yann LeCun]]**（Chief AI Scientist）：图像识别的奠基人之一，深度学习三巨头之一，Facebook AI Research（FAIR）创始人。LeCun 的基因是"让 AI 开源、让 AI 民主化"。他对 [[ChatGPT\|OpenAI]] 的看法是"过度保护模型"，对 Google 的看法是"被搜索广告束缚"。他的理想是"AI 应该像互联网一样，人人可得"。
+**Yann LeCun**（Chief AI Scientist）：图像识别的奠基人之一，深度学习三巨头之一（与 Yoshua Bengio、Geoffrey Hinton 并列），Facebook AI Research（FAIR）创始人。LeCun 的基因是"让 AI 开源、让 AI 民主化"。他对 OpenAI 的看法是"过度保护模型"，对 Google 的看法是"被搜索广告束缚"。他的理想是"AI 应该像互联网一样，人人可得"。
 
 **Mark Zuckerberg**（CEO, Meta）：Facebook 创始人，从 2024 年开始积极拥抱 AI（之前是"AI 观望者"）。Zuckerberg 的策略转变是"如果 AI 是未来，我必须成为 AI 玩家"。他决定 Meta 每年投入 $50B+ 在 AI 上，这是科技公司历史上最大的 AI 投资。
 
@@ -121,7 +125,7 @@ mars_reviewed: false
 
 | 共识判断 | Meta 的赌注 | 结果 |
 |---------|---------|------|
-| LLM 只有闭源才能赚钱 | 开源 [[Llama\|LLaMA]]，通过用户数据赚钱 | [[Llama\|LLaMA]] 成为最流行的开源模型 |
+| LLM 只有闭源才能赚钱 | 开源 LLaMA，通过用户数据赚钱 | LLaMA 成为最流行的开源模型 |
 | AI 应该做付费订阅 | AI 应该完全免费 | 激活 2B 用户，获取数据 |
 | AI 是独立产品 | AI 应该 embed 到现有平台 | WhatsApp 中的 AI 助手自然转化高 |
 
@@ -189,7 +193,7 @@ mars_reviewed: false
 
 **增长模型**：
 ```
-[[Llama\|LLaMA 3]] 开源 → 社区采用 → 建立信任 → 企业开始考虑 → Meta AI 在 WhatsApp 推出 → 2B 用户被动获取
+LLaMA 3 开源 → 社区采用 → 建立信任 → 企业开始考虑 → Meta AI 在 WhatsApp 推出 → 2B 用户被动获取
 ```
 
 **最关键增长动作**：
@@ -278,7 +282,7 @@ Meta AI 是**AI Wrapper（寄生型）**——完全依赖 WhatsApp/Instagram �
 |-----|---------|------|------|
 | **平台集成度** | WhatsApp/IG 完全融合（2B 用户） | ChatGPT 独立，Claude Web，Gemini 在 Gmail | Meta 赢 |
 | **开源规模** | LLaMA 最流行的开源（1000万+ 下载） | Mistral、Falcon 社区规模小 | Meta 赢 |
-| **模型能力** | [[Llama\|LLaMA 3.1]] 接近 [[产品卡片-ChatGPT\|GPT-4]]（但还差一点） | [[产品卡片-ChatGPT\|GPT-4 Turbo]]，[[产品卡片-Claude\|Claude 3.5]] | 竞品赢 |
+| **模型能力** | LLaMA 3.1 接近 GPT-4（但还差一点） | GPT-4 Turbo，Claude 3.5 | 竞品赢 |
 | **多语言** | 100+ 语言支持（质量一致） | ChatGPT 英文最强，其他语言一般 | Meta 赢 |
 | **成本** | 完全免费 | ChatGPT Pro $20，Claude Pro $20 | Meta 赢 |
 | **企业应用** | 开源可自部署 | ChatGPT/Claude API 付费 | Meta 赢 |

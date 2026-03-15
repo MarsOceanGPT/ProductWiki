@@ -1,14 +1,17 @@
 ---
 type: person
-name: "William Beauchamp"
-role: "Co-founder & CEO"
-company: "[[Chai]]"
-nationality: "British"
-age: "38"
-background: "职业扑克手（赚 £100K） → 剑桥经济学 → Seamless Capital CEO（£1亿估值） → Chai CEO"
-notable_for: "用扑克手的零和博弈思维，把 AI 陪伴从『消费品』升级成『竞技场』。11个工程师做出 $70M ARR，用排行榜生态击败了更有资金的竞争对手。『系统设计 > 营销花钱』的教科书"
-key_quote: "扑克教会我一个道理：在不完全信息下做最优决策。AI 陪伴也是一样——不是『最聪明的 AI』，而是『最激励创作者的生态』。"
-updated: "2026-03-14"
+name: William Beauchamp
+role: Co-founder & CEO
+company: '[[01-产品库/产品卡片-Chai|Chai]]'
+nationality: British
+age: '38'
+background: 职业扑克手（赚 £100K） → 剑桥经济学 → Seamless Capital CEO（£1亿估值） → Chai CEO
+notable_for: >-
+  用扑克手的零和博弈思维，把 AI 陪伴从『消费品』升级成『竞技场』。11个工程师做出 $70M ARR，用排行榜生态击败了更有资金的竞争对手。『系统设计 >
+  营销花钱』的教科书
+key_quote: 扑克教会我一个道理：在不完全信息下做最优决策。AI 陪伴也是一样——不是『最聪明的 AI』，而是『最激励创作者的生态』。
+updated: '2026-03-14'
+title: William Beauchamp
 ---
 # William Beauchamp
 
@@ -64,7 +67,7 @@ Beauchamp 设计了 Chai 的核心——开发者排行榜竞技。
 
 ## 产品 DNA
 
-[[Chai]] 的本质是"排行榜游戏"。
+[[01-产品库/产品卡片-Chai|Chai]] 的本质是"排行榜游戏"。
 
 这反而是对"AI 陪伴"这个品类最深刻的理解：
 
@@ -110,12 +113,12 @@ Beauchamp 设计了 Chai 的核心——开发者排行榜竞技。
 
 ## 相关产品
 
-- **[[Chai]]** — AI 陪伴平台，CEO
+- **[[01-产品库/产品卡片-Chai|Chai]]** — AI 陪伴平台，CEO
 - **[[Chai Leaderboard]]** — 排行榜生态
 
 ## 相关人物
 
-- [[Noam Shazeer]] — [[产品卡片-Character.ai|Character.ai]] CEO，间接竞争者
+- [[03-人物库/Noam Shazeer|Noam Shazeer]] — Character.ai CEO，间接竞争者
 
 ---
 

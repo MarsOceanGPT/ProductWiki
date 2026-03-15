@@ -6,22 +6,38 @@ type: product
 上榜: 全球最知名的 AI 解题工具
 月访问量: 1.5亿+（全球，2026年3月）
 付费模式: Freemium + Photomath+ ($11.99-14.99/月)
-创始人: Damir Sabol, Predrag Terzić
+创始人: 'Damir Sabol, Predrag Terzić'
 成立年份: 2014
 公开年份: 2014-11
 tags:
-  opportunity: [打开能力门槛新市场, 移动优先新机遇]
-  design: [拍照OCR, 步骤讲解, 多解法展示]
-  mvp: [简易拼装, OCR+AI堆砌]
-  pmf: [时间压力刚需, 学习焦虑]
-  growth: [应用商店优化, 口碑传播]
-  monetization: [按功能-订阅]
-  moat: [品牌认知, 用户沉淀, Google生态]
-相关人物: [Darim Sabol, Predrag Terzić]
-竞争对手: [Gauth, Wolfram Alpha, Microsoft Math Solver, Brainly]
-关联产品: [Gauth, Google Gemini]
+  - 打开能力门槛新市场
+  - 移动优先新机遇
+  - 拍照OCR
+  - 步骤讲解
+  - 多解法展示
+  - 简易拼装
+  - OCR+AI堆砌
+  - 时间压力刚需
+  - 学习焦虑
+  - 应用商店优化
+  - 口碑传播
+  - 按功能-订阅
+  - 品牌认知
+  - 用户沉淀
+  - Google生态
+相关人物:
+  - Darim Sabol
+  - Predrag Terzić
+竞争对手:
+  - Gauth
+  - Wolfram Alpha
+  - Microsoft Math Solver
+  - Brainly
+关联产品:
+  - Gauth
+  - Google Gemini
+title: Photomath
 ---
-
 # Photomath
 
 > "用相机解决数学问题。" — 从初创独角兽到 Google 的教育棋子，Photomath 是硅谷 AI 教育的第一代缩影。

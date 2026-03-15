@@ -2,44 +2,80 @@
 type: product
 name: CapCut / 剪映
 name_cn: CapCut（国际版）/ 剪映（国内版）
-url: https://www.capcut.com
+url: 'https://www.capcut.com'
 founded: 2020
-headquarters: Beijing, China (ByteDance)
-founders: ["ByteDance Creator Products Team", "Yiming Zhang (ByteDance CEO)"]
+headquarters: 'Beijing, China (ByteDance)'
+founders:
+  - ByteDance Creator Products Team
+  - Yiming Zhang (ByteDance CEO)
 stage: Private (ByteDance subsidiary)
 status: Active
-metrics_date: "2026-03"
-arr: "$500M+ (estimated)"
-users: "500M+ downloads"
-monthly_visits: "N/A"
-mau: "736M (ranked #2 globally, only behind ChatGPT)"
-funding_total: "N/A (fully owned by ByteDance)"
+metrics_date: 2026-03
+arr: $500M+ (estimated)
+users: 500M+ downloads
+monthly_visits: N/A
+mau: '736M (ranked #2 globally, only behind ChatGPT)'
+funding_total: N/A (fully owned by ByteDance)
 funding_rounds: []
-valuation: "N/A (ByteDance subsidiary, estimated $10-15B ARR potential)"
-employees: "500+ (ByteDance video editing division)"
-category: "AI-powered Video Editing"
-subcategory: "Mobile Creator Tools, Content Production"
-target_user: "TikTok creators, short-form video makers, content producers, educators"
-pricing_model: ["Freemium", "Subscription (Premium features)"]
-opportunity_playbooks: ["Content flywheel from TikTok", "Short-form video explosion", "AI video editing at scale"]
-design_playbooks: ["Mobile-first editing", "One-click templates", "Social-native workflow"]
-mvp_playbooks: ["TikTok integration", "Auto-subtitle + music sync", "Simple trim & merge"]
-pmf_playbooks: ["TikTok creator adoption", "Viral templates", "1-minute to polished video"]
-growth_playbooks: ["TikTok organic growth", "Creator partnership", "Global expansion via mobile"]
-monetization_playbooks: ["Freemium conversion", "Premium effects + music", "Commercial license"]
-moat_playbooks: ["TikTok integration network effect", "Audio library at scale", "500M+ user UGC templates"]
-distance_to_money: "Indirect through ByteDance ecosystem, Direct through monetization"
-industry_layer: "Application/Creator Tools"
-pricing_quadrant: "Freemium + Premium subscription"
-key_people: ["ByteDance Creator Products Team (Product Leads)"]
-competitors: ["Adobe Premiere Rush", "iMovie", "InShot", "FilmoraGo", "Runway"]
-related_products: ["[[TikTok]]", "[[YouTube Shorts]]", "[[Instagram Reels]]", "[[Runway]]", "[[HeyGen]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+valuation: 'N/A (ByteDance subsidiary, estimated $10-15B ARR potential)'
+employees: 500+ (ByteDance video editing division)
+category: AI-powered Video Editing
+subcategory: 'Mobile Creator Tools, Content Production'
+target_user: 'TikTok creators, short-form video makers, content producers, educators'
+pricing_model:
+  - Freemium
+  - Subscription (Premium features)
+opportunity_playbooks:
+  - Content flywheel from TikTok
+  - Short-form video explosion
+  - AI video editing at scale
+design_playbooks:
+  - Mobile-first editing
+  - One-click templates
+  - Social-native workflow
+mvp_playbooks:
+  - TikTok integration
+  - Auto-subtitle + music sync
+  - Simple trim & merge
+pmf_playbooks:
+  - TikTok creator adoption
+  - Viral templates
+  - 1-minute to polished video
+growth_playbooks:
+  - TikTok organic growth
+  - Creator partnership
+  - Global expansion via mobile
+monetization_playbooks:
+  - Freemium conversion
+  - Premium effects + music
+  - Commercial license
+moat_playbooks:
+  - TikTok integration network effect
+  - Audio library at scale
+  - 500M+ user UGC templates
+distance_to_money: 'Indirect through ByteDance ecosystem, Direct through monetization'
+industry_layer: Application/Creator Tools
+pricing_quadrant: Freemium + Premium subscription
+key_people:
+  - ByteDance Creator Products Team (Product Leads)
+competitors:
+  - Adobe Premiere Rush
+  - iMovie
+  - InShot
+  - FilmoraGo
+  - Runway
+related_products:
+  - '[[TikTok]]'
+  - '[[YouTube Shorts]]'
+  - '[[Instagram Reels]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
+  - '[[01-产品库/产品卡片-HeyGen|HeyGen]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: CapCut / 剪映
 ---
-
-# [[产品卡片-CapCut|CapCut]] / [[产品卡片-CapCut|剪映]] 产品卡片
+# CapCut / 剪映 产品卡片
 
 ## 基本面表格
 
@@ -49,7 +85,7 @@ mars_reviewed: false
 | **成立年份** | 2020年 |
 | **版本策略** | 国内版(剪映) + 国际版(CapCut)双版本 |
 | **融资状态** | 完全自有（ByteDance内部孵化） |
-| **月活用户** | **736M (ranked #2 globally, only behind [[产品卡片-ChatGPT|ChatGPT]])** |
+| **月活用户** | **736M (ranked #2 globally, only behind ChatGPT)** |
 | **下载量** | **500M+ downloads** |
 | **用户增速** | 2021-2025 年复合增长率>50% |
 | **推测年度ARR** | $500M+（基于内部商业化数据） |
@@ -353,7 +389,7 @@ CapCut 的技术赌注是"应用层优化"而非"模型层创新"：
 |------|--------|--------|-----|
 | **TikTok (内置编辑)** | 已部分完成（TikTok Studio）| 低 | 90% 会做 |
 | **Instagram / YouTube** | 3-6 个月（内置剪辑）| 低 | 80% |
-| **[[产品卡片-Runway|Runway]] / Pika** | 6-12 个月（Mobile 优化）| 高（不是他们的 focus） | 30% |
+| **Runway / Pika** | 6-12 个月（Mobile 优化）| 高（不是他们的 focus） | 30% |
 | **Adobe Premiere Rush** | 已完成（但质量不如 CapCut）| 高（CapCut 体验更好） | 50% |
 
 **可替代性与迁移成本**：
@@ -382,7 +418,7 @@ CapCut 的技术赌注是"应用层优化"而非"模型层创新"：
 
 **CapCut的生态位**：
 - **不是**：专业视频编辑（那还是Premiere/Final Cut）
-- **不是**：AI video generation（那是Runway/[[产品卡片-Synthesia|Synthesia]]）
+- **不是**：AI video generation（那是Runway/Synthesia）
 - **是**：**"TikTok-native的AI创意工具"**
 
 **与竞品的定位对比**：
@@ -422,7 +458,7 @@ CapCut的思路：
 例子：
 - Figma plugins for design collaboration
 - Zapier for workflow automation
-- [[产品卡片-Canva|Canva]] for design sharing
+- Canva for design sharing
 
 **创新2：AI预设 vs 手动调整**
 
@@ -587,7 +623,7 @@ CapCut的MAU达到736M不是因为"好的marketing team"。
 
 **当前挑战者**：
 - **Runway** → AI video generation quality更高
-- **[[产品卡片-HeyGen|HeyGen]]** → AI avatar talking video特化
+- **HeyGen** → AI avatar talking video特化
 - **Synthesia** → AI presenter generation
 
 **CapCut vs 竞品的差异**：

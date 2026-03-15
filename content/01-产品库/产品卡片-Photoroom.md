@@ -2,43 +2,83 @@
 type: product
 name: Photoroom
 name_cn: Photoroom
-url: https://www.photoroom.com
+url: 'https://www.photoroom.com'
 founded: 2019
-headquarters: Paris, France
-founders: ["Matthieu Rouif (ex-Apple)", "Yassir Elmazouni"]
+headquarters: 'Paris, France'
+founders:
+  - Matthieu Rouif (ex-Apple)
+  - Yassir Elmazouni
 stage: Series A+ Funding
 status: Active
-metrics_date: "2026-03"
-arr: "$40M+ (estimated)"
-users: "20M+ registered"
-monthly_visits: "5M+"
-mau: "2M+"
-funding_total: "$30M+ (venture)"
-funding_rounds: ["Seed $2M", "Series A $15M (2021)", "Series A+ $13M (2023)"]
-valuation: "$85M (2023 estimate)"
-employees: "120+"
-category: "AI-powered E-commerce Photography"
-subcategory: "Image Editing, Product Photography, Creator Tools"
-target_user: "E-commerce businesses, product photographers, influencers, SMB sellers"
-pricing_model: ["Freemium", "Subscription", "Enterprise"]
-opportunity_playbooks: ["E-commerce product photography automation", "Creator-to-business pivot", "API monetization"]
-design_playbooks: ["Background removal focus", "Product-centric UI", "One-tap workflow"]
-mvp_playbooks: ["Background removal as sole feature"]
-pmf_playbooks: ["E-commerce SMB adoption", "Product photo efficiency", "Cost vs professional photographer"]
-growth_playbooks: ["B2B2C via e-commerce platforms", "Direct SMB sales", "API ecosystem"]
-monetization_playbooks: ["Freemium conversion", "Pro subscription", "Business tier", "API usage-based"]
-moat_playbooks: ["Background removal AI quality", "E-commerce workflow optimization", "B2B2C integrations"]
-distance_to_money: "Direct (B2C + B2B)"
-industry_layer: "Application/Business Tools"
-pricing_quadrant: "Freemium + Premium subscription + API"
-key_people: ["Matthieu Rouif (CEO, ex-Apple)", "Yassir Elmazouni (Co-founder)"]
-competitors: ["Remove.bg", "Adobe Lightroom", "Unsplash", "Canva", "Professional photographers"]
-related_products: ["[[Remove.bg]]", "[[Canva]]", "[[Adobe Lightroom]]", "[[Shopify]]", "[[Etsy]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $40M+ (estimated)
+users: 20M+ registered
+monthly_visits: 5M+
+mau: 2M+
+funding_total: $30M+ (venture)
+funding_rounds:
+  - Seed $2M
+  - Series A $15M (2021)
+  - Series A+ $13M (2023)
+valuation: $85M (2023 estimate)
+employees: 120+
+category: AI-powered E-commerce Photography
+subcategory: 'Image Editing, Product Photography, Creator Tools'
+target_user: 'E-commerce businesses, product photographers, influencers, SMB sellers'
+pricing_model:
+  - Freemium
+  - Subscription
+  - Enterprise
+opportunity_playbooks:
+  - E-commerce product photography automation
+  - Creator-to-business pivot
+  - API monetization
+design_playbooks:
+  - Background removal focus
+  - Product-centric UI
+  - One-tap workflow
+mvp_playbooks:
+  - Background removal as sole feature
+pmf_playbooks:
+  - E-commerce SMB adoption
+  - Product photo efficiency
+  - Cost vs professional photographer
+growth_playbooks:
+  - B2B2C via e-commerce platforms
+  - Direct SMB sales
+  - API ecosystem
+monetization_playbooks:
+  - Freemium conversion
+  - Pro subscription
+  - Business tier
+  - API usage-based
+moat_playbooks:
+  - Background removal AI quality
+  - E-commerce workflow optimization
+  - B2B2C integrations
+distance_to_money: Direct (B2C + B2B)
+industry_layer: Application/Business Tools
+pricing_quadrant: Freemium + Premium subscription + API
+key_people:
+  - 'Matthieu Rouif (CEO, ex-Apple)'
+  - Yassir Elmazouni (Co-founder)
+competitors:
+  - Remove.bg
+  - Adobe Lightroom
+  - Unsplash
+  - Canva
+  - Professional photographers
+related_products:
+  - '[[01-产品库/产品卡片-Remove.bg|Remove.bg]]'
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[01-产品库/产品卡片-Adobe Lightroom|Adobe Lightroom]]'
+  - '[[Shopify]]'
+  - '[[Etsy]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Photoroom
 ---
-
 # Photoroom 产品卡片
 
 ## 基本面表格

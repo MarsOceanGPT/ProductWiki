@@ -10,18 +10,35 @@ type: product
 成立年份: 2021
 公开年份: 2022
 tags:
-  opportunity: [打开能力门槛新市场, 移动优先新机遇]
-  design: [拍照识别, 一键解题, 步骤讲解]
-  mvp: [OCR+AI拼装, 核心功能单一]
-  pmf: [时间压力刚需, 临时应急]
-  growth: [社交分享-截图传播, 学校渗透有限]
-  monetization: [按功能-订阅, 海外市场优先]
-  moat: [OCR技术, 用户数据, 字节体系]
-相关人物: [待补充]
-竞争对手: [Photomath, Wolfram Alpha, Microsoft Math Solver, Brainly]
-关联产品: [Photomath, Learna AI, Brainly]
+  - 打开能力门槛新市场
+  - 移动优先新机遇
+  - 拍照识别
+  - 一键解题
+  - 步骤讲解
+  - OCR+AI拼装
+  - 核心功能单一
+  - 时间压力刚需
+  - 临时应急
+  - 社交分享-截图传播
+  - 学校渗透有限
+  - 按功能-订阅
+  - 海外市场优先
+  - OCR技术
+  - 用户数据
+  - 字节体系
+相关人物:
+  - 待补充
+竞争对手:
+  - Photomath
+  - Wolfram Alpha
+  - Microsoft Math Solver
+  - Brainly
+关联产品:
+  - Photomath
+  - Learna AI
+  - Brainly
+title: Gauth
 ---
-
 # Gauth
 
 > "拍一张照，AI 帮你解。" — 零学习成本的数学解题工具，字节教育野心的缩影。
@@ -246,7 +263,7 @@ Photomath 赚的是"用户溢价"——美国大学生愿意为数学解题付�
 
 **Gauth 的技术栈战略**：
 - **OCR能力自研**：数学符号识别（∑、∫、分式等）需要特殊优化，Gauth不能用通用OCR
-- **AI模型选择**：可能混合使用GPT/[[产品卡片-Claude|Claude]] + 字节自研模型，而非单一依赖
+- **AI模型选择**：可能混合使用GPT/Claude + 字节自研模型，而非单一依赖
 - **理由**：东南亚、南美市场的网络不稳定，需要本地缓存和轻量化推理
 
 **AI Native vs AI Wrapper**：

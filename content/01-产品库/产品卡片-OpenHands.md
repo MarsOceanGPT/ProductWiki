@@ -2,43 +2,71 @@
 type: product
 name: OpenHands
 name_cn: OpenHands AI 编程代理
-url: https://github.com/OpenHands/OpenHands
+url: 'https://github.com/OpenHands/OpenHands'
 founded: 2024
-headquarters: "USA"
+headquarters: USA
 founders: []
 stage: Growth
 status: Active
-metrics_date: "2026-03"
-arr: "$0 (Open Source + Hosted Beta)"
-users: "10K+ developers"
-monthly_visits: ""
-mau: ""
-funding_total: "$24M+"
-funding_rounds: ["Seed ($5M Sept 2024)", "Series A ($18.8M 2025)"]
-valuation: "$100M+ (estimated)"
-employees: "20-30"
-category: "AI Development Tools / Coding Agent"
-subcategory: "Open-Source AI Software Engineer"
-target_user: "Developers, CTOs, Engineering Teams"
-pricing_model: ["Open-Source (MIT)", "Hosted SaaS (Beta/Paid)"]
-opportunity_playbooks: ["Open-Source + Commercial", "Developer Community", "AI Agent Infrastructure"]
-design_playbooks: ["Transparent Agent Execution", "Sandboxed Environment"]
-mvp_playbooks: ["GitHub Autonomy MVP", "Bug Reproduction & Fixing"]
-pmf_playbooks: ["Developer Adoption", "Enterprise AI Agent Integration"]
-growth_playbooks: ["GitHub Stars / OSS Community", "Enterprise Sales"]
-monetization_playbooks: ["Open-Source + Hosted SaaS", "API Access / Cloud Credits"]
-moat_playbooks: ["Open-Source Community", "Developer Trust", "Enterprise Integration"]
-distance_to_money: "Medium (Open-Source → Commercial Hosting)"
-industry_layer: "Developer Tools"
-pricing_quadrant: "Open-Source Base + Premium Hosting"
+metrics_date: 2026-03
+arr: $0 (Open Source + Hosted Beta)
+users: 10K+ developers
+monthly_visits: ''
+mau: ''
+funding_total: $24M+
+funding_rounds:
+  - Seed ($5M Sept 2024)
+  - Series A ($18.8M 2025)
+valuation: $100M+ (estimated)
+employees: 20-30
+category: AI Development Tools / Coding Agent
+subcategory: Open-Source AI Software Engineer
+target_user: 'Developers, CTOs, Engineering Teams'
+pricing_model:
+  - Open-Source (MIT)
+  - Hosted SaaS (Beta/Paid)
+opportunity_playbooks:
+  - Open-Source + Commercial
+  - Developer Community
+  - AI Agent Infrastructure
+design_playbooks:
+  - Transparent Agent Execution
+  - Sandboxed Environment
+mvp_playbooks:
+  - GitHub Autonomy MVP
+  - Bug Reproduction & Fixing
+pmf_playbooks:
+  - Developer Adoption
+  - Enterprise AI Agent Integration
+growth_playbooks:
+  - GitHub Stars / OSS Community
+  - Enterprise Sales
+monetization_playbooks:
+  - Open-Source + Hosted SaaS
+  - API Access / Cloud Credits
+moat_playbooks:
+  - Open-Source Community
+  - Developer Trust
+  - Enterprise Integration
+distance_to_money: Medium (Open-Source → Commercial Hosting)
+industry_layer: Developer Tools
+pricing_quadrant: Open-Source Base + Premium Hosting
 key_people: []
-competitors: ["Devin (Cognition)", "Claude Code", "GitHub Copilot", "Cursor"]
-related_products: ["[[Devin]]", "[[Cursor]]", "[[GitHub Copilot]]", "[[Claude Code]]"]
-last_updated: "2026-03-14"
-confidence: "Medium-High"
+competitors:
+  - Devin (Cognition)
+  - Claude Code
+  - GitHub Copilot
+  - Cursor
+related_products:
+  - '[[01-产品库/Devin|Devin]]'
+  - '[[01-产品库/产品卡片-Cursor|Cursor]]'
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
+  - '[[01-产品库/Claude Code|Claude Code]]'
+last_updated: '2026-03-14'
+confidence: Medium-High
 mars_reviewed: false
+title: OpenHands
 ---
-
 ## 基本面表格
 
 | 指标 | 数据 | 备注 |
@@ -799,9 +827,9 @@ OpenHands 抓住了这个转变。
 ---
 
 **相关产品和框架：**
-- [[Devin]]（竞争对手，闭源方案）
-- [[GitHub Copilot]]（另一类 AI 编程工具）
-- [[Cursor]]（编辑器优化的 AI）
+- [[01-产品库/Devin|Devin]]（竞争对手，闭源方案）
+- [[01-产品库/产品卡片-Copilot|GitHub Copilot]]（另一类 AI 编程工具）
+- [[01-产品库/产品卡片-Cursor|Cursor]]（编辑器优化的 AI）
 - [[开源 + SaaS 混合模式]]（商业模式框架）
 - [[AI Agent 的透明性设计]]（产品设计框架）
 - [[社区驱动的增长]]（增长战略框架）

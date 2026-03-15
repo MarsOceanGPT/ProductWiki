@@ -2,58 +2,89 @@
 type: product
 name: Suno
 name_cn: Suno AI
-url: https://www.suno.com
+url: 'https://www.suno.com'
 founded: 2022
-headquarters: Cambridge, Massachusetts, USA
-founders: ["Georg Kucsko", "Keenan Freyberg", "Martin Camacho", "Michael Shulman"]
+headquarters: 'Cambridge, Massachusetts, USA'
+founders:
+  - Georg Kucsko
+  - Keenan Freyberg
+  - Martin Camacho
+  - Michael Shulman
 stage: Series C (Post-Settlement)
 status: Active
-metrics_date: "2026-03"
-arr: "$200M+ (Nov 2025, $140M ARR as of Sept 2025)"
-users: "Millions of creators"
-daily_tracks_generated: "7M tracks/day (2025)"
-daily_streams: "20M minutes of music/day (2025)"
-funding_total: "$375M"
-funding_rounds: [
-  {
-    "round": "Series B",
-    "amount": "$125M",
-    "date": "May 2024",
-    "lead": "Lightspeed, Nat Friedman, Daniel Gross",
-    "valuation": "~$500M"
-  },
-  {
-    "round": "Series C",
-    "amount": "$250M",
-    "date": "Nov 2025",
-    "lead": "Menlo Ventures, NVentures",
-    "valuation": "$2.45B"
-  }
-]
-valuation: "$2.45B (Nov 2025)"
-employees: "Not publicly disclosed"
-category: "AI Music Generation"
-subcategory: "Generative AI Music, Creator Tools"
-target_user: "Music creators, hobbyists, indie artists, content creators"
-pricing_model: ["Freemium", "Subscription", "Commercial licensing"]
-opportunity_playbooks: ["Creator monetization through licensing", "Fair use defense in AI training", "Music licensing partnerships"]
-design_playbooks: ["Text-to-music prompt engineering", "Real-time collaboration"]
-mvp_playbooks: ["Discord-first launch strategy", "Free tier with commercial paywall"]
-pmf_playbooks: ["Creator tool for non-musicians", "Democratizing music production"]
-growth_playbooks: ["Viral prompt sharing", "TikTok/YouTube integration", "Copyright settlement partnerships"]
-monetization_playbooks: ["Freemium-to-paid conversion", "Commercial use licensing", "Licensing settlement revenue"]
-moat_playbooks: ["Large-scale training data (licensing deals)", "Artist settlement agreements", "Community-driven prompt library"]
-distance_to_money: "Direct (B2C subscription + licensing)"
-industry_layer: "Application/Creator Tools"
-pricing_quadrant: "Freemium with commercial paywall"
-key_people: ["Georg Kucsko (Co-founder)", "Keenan Freyberg (Co-founder)", "Martin Camacho (Co-founder)", "Michael Shulman (Co-founder)"]
-competitors: ["Udio", "Soundraw", "Musicfy", "OpenAI Jukebox"]
-related_products: ["[[Udio]]", "[[MusicLM]]", "[[Soundraw]]"]
-last_updated: "2026-03-14"
-confidence: "Medium"
+metrics_date: 2026-03
+arr: '$200M+ (Nov 2025, $140M ARR as of Sept 2025)'
+users: Millions of creators
+daily_tracks_generated: 7M tracks/day (2025)
+daily_streams: 20M minutes of music/day (2025)
+funding_total: $375M
+funding_rounds:
+  - round: Series B
+    amount: $125M
+    date: May 2024
+    lead: 'Lightspeed, Nat Friedman, Daniel Gross'
+    valuation: ~$500M
+  - round: Series C
+    amount: $250M
+    date: Nov 2025
+    lead: 'Menlo Ventures, NVentures'
+    valuation: $2.45B
+valuation: $2.45B (Nov 2025)
+employees: Not publicly disclosed
+category: AI Music Generation
+subcategory: 'Generative AI Music, Creator Tools'
+target_user: 'Music creators, hobbyists, indie artists, content creators'
+pricing_model:
+  - Freemium
+  - Subscription
+  - Commercial licensing
+opportunity_playbooks:
+  - Creator monetization through licensing
+  - Fair use defense in AI training
+  - Music licensing partnerships
+design_playbooks:
+  - Text-to-music prompt engineering
+  - Real-time collaboration
+mvp_playbooks:
+  - Discord-first launch strategy
+  - Free tier with commercial paywall
+pmf_playbooks:
+  - Creator tool for non-musicians
+  - Democratizing music production
+growth_playbooks:
+  - Viral prompt sharing
+  - TikTok/YouTube integration
+  - Copyright settlement partnerships
+monetization_playbooks:
+  - Freemium-to-paid conversion
+  - Commercial use licensing
+  - Licensing settlement revenue
+moat_playbooks:
+  - Large-scale training data (licensing deals)
+  - Artist settlement agreements
+  - Community-driven prompt library
+distance_to_money: Direct (B2C subscription + licensing)
+industry_layer: Application/Creator Tools
+pricing_quadrant: Freemium with commercial paywall
+key_people:
+  - Georg Kucsko (Co-founder)
+  - Keenan Freyberg (Co-founder)
+  - Martin Camacho (Co-founder)
+  - Michael Shulman (Co-founder)
+competitors:
+  - Udio
+  - Soundraw
+  - Musicfy
+  - OpenAI Jukebox
+related_products:
+  - '[[Udio]]'
+  - '[[MusicLM]]'
+  - '[[Soundraw]]'
+last_updated: '2026-03-14'
+confidence: Medium
 mars_reviewed: false
+title: Suno
 ---
-
 # Suno AI 产品卡片
 
 ## 基本面表格

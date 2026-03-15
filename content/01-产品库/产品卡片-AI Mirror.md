@@ -11,21 +11,34 @@ type: product
 融资: 待补充
 用户规模: iOS + Android 全平台用户
 tags:
-  opportunity: [视觉创意消费, 社交分享驱动]
-  design: [AI 滤镜, 一键转换]
-  mvp: [简易拼装, 核心功能聚焦]
-  pmf: [视觉娱乐, 社交价值]
-  growth: [社交分享, 病毒传播, TikTok 趋势]
-  monetization: [订阅制, 免费试用]
-  moat: [趋势快速迭代, 社区驱动]
-相关人物: [待补充]
-竞争对手: [Snapchat, Instagram Filters, BeautyPlus, Remini]
+  - 视觉创意消费
+  - 社交分享驱动
+  - AI 滤镜
+  - 一键转换
+  - 简易拼装
+  - 核心功能聚焦
+  - 视觉娱乐
+  - 社交价值
+  - 社交分享
+  - 病毒传播
+  - TikTok 趋势
+  - 订阅制
+  - 免费试用
+  - 趋势快速迭代
+  - 社区驱动
+相关人物:
+  - 待补充
+竞争对手:
+  - Snapchat
+  - Instagram Filters
+  - BeautyPlus
+  - Remini
 关联产品: []
+title: AI Mirror
 ---
-
 # AI Mirror
 
-> "手机里的 AI [[产品卡片-BeautyPlus|美图秀秀]]" —— 当每一张照片都能变成"最好看的自己"。
+> "手机里的 AI 美图秀秀" —— 当每一张照片都能变成"最好看的自己"。
 
 ## 基本面
 
@@ -61,7 +74,7 @@ tags:
 
 2023-2024 年，几个趋势同时爆发：
 
-1. **AI 图像生成普及** —— [[产品卡片-Midjourney|Midjourney]]、DALL-E 让图像生成不再是黑科技
+1. **AI 图像生成普及** —— Midjourney、DALL-E 让图像生成不再是黑科技
 2. **移动优先的 Z 代审美** —— TikTok、Instagram 让"美化自己"成为日常行为
 3. **社交分享驱动** —— "变成动漫人物" "变成油画" 等转换很容易成为 meme
 

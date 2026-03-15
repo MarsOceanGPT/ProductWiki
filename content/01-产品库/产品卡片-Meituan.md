@@ -2,33 +2,29 @@
 type: product
 name: Meituan (美团)
 name_cn: 中国美团平台
-url: https://meituan.com
-
-# 基本信息
+url: 'https://meituan.com'
 founded: 2010
-headquarters: Beijing, China
-founders: [Wang Xing (王兴)]
+headquarters: 'Beijing, China'
+founders:
+  - Wang Xing (王兴)
 stage: Scale
 status: Active
-
-# 关键指标（截至 2026-03-01）
-metrics_date: 2026-03-01
+metrics_date: 2026-03-01T00:00:00.000Z
 arr: $10B+
 users: 680M月活用户
-monthly_visits: ""
+monthly_visits: ''
 mau: 680M
 funding_total: $3B+（多轮融资）
 funding_rounds: []
 valuation: $60B+（2024年）
 employees: 30000+
-
-# 分类
 category: 生活服务平台 / AI应用
 subcategory: 本地生活服务 + AI搜索和推荐
 target_user: 中国城市居民，外卖、餐饮、到店、旅游用户
-pricing_model: [commission, subscription, advertising]
-
-# 打法标签
+pricing_model:
+  - commission
+  - subscription
+  - advertising
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +32,28 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 最近
 industry_layer: 应用层
 pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [Wang Xing (王兴), 毕胜, 阿里、滴滴等竞品创始人]
-competitors: [Alibaba Ele.me, Didi, Douyin Logistics, Baidu MAP]
-related_products: [Meituan Takeout, Meituan Travel, Meituan Bike, Meituan AI Search]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Wang Xing (王兴)
+  - 毕胜
+  - 阿里、滴滴等竞品创始人
+competitors:
+  - Alibaba Ele.me
+  - Didi
+  - Douyin Logistics
+  - Baidu MAP
+related_products:
+  - Meituan Takeout
+  - Meituan Travel
+  - Meituan Bike
+  - Meituan AI Search
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
+title: Meituan (美团)
 ---
-
 # Meituan（中国美团平台）
 
 > 一句话：中国最大的生活服务平台，用 AI 搜索和推荐重新定义"如何发现餐厅和服务"，距钱最近的 AI 应用——每次用户点击推荐，平台都在赚钱。
@@ -77,7 +78,7 @@ mars_reviewed: false
 
 美团的 DNA 是**"用正确的价格，在正确的时间，把正确的服务推给正确的用户"**的极致执行：
 
-1. **配置论基因**：[[黄峥]]的创业对标理论——不与滴滴竞争出行，不与阿里竞争电商，而是聚焦"本地生活服务"的未占领蓝海
+1. **配置论基因**：王兴对"竞争维度的选择"有执念，不与滴滴竞争出行，不与阿里竞争电商，而是聚焦"本地生活服务"的未占领蓝海
 2. **数据饥渴基因**：美团对数据的执念程度在中国创业者中首屈一指，认为"每一个用户行为都是信号"
 3. **长期主义基因**：王兴著名的"不追求 GDP 而追求 GNP"理论，反映了美团对"平台生态健康"的关注
 

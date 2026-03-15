@@ -1,14 +1,21 @@
 ---
 type: person
-name: "Ashish Vaswani"
-role: "Co-founder & CEO"
-company: "[[Essential AI]]"
-nationality: "Indian"
-age: "44"
-background: "B.E. from BIT Mesra (2002) → Ph.D. from USC (David Chiang, 2010) → Google Brain (2016-2021) Transformer 共同设计 → Adept AI Co-founder (2021-2022) → Essential AI Co-founder & CEO (2023-现在)"
-notable_for: "『Attention Is All You Need』论文共同作者与设计者（173,000+ 引用），Transformer 架构的核心发明人。三次创业验证「构建更强 AI 系统」的执念：从研究 → Adept（失败）→ Essential AI（重启）。2024年获 C&C Prize，与论文其他作者一起获得 NEC 基金会的荣誉"
-key_quote: "Transformer 最重要的不是论文，而是它启发了一个新的思考方式：复杂问题可以用最简洁的机制解决。我现在做的是：能否把这个思维扩展到企业 AI？"
-updated: "2026-03-14"
+name: Ashish Vaswani
+role: Co-founder & CEO
+company: '[[Essential AI]]'
+nationality: Indian
+age: '44'
+background: >-
+  B.E. from BIT Mesra (2002) → Ph.D. from USC (David Chiang, 2010) → Google
+  Brain (2016-2021) Transformer 共同设计 → Adept AI Co-founder (2021-2022) →
+  Essential AI Co-founder & CEO (2023-现在)
+notable_for: >-
+  『Attention Is All You Need』论文共同作者与设计者（173,000+ 引用），Transformer
+  架构的核心发明人。三次创业验证「构建更强 AI 系统」的执念：从研究 → Adept（失败）→ Essential AI（重启）。2024年获 C&C
+  Prize，与论文其他作者一起获得 NEC 基金会的荣誉
+key_quote: Transformer 最重要的不是论文，而是它启发了一个新的思考方式：复杂问题可以用最简洁的机制解决。我现在做的是：能否把这个思维扩展到企业 AI？
+updated: '2026-03-14'
+title: Ashish Vaswani
 ---
 # Ashish Vaswani
 
@@ -28,7 +35,7 @@ Vaswani 在这个环境中，学到的不是"如何应用深度学习"（那时�
 
 ### 阶段二：Google Brain 的架构师（2016-2021）
 
-2016 年加入 Google Brain（当时 [[Noam Shazeer]] 和 Illia Polosukhin 也在），正值深度学习第三波浪潮刚开始爆发。
+2016 年加入 Google Brain（当时 Noam Shazeer 和 Illia Polosukhin 也在），正值深度学习第三波浪潮刚开始爆发。
 
 Google Brain 当时的技术状况是：
 - **seq2seq 已存在**：Ilya Sutskever 的 LSTM-based encoder-decoder 在机器翻译、语音识别等任务上效果不错
@@ -43,7 +50,7 @@ Google Brain 当时的技术状况是：
 
 这篇论文现在是科技史上被引用最多的论文之一（173,000+ 次），但当时的反应其实没那么热烈。投稿 NeurIPS 2017 时，有评审觉得"这不过是 attention 机制的组合，没什么创新"。
 
-但 Vaswani 和共同作者（[[Noam Shazeer]]、Parmar Niki 等）坚持了这个方向。论文的关键贡献是：
+但 Vaswani 和共同作者（Noam Shazeer、Parmar Niki 等）坚持了这个方向。论文的关键贡献是：
 
 #### 论文的五个核心创新
 
@@ -171,7 +178,7 @@ Adept 的定位很野心勃勃：**AI Agent 能否自动化任何软件流程？
 2. **标准化的力量**：如果所有人都用 Transformer，那么 Google 做任何基于 Transformer 的创新都会更快
 3. **长期竞争力**：Google 的竞争力不在"有一个秘密算法"，而在"能最好地利用这个算法"
 
-这个决策形塑了整个 AI 行业——没有 Transformer 的开源，就不会有 BERT、GPT、[[产品卡片-Claude|Claude]] 这样的繁荣生态。
+这个决策形塑了整个 AI 行业——没有 Transformer 的开源，就不会有 BERT、GPT、Claude 这样的繁荣生态。
 
 ### 决策2：离开 Adept，而不是坚持
 
@@ -287,14 +294,14 @@ Vaswani 的回答很有趣："我更关心现在我能做什么，而不是过�
 - **[[Rnj-1]]** — Essential AI 的开源 8B 代码模型（2025年12月）
 - **[[BERT]]** — 基于 Transformer 的双向编码
 - **[[GPT 系列]]** — 基于 Transformer 的单向生成
-- **[[Claude]]** — 基于 Transformer 的 Constitutional AI
+- **[[01-产品库/产品卡片-Claude|Claude]]** — 基于 Transformer 的 Constitutional AI
 
 ## 相关人物
 
-- [[Noam Shazeer]] — Transformer 共同作者，Google DeepMind [[产品卡片-Gemini|Gemini]] Co-Lead
+- [[03-人物库/Noam Shazeer|Noam Shazeer]] — Transformer 共同作者，Google DeepMind Gemini Co-Lead
 - [[Illia Polosukhin]] — Transformer 共同作者和核心实现者
 - [[Niki Parmar]] — Essential AI CTO，Adept AI 共同创始人
-- [[Jeff Dean]] — Google Brain 创始人，见证者
+- [[03-人物库/Jeff Dean|Jeff Dean]] — Google Brain 创始人，见证者
 - [[David Chiang]] — USC PhD 导师，理论 NLP 根源
 - [[Ilya Sutskever]] — seq2seq 发明者，OpenAI Chief Scientist
 

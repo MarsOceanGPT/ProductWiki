@@ -1,18 +1,21 @@
 ---
 type: person
-name: "Michael Truell"
-role: "Co-founder & CEO"
-company: "[[Cursor]]"
-nationality: "American"
-age: "25"
-background: "MIT CS & Math 双学位 → Anysphere 创始人 → Cursor CEO"
-notable_for: "从 CAD 工具起家，转身成为最快的 AI IDE。25岁掌舵 $293B 估值公司。$300M ARR 用了 2 年。融资速度击穿了 GitHub 和 Figma 的年代——Series A $60M → Series C $2.3B，历史上最快的 AI 创业融资"
-key_quote: "编程的本质在改变。从『我写代码』升级到『我和 AI 写代码』。我们要做的不是工具，而是协作范式。"
-updated: "2026-03-14"
+name: Michael Truell
+role: Co-founder & CEO
+company: '[[01-产品库/产品卡片-Cursor|Cursor]]'
+nationality: American
+age: '25'
+background: MIT CS & Math 双学位 → Anysphere 创始人 → Cursor CEO
+notable_for: >-
+  从 CAD 工具起家，转身成为最快的 AI IDE。25岁掌舵 $293B 估值公司。$300M ARR 用了 2 年。融资速度击穿了 GitHub 和
+  Figma 的年代——Series A $60M → Series C $2.3B，历史上最快的 AI 创业融资
+key_quote: 编程的本质在改变。从『我写代码』升级到『我和 AI 写代码』。我们要做的不是工具，而是协作范式。
+updated: '2026-03-14'
+title: Michael Truell
 ---
 # Michael Truell
 
-> 这个人最值得记住的是：25 岁的麻省理工学生，用两年时间把编程 IDE 这个"看似饱和"的赛道，转成了历史上增长最快的 AI 应用。$300M ARR 的速度击穿了 [[产品卡片-ChatGPT|ChatGPT]]。
+> 这个人最值得记住的是：25 岁的麻省理工学生，用两年时间把编程 IDE 这个"看似饱和"的赛道，转成了历史上增长最快的 AI 应用。$300M ARR 的速度击穿了 ChatGPT。
 
 ## 身份与背景
 
@@ -20,13 +23,13 @@ MIT 的"少年天才"。CS 和数学双学位，在学期间就和三位同学�
 
 ### 关键转折：从 CAD 到 IDE
 
-最早的 [[产品卡片-Cursor|Cursor]] 只是一个 CAD 工具（设计软件），功能平凡。
+最早的 Cursor 只是一个 CAD 工具（设计软件），功能平凡。
 
 但在 2023 年，Truell 看穿了一个关键点：
 
 > 如果我们把 AI 补全、AI 重构、AI 测试集成到代码编辑器里，开发者的工作流就完全变了
 
-他的反直觉决定是：**不去做聊天机器人（[[产品卡片-ChatGPT|ChatGPT]] 已经饱和），也不去做通用 IDE（VS Code 已经赢了），而是做『最适合 AI 协作』的 IDE**。
+他的反直觉决定是：**不去做聊天机器人（ChatGPT 已经饱和），也不去做通用 IDE（VS Code 已经赢了），而是做『最适合 AI 协作』的 IDE**。
 
 这意味着放弃通用性，换来专注性。
 
@@ -52,7 +55,7 @@ MIT 的"少年天才"。CS 和数学双学位，在学期间就和三位同学�
 
 Truell 的警告：他看到开发者用 AI 生成代码但不理解——这很危险。
 
-[[产品卡片-Cursor|Cursor]] 的设计强制开发者"保持掌控"，使用 AI 是为了加速，不是替代思考。
+Cursor 的设计强制开发者"保持掌控"，使用 AI 是为了加速，不是替代思考。
 
 ### 决策3：融资速度的完美编排
 
@@ -62,13 +65,13 @@ $60M Series A → $2.3B Series C，中间不过度融资。这个节奏给了团
 
 ## 产品 DNA
 
-[[Cursor]] 的核心是"开发者协作编辑器"。
+[[01-产品库/产品卡片-Cursor|Cursor]] 的核心是"开发者协作编辑器"。
 
-不是"聊天界面"（那是 [[产品卡片-ChatGPT|ChatGPT]] 的模式），而是"代码本身"。Tab、命令、快捷键都经过精心设计，最大化 AI 协作的流畅度。
+不是"聊天界面"（那是 ChatGPT 的模式），而是"代码本身"。Tab、命令、快捷键都经过精心设计，最大化 AI 协作的流畅度。
 
 Truell 的哲学：**AI 不应该让开发者感觉被替代，应该让他们感觉被增强**。
 
-这是对 [[产品卡片-ChatGPT|ChatGPT]] 免费模式的商业否定——开发者愿意为"感觉好"的工具付费。
+这是对 ChatGPT 免费模式的商业否定——开发者愿意为"感觉好"的工具付费。
 
 指令遵循、多文件编辑、上下文理解，这些看似简单的功能，反而成了竞争对手无法快速复制的护城河。
 
@@ -78,13 +81,13 @@ Truell 的哲学：**AI 不应该让开发者感觉被替代，应该让他们�
 
 ### 核心洞见1：协作优于替代
 
-[[产品卡片-ChatGPT|ChatGPT]] 的定位是"替代人类思考"。[[产品卡片-Cursor|Cursor]] 的定位是"增强人类能力"。
+ChatGPT 的定位是"替代人类思考"。Cursor 的定位是"增强人类能力"。
 
 这个位置差的本质是：开发者害怕被替代，所以会排斥。但如果 AI 让他们感觉更强大，他们会付费。
 
 ### 核心洞见2：上下文是护城河
 
-大多数 AI 编程工具想优化"补全速度"。[[产品卡片-Cursor|Cursor]] 优化的是"理解整个项目的上下文"。
+大多数 AI 编程工具想优化"补全速度"。Cursor 优化的是"理解整个项目的上下文"。
 
 这不仅更有用，还很难被复制（需要深度的编辑器集成）。
 
@@ -105,18 +108,18 @@ Truell 的哲学：**AI 不应该让开发者感觉被替代，应该让他们�
 
 ## 相关产品
 
-- **[[Cursor]]** — AI 编程 IDE，CEO
+- **[[01-产品库/产品卡片-Cursor|Cursor]]** — AI 编程 IDE，CEO
 
 ## 相关人物
 
-- [[Sualeh Asif]] — [[产品卡片-Cursor|Cursor]] 联合创始人
-- [[Arvid Lunnemark]] — [[产品卡片-Cursor|Cursor]] 联合创始人
-- [[Aman Sanger]] — [[产品卡片-Cursor|Cursor]] 联合创始人
+- [[Sualeh Asif]] — Cursor 联合创始人
+- [[Arvid Lunnemark]] — Cursor 联合创始人
+- [[Aman Sanger]] — Cursor 联合创始人
 
 ---
 
 ## 来源与参考
 
-1. [[产品卡片-Cursor|Cursor]] 官方融资和 ARR 新闻
-2. TechCrunch Disrupt 关于 [[产品卡片-Cursor|Cursor]] 的报道
+1. Cursor 官方融资和 ARR 新闻
+2. TechCrunch Disrupt 关于 Cursor 的报道
 3. a16z、Accel 的投资总结

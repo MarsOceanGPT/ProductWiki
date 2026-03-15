@@ -2,33 +2,29 @@
 type: product
 name: Baidu AI Search
 name_cn: 百度AI搜索/文心一言
-url: https://yiyan.baidu.com
-
-# 基本信息
+url: 'https://yiyan.baidu.com'
 founded: 2023
 headquarters: 北京
-founders: [百度, 李彦宏]
+founders:
+  - 百度
+  - 李彦宏
 stage: Scale
 status: Active
-
-# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 数千万月活
-monthly_visits:
-mau:
-funding_total:
+monthly_visits: null
+mau: null
+funding_total: null
 funding_rounds: []
 valuation: 500亿+人民币估值（内部）
-employees:
-
-# 分类
+employees: null
 category: AI搜索+助手+大模型
 subcategory: 搜索转型、LLM、AI对话
 target_user: 中文用户、企业、开发者
-pricing_model: [freemium, enterprise]
-
-# 打法标签（双向链接）
+pricing_model:
+  - freemium
+  - enterprise
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,24 +32,28 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 近
 industry_layer: 模型层+应用层
 pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [李彦宏, 吴海锋, 傅海霸]
-competitors: [ChatGPT, Google, 夸克, 通义千问]
-related_products: [百度搜索, Ernie Bot, Wenxin系列模型]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - 李彦宏
+  - 吴海锋
+  - 傅海霸
+competitors:
+  - ChatGPT
+  - Google
+  - 夸克
+  - 通义千问
+related_products:
+  - 百度搜索
+  - Ernie Bot
+  - Wenxin系列模型
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
+title: Baidu AI Search
 ---
-
-# [[产品卡片-BaiduAISearch|百度AI搜索]] / 文心一言
+# 百度AI搜索 / 文心一言
 
 > 搜索帝国的生死关头：李彦宏的"All in AI"豪赌，用转型的痛苦换一场新赛道的先手，却发现自己依然可能被历史轧过
 
@@ -294,7 +294,7 @@ mars_reviewed: false
 
 加速器：**搜索广告的优化**——广告主快速适应AI搜索的展现形式，点击率反而提升
 
-减速器：**竞品免费体验**——[[产品卡片-Doubao|豆包]]、Kimi等产品的出现，分散了用户的选择
+减速器：**竞品免费体验**——豆包、Kimi等产品的出现，分散了用户的选择
 
 **"寄生"与"共生"策略**
 
@@ -346,7 +346,7 @@ mars_reviewed: false
 
 AI搜索其实**改善了广告体验** —— 相比传统搜索混乱的广告布局，AI搜索中的广告更精准、更清晰，广告ROI反而提升。
 
-这是百度相比其他竞品（[[产品卡片-Quark|夸克]]、豆包等）的**最大优势** —— 有现成的、强大的、成熟的搜索广告系统。
+这是百度相比其他竞品（夸克、豆包等）的**最大优势** —— 有现成的、强大的、成熟的搜索广告系统。
 
 **AI成本结构**
 
@@ -386,7 +386,7 @@ AI搜索其实**改善了广告体验** —— 相比传统搜索混乱的广告
 
 **最大威胁**
 
-- **[[产品卡片-ChatGPT|ChatGPT]]/Claude的国际化**：若这些全球产品重新进入中国
+- **ChatGPT/Claude的国际化**：若这些全球产品重新进入中国
 - **用户行为改变**：从"在搜索框搜索"变成"在Chat里聊天"
 - **新兴玩家的快速追赶**：豆包/Kimi正在蚕食市场
 - **搜索本身的衰落**：如果整个"搜索"这个交互方式被淘汰
@@ -435,7 +435,7 @@ AI搜索其实**改善了广告体验** —— 相比传统搜索混乱的广告
 - **OpenAI/Claude自建搜索**：需要3-6个月（他们有能力集成web browsing）
   - 阻力：不是他们的core focus，可能long tail priority
 
-- **中国竞争对手**（夸克、[[产品卡片-Kimi|Kimi]]）的进攻：
+- **中国竞争对手**（夸克、Kimi）的进攻：
   - 已经来临，且增速快（不受搜索遗产包袱）
   - 百度的防线是"广告变现"（夸克、Kimi还没有清晰盈利模式）
 
@@ -483,7 +483,7 @@ AI搜索其实**改善了广告体验** —— 相比传统搜索混乱的广告
 
 这改变了竞争边界。
 
-**[[产品卡片-Cursor|Cursor]] for X评估**
+**Cursor for X评估**
 
 文心是"Cursor for Search"的典型：
 - **工作流复杂度**：★★★★☆（搜索→获得答案，工作流相对简洁）
@@ -634,9 +634,9 @@ AI 草稿——待 Mars 确认
 
 ## 相关案例
 
-- [[夸克]] — AI搜索竞品，但切入的是"学生用户"而非"全量搜索用户"
-- [[豆包]] — AI对话竞品，代表了"纯AI Chat"而非"搜索升级"的路线
-- [[Google Search]] — 历史对标，展示了搜索引擎的转身历程
+- [[01-产品库/产品卡片-Quark|夸克]] — AI搜索竞品，但切入的是"学生用户"而非"全量搜索用户"
+- [[01-产品库/产品卡片-Doubao|豆包]] — AI对话竞品，代表了"纯AI Chat"而非"搜索升级"的路线
+- [[01-产品库/Google Search|Google Search]] — 历史对标，展示了搜索引擎的转身历程
 
 ---
 

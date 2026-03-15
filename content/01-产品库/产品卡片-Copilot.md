@@ -1,68 +1,73 @@
 ---
 type: product
-name: "Copilot"
-name_cn: "Copilot（AI 助手）"
-url: "https://copilot.microsoft.com"
+name: Copilot
+name_cn: Copilot（AI 助手）
+url: 'https://copilot.microsoft.com'
 founded: 2023
-headquarters: "Redmond, WA, US"
-founders: ["Satya Nadella", "Microsoft AI 团队"]
-stage: "Scale"
-status: "Active"
+headquarters: 'Redmond, WA, US'
+founders:
+  - Satya Nadella
+  - Microsoft AI 团队
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$2B+ (estimated)"
-users: "500M+ (Windows 11 users + Office 365 subscribers)"
-monthly_visits: "300M+"
-mau: "200M+"
-funding_total: "$10B (to OpenAI)"
-valuation: "Microsoft 子业务"
-employees: "200+ (Copilot 团队)"
-category: "AI Assistant"
-subcategory: "Enterprise AI / Productivity AI"
-target_user: "Enterprise users, Windows users, Office 365 subscribers"
-pricing_model: ["Free", "Microsoft 365 Copilot Pro $20/mo", "Enterprise custom"]
+arr: $2B+ (estimated)
+users: 500M+ (Windows 11 users + Office 365 subscribers)
+monthly_visits: 300M+
+mau: 200M+
+funding_total: $10B (to OpenAI)
+valuation: Microsoft 子业务
+employees: 200+ (Copilot 团队)
+category: AI Assistant
+subcategory: Enterprise AI / Productivity AI
+target_user: 'Enterprise users, Windows users, Office 365 subscribers'
+pricing_model:
+  - Free
+  - Microsoft 365 Copilot Pro $20/mo
+  - Enterprise custom
 opportunity_playbooks:
-  - "[[生态垄断]]"
-  - "[[企业采购]]"
-  - "[[工作流嵌入]]"
+  - '[[生态垄断]]'
+  - '[[企业采购]]'
+  - '[[02-打法库/07-护城河/工作流嵌入|工作流嵌入]]'
 design_playbooks:
-  - "[[Office 集成]]"
-  - "[[Windows 集成]]"
-  - "[[多层级功能]]"
+  - '[[Office 集成]]'
+  - '[[Windows 集成]]'
+  - '[[多层级功能]]'
 mvp_playbooks:
-  - "[[GitHub Copilot 的推广]]"
+  - '[[GitHub Copilot 的推广]]'
 pmf_playbooks:
-  - "[[企业生产力]]"
+  - '[[企业生产力]]'
 growth_playbooks:
-  - "[[绑定销售]]"
-  - "[[企业端转化]]"
+  - '[[绑定销售]]'
+  - '[[企业端转化]]'
 monetization_playbooks:
-  - "[[企业按人头付费]]"
-  - "[[Office 365 增值]]"
+  - '[[企业按人头付费]]'
+  - '[[Office 365 增值]]'
 moat_playbooks:
-  - "[[Enterprise 深度集成]]"
-  - "[[数据安全信任]]"
-  - "[[工作流垄断]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "低频次高单价"
+  - '[[Enterprise 深度集成]]'
+  - '[[数据安全信任]]'
+  - '[[工作流垄断]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 低频次高单价
 key_people:
-  - "[[Satya Nadella]] (CEO, Microsoft)"
-  - "[[Mustafa Suleyman]] (VP, AI, Microsoft)"
+  - '[[Satya Nadella]] (CEO, Microsoft)'
+  - '[[Mustafa Suleyman]] (VP, AI, Microsoft)'
 competitors:
-  - "[[ChatGPT]]"
-  - "[[Claude]]"
-  - "[[Gemini]]"
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
 related_products:
-  - "[[GitHub Copilot]]"
-  - "[[Office 365]]"
-  - "[[Windows 11]]"
-  - "[[Bing]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
+  - '[[Office 365]]'
+  - '[[Windows 11]]'
+  - '[[Bing]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: Copilot
 ---
-
-# [[产品卡片-Copilot|Copilot]]
+# Copilot
 
 > 一句话：微软用 $10B 投资 OpenAI 换来的不是"最强 AI"，而是在 Office/Windows/Bing 里植入 AI，把全球 3 亿企业用户变成 Copilot 的用户。这是"寄生"战略的完美教科书。
 
@@ -77,7 +82,7 @@ mars_reviewed: false
 | **核心定位** | 企业级 AI 生产力助手，深度集成到 Office/Windows/Azure 全生态 |
 | **关键指标** | 500M+ 潜在用户（Windows 11 + Office 365），200M+ 月活，企业客户 50K+ |
 | **定价** | 免费版（Bing Copilot）/ Copilot Pro $20/月（消费者）/ Microsoft 365 Copilot $30/人/月（企业）|
-| **标志性时刻** | 2023.03 [[产品卡片-Copilot|GitHub Copilot]] 大规模商用 → 2023.11 Copilot Pro 发布 → 2024.02 Office Copilot 正式发布 → 2024.06 企业采购加速（258% YoY）→ 2024.11 Copilot+ PC 发布 |
+| **标志性时刻** | 2023.03 GitHub Copilot 大规模商用 → 2023.11 Copilot Pro 发布 → 2024.02 Office Copilot 正式发布 → 2024.06 企业采购加速（258% YoY）→ 2024.11 Copilot+ PC 发布 |
 | **核心差异** | （1）工作流深度集成（Word/Excel/PowerPoint/Teams 都有 Copilot）（2）企业安全信任（数据不离开企业）（3）多层级产品线（消费端+企业端+开发者端）（4）垂直深化（不只聊天，而是"写文档的助手""分析数据的助手"）|
 
 ---
@@ -101,7 +106,7 @@ mars_reviewed: false
 | 2021.06 | GitHub Copilot 发布（收购 Copilot 团队） | 开发者工具领域的第一次试水 |
 | 2023.01 | Microsoft 宣布 $10B 投资 OpenAI | 确保对 GPT 模型的优先访问权 |
 | 2023.03 | GitHub Copilot 正式商用 | 开发者订阅 $10/月 |
-| 2023.11 | **Copilot Pro 发布**（消费端） | [[产品卡片-ChatGPT|ChatGPT]] Plus 的直接竞争 |
+| 2023.11 | **Copilot Pro 发布**（消费端） | ChatGPT Plus 的直接竞争 |
 | 2024.02 | **Office Copilot 正式发布** | Word/Excel/PowerPoint 全覆盖 |
 | 2024.04 | Copilot 集成 Windows 11 开始菜单和任务栏 | 每个 Windows 用户都看得到 |
 | 2024.06 | 企业客户 50K+，同比增长 258% | 企业采购爆炸性增长 |
@@ -140,7 +145,7 @@ mars_reviewed: false
 
 **架构选择**：
 - 路线 A（OpenAI 选的）：做独立产品（ChatGPT），让用户主动来
-- 路线 B（Google 选的）：在搜索中集成（[[产品卡片-Gemini|Gemini]]），流量被迫
+- 路线 B（Google 选的）：在搜索中集成（Gemini），流量被迫
 - 路线 C（微软选的）：在工作工具中集成（Office/Windows），用户无感
 - 微软选了 C，因为企业已经付费用 Office，加 Copilot 几乎零成本获客
 
@@ -261,7 +266,7 @@ mars_reviewed: false
 
 | 壁垒类型 | 强度 | 说明 |
 |--------|------|------|
-| **工作流嵌入** | 极强（3-5 年）| Copilot 融入 Word/Excel/Teams 的日常工作。用户不会为了试 [[产品卡片-Claude|Claude]] 而换工具 |
+| **工作流嵌入** | 极强（3-5 年）| Copilot 融入 Word/Excel/Teams 的日常工作。用户不会为了试 Claude 而换工具 |
 | **企业信任** | 强（长期）| 企业对"数据安全"的信任。Copilot 可以承诺"数据不离开企业网络"，OpenAI 做不到 |
 | **生态垄断** | 强（3-5 年）| Office + Windows + Azure 的绑定。用户一旦选择微软，就难以切出 |
 | **销售渠道** | 中强（衰减）| Microsoft 的销售团队可以直接卖 Copilot。但 ChatGPT 也在建立企业销售 |

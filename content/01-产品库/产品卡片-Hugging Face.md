@@ -2,44 +2,89 @@
 type: product
 name: Hugging Face
 name_cn: Hugging Face
-url: https://huggingface.co
+url: 'https://huggingface.co'
 founded: 2016
 headquarters: New York
-founders: ["Clément Delangue", "Julien Chaumond", "Thomas Wolf"]
-stage: VC-backed, Series C
+founders:
+  - Clément Delangue
+  - Julien Chaumond
+  - Thomas Wolf
+stage: 'VC-backed, Series C'
 status: Active
-metrics_date: "2026-03"
-arr: "$50M+"
-users: "Millions of developers"
-monthly_visits: "50M+"
-mau: "1M+ active researchers/developers"
-funding_total: "$500M+"
-funding_rounds: ["Series A", "Series B", "Series C"]
-valuation: "$4.5B (2023)"
-employees: "300+"
-category: "AI Infrastructure / Open Source Hub"
-subcategory: "Developer Tools, Model Repository, AI Ecosystem"
-target_user: "ML researchers, NLP engineers, AI developers, enterprises"
-pricing_model: ["Open Source (free)", "Commercial hosting (freemium)", "Enterprise support"]
-opportunity_playbooks: ["GitHub for AI models", "Open source monetization", "Model democratization", "Developer community lock-in"]
-design_playbooks: ["Simple model upload and sharing", "Leaderboard for model comparison", "One-click deployment", "API access for models"]
-mvp_playbooks: ["Simple model repository website", "Git-based model version control"]
-pmf_playbooks: ["NLP researchers seeking model sharing platform", "Developers needing pre-trained models", "Enterprises standardizing on open source"]
-growth_playbooks: ["Fast adoption by research community", "Transformers library integration", "Kaggle partnerships", "Enterprise partnerships (Meta, Google)"]
-monetization_playbooks: ["Pro/Enterprise accounts for organizations", "Compute inference APIs", "Enterprise support and custom models"]
-moat_playbooks: ["Network effects (1M+ models on platform)", "Integration with major LLM ecosystem", "Community lock-in and contributor base"]
-distance_to_money: "Direct (B2B2C) and indirect (open source dominance)"
-industry_layer: "Infrastructure/Platform Layer"
-pricing_quadrant: "Freemium/Open Source with enterprise pricing"
-key_people: ["Clément Delangue (CEO)", "Julien Chaumond (Co-founder)", "Thomas Wolf (Co-founder & Chief Science Officer)"]
-competitors: ["GitHub (code sharing)", "PyPI (package distribution)", "Papers with Code", "Kaggle", "Model Zoo (various)"]
-related_products: ["[[CivitAI]]", "[[GitHub]]", "[[Kaggle]]", "[[OpenAI]]", "[[LLaMA]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $50M+
+users: Millions of developers
+monthly_visits: 50M+
+mau: 1M+ active researchers/developers
+funding_total: $500M+
+funding_rounds:
+  - Series A
+  - Series B
+  - Series C
+valuation: $4.5B (2023)
+employees: 300+
+category: AI Infrastructure / Open Source Hub
+subcategory: 'Developer Tools, Model Repository, AI Ecosystem'
+target_user: 'ML researchers, NLP engineers, AI developers, enterprises'
+pricing_model:
+  - Open Source (free)
+  - Commercial hosting (freemium)
+  - Enterprise support
+opportunity_playbooks:
+  - GitHub for AI models
+  - Open source monetization
+  - Model democratization
+  - Developer community lock-in
+design_playbooks:
+  - Simple model upload and sharing
+  - Leaderboard for model comparison
+  - One-click deployment
+  - API access for models
+mvp_playbooks:
+  - Simple model repository website
+  - Git-based model version control
+pmf_playbooks:
+  - NLP researchers seeking model sharing platform
+  - Developers needing pre-trained models
+  - Enterprises standardizing on open source
+growth_playbooks:
+  - Fast adoption by research community
+  - Transformers library integration
+  - Kaggle partnerships
+  - 'Enterprise partnerships (Meta, Google)'
+monetization_playbooks:
+  - Pro/Enterprise accounts for organizations
+  - Compute inference APIs
+  - Enterprise support and custom models
+moat_playbooks:
+  - Network effects (1M+ models on platform)
+  - Integration with major LLM ecosystem
+  - Community lock-in and contributor base
+distance_to_money: Direct (B2B2C) and indirect (open source dominance)
+industry_layer: Infrastructure/Platform Layer
+pricing_quadrant: Freemium/Open Source with enterprise pricing
+key_people:
+  - Clément Delangue (CEO)
+  - Julien Chaumond (Co-founder)
+  - Thomas Wolf (Co-founder & Chief Science Officer)
+competitors:
+  - GitHub (code sharing)
+  - PyPI (package distribution)
+  - Papers with Code
+  - Kaggle
+  - Model Zoo (various)
+related_products:
+  - '[[01-产品库/产品卡片-CivitAI|CivitAI]]'
+  - '[[GitHub]]'
+  - '[[Kaggle]]'
+  - '[[OpenAI]]'
+  - '[[LLaMA]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Hugging Face
 ---
-
-# [[产品卡片-Hugging Face|Hugging Face]] 产品卡片
+# Hugging Face 产品卡片
 
 ## 基本面表格
 
@@ -291,7 +336,7 @@ Hugging Face 的赌注非常清晰：
 |------|--------|--------|-----|
 | **OpenAI** | 已完成（GPT-4 的分发）| 无阻力 | 70% 会做 |
 | **Google** | 3-6 个月（Vertex AI）| 高（生态复杂） | 60% |
-| **Meta（[[Llama]]）** | 6-12 个月（自建分发）| 低（有动力） | 80% |
+| **Meta（Llama）** | 6-12 个月（自建分发）| 低（有动力） | 80% |
 | **Amazon（SageMaker）** | 3-6 个月（Model Zoo）| 中（基础设施强）| 50% |
 
 **可替代性与迁移成本**：

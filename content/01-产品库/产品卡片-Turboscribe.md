@@ -2,43 +2,78 @@
 type: product
 name: Turboscribe
 name_cn: Turboscribe
-url: https://www.turboscribe.ai
+url: 'https://www.turboscribe.ai'
 founded: 2022
 headquarters: San Francisco
-founders: ["(Founder information limited)"]
+founders:
+  - (Founder information limited)
 stage: Funded startup
 status: Active
-metrics_date: "2026-03"
-arr: "$5M-10M"
-users: "500K+ MAU"
-monthly_visits: "5M+"
-mau: "500K+"
-funding_total: "$10M-20M"
-funding_rounds: ["Seed", "Series A"]
-valuation: "$50M-100M (estimated)"
-employees: "20-30"
-category: "AI Audio/Video Transcription"
-subcategory: "Productivity, Content Tools, Speech-to-Text"
-target_user: "Podcasters, content creators, journalists, meeting recorders"
-pricing_model: ["Freemium", "Subscription"]
-opportunity_playbooks: ["Focused vertical transcription vs general-purpose tools", "Creator-first positioning", "Affordable pricing vs Otter.ai"]
-design_playbooks: ["Simple upload-and-transcribe interface", "Real-time transcription option", "Speaker identification", "Searchable transcript database"]
-mvp_playbooks: ["Basic audio upload + transcription output", "Simple editing interface"]
-pmf_playbooks: ["Podcasters needing cheaper Otter.ai alternative", "YouTube creators wanting video transcripts", "Journalists recording interviews"]
-growth_playbooks: ["SEO targeting 'transcription tool' keywords", "Creator community partnerships", "Integration with podcast/YouTube platforms"]
-monetization_playbooks: ["Freemium with usage limits (minutes/month)", "Subscription tiers by minute allowance", "API access for developers"]
-moat_playbooks: ["Domain specialization in transcription accuracy", "Low-cost operations model", "Creator community trust"]
-distance_to_money: "Direct (B2C freemium + subscription)"
-industry_layer: "Application/Content Tools"
-pricing_quadrant: "Affordable subscription ($12-30/month)"
-key_people: ["(Limited public founder information)"]
-competitors: ["Otter.ai", "Rev.com", "TranscribeMe", "Sonix", "Descript"]
-related_products: ["[[Otter.ai]]", "[[Descript]]", "[[HeyGen]]"]
-last_updated: "2026-03-14"
-confidence: "Medium"
+metrics_date: 2026-03
+arr: $5M-10M
+users: 500K+ MAU
+monthly_visits: 5M+
+mau: 500K+
+funding_total: $10M-20M
+funding_rounds:
+  - Seed
+  - Series A
+valuation: $50M-100M (estimated)
+employees: 20-30
+category: AI Audio/Video Transcription
+subcategory: 'Productivity, Content Tools, Speech-to-Text'
+target_user: 'Podcasters, content creators, journalists, meeting recorders'
+pricing_model:
+  - Freemium
+  - Subscription
+opportunity_playbooks:
+  - Focused vertical transcription vs general-purpose tools
+  - Creator-first positioning
+  - Affordable pricing vs Otter.ai
+design_playbooks:
+  - Simple upload-and-transcribe interface
+  - Real-time transcription option
+  - Speaker identification
+  - Searchable transcript database
+mvp_playbooks:
+  - Basic audio upload + transcription output
+  - Simple editing interface
+pmf_playbooks:
+  - Podcasters needing cheaper Otter.ai alternative
+  - YouTube creators wanting video transcripts
+  - Journalists recording interviews
+growth_playbooks:
+  - SEO targeting 'transcription tool' keywords
+  - Creator community partnerships
+  - Integration with podcast/YouTube platforms
+monetization_playbooks:
+  - Freemium with usage limits (minutes/month)
+  - Subscription tiers by minute allowance
+  - API access for developers
+moat_playbooks:
+  - Domain specialization in transcription accuracy
+  - Low-cost operations model
+  - Creator community trust
+distance_to_money: Direct (B2C freemium + subscription)
+industry_layer: Application/Content Tools
+pricing_quadrant: Affordable subscription ($12-30/month)
+key_people:
+  - (Limited public founder information)
+competitors:
+  - Otter.ai
+  - Rev.com
+  - TranscribeMe
+  - Sonix
+  - Descript
+related_products:
+  - '[[Otter.ai]]'
+  - '[[Descript]]'
+  - '[[01-产品库/产品卡片-HeyGen|HeyGen]]'
+last_updated: '2026-03-14'
+confidence: Medium
 mars_reviewed: false
+title: Turboscribe
 ---
-
 # Turboscribe 产品卡片
 
 ## 基本面表格

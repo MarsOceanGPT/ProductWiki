@@ -2,43 +2,82 @@
 type: product
 name: Synthesia
 name_cn: Synthesia AI 视频生成
-url: https://www.synthesia.io
+url: 'https://www.synthesia.io'
 founded: 2017
-headquarters: "London, UK"
-founders: ["Victor Riparbelli", "Agapito", "Niessner", "Steffen Tjerrild"]
+headquarters: 'London, UK'
+founders:
+  - Victor Riparbelli
+  - Agapito
+  - Niessner
+  - Steffen Tjerrild
 stage: Growth/Late Stage
 status: Active
-metrics_date: "2026-03"
-arr: "$100M+"
-users: "60,000+ businesses"
-monthly_visits: ""
-mau: ""
-funding_total: "$500M+"
-funding_rounds: ["Series A", "Series B", "Series C", "Series D", "Series E"]
-valuation: "$4B (Feb 2026)"
-employees: "140+"
-category: "AI Video Generation"
-subcategory: "Enterprise AI Video / Avatar"
-target_user: "Enterprise marketing teams, learning & development, large corporations"
-pricing_model: ["SaaS", "Enterprise Contracts", "Custom Pricing"]
-opportunity_playbooks: ["Enterprise SLG", "Fortune 500 Penetration", "Studio Workflow Integration"]
-design_playbooks: ["Avatar-Based Video Synthesis", "Multi-language Auto-translation"]
-mvp_playbooks: ["Single-Avatar Video Generation", "Text-to-Video MVP"]
-pmf_playbooks: ["Enterprise Training Video Automation", "Global Localization at Scale"]
-growth_playbooks: ["Enterprise Sales Force", "Industry Partnerships", "Use Case Expansion"]
-monetization_playbooks: ["Enterprise SaaS", "Per-minute Pricing", "Custom Features Premium"]
-moat_playbooks: ["Enterprise Relationships", "Compliance/Security Standards", "Avatar Library Lock-in"]
-distance_to_money: "Very Close (Enterprise Direct)"
-industry_layer: "Application Layer (Media/Learning)"
-pricing_quadrant: "High Price, Niche Market"
-key_people: ["Victor Riparbelli - CEO", "Niessner - Co-founder (Technology)"]
-competitors: ["HeyGen", "D-ID", "Synthesia Alternatives (Colossyan, Loom)"]
-related_products: ["[[HeyGen]]", "[[Runway]]", "[[D-ID]]", "[[Adobe Firefly]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $100M+
+users: '60,000+ businesses'
+monthly_visits: ''
+mau: ''
+funding_total: $500M+
+funding_rounds:
+  - Series A
+  - Series B
+  - Series C
+  - Series D
+  - Series E
+valuation: $4B (Feb 2026)
+employees: 140+
+category: AI Video Generation
+subcategory: Enterprise AI Video / Avatar
+target_user: 'Enterprise marketing teams, learning & development, large corporations'
+pricing_model:
+  - SaaS
+  - Enterprise Contracts
+  - Custom Pricing
+opportunity_playbooks:
+  - Enterprise SLG
+  - Fortune 500 Penetration
+  - Studio Workflow Integration
+design_playbooks:
+  - Avatar-Based Video Synthesis
+  - Multi-language Auto-translation
+mvp_playbooks:
+  - Single-Avatar Video Generation
+  - Text-to-Video MVP
+pmf_playbooks:
+  - Enterprise Training Video Automation
+  - Global Localization at Scale
+growth_playbooks:
+  - Enterprise Sales Force
+  - Industry Partnerships
+  - Use Case Expansion
+monetization_playbooks:
+  - Enterprise SaaS
+  - Per-minute Pricing
+  - Custom Features Premium
+moat_playbooks:
+  - Enterprise Relationships
+  - Compliance/Security Standards
+  - Avatar Library Lock-in
+distance_to_money: Very Close (Enterprise Direct)
+industry_layer: Application Layer (Media/Learning)
+pricing_quadrant: 'High Price, Niche Market'
+key_people:
+  - Victor Riparbelli - CEO
+  - Niessner - Co-founder (Technology)
+competitors:
+  - HeyGen
+  - D-ID
+  - 'Synthesia Alternatives (Colossyan, Loom)'
+related_products:
+  - '[[01-产品库/产品卡片-HeyGen|HeyGen]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
+  - '[[D-ID]]'
+  - '[[Adobe Firefly]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Synthesia
 ---
-
 ## 基本面表格
 
 | 指标 | 数据 | 备注 |
@@ -665,8 +704,8 @@ Synthesia 做对了什么？
 ---
 
 **相关产品和框架：**
-- [[HeyGen]]（竞争对手，创意者路线）
-- [[Runway]]（另一条 AI 视频路线）
+- [[01-产品库/产品卡片-HeyGen|HeyGen]]（竞争对手，创意者路线）
+- [[01-产品库/产品卡片-Runway|Runway]]（另一条 AI 视频路线）
 - [[Adobe Firefly]]（潜在收购方）
 - [[企业 SLG 模式]]（商业模式框架）
 - [[多语言本地化]]（核心竞争力）

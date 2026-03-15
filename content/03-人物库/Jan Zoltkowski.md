@@ -1,14 +1,15 @@
 ---
 type: person
-name: "Jan Zoltkowski"
-role: "Founder & CEO"
-company: "[[Janitor AI]]"
-nationality: "Australian"
-age: "28"
-background: "HackerOne/EthGlobal 黑客松常客 → 加密工程师 → Janitor AI 创始人"
-notable_for: "1.38亿月访问的 NSFW AI 平台创始人，却近乎完全隐形。用『技术隐身』和『透明成本结构』打赢了监管之战，11个月做到 $70M ARR"
-key_quote: "我们不躲监管，我们用技术让监管无法定罪。用户自带 API key，我们不碰用户数据，也就没有法律风险。"
-updated: "2026-03-14"
+name: Jan Zoltkowski
+role: Founder & CEO
+company: '[[Janitor AI]]'
+nationality: Australian
+age: '28'
+background: HackerOne/EthGlobal 黑客松常客 → 加密工程师 → Janitor AI 创始人
+notable_for: 1.38亿月访问的 NSFW AI 平台创始人，却近乎完全隐形。用『技术隐身』和『透明成本结构』打赢了监管之战，11个月做到 $70M ARR
+key_quote: 我们不躲监管，我们用技术让监管无法定罪。用户自带 API key，我们不碰用户数据，也就没有法律风险。
+updated: '2026-03-14'
+title: Jan Zoltkowski
 ---
 # Jan Zoltkowski
 

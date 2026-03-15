@@ -1,53 +1,56 @@
 ---
 type: product
-name: "Pixelcut"
-name_cn: "Pixelcut"
-url: "https://pixelcut.ai"
+name: Pixelcut
+name_cn: Pixelcut
+url: 'https://pixelcut.ai'
 founded: 2023
-headquarters: "San Francisco, US"
-founders: ["AI创业团队"]
-stage: "Growth"
-status: "Active"
+headquarters: 'San Francisco, US'
+founders:
+  - AI创业团队
+stage: Growth
+status: Active
 metrics_date: 2025-09
-arr: "未公开（估计$20M+）"
-users: "8M+ 月均访问（2024年9月）"
-funding_total: "未公开融资"
-valuation: "未公开"
-employees: "N/A"
-category: "Image Editing"
-subcategory: "E-commerce Product Photography"
-target_user: "E-commerce sellers, shopify stores, Amazon sellers"
-pricing_model: ["freemium", "subscription"]
+arr: 未公开（估计$20M+）
+users: 8M+ 月均访问（2024年9月）
+funding_total: 未公开融资
+valuation: 未公开
+employees: N/A
+category: Image Editing
+subcategory: E-commerce Product Photography
+target_user: 'E-commerce sellers, shopify stores, Amazon sellers'
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks:
-  - "[[电商细分市场]]"
-  - "[[AI产品图处理]]"
+  - '[[电商细分市场]]'
+  - '[[AI产品图处理]]'
 design_playbooks:
-  - "[[一键处理]]"
-  - "[[移动优先]]"
+  - '[[一键处理]]'
+  - '[[移动优先]]'
 mvp_playbooks:
-  - "[[背景去除]]"
+  - '[[背景去除]]'
 pmf_playbooks:
-  - "[[电商卖家工作流]]"
+  - '[[电商卖家工作流]]'
 growth_playbooks:
-  - "[[电商平台集成]]"
-  - "[[Shopify App Store]]"
+  - '[[电商平台集成]]'
+  - '[[Shopify App Store]]'
 monetization_playbooks:
-  - "[[按操作数-订阅]]"
+  - '[[按操作数-订阅]]'
 moat_playbooks:
-  - "[[电商场景优化]]"
-  - "[[工作流集成]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "高自主-高归因"
+  - '[[电商场景优化]]'
+  - '[[工作流集成]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 高自主-高归因
 competitors:
-  - "[[Remove.bg]]"
-  - "[[Photoroom]]"
-  - "[[Cleanup.pictures]]"
-last_updated: 2026-03-14
-confidence: "Medium"
+  - '[[01-产品库/产品卡片-Remove.bg|Remove.bg]]'
+  - '[[01-产品库/产品卡片-Photoroom|Photoroom]]'
+  - '[[Cleanup.pictures]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium
 mars_reviewed: false
+title: Pixelcut
 ---
-
 # Pixelcut
 
 > 一句话：AI 电商产品图处理工具，从"背景去除"切入，扩展到"一键优化"全流程，针对 Shopify/电商卖家，2024年月访问量 800 万，代表"AI 电商应用"的细分赛道胜者。

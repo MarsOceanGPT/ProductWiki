@@ -5,25 +5,39 @@ type: product
 类别: AI Agent / 自主代理
 上榜: a16z Top 50 Web (2026年3月)
 付费模式: 订阅制（$39-199/月）+ 积分按量消耗
-创始人: [[肖弘]] (Xiao Hong)
+创始人: 肖弘 (Xiao Hong)
 成立年份: 2022（Butterfly Effect），2025-03-06（Manus 发布）
 退出事件: Meta 收购（2025-12，估值 $2-3B，10天谈判完成）
 ARR: $90M（2025-08，5个月）→ $125M run rate（2025-12）
 团队: 78 人 → 收购后 100 人并入 Meta
-投资方: 真格基金, 腾讯, 红杉资本
+投资方: '真格基金, 腾讯, 红杉资本'
 tags:
-  opportunity: [吃技术升级红利, 从做任务到出成果, 把玩法封装成产品]
-  design: [Agent 代理式]
-  mvp: [简易拼装, 技术适配]
-  pmf: [迫切刚需]
-  growth: [病毒传播-产品即内容, 借势崛起]
-  monetization: [按访问-订阅, 按消耗-请求数]
-  moat: [工作流嵌入]
-相关人物: [肖弘]
-竞争对手: [[[产品卡片-ChatGPT\|ChatGPT]], [[产品卡片-Claude\|Claude]], Devin, "OpenAI Operator"]
-关联产品: [[[产品卡片-ChatGPT\|ChatGPT]], [[产品卡片-DeepSeek\|DeepSeek]], [[产品卡片-Monica\|Monica]], [[产品卡片-Claude\|Claude]]]
+  - 吃技术升级红利
+  - 从做任务到出成果
+  - 把玩法封装成产品
+  - Agent 代理式
+  - 简易拼装
+  - 技术适配
+  - 迫切刚需
+  - 病毒传播-产品即内容
+  - 借势崛起
+  - 按访问-订阅
+  - 按消耗-请求数
+  - 工作流嵌入
+相关人物:
+  - 肖弘
+竞争对手:
+  - ChatGPT
+  - Claude
+  - Devin
+  - OpenAI Operator
+关联产品:
+  - ChatGPT
+  - DeepSeek
+  - Monica
+  - Claude
+title: Manus
 ---
-
 # Manus
 
 > "Give me a task. I'll handle the rest." — 从 Copilot 到 Agent，从辅助到代劳。
@@ -49,7 +63,7 @@ tags:
 
 ### 创始人基因
 
-[[肖弘]]，1992 年生，江西吉安人。华中科技大学软件工程专业（2015届），在校期间就是连续创业者。
+[[03-人物库/肖弘|肖弘]]，1992 年生，江西吉安人。华中科技大学软件工程专业（2015届），在校期间就是连续创业者。
 
 他的创业基因定义了 Manus 的一切：
 
@@ -322,11 +336,11 @@ MIT Technology Review 实测发现：
 
 ## 相关案例
 
-- [[产品卡片-DeepSeek]] — 同为中国团队全球突破；DeepSeek 走模型研究路线（深护城河 + 长期独立运营），Manus 走应用路线（浅护城河 + 快速退出）——两条路都成了
-- [[ChatGPT]] — Agent 领域最大潜在对手；OpenAI Operator 是 Manus 的直接威胁
-- [[Monica]] — Manus 的前身，肖弘的"能力预训练"产品
-- [[Devin]] — 垂直 Agent（代码领域），$500/月定价，对比 Manus 的通用 Agent 定位
-- [[产品卡片-Cursor]] — 同属 "AI 替代知识工作" 赛道，Cursor 走 Copilot 路线，Manus 走 Agent 路线
+- [[01-产品库/产品卡片-DeepSeek|产品卡片-DeepSeek]] — 同为中国团队全球突破；DeepSeek 走模型研究路线（深护城河 + 长期独立运营），Manus 走应用路线（浅护城河 + 快速退出）——两条路都成了
+- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — Agent 领域最大潜在对手；OpenAI Operator 是 Manus 的直接威胁
+- [[01-产品库/产品卡片-Monica|Monica]] — Manus 的前身，肖弘的"能力预训练"产品
+- [[01-产品库/Devin|Devin]] — 垂直 Agent（代码领域），$500/月定价，对比 Manus 的通用 Agent 定位
+- [[01-产品库/产品卡片-Cursor|产品卡片-Cursor]] — 同属 "AI 替代知识工作" 赛道，Cursor 走 Copilot 路线，Manus 走 Agent 路线
 
 ---
 

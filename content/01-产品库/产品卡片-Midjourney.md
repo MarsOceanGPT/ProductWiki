@@ -2,43 +2,82 @@
 type: product
 name: Midjourney
 name_cn: Midjourney
-url: https://www.midjourney.com
+url: 'https://www.midjourney.com'
 founded: 2021
 headquarters: San Francisco (distributed team)
-founders: ["David Holz"]
+founders:
+  - David Holz
 stage: Scale
 status: Active
-metrics_date: "2026-03"
-arr: "$500M"
-users: "3-4M MAU (estimated)"
-monthly_visits: "Information not available"
-mau: "3-4M monthly active creators"
-funding_total: "$0"
+metrics_date: 2026-03
+arr: $500M
+users: 3-4M MAU (estimated)
+monthly_visits: Information not available
+mau: 3-4M monthly active creators
+funding_total: $0
 funding_rounds: []
-valuation: "Estimated $10-15B (based on revenue multiple)"
-employees: "163-170"
-category: "AI Image Generation"
-subcategory: "Generative AI, Creative Tools, Diffusion Models"
-target_user: "Artists, designers, content creators, brands, agencies, hobbyists"
-pricing_model: ["Subscription", "Usage-based (GPU hours)"]
-opportunity_playbooks: ["[[Creator-first monetization without VC pressure]]", "[[Platform-native distribution strategy]]", "[[Community as moat]]", "[[Constraint as feature]]"]
-design_playbooks: ["[[Prompt-first UX simplicity]]", "[[Moodboards for style consistency]]", "[[Variation-based iteration]]", "[[Consistent character generation]]"]
-mvp_playbooks: ["[[Platform parasite strategy (Discord bot)]]", "[[Wait time as feature]]", "[[Artist-first go-to-market]]"]
-pmf_playbooks: ["[[Creator community lock-in]]", "[[Viral user-generated content]]", "[[Brand as status symbol]]"]
-growth_playbooks: ["[[Organic viral growth through UGC]]", "[[Network effects via Discord]]", "[[Minimal paid acquisition (CAC~0)]]"]
-monetization_playbooks: ["[[Subscription with GPU metering]]", "[[Free tier intentional scarcity]]", "[[Usage-based priority pricing]]"]
-moat_playbooks: ["[[Community knowledge network effect]]", "[[Brand premium in creator culture]]", "[[Prompt database ecosystem]]", "[[UX simplicity barrier]]"]
-distance_to_money: "Direct (B2C subscription, pure SaaS)"
-industry_layer: "Application Layer"
-pricing_quadrant: "High autonomy, high marginal attribution (metered compute)"
-key_people: ["David Holz (Founder, CEO)"]
-competitors: [[[产品卡片-ChatGPT\|DALL-E 3]], [[产品卡片-Stability AI\|Stable Diffusion 3.5]], "Flux by Black Forest Labs", [[产品卡片-Adobe Firefly\|Adobe Firefly]], "Microsoft Designer"]
-related_products: [[[产品卡片-ChatGPT\|DALL-E]], [[Stable Diffusion]], "Flux", [[产品卡片-Adobe Firefly\|Adobe Firefly]], [[产品卡片-Runway\|Runway Gen-2]], "Ideogram"]
-last_updated: "2026-03-15"
-confidence: "High"
+valuation: Estimated $10-15B (based on revenue multiple)
+employees: 163-170
+category: AI Image Generation
+subcategory: 'Generative AI, Creative Tools, Diffusion Models'
+target_user: 'Artists, designers, content creators, brands, agencies, hobbyists'
+pricing_model:
+  - Subscription
+  - Usage-based (GPU hours)
+opportunity_playbooks:
+  - '[[Creator-first monetization without VC pressure]]'
+  - '[[Platform-native distribution strategy]]'
+  - '[[Community as moat]]'
+  - '[[Constraint as feature]]'
+design_playbooks:
+  - '[[Prompt-first UX simplicity]]'
+  - '[[Moodboards for style consistency]]'
+  - '[[Variation-based iteration]]'
+  - '[[Consistent character generation]]'
+mvp_playbooks:
+  - '[[Platform parasite strategy (Discord bot)]]'
+  - '[[Wait time as feature]]'
+  - '[[Artist-first go-to-market]]'
+pmf_playbooks:
+  - '[[Creator community lock-in]]'
+  - '[[Viral user-generated content]]'
+  - '[[Brand as status symbol]]'
+growth_playbooks:
+  - '[[Organic viral growth through UGC]]'
+  - '[[Network effects via Discord]]'
+  - '[[Minimal paid acquisition (CAC~0)]]'
+monetization_playbooks:
+  - '[[Subscription with GPU metering]]'
+  - '[[Free tier intentional scarcity]]'
+  - '[[Usage-based priority pricing]]'
+moat_playbooks:
+  - '[[Community knowledge network effect]]'
+  - '[[Brand premium in creator culture]]'
+  - '[[Prompt database ecosystem]]'
+  - '[[UX simplicity barrier]]'
+distance_to_money: 'Direct (B2C subscription, pure SaaS)'
+industry_layer: Application Layer
+pricing_quadrant: 'High autonomy, high marginal attribution (metered compute)'
+key_people:
+  - 'David Holz (Founder, CEO)'
+competitors:
+  - DALL-E 3
+  - Stable Diffusion 3.5
+  - Flux by Black Forest Labs
+  - Adobe Firefly
+  - Microsoft Designer
+related_products:
+  - '[[DALL-E]]'
+  - '[[Stable Diffusion]]'
+  - '[[Flux]]'
+  - '[[Adobe Firefly]]'
+  - '[[Runway Gen-2]]'
+  - '[[Ideogram]]'
+last_updated: '2026-03-15'
+confidence: High
 mars_reviewed: false
+title: Midjourney
 ---
-
 # Midjourney
 
 > 一句话：用一句自然语言提示词，创意工作者可以在秒级生成高质量视觉内容，打破了「想象力 = 技能门槛」的壁垒。
@@ -50,14 +89,14 @@ mars_reviewed: false
 | **全称** | Midjourney Inc. |
 | **成立** | 2021年8月 |
 | **创始人** | David Holz（前Leap Motion VP Engineering） |
-| **融资** | **零外部融资，完全自筹**（对标 [[产品卡片-OpenHands\|OpenHands]] 的引导思想） |
+| **融资** | **零外部融资，完全自筹** |
 | **总部** | 旧金山（分布式团队） |
 | **团队** | 163-170人（截至2026年） |
 | **核心定位** | AI-native视觉创意工具，Discord-first分发 |
 | **关键指标** | ARR $500M（2025年5月达成）/ MAU 3-4M / 人均营收 $295-310万 |
 | **定价** | 订阅制：$10-120/月（基于GPU小时数）+ 25次免费额度/天 |
 | **标志性时刻** | 2022年3月Discord公开发布（首日1000+申请） |
-| **核心差异** | 相比[[产品卡片-ChatGPT\|DALL-E 3]]的"精准执行"，Midjourney赢在"社区+品牌+极简UX"；相比[[Stable Diffusion]]的"开源自由"，Midjourney赢在"易用+企业支持+品质保证" |
+| **核心差异** | 相比DALL-E 3的"精准执行"，Midjourney赢在"社区+品牌+极简UX"；相比Stable Diffusion的"开源自由"，Midjourney赢在"易用+企业支持+品质保证" |
 
 ---
 

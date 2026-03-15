@@ -2,33 +2,28 @@
 type: product
 name: AI Gallery
 name_cn: 华为AI相册
-url: https://www.huaweicloud.com/product/aialbum.html
-
-# 基本信息
+url: 'https://www.huaweicloud.com/product/aialbum.html'
 founded: 2018
-headquarters: Shenzhen, China
-founders: [Huawei]
+headquarters: 'Shenzhen, China'
+founders:
+  - Huawei
 stage: Scale
 status: Active
-
-# 关键指标（截至 2026-03-01）
-metrics_date: 2026-03-01
-arr: ""
+metrics_date: 2026-03-01T00:00:00.000Z
+arr: ''
 users: 200M月活用户（华为设备用户）
-monthly_visits: ""
+monthly_visits: ''
 mau: 200M
-funding_total: ""
+funding_total: ''
 funding_rounds: []
-valuation: ""
-employees: ""
-
-# 分类
+valuation: ''
+employees: ''
 category: 摄影/相册应用/AI应用
 subcategory: 华为设备预装AI相机应用
 target_user: 华为设备用户
-pricing_model: [free, freemium]
-
-# 打法标签
+pricing_model:
+  - free
+  - freemium
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +31,26 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 远
 industry_layer: 应用层
 pricing_quadrant: 低自主-低归因
-
-# 人物 & 竞品
-key_people: [Ren Zhengfei (任正非), Yu Chengdong (余承东)]
-competitors: [Google Photos, Apple Photos, [[产品卡片-Adobe Lightroom|Adobe Lightroom]], Snapseed]
-related_products: [Huawei Kirin Processor, Huawei Cloud, HarmonyOS]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Ren Zhengfei (任正非)
+  - Yu Chengdong (余承东)
+competitors:
+  - Google Photos
+  - Apple Photos
+  - Adobe Lightroom
+  - Snapseed
+related_products:
+  - Huawei Kirin Processor
+  - Huawei Cloud
+  - HarmonyOS
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: AI Gallery
 ---
-
 # AI Gallery（华为AI相册）
 
 > 一句话：华为设备的预装相册应用，通过"芯片级的 AI"和"云端存储"，把AI能力下沉到相机本体，是"软硬结合"的产品哲学代表。

@@ -2,58 +2,85 @@
 type: product
 name: DeepSeek
 name_cn: 深度求索
-url: https://www.deepseek.com/
-
-# 基本信息
+url: 'https://www.deepseek.com/'
 founded: 2023-07
 headquarters: 中国浙江杭州
-founders: [梁文锋 (Liang Wenfeng)]
+founders:
+  - 梁文锋 (Liang Wenfeng)
 stage: Growth
 status: Active
-
-# 关键指标（截至2026年3月）
-metrics_date: 2026-03-15
+metrics_date: 2026-03-15T00:00:00.000Z
 arr: 估算 $50-100M（基于 API 消耗量，未公布）
 users: 96.88M 月活跃用户（全球）
 monthly_visits: 45.2M 月访问次数（deepseek.com 2025年8月）
 mau: 22.15M 日活跃用户（平均全球）
 funding_total: $700M（来自 High-Flyer 母基金）
-funding_rounds: [{round: "内部融资", amount: "$700M", investors: ["High-Flyer"], date: "2023-至今"}]
+funding_rounds:
+  - round: 内部融资
+    amount: $700M
+    investors:
+      - High-Flyer
+    date: 2023-至今
 valuation: 估算 $5-10B（未融外资，估值保守）
 employees: 约 200-300 人（公开资料有限）
-
-# 分类
 category: AI 基础模型 / 消费级 AI 助手
 subcategory: 大语言模型（LLM）/ 推理模型（Reasoning）
 target_user: 开发者（API 用户）/ 消费者（Chat 用户）/ AI 研究社区 / 企业用户
-pricing_model: [usage, subscription_optional]
-
-# 打法标签（双向链接）
-opportunity_playbooks: [吃技术升级红利, 地缘政治红利反转]
-design_playbooks: [Chat 对话式, 开源颠覆, Reasoning 推理可见化]
-mvp_playbooks: [技术适配, 简易拼装, 开源作为 MVP]
-pmf_playbooks: [迫切刚需, 技术适配, 性价比压倒式优势]
-growth_playbooks: [开源合作, 借势崛起, 病毒传播-产品即内容, Sputnik moment]
-monetization_playbooks: [按消耗-token计费, 损失领导者模式]
-moat_playbooks: [AI即壁垒, 开源生态, 效率优先, 地缘政治护城河]
-
-# 战略框架标签
+pricing_model:
+  - usage
+  - subscription_optional
+opportunity_playbooks:
+  - 吃技术升级红利
+  - 地缘政治红利反转
+design_playbooks:
+  - Chat 对话式
+  - 开源颠覆
+  - Reasoning 推理可见化
+mvp_playbooks:
+  - 技术适配
+  - 简易拼装
+  - 开源作为 MVP
+pmf_playbooks:
+  - 迫切刚需
+  - 技术适配
+  - 性价比压倒式优势
+growth_playbooks:
+  - 开源合作
+  - 借势崛起
+  - 病毒传播-产品即内容
+  - Sputnik moment
+monetization_playbooks:
+  - 按消耗-token计费
+  - 损失领导者模式
+moat_playbooks:
+  - AI即壁垒
+  - 开源生态
+  - 效率优先
+  - 地缘政治护城河
 distance_to_money: 近
 industry_layer: 模型层
 pricing_quadrant: 低自主-高归因（API 边际成本清晰，用户感知直接）
-
-# 人物 & 竞品
-key_people: [梁文锋, 高翔 (联合创始人/技术负责人)]
-competitors: [ChatGPT, Claude, Gemini, Llama, Qwen]
-related_products: [ChatGPT, Claude, Gemini, Perplexity, ChatGLM]
-
-# 元信息
-last_updated: 2026-03-15
+key_people:
+  - 梁文锋
+  - 高翔 (联合创始人/技术负责人)
+competitors:
+  - ChatGPT
+  - Claude
+  - Gemini
+  - Llama
+  - Qwen
+related_products:
+  - ChatGPT
+  - Claude
+  - Gemini
+  - Perplexity
+  - ChatGLM
+last_updated: 2026-03-15T00:00:00.000Z
 confidence: High
 mars_reviewed: false
+title: DeepSeek
 ---
-
-# [[产品卡片-DeepSeek|DeepSeek]]
+# DeepSeek
 
 > 用极限效率打破"算力即一切"的假设：$5.6M 训练出 GPT-4 级别的推理模型，同时重新定义了 AI 定价权力。
 
@@ -64,13 +91,13 @@ mars_reviewed: false
 | **全称** | 深度求索（DeepSeek） |
 | **归属** | 深度求索科技有限公司（幻方量化基金（High-Flyer）旗下 AI 实验室） |
 | **核心定位** | 开源高效推理模型 + 免费消费级 AI 助手 + API 推理服务（极低成本）|
-| **全球排名** | a16z Top 100 AI 应用第 4 名；Web 全球第 4（仅次 [[产品卡片-ChatGPT|ChatGPT]]、[[产品卡片-Gemini|Gemini]]、[[产品卡片-Claude|Claude]]）；App Store 多个国家第 1 |
+| **全球排名** | a16z Top 100 AI 应用第 4 名；Web 全球第 4（仅次 ChatGPT、Gemini、Claude）；App Store 多个国家第 1 |
 | **关键指标** | 96.88M MAU / 45.2M 月访问量 / 估算 ARR $50-100M / ~2000 员工规模的全球研究社区 |
 | **定价** | 消费端免费（零订阅）；API: V3.2 $0.28/$0.42 per M tokens（vs GPT-5.2 的 $1.75/$14，便宜 85-97%） |
 | **标志性时刻** | 2025年1月20日 R1 发布 → Nvidia 单日跌 17% 蒸发 $600B 市值 → "AI 的 Sputnik moment" |
 | **核心架构** | MoE（671B 参数，仅激活 37B）+ MLA（多头潜在注意力）+ 辅助损失无负载均衡创新 |
 | **训练成本** | R1: $5.6M（vs o1 的 $100M+）；V3: 2.788M H800 GPU 小时（极端效率） |
-| **开源协议** | MIT（完全开源，可商用）→ [[产品卡片-Hugging Face|Hugging Face]] 上 Qwen 已达 700M 下载，全生态爆发 |
+| **开源协议** | MIT（完全开源，可商用）→ Hugging Face 上 Qwen 已达 700M 下载，全生态爆发 |
 
 ---
 
@@ -78,7 +105,7 @@ mars_reviewed: false
 
 ### 创始人基因
 
-[[梁文锋]]（Liang Wenfeng），浙江大学校友，是这个故事的核心。他不是典型的 AI 科学家，而是**量化对冲基金创始人**——这决定了 DeepSeek 的整个 DNA。
+梁文锋（Liang Wenfeng），浙江大学校友，是这个故事的核心。他不是典型的 AI 科学家，而是**量化对冲基金创始人**——这决定了 DeepSeek 的整个 DNA。
 
 **关键经历的影响**：
 - 2016 年与同学创办幻方（High-Flyer），成为中国顶级量化基金，2024 年资产管理规模 $8B
@@ -126,7 +153,7 @@ mars_reviewed: false
 1. **算力约束** → 逼迫算法创新。Transformer 架构的理论天花板其实给了优化很大的空间，OpenAI/Google 没有动力挖掘，因为他们算力充足；中国被逼必须挖
 2. **开源生态成熟** → DeepSeek 的开源策略成为可能。Hugging Face、GGUF、LLaMA 等工具的成熟，让"一个开源模型能快速分发到全球百万级部署"不再是梦想
 3. **量化基金的资源** → High-Flyer 有 $8B AUM，研究预算充足，可以支撑"长期无商业压力"的研发
-4. **全球开发者饥渴** → 2023-2024 年，[[Llama]] 的成功证明了开源模型的市场空间，但还没有人同时做到"开源 + 顶级性能 + 极低成本"
+4. **全球开发者饥渴** → 2023-2024 年，Llama 的成功证明了开源模型的市场空间，但还没有人同时做到"开源 + 顶级性能 + 极低成本"
 
 #### 非共识判断（Non-Consensus Bet）
 
@@ -159,7 +186,7 @@ mars_reviewed: false
 
 **机会类型**：供给侧技术突破 + 定价维度重新定义 + 地缘政治驱动的需求侧变化
 
-相关打法：[[吃技术升级红利]]、[[把玩法封装成产品]]
+相关打法：[[02-打法库/01-机会识别/吃技术升级红利|吃技术升级红利]]、[[02-打法库/01-机会识别/把玩法封装成产品|把玩法封装成产品]]
 
 ---
 
@@ -223,7 +250,7 @@ DeepSeek-V3.2 或 R1
 
 **推理成本优化的关键**：MoE 每次只激活 37B（而不是全部 671B），推理成本仅为同规模密集模型的 1/18。这**不是补贴**，是真正的结构性成本优势。
 
-相关打法：[[Chat 对话式]]、[[开源颠覆]]
+相关打法：[[02-打法库/02-产品设计/Chat 对话式|Chat 对话式]]、[[02-打法库/02-产品设计/开源颠覆|开源颠覆]]
 
 ---
 
@@ -282,13 +309,13 @@ DeepSeek-V3.2 或 R1
 
 #### MVP 策略类型
 
-[[技术适配]]：不是发明新的应用范式，而是在已验证的"对话式 AI 助手""编程辅助"赛道上，用优越的模型性能 + 极低价格切入
+[[02-打法库/03-MVP策略/技术适配|技术适配]]：不是发明新的应用范式，而是在已验证的"对话式 AI 助手""编程辅助"赛道上，用优越的模型性能 + 极低价格切入
 
-[[简易拼装]]：deepseek.com 几乎是 ChatGPT 界面的复刻，零学习成本；产品力完全押注在模型上
+[[02-打法库/03-MVP策略/简易拼装|简易拼装]]：deepseek.com 几乎是 ChatGPT 界面的复刻，零学习成本；产品力完全押注在模型上
 
 [[开源作为 MVP]]：开源权重本身就是最好的 MVP——让全球开发者免费测试，每一次部署都是一次验证
 
-相关打法：[[技术适配]]、[[简易拼装]]
+相关打法：[[02-打法库/03-MVP策略/技术适配|技术适配]]、[[02-打法库/03-MVP策略/简易拼装|简易拼装]]
 
 ---
 
@@ -330,12 +357,12 @@ DeepSeek 没有试图做万能的。它聚焦在：
 
 没有做的：
 - 多模态（暂时只有文本）
-- Real-time web search（不像 [[产品卡片-Perplexity|Perplexity]]）
+- Real-time web search（不像 Perplexity）
 - Custom knowledge bases（不像 ChatGPT Builder）
 
 这看起来是缺点，其实是**聚焦的力量**——把有限资源投入到最核心的竞争力上。
 
-相关打法：[[迫切刚需]]、[[技术适配]]
+相关打法：[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]]、[[02-打法库/03-MVP策略/技术适配|技术适配]]
 
 ---
 
@@ -411,13 +438,13 @@ DeepSeek 市场占有率上升
 
 #### 增长引擎类型
 
-[[借势崛起]]：美国媒体的恐慌报道反而成了最大的免费营销
+[[02-打法库/05-增长引擎/借势崛起|借势崛起]]：美国媒体的恐慌报道反而成了最大的免费营销
 
-[[病毒传播-产品即内容]]："DeepSeek 用 $600 万训练出 GPT-4 级别"是完美的故事，自带传播力
+[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]："DeepSeek 用 $600 万训练出 GPT-4 级别"是完美的故事，自带传播力
 
-[[开源合作]]：Hugging Face、GitHub、AI 开发者社区的网络效应
+[[02-打法库/05-增长引擎/开源合作|开源合作]]：Hugging Face、GitHub、AI 开发者社区的网络效应
 
-相关打法：[[开源合作]]、[[借势崛起]]、[[病毒传播-产品即内容]]
+相关打法：[[02-打法库/05-增长引擎/开源合作|开源合作]]、[[02-打法库/05-增长引擎/借势崛起|借势崛起]]、[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]
 
 ---
 
@@ -523,7 +550,7 @@ Llama 现在在追 DeepSeek，但追的是 6 个月前的 DeepSeek。
 - OpenAI、Google 加速迭代，降价应对
 - 本地 LLM 方案成熟（如 on-device 推理），削弱对云服务的依赖
 
-相关打法：[[AI就是壁垒]]、[[开源生态]]、[[效率优先]]
+相关打法：[[02-打法库/07-护城河/AI就是壁垒|AI就是壁垒]]、[[02-打法库/07-护城河/开源生态|开源生态]]、[[02-打法库/07-护城河/效率优先|效率优先]]
 
 ---
 
@@ -1008,11 +1035,11 @@ DeepSeek 处在**"低自主度 - 高归因"**象限：
 
 ## 相关案例
 
-- [[ChatGPT]] — 直接竞争对手，消费端的标杆；DeepSeek-R1 对标 o1 推理能力
-- [[Claude]] — Anthropic 产品，代表美国 AI 阵营的"安全理性派"；API 定价 10 倍高于 DeepSeek
-- [[Llama]] — Meta 开源模型，DeepSeek 在开源赛道的主要竞争者；但性能已被超越
-- [[Qwen]] — 阿里开源模型，中国开源 AI 的另一个代表；现在的地位因 DeepSeek 而相对下降
-- [[Perplexity]] — 搜索 + AI 的混合产品；虽然也用开源模型做后端，但聚焦在"信息检索"而不是成本竞争
+- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 直接竞争对手，消费端的标杆；DeepSeek-R1 对标 o1 推理能力
+- [[01-产品库/产品卡片-Claude|Claude]] — Anthropic 产品，代表美国 AI 阵营的"安全理性派"；API 定价 10 倍高于 DeepSeek
+- [[01-产品库/Llama|Llama]] — Meta 开源模型，DeepSeek 在开源赛道的主要竞争者；但性能已被超越
+- [[01-产品库/产品卡片-Qwen|Qwen]] — 阿里开源模型，中国开源 AI 的另一个代表；现在的地位因 DeepSeek 而相对下降
+- [[01-产品库/产品卡片-Perplexity|Perplexity]] — 搜索 + AI 的混合产品；虽然也用开源模型做后端，但聚焦在"信息检索"而不是成本竞争
 
 ---
 

@@ -1,63 +1,69 @@
 ---
 type: product
-name: "Grok"
-name_cn: "Grok"
-url: "https://grok.x.ai"
+name: Grok
+name_cn: Grok
+url: 'https://grok.x.ai'
 founded: 2023
-headquarters: "Austin, TX, US"
-founders: ["Elon Musk", "xAI 团队"]
-stage: "Scale"
-status: "Active"
+headquarters: 'Austin, TX, US'
+founders:
+  - Elon Musk
+  - xAI 团队
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$300M+ (estimated)"
-users: "500M+ (X platform users with access)"
-monthly_visits: "100M+"
-mau: "50M+"
-funding_total: "$24B"
-valuation: "$40B (Series B, 2025)"
-employees: "200+"
-category: "AI Assistant"
-subcategory: "Conversational AI with Realtime Data"
-target_user: "X users, knowledge seekers, rebellious edge users"
-pricing_model: ["Free (limited)", "X Premium (access Grok)", "X Premium+ $168/year", "Enterprise"]
+arr: $300M+ (estimated)
+users: 500M+ (X platform users with access)
+monthly_visits: 100M+
+mau: 50M+
+funding_total: $24B
+valuation: '$40B (Series B, 2025)'
+employees: 200+
+category: AI Assistant
+subcategory: Conversational AI with Realtime Data
+target_user: 'X users, knowledge seekers, rebellious edge users'
+pricing_model:
+  - Free (limited)
+  - X Premium (access Grok)
+  - X Premium+ $168/year
+  - Enterprise
 opportunity_playbooks:
-  - "[[实时数据差异化]]"
-  - "[[平台寄生]]"
-  - "[[监管套利]]"
+  - '[[实时数据差异化]]'
+  - '[[平台寄生]]'
+  - '[[监管套利]]'
 design_playbooks:
-  - "[[轻松赋权姿态]]"
-  - "[[实时网络搜索]]"
+  - '[[轻松赋权姿态]]'
+  - '[[实时网络搜索]]'
 mvp_playbooks:
-  - "[[快速迭代]]"
+  - '[[快速迭代]]'
 pmf_playbooks:
-  - "[[边缘用户的偏好]]"
+  - '[[边缘用户的偏好]]'
 growth_playbooks:
-  - "[[X 平台内嵌]]"
-  - "[[病毒传播]]"
+  - '[[X 平台内嵌]]'
+  - '[[病毒传播]]'
 monetization_playbooks:
-  - "[[X Premium 绑定]]"
+  - '[[X Premium 绑定]]'
 moat_playbooks:
-  - "[[实时数据流]]"
-  - "[[平台垄断]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "中频次中单价"
+  - '[[实时数据流]]'
+  - '[[平台垄断]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 中频次中单价
 key_people:
-  - "[[Elon Musk]] (Executive Chairman, xAI)"
-  - "[[Jared Kaplan]] (VP, xAI)"
+  - '[[Elon Musk]] (Executive Chairman, xAI)'
+  - '[[Jared Kaplan]] (VP, xAI)'
 competitors:
-  - "[[ChatGPT]]"
-  - "[[Claude]]"
-  - "[[Gemini]]"
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
 related_products:
-  - "[[X (Twitter)]]"
-  - "[[Colossus]]"
-last_updated: 2026-03-14
-confidence: "Medium"
+  - '[[X (Twitter)]]'
+  - '[[Colossus]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium
 mars_reviewed: false
+title: Grok
 ---
-
-# [[产品卡片-Grok|Grok]]
+# Grok
 
 > 一句话：Elon Musk 用 X 平台的实时数据流和"不受限"的个性把 OpenAI 关掉，用一个新的 AI 助手讽刺美国主流媒体偏见，结果被骂和被爱的人一样多。
 
@@ -109,7 +115,7 @@ mars_reviewed: false
 **Musk 的"被背叛感"**：
 - 2015 年，Musk 和 Samantha Harris、Greg Brockman 等人共同创办 OpenAI，目标是"开源 AI、惠及人类"
 - 2018 年，Musk 离开了 OpenAI 董事会（公开理由是时间冲突，实际理由可能更复杂）
-- 2023 年，[[产品卡片-ChatGPT|ChatGPT]] 大火，OpenAI 与 Microsoft 深度绑定，Musk 看到"自己创办的公司被Microsoft 控制"，决定创办 xAI 直接竞争
+- 2023 年，ChatGPT 大火，OpenAI 与 Microsoft 深度绑定，Musk 看到"自己创办的公司被Microsoft 控制"，决定创办 xAI 直接竞争
 
 **非共识判断表**：
 
@@ -234,7 +240,7 @@ Grok 的定价被"绑定"到 X Premium 内——用户不是为了 Grok 付费�
 
 **最大威胁**：
 1. **ChatGPT 集成实时搜索**（已发生）：OpenAI 推出了"Browsing"功能，削弱了 Grok 的差异化
-2. **[[产品卡片-Claude|Claude]] 推出企业级实时分析**：Anthropic 可能会开发类似 Grok 的"实时数据"功能
+2. **Claude 推出企业级实时分析**：Anthropic 可能会开发类似 Grok 的"实时数据"功能
 3. **Musk 的政治立场的两极化**：一些用户因为 Musk 的政治立场而拒绝用 Grok，限制了用户基数的上限
 4. **X 平台的衰落风险**：如果 X 用户数量下降，Grok 也会受到直接冲击
 
@@ -274,7 +280,7 @@ Grok 是**AI Wrapper（寄生型）**——Grok 完全依赖 X 平台的用户�
 
 | 维度 | Grok 策略 | 竞品策略 | 胜负 |
 |-----|-----------|--------|-----|
-| **实时数据** | X 推文流实时索引 | ChatGPT Browsing（晚），[[产品卡片-Gemini|Gemini]] Search（强） | Grok 早期领先，但正被追赶 |
+| **实时数据** | X 推文流实时索引 | ChatGPT Browsing（晚），Gemini Search（强） | Grok 早期领先，但正被追赶 |
 | **模型能力** | Grok-2 接近 GPT-4 | ChatGPT GPT-4 Turbo，Claude 3.5 Opus | 五五开，Grok 还要追 |
 | **平台集成度** | X 侧边栏深度融合 | ChatGPT 独立应用，Claude Web | Grok 赢 |
 | **个性化** | 反讽、轻松的语气 | ChatGPT 中立，Claude 谨慎 | Grok 赢（差异化） |
@@ -398,7 +404,7 @@ Grok 是**AI Wrapper（寄生型）**——Grok 完全依赖 X 平台的用户�
 为什么 Grok 故意表现得有点"放肆"？背后的心理学是"代理"。用户在用 Grok 时，某种程度上在通过 AI 表达自己的"反建制"立场。这是一个强大的心理认同。
 
 **融资节奏的激进性**：
-xAI 从成立到 Series B 就融资 $6B，相当于 [[产品卡片-Cursor|Cursor]] 用 2 年融的钱 xAI 用 1 年融完。这反映了投资者对"Musk 的下一个赌注"的关注。
+xAI 从成立到 Series B 就融资 $6B，相当于 Cursor 用 2 年融的钱 xAI 用 1 年融完。这反映了投资者对"Musk 的下一个赌注"的关注。
 
 ---
 

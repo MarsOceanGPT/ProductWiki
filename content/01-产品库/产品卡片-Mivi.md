@@ -2,33 +2,28 @@
 type: product
 name: Mivi
 name_cn: 美唯（印度AI音乐视频创作工具）
-url: https://mivi.in
-
-# 基本信息
+url: 'https://mivi.in'
 founded: 2023
 headquarters: 班加罗尔
-founders: [Mivi创始团队]
+founders:
+  - Mivi创始团队
 stage: Growth
 status: Active
-
-# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 数百万月活
-monthly_visits:
-mau:
+monthly_visits: null
+mau: null
 funding_total: 已融资数百万美元
 funding_rounds: []
-valuation:
-employees:
-
-# 分类
+valuation: null
+employees: null
 category: AI音乐视频创作
 subcategory: 音乐生成、视频编辑、创意工具
 target_user: 印度内容创作者、抖音用户、学生
-pricing_model: [freemium, subscription]
-
-# 打法标签（双向链接）
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +31,21 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 中
 industry_layer: 应用层
 pricing_quadrant: 高自主-低归因
-
-# 人物 & 竞品
 key_people: []
-competitors: [[[产品卡片-Suno\|Suno]], [[产品卡片-Runway\|Runway]], [[产品卡片-CapCut\|CapCut]]]
-related_products: [其他印度AI创意工具]
-
-# 元信息
-last_updated: 2026-03-14
+competitors:
+  - Suno
+  - Runway
+  - CapCut
+related_products:
+  - 其他印度AI创意工具
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: Mivi
 ---
-
 # Mivi
 
 > 印度AI创业生态的代表作：在10亿人口的移动优先市场，用"音乐+视频"组合打造平台级创意工具

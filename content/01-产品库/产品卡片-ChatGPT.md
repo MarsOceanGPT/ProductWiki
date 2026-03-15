@@ -1,69 +1,77 @@
 ---
 type: product
-name: "ChatGPT"
-name_cn: "ChatGPT"
-url: "https://openai.com/chatgpt"
+name: ChatGPT
+name_cn: ChatGPT
+url: 'https://openai.com/chatgpt'
 founded: 2022
-headquarters: "San Francisco, US"
-founders: ["Sam Altman", "Greg Brockman", "Ilya Sutskever"]
-stage: "Scale"
-status: "Active"
+headquarters: 'San Francisco, US'
+founders:
+  - Sam Altman
+  - Greg Brockman
+  - Ilya Sutskever
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$4B+"
-users: "900M+ weekly active, 200M+ paid subscribers"
-monthly_visits: "1.8B+ (Mar 2026)"
-mau: "900M (Jan 2026)"
-funding_total: "$100B+"
-valuation: "$200B (2024 Series C)"
-employees: "1000+"
-category: "AI Assistant"
-subcategory: "Conversational AI / General Purpose LLM"
-target_user: "Individual users, enterprises, developers"
-pricing_model: ["Free", "ChatGPT Plus $20/mo", "Pro $200/mo", "Team $30/user/mo", "Enterprise custom"]
+arr: $4B+
+users: '900M+ weekly active, 200M+ paid subscribers'
+monthly_visits: 1.8B+ (Mar 2026)
+mau: 900M (Jan 2026)
+funding_total: $100B+
+valuation: $200B (2024 Series C)
+employees: 1000+
+category: AI Assistant
+subcategory: Conversational AI / General Purpose LLM
+target_user: 'Individual users, enterprises, developers'
+pricing_model:
+  - Free
+  - ChatGPT Plus $20/mo
+  - Pro $200/mo
+  - Team $30/user/mo
+  - Enterprise custom
 opportunity_playbooks:
-  - "[[AI模型商品化]]"
-  - "[[用户端的AI民主化]]"
-  - "[[发布即媒体]]"
+  - '[[AI模型商品化]]'
+  - '[[用户端的AI民主化]]'
+  - '[[发布即媒体]]'
 design_playbooks:
-  - "[[对话范式]]"
-  - "[[System Prompt设计]]"
-  - "[[Temperature调参即产品]]"
+  - '[[对话范式]]'
+  - '[[System Prompt设计]]'
+  - '[[Temperature调参即产品]]'
 mvp_playbooks:
-  - "[[模型能力驱动MVP]]"
+  - '[[模型能力驱动MVP]]'
 pmf_playbooks:
-  - "[[100万用户仅5天]]"
-  - "[[口碑病毒传播]]"
+  - '[[100万用户仅5天]]'
+  - '[[口碑病毒传播]]'
 growth_playbooks:
-  - "[[网络效应]]"
-  - "[[生态内置]]"
+  - '[[网络效应]]'
+  - '[[生态内置]]'
 monetization_playbooks:
-  - "[[订阅制]]"
-  - "[[API定价]]"
+  - '[[订阅制]]'
+  - '[[API定价]]'
 moat_playbooks:
-  - "[[模型能力]]"
-  - "[[网络效应]]"
-  - "[[品牌垄断]]"
-distance_to_money: "极近"
-industry_layer: "应用层"
-pricing_quadrant: "低频次高单价"
+  - '[[模型能力]]'
+  - '[[网络效应]]'
+  - '[[品牌垄断]]'
+distance_to_money: 极近
+industry_layer: 应用层
+pricing_quadrant: 低频次高单价
 key_people:
-  - "[[Sam Altman]] (CEO)"
-  - "[[Ilya Sutskever]] (Chief Scientist)"
-  - "[[Greg Brockman]] (President)"
+  - '[[Sam Altman]] (CEO)'
+  - '[[Ilya Sutskever]] (Chief Scientist)'
+  - '[[Greg Brockman]] (President)'
 competitors:
-  - "[[Gemini]]"
-  - "[[Claude]]"
-  - "[[Copilot]]"
+  - '[[01-产品库/产品卡片-Gemini|Gemini]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
+  - '[[01-产品库/产品卡片-Copilot|Copilot]]'
 related_products:
-  - "[[GPT-4]]"
-  - "[[Cursor]]"
-  - "[[OpenAI Operator]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[GPT-4]]'
+  - '[[01-产品库/产品卡片-Cursor|Cursor]]'
+  - '[[01-产品库/OpenAI Operator|OpenAI Operator]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: ChatGPT
 ---
-
-# [[产品卡片-ChatGPT|ChatGPT]]
+# ChatGPT
 
 > 一句话：用 GPT-3.5 和 RLHF 把模型能力民主化为对话，一夜引爆 1 亿用户，成为人类历史上最快的应用增长奇迹。
 
@@ -272,8 +280,8 @@ ChatGPT Plus 用户平均每月消耗约 500K tokens（包括常见查询）。�
 
 | 壁垒类型 | 强度 | 说明 |
 |--------|------|------|
-| **模型能力** | 极强（2年期）| GPT-4 在推理、编程、多模态上领先竞对 1-2 代。但这个优势在衰减——[[产品卡片-Claude|Claude]] 3.5 已经能在某些任务上超过 GPT-4 |
-| **品牌垄断** | 极强（长期）| ChatGPT = AI 的代名词。普通人想到 AI 就想到 ChatGPT，而不是 Claude 或 [[产品卡片-Gemini|Gemini]]。这个一旦确立很难翻转 |
+| **模型能力** | 极强（2年期）| GPT-4 在推理、编程、多模态上领先竞对 1-2 代。但这个优势在衰减——Claude 3.5 已经能在某些任务上超过 GPT-4 |
+| **品牌垄断** | 极强（长期）| ChatGPT = AI 的代名词。普通人想到 AI 就想到 ChatGPT，而不是 Claude 或 Gemini。这个一旦确立很难翻转 |
 | **网络效应** | 中强（3年期）| 900M 用户，社区、插件生态、集成生态。但网络效应不如社交媒体那么强（不是"我的朋友用"就必须用） |
 | **数据飞轮** | 中强（衰减）| 每个 RLHF 反馈都改进模型。但 Claude 和 Gemini 也在做同样的事，数据优势在缩小 |
 | **用户切换成本** | 中等 | 已保存的对话历史、插件定制、浏览器插件。但迁移到 Claude 成本不高 |
@@ -291,8 +299,8 @@ ChatGPT Plus 用户平均每月消耗约 500K tokens（包括常见查询）。�
 **最大威胁**：
 1. **Claude 的高质量 & 企业友好**：已经在开发者社区里拿走了一部分的高价值用户
 2. **Gemini 集成 Google 全家桶**：Google 搜索、Gmail、Workspace 都能直接用 Gemini，用户不用切换
-3. **本地模型的商品化**：[[Llama]] 3 / [[产品卡片-DeepSeek|DeepSeek]] 可以本地部署，某些用户不再需要付费版本
-4. **中国市场完全丧失**：由于地缘政治，ChatGPT 在中国无法直接访问，[[产品卡片-Doubao|豆包]] / [[产品卡片-Kimi|Kimi]] 等本地应用独占了 5 亿+ 用户
+3. **本地模型的商品化**：Llama 3 / DeepSeek 可以本地部署，某些用户不再需要付费版本
+4. **中国市场完全丧失**：由于地缘政治，ChatGPT 在中国无法直接访问，豆包 / Kimi 等本地应用独占了 5 亿+ 用户
 
 ---
 
@@ -339,7 +347,7 @@ ChatGPT 是**AI Native**——没有 ChatGPT，OpenAI 就没有现金流（API �
 | **编程能力** | GPT-4 可用 | Claude Opus 在 SWE-Bench 领先 30%+ | Claude 赢 |
 | **价格** | Plus $20/月 | Claude Pro $20/月，但额度更高 | 五五开 |
 | **易用性** | Web UI 极简，品牌认知度最高 | Claude 网页版/API 同样好用 | ChatGPT 赢（品牌力） |
-| **生态整合** | 插件、[[产品卡片-Copilot|Copilot]] for XXX、API 集成最广泛 | Gemini 集成 Google 全家桶（Gmail、Workspace、Docs） | Gemini 赢（深度集成）|
+| **生态整合** | 插件、Copilot for XXX、API 集成最广泛 | Gemini 集成 Google 全家桶（Gmail、Workspace、Docs） | Gemini 赢（深度集成）|
 | **企业安全** | 有 Enterprise，但不如 Claude 针对性强 | Claude 主打"Constitutional AI"和企业合规 | Claude 赢 |
 | **上下文窗口** | GPT-4o 128K | Gemini 1M token，Claude Sonnet 也是 1M | Gemini/Claude 赢 |
 

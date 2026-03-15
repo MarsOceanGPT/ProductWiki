@@ -10,19 +10,39 @@ type: product
 成立年份: 2006（桌面版），2014（移动端大升级）
 公开年份: 2006
 tags:
-  opportunity: [专业工具向大众化, AI功能赋能]
-  design: [非破坏性编辑, AI 生成式填充, 云端同步]
-  mvp: [工具堆积, 功能聚焦]
-  pmf: [专业摄影师刚需, 高端用户沉淀]
-  growth: [创意社区, 教育机构渗透, AI功能口碑]
-  monetization: [按应用-订阅, 企业授权]
-  moat: [专业工具标准地位, 云端数据生态, AI模型能力, 格式垄断]
-相关人物: [Adobe 管理层]
-竞争对手: [Capture One, Affinity Photo, Snapseed, VSCO, Darkroom]
-关联产品: [Adobe Photoshop, Firefly, Creative Cloud]
+  - 专业工具向大众化
+  - AI功能赋能
+  - 非破坏性编辑
+  - AI 生成式填充
+  - 云端同步
+  - 工具堆积
+  - 功能聚焦
+  - 专业摄影师刚需
+  - 高端用户沉淀
+  - 创意社区
+  - 教育机构渗透
+  - AI功能口碑
+  - 按应用-订阅
+  - 企业授权
+  - 专业工具标准地位
+  - 云端数据生态
+  - AI模型能力
+  - 格式垄断
+相关人物:
+  - Adobe 管理层
+竞争对手:
+  - Capture One
+  - Affinity Photo
+  - Snapseed
+  - VSCO
+  - Darkroom
+关联产品:
+  - Adobe Photoshop
+  - Firefly
+  - Creative Cloud
+title: Adobe Lightroom
 ---
-
-# [[产品卡片-Adobe Lightroom|Adobe Lightroom]]
+# Adobe Lightroom
 
 > "让每个人都能成为摄影大师。" — 从专业工具到大众化工具，Adobe 用 AI 重新定义了图片编辑的边界。
 
@@ -152,7 +172,7 @@ tags:
 - **Affinity Photo**：买断制，便宜，功能强，吸引了一部分用户
 - **Snapseed**：Google 旗下的免费手机修图工具，对初级用户威胁大
 - **VSCO**：社交属性，年轻用户多
-- **大模型直接使用**：[[产品卡片-ChatGPT|ChatGPT]] + 图像生成能力足以替代很多修图需求
+- **大模型直接使用**：ChatGPT + 图像生成能力足以替代很多修图需求
 
 **Adobe 的防守**：
 - 强化 Firefly 的能力
@@ -194,7 +214,7 @@ tags:
 
 **可复制到其他场景**：
 - 视频编辑工具（专业版 Premiere → 大众版 Capcut）
-- 设计工具（专业版 Illustrator → 大众版 [[产品卡片-Canva|Canva]]）
+- 设计工具（专业版 Illustrator → 大众版 Canva）
 - 音乐编辑工具（专业版 Audition → 大众版 ？）
 
 **难以复制的点**：
@@ -270,7 +290,7 @@ Firefly 的推出本质上是在加强这个转变。AI 的出现让"零基础�
 ### 核心技术选择：自研生成式 AI vs API 集成
 
 **Firefly 的自研战略**：
-- Adobe 选择了**自研生成式模型（Firefly）**而非调用 OpenAI/[[产品卡片-Claude|Claude]] API
+- Adobe 选择了**自研生成式模型（Firefly）**而非调用 OpenAI/Claude API
 - 理由：版权敏感性（摄影师社区对 AI 训练数据非常敏感）
 - Firefly 基于 Adobe 已授权的数百万张创意资产训练（而不是互联网爬虫数据）
 - 这是对"版权清晰"这个差异化点的技术赌注
@@ -339,7 +359,7 @@ Firefly 的推出本质上是在加强这个转变。AI 的出现让"零基础�
 **2. AI能力过度承诺**
 - **危险**：Firefly的生成式填充"听起来很强"，实际用户期望值更高
 - **实例**：很多用户试用后发现"生成的天空看起来假"，回到手工调整
-- **风险**：如果用户发现"ChatGPT+[[产品卡片-Midjourney|Midjourney]]"的组合成本更低、效果更好，可能迁移
+- **风险**：如果用户发现"ChatGPT+Midjourney"的组合成本更低、效果更好，可能迁移
 
 **3. 版权诉讼的商业冲击**
 - **危险**：2024年的版权诉讼如果败诉，Firefly可能被迫关闭或受限

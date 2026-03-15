@@ -2,43 +2,85 @@
 type: product
 name: Gamma
 name_cn: Gamma
-url: https://gamma.app
+url: 'https://gamma.app'
 founded: 2022
-headquarters: San Francisco, USA
-founders: ["Jon Noronha (CEO, ex-Apple)", "Karina Popkova", "Rohin Joshi"]
+headquarters: 'San Francisco, USA'
+founders:
+  - 'Jon Noronha (CEO, ex-Apple)'
+  - Karina Popkova
+  - Rohin Joshi
 stage: Series B ($50M)
 status: Active
-metrics_date: "2026-03"
-arr: "$100M+ (estimated)"
-users: "5M+ registered"
-monthly_visits: "2M+"
-mau: "1M+"
-funding_total: "$50M+"
-funding_rounds: ["Seed", "Series A", "Series B $50M (2024)"]
-valuation: "$500M (2024 estimate)"
-employees: "150+"
-category: "AI-powered Presentation Generation"
-subcategory: "Productivity, Business Tools"
-target_user: "Professionals, executives, business presenters, educators"
-pricing_model: ["Freemium", "Subscription", "Enterprise"]
-opportunity_playbooks: ["Replace PowerPoint/Keynote", "AI-first presentation design", "Real-time collaboration"]
-design_playbooks: ["Natural language to presentation", "AI layout intelligence", "Template-less design"]
-mvp_playbooks: ["Text prompt to deck generation", "Minimal input for fast output"]
-pmf_playbooks: ["Professional adoption", "Meeting preparation efficiency", "Design democratization"]
-growth_playbooks: ["PLG strategy", "Word-of-mouth among professionals", "Enterprise sales"]
-monetization_playbooks: ["Freemium conversion", "Pro subscription", "Enterprise licensing"]
-moat_playbooks: ["Design AI quality", "User-generated templates", "Collaboration features"]
-distance_to_money: "Direct (B2B subscription)"
-industry_layer: "Application/Productivity"
-pricing_quadrant: "Freemium + Premium subscription"
-key_people: ["Jon Noronha (CEO, ex-Apple HCI researcher)", "Karina Popkova (Co-founder)", "Rohin Joshi (Co-founder)"]
-competitors: ["Microsoft PowerPoint", "Keynote", "Beautiful.ai", "Canva Presentation", "Tome"]
-related_products: ["[[Canva]]", "[[Beautiful.ai]]", "[[ChatGPT]]", "[[Notion AI]]", "[[Figma]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $100M+ (estimated)
+users: 5M+ registered
+monthly_visits: 2M+
+mau: 1M+
+funding_total: $50M+
+funding_rounds:
+  - Seed
+  - Series A
+  - Series B $50M (2024)
+valuation: $500M (2024 estimate)
+employees: 150+
+category: AI-powered Presentation Generation
+subcategory: 'Productivity, Business Tools'
+target_user: 'Professionals, executives, business presenters, educators'
+pricing_model:
+  - Freemium
+  - Subscription
+  - Enterprise
+opportunity_playbooks:
+  - Replace PowerPoint/Keynote
+  - AI-first presentation design
+  - Real-time collaboration
+design_playbooks:
+  - Natural language to presentation
+  - AI layout intelligence
+  - Template-less design
+mvp_playbooks:
+  - Text prompt to deck generation
+  - Minimal input for fast output
+pmf_playbooks:
+  - Professional adoption
+  - Meeting preparation efficiency
+  - Design democratization
+growth_playbooks:
+  - PLG strategy
+  - Word-of-mouth among professionals
+  - Enterprise sales
+monetization_playbooks:
+  - Freemium conversion
+  - Pro subscription
+  - Enterprise licensing
+moat_playbooks:
+  - Design AI quality
+  - User-generated templates
+  - Collaboration features
+distance_to_money: Direct (B2B subscription)
+industry_layer: Application/Productivity
+pricing_quadrant: Freemium + Premium subscription
+key_people:
+  - 'Jon Noronha (CEO, ex-Apple HCI researcher)'
+  - Karina Popkova (Co-founder)
+  - Rohin Joshi (Co-founder)
+competitors:
+  - Microsoft PowerPoint
+  - Keynote
+  - Beautiful.ai
+  - Canva Presentation
+  - Tome
+related_products:
+  - '[[01-产品库/产品卡片-Canva|Canva]]'
+  - '[[Beautiful.ai]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Notion AI|Notion AI]]'
+  - '[[Figma]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Gamma
 ---
-
 # Gamma 产品卡片
 
 ## 基本面表格
@@ -193,7 +235,7 @@ AI自动生成：[30-50个slide layouts with content]
 
 - vs Beautiful.ai: Gamma的UX更简洁（自然语言 vs form filling）
 - vs PowerPoint: Gamma的speed快100倍（30秒 vs 30分钟）
-- vs [[产品卡片-ChatGPT|ChatGPT]]: Gamma output是实际的presentation，不是text
+- vs ChatGPT: Gamma output是实际的presentation，不是text
 
 ### 2.4 PMF：设计师 → 商务人士的传播
 
@@ -342,7 +384,7 @@ AI自动生成：[30-50个slide layouts with content]
 - 为什么有风险：范式本身可能被大厂快速复制
 
 **大厂威胁**：
-- **Microsoft PowerPoint + [[产品卡片-Copilot|Copilot]]**：可能在2年内达成相同功能
+- **Microsoft PowerPoint + Copilot**：可能在2年内达成相同功能
   - 威胁度：极高（Office生态）
 - **Google Slides + Duet AI**：逐步推出
   - 威胁度：高
@@ -382,7 +424,7 @@ AI自动生成：[30-50个slide layouts with content]
 
 **Gamma的生态位**：
 - **不是**：PowerPoint replacement（虽然很接近）
-- **不是**：Design tool（那是Figma/[[产品卡片-Canva|Canva]]）
+- **不是**：Design tool（那是Figma/Canva）
 - **是**：**"AI-native的presentation creation platform"**
 
 **与竞品的定位对比**：
@@ -419,8 +461,8 @@ Gamma的思路：
 ```
 
 例子：
-- [[Canva]]最初也是"选template"而不是"design from scratch"
-- [[[[产品卡片-Notion AI|Notion AI]]]] 也是content-first（auto-complete based on context）
+- [[01-产品库/产品卡片-Canva|Canva]]最初也是"选template"而不是"design from scratch"
+- [[01-产品库/产品卡片-Notion AI|Notion AI]] 也是content-first（auto-complete based on context）
 
 **创新2：Template-less设计哲学**
 
@@ -489,7 +531,7 @@ Mainstream adoption开始
 Pro users become high-LTV
 ```
 
-这和[[[[产品卡片-Midjourney|Midjourney]]]]的"Free tier严格限制"strategy一致。
+这和[[01-产品库/产品卡片-Midjourney|Midjourney]]的"Free tier严格限制"strategy一致。
 
 **剧本3：Workplace Viral Loop**
 
@@ -601,7 +643,7 @@ Gamma的故事特别interesting因为它在问一个fundamental question：**如
 但更有意思的是Gamma所代表的broader trend：**从"用户主动做设计decisions"到"AI automatically做设计decisions"**。
 
 这对很多creative tools都有implications：
-- [[Canva]]未来可能也会evolve from templates to AI-generated layouts
+- [[01-产品库/产品卡片-Canva|Canva]]未来可能也会evolve from templates to AI-generated layouts
 - Figma可能evolve from "user manually arrange elements" to "AI suggest layout based on content"
 
 最后一个observation：Gamma的成功证明了一个founders的经验很important。Jon Noronha从Apple带来的"design thinking"已经embedded在Gamma的DNA里。这是hard to replicate for competitors who hire ex-engineers但不一定have founder-level design sensibility。

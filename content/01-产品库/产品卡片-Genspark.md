@@ -1,43 +1,47 @@
 ---
 type: product
-name: "Genspark"
-name_cn: "Genspark"
-url: "https://genspark.ai"
+name: Genspark
+name_cn: Genspark
+url: 'https://genspark.ai'
 founded: 2023
-headquarters: "Palo Alto, California, USA (Headquarters in Silicon Valley with Singapore office)"
-founders: ["Eric Jing", "Kaihua Zhu"]
-stage: "Series B"
-status: "Active"
-metrics_date: "2026-03"
-arr: "$155M-$200M+ (March 2026)"
-users: "2M+ monthly active users (April 2025)"
-monthly_visits: "信息不足，待补充"
-mau: "2M+"
-funding_total: "$435M+ (Seed $60M + Series A $100M + Series B $275M)"
+headquarters: >-
+  Palo Alto, California, USA (Headquarters in Silicon Valley with Singapore
+  office)
+founders:
+  - Eric Jing
+  - Kaihua Zhu
+stage: Series B
+status: Active
+metrics_date: 2026-03
+arr: $155M-$200M+ (March 2026)
+users: 2M+ monthly active users (April 2025)
+monthly_visits: 信息不足，待补充
+mau: 2M+
+funding_total: $435M+ (Seed $60M + Series A $100M + Series B $275M)
 funding_rounds:
-  - round: "Seed"
-    amount: "$60M"
-    date: "Early 2024"
-    lead_investor: "Lanchi Ventures"
-  - round: "Series A"
-    amount: "$100M"
-    date: "2024"
-    valuation: "$530M"
-  - round: "Series B"
-    amount: "$275M"
-    date: "November 2025"
-    lead_investor: "Emergence Capital Partners"
-    valuation: "$1.25B"
-valuation: "$1.25B (Post-money, Series B, November 2025)"
-employees: "143 (January 2026); 50 (February 2025)"
-category: "AI 搜索 / AI 工作室"
-subcategory: "AI Search Engine / Agent Workspace / Super Agent"
-target_user: "知识工作者、企业用户、分析师、咨询顾问、开发者、内容创作者"
+  - round: Seed
+    amount: $60M
+    date: Early 2024
+    lead_investor: Lanchi Ventures
+  - round: Series A
+    amount: $100M
+    date: '2024'
+    valuation: $530M
+  - round: Series B
+    amount: $275M
+    date: November 2025
+    lead_investor: Emergence Capital Partners
+    valuation: $1.25B
+valuation: '$1.25B (Post-money, Series B, November 2025)'
+employees: 143 (January 2026); 50 (February 2025)
+category: AI 搜索 / AI 工作室
+subcategory: AI Search Engine / Agent Workspace / Super Agent
+target_user: 知识工作者、企业用户、分析师、咨询顾问、开发者、内容创作者
 pricing_model:
-  - "Free: 100-200 credits/day"
-  - "Plus: $24.99/month"
-  - "Pro: $99+/month"
-  - "Enterprise: $30/user/month for teams"
+  - 'Free: 100-200 credits/day'
+  - 'Plus: $24.99/month'
+  - 'Pro: $99+/month'
+  - 'Enterprise: $30/user/month for teams'
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -45,27 +49,27 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-distance_to_money: "很近 - 直接付费订阅，人均ARR显著"
-industry_layer: "应用层 / 基础设施层"
-pricing_quadrant: "高价值高频使用 (Premium SaaS)"
+distance_to_money: 很近 - 直接付费订阅，人均ARR显著
+industry_layer: 应用层 / 基础设施层
+pricing_quadrant: 高价值高频使用 (Premium SaaS)
 key_people:
-  - "Eric Jing (CEO) - 前微软Bing创始团队、前百度VP、前小度CEO"
-  - "Kaihua Zhu (CTO) - 前小度CTO"
+  - Eric Jing (CEO) - 前微软Bing创始团队、前百度VP、前小度CEO
+  - Kaihua Zhu (CTO) - 前小度CTO
 competitors:
-  - "[[Perplexity]]"
-  - "[[Google Search]]"
-  - "[[ChatGPT]]"
-  - "[[Claude]]"
+  - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+  - '[[01-产品库/Google Search|Google Search]]'
+  - '[[01-产品库/产品卡片-ChatGPT|ChatGPT]]'
+  - '[[01-产品库/产品卡片-Claude|Claude]]'
 related_products:
-  - "[[Perplexity]]"
-  - "[[Anthropic Claude]]"
-  - "[[OpenAI GPT-4]]"
-  - "[[Google Gemini]]"
-last_updated: "2026-03-14"
-confidence: "High"
+  - '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+  - '[[Anthropic Claude]]'
+  - '[[OpenAI GPT-4]]'
+  - '[[Google Gemini]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Genspark
 ---
-
 ## 基本面
 
 | 指标 | 数值 | 备注 |
@@ -79,7 +83,7 @@ mars_reviewed: false
 | MAU | 2M+ | 2025年4月 |
 | ARR | $155M-$200M+ | 2026年3月，增速爆炸性 |
 | 融资轮次 | Series B | Emergence Capital领投 |
-| 核心产品 | [[产品卡片-Genspark|Genspark]] Super Agent | AI智能体工作平台 |
+| 核心产品 | Genspark Super Agent | AI智能体工作平台 |
 | 主要创新 | Mixture-of-Agents (MoA) | 9个LLM+80+工具编排 |
 
 ---
@@ -125,7 +129,7 @@ Eric Jing从Microsoft→Baidu→Xiaodu的履历，囊括了：
 - **距钱距离判断**：搜索（Perplexity方向）离钱很远（难以变现），但智能体工作台离钱很近（企业SaaS直接付费）
 - **产业分层观察**：底层模型层竞争激烈（OpenAI/Anthropic垄断），应用层缺乏"编排范式"的引领者
 
-**核心问题：** 当所有人都在做单agent（[[产品卡片-ChatGPT|ChatGPT]]），谁来做multi-agent的操作系统？
+**核心问题：** 当所有人都在做单agent（ChatGPT），谁来做multi-agent的操作系统？
 
 ### 2.2 产品设计阶段（2024年Q1-Q2）
 
@@ -134,7 +138,7 @@ Eric Jing从Microsoft→Baidu→Xiaodu的履历，囊括了：
 第一代产品（2024年6月发布）：**Genspark Search（搜索定位）**
 - 用户价值：Sparkpages 概念（实时生成的综合页面，而非蓝链列表）
 - 架构：初期多智能体框架（Mixture-of-Agents）
-- 对标：[[产品卡片-Perplexity|Perplexity]] AI（速度快的回答机器）
+- 对标：Perplexity AI（速度快的回答机器）
 
 **为什么搜索定位注定失败？**
 因为Perplexity已经解决了这个问题，且有先发优势。Eric意识到，竞争搜索是"比烂"，而不是开创新品类。
@@ -157,7 +161,7 @@ Eric Jing从Microsoft→Baidu→Xiaodu的履历，囊括了：
 **从："信息检索引擎" → 到："AI执行器"**
 
 关键创新：
-- **Mixture-of-Agents (MoA)**：9个顶级LLM（GPT、[[产品卡片-Claude|Claude]]、Gemini等）+ 80+集成工具，中央编排器动态分配任务
+- **Mixture-of-Agents (MoA)**：9个顶级LLM（GPT、Claude、Gemini等）+ 80+集成工具，中央编排器动态分配任务
 - **No-Code Agents**：用户只需描述意图，系统自动分解→执行→验证
 - **实际执行能力**：能打电话、写代码、生成视频、制作PPT、操作网页（Autopilot Browser）
 
@@ -247,7 +251,7 @@ Eric Jing从Microsoft→Baidu→Xiaodu的履历，囊括了：
 ### 3.1 技术赌注（Technical Bet）
 
 **核心技术选择**：
-- **自研 vs API**：Mixture-of-Agents（MoA）是自研架构，但底层用9个第三方LLM（GPT、Claude、[[产品卡片-Gemini|Gemini]]）
+- **自研 vs API**：Mixture-of-Agents（MoA）是自研架构，但底层用9个第三方LLM（GPT、Claude、Gemini）
   - 优势：多模型编排本身是差异化，避免被单一模型锁定
   - 风险：如果OpenAI自建MoA，Genspark的编排优势失效
 
@@ -273,7 +277,7 @@ Eric Jing从Microsoft→Baidu→Xiaodu的履历，囊括了：
   - 威胁度：极高（可以直接从GPT用户导流）
 - **Google推出Gemini Agent OS**：需要6-12个月
   - 威胁度：高（Workspace集成）
-- **Microsoft [[产品卡片-Copilot|Copilot]] Pro Advanced**：正在做
+- **Microsoft Copilot Pro Advanced**：正在做
   - 威胁度：中等（还在early stage）
 
 **可替代性**：
@@ -633,7 +637,7 @@ Genspark的成功 = 以下要素的特定配置：
 - Perplexity: "搜索更快是唯一追求" → fragile
 - Genspark: "AI执行是长期追求，中间试错无关" → antifragile
 
-### 6.5 "[[产品卡片-Cursor|Cursor]] for X" 模式的普遍性
+### 6.5 "Cursor for X" 模式的普遍性
 
 **模式识别：**
 

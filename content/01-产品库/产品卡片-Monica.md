@@ -2,43 +2,78 @@
 type: product
 name: Monica
 name_cn: Monica AI 全能助手
-url: https://monica.im
+url: 'https://monica.im'
 founded: 2022
-headquarters: "China (Shanghai)"
-founders: ["肖弘"]
+headquarters: China (Shanghai)
+founders:
+  - 肖弘
 stage: Growth
 status: Active
-metrics_date: "2026-03"
-arr: "~$30-40M"
-users: "10M+"
-monthly_visits: ""
-mau: ""
-funding_total: "$30M+"
-funding_rounds: ["Seed", "Series A", "Series B"]
-valuation: "$100M (estimated 2024)"
-employees: "50-100"
-category: "AI Assistant / Browser Extension"
-subcategory: "Multi-model LLM Aggregator"
-target_user: "Individual users, knowledge workers, small teams"
-pricing_model: ["Freemium", "Subscription", "API"]
-opportunity_playbooks: ["API-First SaaS", "Multi-model Arbitrage", "PLG + Freemium"]
-design_playbooks: ["Browser Extension Distribution", "Omnipresent AI Assistant"]
-mvp_playbooks: ["API Wrapper Pattern", "Rapid Model Integration"]
-pmf_playbooks: ["Freemium Conversion", "Multi-use Case Coverage"]
-growth_playbooks: ["Browser Extension Viral Loop", "Network Effects via API Platform"]
-monetization_playbooks: ["Freemium Conversion", "Premium Features", "API Credits"]
-moat_playbooks: ["Multi-model Aggregation", "Distribution Network", "Network Effects"]
-distance_to_money: "Near (Direct B2C SaaS)"
-industry_layer: "Application Layer"
-pricing_quadrant: "Low Cost, High Volume"
-key_people: [[[肖弘]] - Founder & CEO, [[Ji Yichao]] - Co-founder ([[产品卡片-Manus\|Manus]])]
-competitors: [[[产品卡片-ChatGPT\|ChatGPT Plus]], [[产品卡片-Claude\|Claude Web]], [[产品卡片-Copilot\|Copilot Pro]], [[产品卡片-Gemini\|Gemini Pro]], [[产品卡片-HeyGen\|HeyGen]]]
-related_products: [[[产品卡片-Manus\|Manus]], [[产品卡片-Cursor\|Cursor]], [[产品卡片-Lovable\|Lovable]], [[产品卡片-Copilot\|GitHub Copilot]]]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: ~$30-40M
+users: 10M+
+monthly_visits: ''
+mau: ''
+funding_total: $30M+
+funding_rounds:
+  - Seed
+  - Series A
+  - Series B
+valuation: $100M (estimated 2024)
+employees: 50-100
+category: AI Assistant / Browser Extension
+subcategory: Multi-model LLM Aggregator
+target_user: 'Individual users, knowledge workers, small teams'
+pricing_model:
+  - Freemium
+  - Subscription
+  - API
+opportunity_playbooks:
+  - API-First SaaS
+  - Multi-model Arbitrage
+  - PLG + Freemium
+design_playbooks:
+  - Browser Extension Distribution
+  - Omnipresent AI Assistant
+mvp_playbooks:
+  - API Wrapper Pattern
+  - Rapid Model Integration
+pmf_playbooks:
+  - Freemium Conversion
+  - Multi-use Case Coverage
+growth_playbooks:
+  - Browser Extension Viral Loop
+  - Network Effects via API Platform
+monetization_playbooks:
+  - Freemium Conversion
+  - Premium Features
+  - API Credits
+moat_playbooks:
+  - Multi-model Aggregation
+  - Distribution Network
+  - Network Effects
+distance_to_money: Near (Direct B2C SaaS)
+industry_layer: Application Layer
+pricing_quadrant: 'Low Cost, High Volume'
+key_people:
+  - 肖弘 (Xiao Hong) - Founder & CEO
+  - Ji Yichao - Co-founder (Manus)
+competitors:
+  - ChatGPT Plus
+  - Claude Web
+  - Copilot Pro
+  - Gemini Pro
+  - HeyGen (Creator Tools)
+related_products:
+  - '[[Manus]]'
+  - '[[01-产品库/产品卡片-Cursor|Cursor]]'
+  - '[[01-产品库/产品卡片-Lovable|Lovable]]'
+  - '[[01-产品库/产品卡片-Copilot|GitHub Copilot]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Monica
 ---
-
 ## 基本面表格
 
 | 指标 | 数据 | 备注 |
@@ -510,6 +545,6 @@ Manus 的出现，其实是肖弘在说："我要升级从'工具聚合'到'任�
 **相关产品和框架：**
 - [[Manus]]（肖弘的 AI Agent 新业务）
 - [[ChatGPT Plus]]（直接竞争对手）
-- [[Cursor]]（垂直领域的 PLG 典范）
+- [[01-产品库/产品卡片-Cursor|Cursor]]（垂直领域的 PLG 典范）
 - [[API 聚合模式]]（商业模式框架）
 - [[LLM 平民化时代]]（时代背景）

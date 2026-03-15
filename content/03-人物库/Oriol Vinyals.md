@@ -1,14 +1,19 @@
 ---
 type: person
-name: "Oriol Vinyals"
-role: "VP at Google DeepMind, Gemini Co-Lead"
-company: "[[Google DeepMind]]"
-nationality: "Spanish"
-age: "40"
-background: "UC San Diego MS → UC Berkeley PhD (Nelson Morgan, 2013) → Google Brain (2014-2020) → DeepMind (2020-现在) → Gemini Co-Lead (2023-现在)"
-notable_for: "seq2seq 架构发明者，多模态 AI 的先驱。用强化学习在星际争霸达到 Grandmaster，证明了复杂决策问题的可解决性。Gemini 三大领导人之一，多模态能力体现者"
-key_quote: "所有问题都可以重新表述为序列问题。这是我 15 年的研究信念，现在被 Transformer 和 LLM 彻底验证了。"
-updated: "2026-03-14"
+name: Oriol Vinyals
+role: 'VP at Google DeepMind, Gemini Co-Lead'
+company: '[[Google DeepMind]]'
+nationality: Spanish
+age: '40'
+background: >-
+  UC San Diego MS → UC Berkeley PhD (Nelson Morgan, 2013) → Google Brain
+  (2014-2020) → DeepMind (2020-现在) → Gemini Co-Lead (2023-现在)
+notable_for: >-
+  seq2seq 架构发明者，多模态 AI 的先驱。用强化学习在星际争霸达到 Grandmaster，证明了复杂决策问题的可解决性。Gemini
+  三大领导人之一，多模态能力体现者
+key_quote: 所有问题都可以重新表述为序列问题。这是我 15 年的研究信念，现在被 Transformer 和 LLM 彻底验证了。
+updated: '2026-03-14'
+title: Oriol Vinyals
 ---
 # Oriol Vinyals
 
@@ -61,13 +66,13 @@ Vinyals 扩展了 seq2seq 的应用：
 
 对 AI 产品的意义：如果 AI 能玩星际争霸，它几乎能做任何需要"快速决策"的工作。
 
-### 阶段四：[[产品卡片-Gemini|Gemini]] 的领导者（2020-现在）
+### 阶段四：Gemini 的领导者（2020-现在）
 
-2020 年 DeepMind 和 Google Brain 合并，Vinyals 升任 VP。现在与 [[Jeff Dean]] 和 [[Noam Shazeer]] 共同领导 [[产品卡片-Gemini|Gemini]]。
+2020 年 DeepMind 和 Google Brain 合并，Vinyals 升任 VP。现在与 Jeff Dean 和 Noam Shazeer 共同领导 Gemini。
 
-这个职位的含义：[[产品卡片-Gemini|Gemini]] 需要 seq2seq 的基因（序列理解）、多模态的基因（理解图像、文本、音频）、强化学习的基因（复杂决策）。
+这个职位的含义：Gemini 需要 seq2seq 的基因（序列理解）、多模态的基因（理解图像、文本、音频）、强化学习的基因（复杂决策）。
 
-Vinyals 就是把自己 15 年的研究直接装到 [[产品卡片-Gemini|Gemini]] 里。
+Vinyals 就是把自己 15 年的研究直接装到 Gemini 里。
 
 ---
 
@@ -83,7 +88,7 @@ Vinyals 就是把自己 15 年的研究直接装到 [[产品卡片-Gemini|Gemini
 
 不是用模仿学习（学人类回放），而是用自我对战的强化学习。这预示了后来 AlphaGo Zero 和自我改进系统的方向。
 
-### 决策3：加入 [[产品卡片-Gemini|Gemini]] 领导团队
+### 决策3：加入 Gemini 领导团队
 
 对一个独立研究员来说，这可能意味着研究自由度的下降，但他选择了影响力。
 
@@ -97,7 +102,7 @@ Vinyals 的思维方式对 Google DeepMind 的产品有深刻影响：
 - **把复杂问题抽象为简单问题** — AlphaStar 看似很复杂，但本质上是强化学习 + 注意力
 - **多模态作为标配** — 不是"图像模型"或"文本模型"，而是"能同时处理多种模态的模型"
 
-这直接影响了 [[产品卡片-Gemini|Gemini]] 支持图像、音频、视频、文本的多模态设计。
+这直接影响了 Gemini 支持图像、音频、视频、文本的多模态设计。
 
 ---
 
@@ -120,7 +125,7 @@ Vinyals 的思维方式对 Google DeepMind 的产品有深刻影响：
 | seq2seq 发表 | 2014 年 |
 | AlphaStar Grandmaster | 2019 年 |
 | DeepMind VP 任期 | 2020-现在 |
-| [[产品卡片-Gemini|Gemini]] Co-Lead | 2023-现在 |
+| Gemini Co-Lead | 2023-现在 |
 
 ---
 
@@ -128,12 +133,12 @@ Vinyals 的思维方式对 Google DeepMind 的产品有深刻影响：
 
 - **[[seq2seq]]** — 序列到序列的架构
 - **[[AlphaStar]]** — 星际争霸 II AI
-- **[[Gemini]]** — Google 旗舰多模态模型
+- **[[01-产品库/产品卡片-Gemini|Gemini]]** — Google 旗舰多模态模型
 
 ## 相关人物
 
-- [[Jeff Dean]] — [[产品卡片-Gemini|Gemini]] 共同领导者
-- [[Noam Shazeer]] — [[产品卡片-Gemini|Gemini]] 共同领导者
+- [[03-人物库/Jeff Dean|Jeff Dean]] — Gemini 共同领导者
+- [[03-人物库/Noam Shazeer|Noam Shazeer]] — Gemini 共同领导者
 - [[Ilya Sutskever]] — seq2seq 共同设计者
 
 ---

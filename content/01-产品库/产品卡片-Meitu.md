@@ -2,33 +2,29 @@
 type: product
 name: Meitu
 name_cn: 美图秀秀
-url: https://meitu.com
-
-# 基本信息
+url: 'https://meitu.com'
 founded: 2008
 headquarters: 厦门
-founders: [美图公司]
+founders:
+  - 美图公司
 stage: Mature
 status: Active
-
-# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 约1-2亿人民币
 users: 数千万月活
-monthly_visits:
-mau:
-funding_total:
+monthly_visits: null
+mau: null
+funding_total: null
 funding_rounds: []
 valuation: 600-800百万美元
-employees:
-
-# 分类
+employees: null
 category: AI影像处理
 subcategory: 修图工具、AI套图、商业摄影
 target_user: 摄影师、电商商家、内容创作者
-pricing_model: [subscription, freemium, B2B]
-
-# 打法标签（双向链接）
+pricing_model:
+  - subscription
+  - freemium
+  - B2B
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +32,24 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 近
 industry_layer: 应用层
 pricing_quadrant: 低自主-高归因
-
-# 人物 & 竞品
-key_people: [吴欣鸿]
-competitors: [Photoshop, Canva, 稿定设计]
-related_products: [美颜相机, 秒拍, 画吧]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - 吴欣鸿
+competitors:
+  - Photoshop
+  - Canva
+  - 稿定设计
+related_products:
+  - 美颜相机
+  - 秒拍
+  - 画吧
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
+title: Meitu
 ---
-
 # 美图秀秀 Meitu
 
 > 从修图工具到AI影像公司的蜕变：美图用一个十年的"破局"，把"低价值感的修图"升级为"高价值的AI摄影"
@@ -62,12 +59,12 @@ mars_reviewed: false
 | 字段 | 内容 |
 |------|------|
 | **全称** | 美图秀秀（Meitu Photo Editor） |
-| **归属** | 美图公司（[[产品卡片-Meitu\|美图秀秀]]/[[产品卡片-BeautyCam\|美颜相机]]/秒拍的母公司） |
+| **归属** | 美图公司（美图秀秀/美颜相机/秒拍的母公司） |
 | **核心定位** | 从传统修图工具升级为AI驱动的影像处理平台，涵盖个人美化、电商套图、商业摄影 |
 | **关键指标** | 月活数千万，B端客户5000+，企业版ARR 1-2亿人民币 |
 | **定价** | 免费+高级功能订阅+B2B企业版 |
-| **标志性时刻** | 2023-2024年推出AI套图/AI证件照/AI换衣等功能，从"修图"升级为"生成摄影"；对标[[产品卡片-Canva\|Canva]]、[[产品卡片-Remove.bg\|Remove.bg]]等竞品 |
-| **核心差异** | 从"修饰现有照片"到"生成高质量照片"的范式转变，覆盖从C端到B2B的全链路；在生成式AI应用中位置接近[[产品卡片-Runway\|Runway]]、[[产品卡片-Midjourney\|Midjourney]] |
+| **标志性时刻** | 2023-2024年推出AI套图/AI证件照/AI换衣等功能，从"修图"升级为"生成摄影" |
+| **核心差异** | 从"修饰现有照片"到"生成高质量照片"的范式转变，覆盖从C端到B2B的全链路 |
 
 ---
 
@@ -80,8 +77,8 @@ mars_reviewed: false
 核心优势：
 
 - **十年修图用户基础**：积累了超过1亿的修图用户
-- **影像处理技术**：美图在图像美化、滤镜、换脸等领域有深度积累（对标[[产品卡片-Photoroom\|Photoroom]]等工具）
-- **设计生态**：[[产品卡片-Meitu\|美图秀秀]]、[[产品卡片-BeautyCam\|美颜相机]]等产品线建立了"美学社区"
+- **影像处理技术**：美图在图像美化、滤镜、换脸等领域有深度积累
+- **设计生态**：美图秀秀、美颜相机等产品线建立了"美学社区"
 - **B端触达**：电商平台（淘宝、抖音等）的商家关系
 
 吴欣鸿曾说过："美图的本质不是工具，而是**人类对变得美的永恒追求的数字化载体**"。这个认知决定了美图从"修图工具"升级为"AI影像公司"的路径。
@@ -303,7 +300,7 @@ mars_reviewed: false
 
 **单位经济**：ARPU $5-10/月（电商商户高消费意愿）；转化率20-25%；毛利70%；LTV:CAC 6-10:1。
 
-**威胁**：[[产品卡片-Adobe Lightroom\|Adobe]]内置，[[产品卡片-Canva\|Canva]]快速扩张。
+**威胁**：Adobe内置，Canva expansive。
 
 ---
 

@@ -1,14 +1,17 @@
 ---
 type: person
-name: "Mati Staniszewski"
-role: "Co-founder & CEO"
-company: "[[ElevenLabs]]"
-nationality: "Polish"
-age: "32"
-background: "Google 工程师（基础设施）→ Palantir 数据工程 → ElevenLabs CEO"
-notable_for: "把语音合成从『听起来不像人』升级到『完全不可区分』，然后卖给了全球客服中心。20个月 $0→$100M ARR，$330M ARR 时被估值 $110B（未验证但业界接受）。与 Piotr 打造了『模型能力 + 企业理解』的完美配对"
-key_quote: "企业不需要『最有趣的 AI』，需要『最便宜和可靠的替代方案』。语音 AI 的春天来自于此。"
-updated: "2026-03-14"
+name: Mati Staniszewski
+role: Co-founder & CEO
+company: '[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]'
+nationality: Polish
+age: '32'
+background: Google 工程师（基础设施）→ Palantir 数据工程 → ElevenLabs CEO
+notable_for: >-
+  把语音合成从『听起来不像人』升级到『完全不可区分』，然后卖给了全球客服中心。20个月 $0→$100M ARR，$330M ARR 时被估值
+  $110B（未验证但业界接受）。与 Piotr 打造了『模型能力 + 企业理解』的完美配对
+key_quote: 企业不需要『最有趣的 AI』，需要『最便宜和可靠的替代方案』。语音 AI 的春天来自于此。
+updated: '2026-03-14'
+title: Mati Staniszewski
 ---
 # Mati Staniszewski
 
@@ -16,13 +19,13 @@ updated: "2026-03-14"
 
 ## 身份与背景
 
-波兰人，与 [[Piotr Dąbkowski]] 从小就认识（童年好友转身商业搭档）。Mati 走的是"大厂经验路线"——Google 工程师（基础设施）→ Palantir 数据工程。
+波兰人，与 Piotr Dąbkowski 从小就认识（童年好友转身商业搭档）。Mati 走的是"大厂经验路线"——Google 工程师（基础设施）→ Palantir 数据工程。
 
 **这两段经历为什么关键？**
 - **Google** 教会他大规模系统架构
 - **Palantir** 教会他企业级用户的真实痛点——他们要的不是"酷炫功能"，而是"可靠性和成本"
 
-Piotr 来自技术侧（模型开发），Mati 来自商业侧（企业需求理解）。这是 [[产品卡片-ElevenLabs|ElevenLabs]] 的商业-技术配对的根基。
+Piotr 来自技术侧（模型开发），Mati 来自商业侧（企业需求理解）。这是 ElevenLabs 的商业-技术配对的根基。
 
 ### 关键洞察：从消费到企业
 
@@ -34,7 +37,7 @@ Mati 选了后者。这是"距离钱最近"的决策。
 
 ### 速度指标的疯狂
 
-- 2022 年 11 月：[[产品卡片-ElevenLabs|ElevenLabs]] 成立
+- 2022 年 11 月：ElevenLabs 成立
 - 2024 年 3 月：$100M ARR（20 个月）
 - 2024 年 8 月：$200M ARR（4 个月增加）
 - 2025 年 6 月：$300M ARR（5 个月增加）
@@ -54,7 +57,7 @@ Mati 选了后者。这是"距离钱最近"的决策。
 
 ### 决策1：选择企业，放弃消费
 
-当很多语音 AI 公司还在追"个人助手"市场时，[[产品卡片-ElevenLabs|ElevenLabs]] 直奔企业客服。
+当很多语音 AI 公司还在追"个人助手"市场时，ElevenLabs 直奔企业客服。
 
 **结果**：市场容量无限大，利润率可观，用户粘性高。
 
@@ -72,12 +75,12 @@ Mati 定价策略反映了这个理解：透明的 API 定价，按使用量付�
 
 ## 产品 DNA
 
-[[ElevenLabs]] 的设计哲学就是"企业级音质 + API 化部署"。
+[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]] 的设计哲学就是"企业级音质 + API 化部署"。
 
 不做 B2C 应用，而是成为**基础设施**。Mati 从 Palantir 学到的"系统可靠性"，用在了语音模型的推理速度和稳定性上。
 
 企业的需求很直白：
-- 用 [[产品卡片-ElevenLabs|ElevenLabs]] 替换人工
+- 用 ElevenLabs 替换人工
 - 成本降低 70%
 - 质量还上升（不会疲劳、不会脾气差）
 
@@ -93,7 +96,7 @@ Mati 定价策略反映了这个理解：透明的 API 定价，按使用量付�
 
 ### 核心洞见2：『透明成本』比『最低成本』更重要
 
-企业采购者最害怕"成本失控"。[[产品卡片-ElevenLabs|ElevenLabs]] 的 API 定价让企业能精确预测成本。
+企业采购者最害怕"成本失控"。ElevenLabs 的 API 定价让企业能精确预测成本。
 
 ---
 
@@ -112,13 +115,13 @@ Mati 定价策略反映了这个理解：透明的 API 定价，按使用量付�
 
 ## 相关产品
 
-- **[[ElevenLabs]]** — AI 语音合成平台，CEO
+- **[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]** — AI 语音合成平台，CEO
 - **[[ElevenLabs VoiceAgent]]** — 企业客服方案
 - **[[ElevenLabs API]]** — 开发者集成
 
 ## 相关人物
 
-- [[Piotr Dąbkowski]] — [[产品卡片-ElevenLabs|ElevenLabs]] CTO，技术核心
+- [[03-人物库/Piotr Dąbkowski|Piotr Dąbkowski]] — ElevenLabs CTO，技术核心
 - [[Google]] — 早期工作地
 - [[Palantir]] — 企业级经验源
 
@@ -126,6 +129,6 @@ Mati 定价策略反映了这个理解：透明的 API 定价，按使用量付�
 
 ## 来源与参考
 
-1. [[产品卡片-ElevenLabs|ElevenLabs]] 官方融资和营收新闻
-2. TechCrunch、VentureBeat 关于 [[产品卡片-ElevenLabs|ElevenLabs]] 的报道
+1. ElevenLabs 官方融资和营收新闻
+2. TechCrunch、VentureBeat 关于 ElevenLabs 的报道
 3. 企业客户案例分析

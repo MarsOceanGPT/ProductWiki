@@ -1,59 +1,63 @@
 ---
 type: product
-name: "Kling AI"
-name_cn: "可灵"
-url: "https://klingai.com"
+name: Kling AI
+name_cn: 可灵
+url: 'https://klingai.com'
 founded: 2023
-headquarters: "Beijing, China"
-founders: ["快手 AI 团队"]
-stage: "Scale"
-status: "Active"
+headquarters: 'Beijing, China'
+founders:
+  - 快手 AI 团队
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$140M+"
-users: "45M+ 全球创作者；1200万+ MAU；App端付费用户环比增长350%"
-video_generated: "1.68亿+ 视频；3.44亿+ 图片"
-funding_total: "未独立融资（快手旗下）"
-valuation: "N/A"
-employees: "N/A"
-category: "AI Video Generation"
-subcategory: "Video Synthesis"
-target_user: "Content creators, video producers, enterprises"
-pricing_model: ["freemium", "subscription", "enterprise"]
+arr: $140M+
+users: 45M+ 全球创作者；1200万+ MAU；App端付费用户环比增长350%
+video_generated: 1.68亿+ 视频；3.44亿+ 图片
+funding_total: 未独立融资（快手旗下）
+valuation: N/A
+employees: N/A
+category: AI Video Generation
+subcategory: Video Synthesis
+target_user: 'Content creators, video producers, enterprises'
+pricing_model:
+  - freemium
+  - subscription
+  - enterprise
 opportunity_playbooks:
-  - "[[吃技术升级红利]]"
-  - "[[中国AI出海]]"
-  - "[[视频数据商业化]]"
+  - '[[02-打法库/01-机会识别/吃技术升级红利|吃技术升级红利]]'
+  - '[[中国AI出海]]'
+  - '[[视频数据商业化]]'
 design_playbooks:
-  - "[[用户自主创作]]"
-  - "[[短视频优化]]"
+  - '[[用户自主创作]]'
+  - '[[短视频优化]]'
 mvp_playbooks:
-  - "[[快手生态内测]]"
+  - '[[快手生态内测]]'
 pmf_playbooks:
-  - "[[海外扩张]]"
-  - "[[B2B企业服务]]"
+  - '[[海外扩张]]'
+  - '[[B2B企业服务]]'
 growth_playbooks:
-  - "[[病毒式内容传播]]"
-  - "[[社交分享裂变]]"
-  - "[[企业采购突破]]"
+  - '[[病毒式内容传播]]'
+  - '[[社交分享裂变]]'
+  - '[[企业采购突破]]'
 monetization_playbooks:
-  - "[[虚拟货币-订阅]]"
-  - "[[企业服务-按量]]"
+  - '[[虚拟货币-订阅]]'
+  - '[[企业服务-按量]]'
 moat_playbooks:
-  - "[[快手视频数据优势]]"
-  - "[[产品体验领先]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "高自主-高归因"
+  - '[[快手视频数据优势]]'
+  - '[[产品体验领先]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 高自主-高归因
 competitors:
-  - "[[Sora]]"
-  - "[[Runway]]"
-  - "[[Pika]]"
-  - "[[Pixverse]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[Sora]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
+  - '[[Pika]]'
+  - '[[01-产品库/产品卡片-Pixverse|Pixverse]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: Kling AI
 ---
-
 # Kling AI / 可灵
 
 > 一句话：快手的 AI 视频生成引擎对标 Sora，靠视频数据优势和本地化运营在海外快速突破，2025年年收入1.4亿美元，成为最快商业化的中国AI视频产品。
@@ -84,7 +88,7 @@ mars_reviewed: false
 
 ### 2.1 机会识别
 
-**背景信号**：2022-2023 年 Sora、[[产品卡片-Runway|Runway]]、Pika 相继推出 AI 视频生成，但都有三个痛点：
+**背景信号**：2022-2023 年 Sora、Runway、Pika 相继推出 AI 视频生成，但都有三个痛点：
 - 出图速度慢（30-120 秒生成一条 4-6 秒视频）
 - 运动表现生硬（运动物理不自然）
 - 本地化程度低（对非英文提示词优化差）
@@ -133,7 +137,7 @@ mars_reviewed: false
 3. 全球开放 Beta（2024 年 Q2）→ 规模化验证
 
 **关键发现**：
-- 非英文用户的生成效果远优于 [[产品卡片-Midjourney|Midjourney]]/Runway
+- 非英文用户的生成效果远优于 Midjourney/Runway
 - 企业视频编辑需求强于 C 端（B2B 转化率高 40%）
 - 亚洲市场付费意愿远高于欧美（3-5 美元/月 vs 10-20 美元/月）
 

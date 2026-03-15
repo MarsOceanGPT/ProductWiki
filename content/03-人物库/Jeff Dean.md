@@ -1,14 +1,19 @@
 ---
 type: person
-name: "Jeff Dean"
-role: "Chief Scientist, SVP Google DeepMind & Research"
-company: "[[Google]]"
-nationality: "American"
-age: "59"
-background: "U Minnesota BS (1990) → U Washington PhD (1996) → Google 工程师 & 架构师 (1999-现在，25+ 年) → Google Brain 联合创始人 (2011) → Chief Scientist (2023-现在)"
-notable_for: "Google 25 年的基础设施建筑师。MapReduce + BigTable 奠定了大规模数据处理的范式，TensorFlow 开源了 AI 基础设施，Pathways 想象了分布式 AI 的未来。被誉为『Google 最具战略影响力的科学家』"
-key_quote: "每一个系统的设计都应该预见未来的规模。我们今天做的决策，要能支持 10 倍甚至 100 倍的增长。"
-updated: "2026-03-14"
+name: Jeff Dean
+role: 'Chief Scientist, SVP Google DeepMind & Research'
+company: '[[Google]]'
+nationality: American
+age: '59'
+background: >-
+  U Minnesota BS (1990) → U Washington PhD (1996) → Google 工程师 & 架构师
+  (1999-现在，25+ 年) → Google Brain 联合创始人 (2011) → Chief Scientist (2023-现在)
+notable_for: >-
+  Google 25 年的基础设施建筑师。MapReduce + BigTable 奠定了大规模数据处理的范式，TensorFlow 开源了 AI
+  基础设施，Pathways 想象了分布式 AI 的未来。被誉为『Google 最具战略影响力的科学家』
+key_quote: 每一个系统的设计都应该预见未来的规模。我们今天做的决策，要能支持 10 倍甚至 100 倍的增长。
+updated: '2026-03-14'
+title: Jeff Dean
 ---
 # Jeff Dean
 
@@ -63,13 +68,13 @@ Pathways 反映了 Jeff Dean 对**未来 AI 的想象**：不是"更大的模型
 
 2023 年升任 Chief Scientist，直接向 CEO Sundar Pichai 汇报。这不仅仅是头衔升级，而是 **Google 在 AI 竞争中的战略信号**——把最关键的人放在最关键的位置。
 
-现在他与 [[Noam Shazeer]] 和 [[Oriol Vinyals]] 共同领导 [[产品卡片-Gemini|Gemini]] 的技术方向。
+现在他与 Noam Shazeer 和 Oriol Vinyals 共同领导 Gemini 的技术方向。
 
 **不公平优势的完整组合**：
 - 25+ 年深度技术积累
 - 直观的分布式系统思维（从 MapReduce 时代就有）
 - 与 Google 整个基础设施的深度整合
-- [[产品卡片-Gemini|Gemini]] 核心团队的掌控权
+- Gemini 核心团队的掌控权
 
 ---
 
@@ -133,14 +138,14 @@ MapReduce 的创新不在"分布式处理"（那已经存在），而在"简洁�
 - **[[MapReduce]]** — 分布式计算框架
 - **[[BigTable]]** — 分布式数据存储
 - **[[TensorFlow]]** — 开源 ML 框架
-- **[[Gemini]]** — 现在领导的旗舰模型
+- **[[01-产品库/产品卡片-Gemini|Gemini]]** — 现在领导的旗舰模型
 - **[[Pathways]]** — 多模态分布式系统
 
 ## 相关人物
 
 - [[Sanjay Ghemawat]] — MapReduce 和 BigTable 的共同设计者
-- [[Noam Shazeer]] — [[产品卡片-Gemini|Gemini]] 共同领导者
-- [[Oriol Vinyals]] — [[产品卡片-Gemini|Gemini]] 共同领导者
+- [[03-人物库/Noam Shazeer|Noam Shazeer]] — Gemini 共同领导者
+- [[03-人物库/Oriol Vinyals|Oriol Vinyals]] — Gemini 共同领导者
 
 ---
 

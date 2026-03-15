@@ -2,43 +2,84 @@
 type: product
 name: Veed
 name_cn: Veed
-url: https://www.veed.io
+url: 'https://www.veed.io'
 founded: 2014
 headquarters: London
-founders: ["Sabba Keynejad", "Tim Sawicki"]
-stage: VC-backed, likely Series B/C
+founders:
+  - Sabba Keynejad
+  - Tim Sawicki
+stage: 'VC-backed, likely Series B/C'
 status: Active
-metrics_date: "2026-03"
-arr: "$20M-30M"
-users: "5M+ registered, 1M+ monthly"
-monthly_visits: "50M+"
-mau: "1M+"
-funding_total: "$50M+"
-funding_rounds: ["Series A", "Series B", "Series C"]
-valuation: "$190M (2023)"
-employees: "200+"
-category: "AI Video Editing SaaS"
-subcategory: "Creator Tools, Video Production, Content Creation"
-target_user: "Content creators, YouTubers, social media managers, marketeers"
-pricing_model: ["Freemium", "Subscription"]
-opportunity_playbooks: ["No-code video editing", "AI-powered subtitle generation", "Cloud-based collaboration"]
-design_playbooks: ["Intuitive drag-and-drop interface", "Auto-captions", "Stock media integration", "Real-time preview"]
-mvp_playbooks: ["Browser-based video editor with basic tools", "Simple subtitle generation"]
-pmf_playbooks: ["YouTubers needing fast editing", "Non-video professionals needing to create", "Social media content creators"]
-growth_playbooks: ["Creator community partnerships", "Viral social media adoption", "YouTube integration", "Freemium user base"]
-monetization_playbooks: ["Freemium video length limits", "Monthly subscription ($30-60)", "Pay-per-export model"]
-moat_playbooks: ["User familiarity with UI", "Content library and templates", "Creator community feedback loop"]
-distance_to_money: "Direct (B2C freemium + subscription)"
-industry_layer: "Application/Creator Tools"
-pricing_quadrant: "Premium subscription ($30-60/month)"
-key_people: ["Sabba Keynejad (CEO)", "Tim Sawicki (Co-founder)"]
-competitors: ["Adobe Premiere", "CapCut", "DaVinci Resolve", "Filmora", "Runway", "Descript"]
-related_products: ["[[CapCut]]", "[[Runway]]", "[[Descript]]", "[[HeyGen]]"]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $20M-30M
+users: '5M+ registered, 1M+ monthly'
+monthly_visits: 50M+
+mau: 1M+
+funding_total: $50M+
+funding_rounds:
+  - Series A
+  - Series B
+  - Series C
+valuation: $190M (2023)
+employees: 200+
+category: AI Video Editing SaaS
+subcategory: 'Creator Tools, Video Production, Content Creation'
+target_user: 'Content creators, YouTubers, social media managers, marketeers'
+pricing_model:
+  - Freemium
+  - Subscription
+opportunity_playbooks:
+  - No-code video editing
+  - AI-powered subtitle generation
+  - Cloud-based collaboration
+design_playbooks:
+  - Intuitive drag-and-drop interface
+  - Auto-captions
+  - Stock media integration
+  - Real-time preview
+mvp_playbooks:
+  - Browser-based video editor with basic tools
+  - Simple subtitle generation
+pmf_playbooks:
+  - YouTubers needing fast editing
+  - Non-video professionals needing to create
+  - Social media content creators
+growth_playbooks:
+  - Creator community partnerships
+  - Viral social media adoption
+  - YouTube integration
+  - Freemium user base
+monetization_playbooks:
+  - Freemium video length limits
+  - Monthly subscription ($30-60)
+  - Pay-per-export model
+moat_playbooks:
+  - User familiarity with UI
+  - Content library and templates
+  - Creator community feedback loop
+distance_to_money: Direct (B2C freemium + subscription)
+industry_layer: Application/Creator Tools
+pricing_quadrant: Premium subscription ($30-60/month)
+key_people:
+  - Sabba Keynejad (CEO)
+  - Tim Sawicki (Co-founder)
+competitors:
+  - Adobe Premiere
+  - CapCut
+  - DaVinci Resolve
+  - Filmora
+  - Runway
+  - Descript
+related_products:
+  - '[[CapCut]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
+  - '[[Descript]]'
+  - '[[01-产品库/产品卡片-HeyGen|HeyGen]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Veed
 ---
-
 # Veed 产品卡片
 
 ## 基本面表格

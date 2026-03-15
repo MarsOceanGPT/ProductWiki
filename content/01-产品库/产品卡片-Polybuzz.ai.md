@@ -12,18 +12,33 @@ type: product
 用户规模: iOS/Android 双平台用户
 AI 角色库: 2000 万+
 tags:
-  opportunity: [打开能力门槛新市场, 社交平台转型]
-  design: [Chat 对话式, 生成式界面, 多模态]
-  mvp: [简易拼装, 关键功能聚焦]
-  pmf: [迫切刚需, 社交归属感]
-  growth: [网络效应, 移动优先]
-  monetization: [按访问-订阅, 移除广告]
-  moat: [社交粘性, 移动优先, 多模态支持]
-相关人物: [待补充]
-竞争对手: [Character.ai, Replika, CrushOn, Janitor AI]
-关联产品: [产品卡片-Character.ai]
+  - 打开能力门槛新市场
+  - 社交平台转型
+  - Chat 对话式
+  - 生成式界面
+  - 多模态
+  - 简易拼装
+  - 关键功能聚焦
+  - 迫切刚需
+  - 社交归属感
+  - 网络效应
+  - 移动优先
+  - 按访问-订阅
+  - 移除广告
+  - 社交粘性
+  - 移动优先
+  - 多模态支持
+相关人物:
+  - 待补充
+竞争对手:
+  - Character.ai
+  - Replika
+  - CrushOn
+  - Janitor AI
+关联产品:
+  - 产品卡片-Character.ai
+title: Polybuzz
 ---
-
 # Polybuzz
 
 > "2000 万个 AI 角色在手机里" —— 同时上榜 Web 和 Mobile Top 50，说明什么？

@@ -8,11 +8,30 @@ const PROJECT_ROOT = path.resolve(SCRIPT_DIR, "..")
 const TARGET_DIR = path.join(PROJECT_ROOT, "content")
 const STUB_REDIRECTS_PATH = path.join(PROJECT_ROOT, ".stub-redirects.json")
 const DEFAULT_SOURCE_DIR = path.resolve(PROJECT_ROOT, "../Product Wiki")
-const INCLUDED_PATHS = ["README.md", "01-产品库", "02-打法库", "03-人物库"]
 const EXCLUDED_BASENAMES = new Set(["README-AI产品卡片库.md", "README-新产品卡片.md"])
+const EXCLUDED_RELATIVE_PATHS = new Set([
+  "公开发布计划-Quartz方案.md",
+  "部署与验证路线图.md",
+  "上线执行方案-最终版.md",
+])
 const DUPLICATE = Symbol("duplicate")
 let linkMap = new Map()
 const stubRedirects = new Map()
+
+function hasHiddenSegment(relativePath) {
+  return relativePath
+    .split("/")
+    .filter(Boolean)
+    .some((segment) => segment.startsWith("."))
+}
+
+function shouldExclude(relativePath) {
+  return (
+    hasHiddenSegment(relativePath) ||
+    EXCLUDED_BASENAMES.has(path.basename(relativePath)) ||
+    EXCLUDED_RELATIVE_PATHS.has(relativePath)
+  )
+}
 
 function extractTitle(content, fallback) {
   const heading = content.match(/^#\s+(.+)$/m)
@@ -77,6 +96,10 @@ async function buildReferenceMap(sourceDir) {
   const linkMap = new Map()
 
   async function walk(relativePath) {
+    if (shouldExclude(relativePath)) {
+      return
+    }
+
     const sourcePath = path.join(sourceDir, relativePath)
     const entry = await stat(sourcePath)
 
@@ -88,7 +111,7 @@ async function buildReferenceMap(sourceDir) {
       return
     }
 
-    if (!sourcePath.endsWith(".md") || EXCLUDED_BASENAMES.has(path.basename(sourcePath))) {
+    if (!sourcePath.endsWith(".md")) {
       return
     }
 
@@ -132,7 +155,7 @@ async function buildReferenceMap(sourceDir) {
     }
   }
 
-  for (const relativePath of INCLUDED_PATHS) {
+  for (const relativePath of await discoverIncludedPaths(sourceDir)) {
     if (relativePath === "README.md") continue
     await walk(relativePath)
   }
@@ -161,12 +184,18 @@ function normalizeFrontmatter(frontmatter, content, filePath, isIndex, relativeP
   const next = { ...frontmatter }
   const fallbackTitle = path.basename(filePath, ".md")
   const isPerson = next.type === "person" || next.类型 === "人物"
+  const extractedTitle = extractTitle(content, fallbackTitle)
+  const normalizedExtractedTitle = extractedTitle.replace(/\s+/g, " ").trim()
+  const inferredTitle =
+    /^PART\s+\d+/i.test(normalizedExtractedTitle) || /^Headline$/i.test(normalizedExtractedTitle)
+      ? fallbackTitle
+      : extractedTitle
   const resolvedTitle =
     next.title ||
     next.名称 ||
     (isPerson ? next.name_cn : undefined) ||
     next.name ||
-    extractTitle(content, fallbackTitle)
+    inferredTitle
   next.title = resolvedTitle
   const normalizedTags = normalizeTags(next.tags)
   if (normalizedTags) {
@@ -225,6 +254,10 @@ async function copyMarkdown(srcPath, destPath, isIndex = false, relativePath = "
 }
 
 async function copyEntry(srcPath, destPath, relativePath = "", isIndex = false) {
+  if (shouldExclude(relativePath)) {
+    return
+  }
+
   const entry = await stat(srcPath)
 
   if (entry.isDirectory()) {
@@ -235,10 +268,6 @@ async function copyEntry(srcPath, destPath, relativePath = "", isIndex = false) 
       const childDestPath = resolveDestination(childRelativePath, false)
       await copyEntry(path.join(srcPath, child), childDestPath, childRelativePath)
     }
-    return
-  }
-
-  if (EXCLUDED_BASENAMES.has(path.basename(srcPath))) {
     return
   }
 
@@ -273,6 +302,20 @@ async function directoryHasFiles(targetPath) {
   }
 }
 
+async function discoverIncludedPaths(sourceDir) {
+  const entries = await readdir(sourceDir, { withFileTypes: true })
+  const discovered = entries
+    .map((entry) => entry.name)
+    .filter((name) => !shouldExclude(name))
+    .sort((a, b) => a.localeCompare(b, "zh-CN"))
+
+  if (!discovered.includes("README.md")) {
+    return discovered
+  }
+
+  return ["README.md", ...discovered.filter((entry) => entry !== "README.md")]
+}
+
 async function main() {
   const sourceDir = process.env.SOURCE_WIKI_DIR
     ? path.resolve(process.env.SOURCE_WIKI_DIR)
@@ -290,9 +333,10 @@ async function main() {
   await rm(TARGET_DIR, { recursive: true, force: true })
   await mkdir(TARGET_DIR, { recursive: true })
   stubRedirects.clear()
+  const includedPaths = await discoverIncludedPaths(sourceDir)
   linkMap = await buildReferenceMap(sourceDir)
 
-  for (const relativePath of INCLUDED_PATHS) {
+  for (const relativePath of includedPaths) {
     const sourcePath = path.join(sourceDir, relativePath)
     const isIndex = relativePath === "README.md"
     const normalizedRelativePath = isIndex ? "README.md" : relativePath

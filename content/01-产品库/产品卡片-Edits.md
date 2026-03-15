@@ -1,57 +1,61 @@
 ---
 type: product
-name: "Edits"
-name_cn: "Edits（Meta版）"
-url: "https://instagram.com/edits"
+name: Edits
+name_cn: Edits（Meta版）
+url: 'https://instagram.com/edits'
 founded: 2025
-headquarters: "Menlo Park, US"
-founders: ["Meta/Facebook", "Adam Mosseri（Instagram负责人）"]
-stage: "Growth"
-status: "Active"
+headquarters: 'Menlo Park, US'
+founders:
+  - Meta/Facebook
+  - Adam Mosseri（Instagram负责人）
+stage: Growth
+status: Active
 metrics_date: 2025-04
-arr: "N/A (工具免费)"
-users: "7M+ 首周下载"
-funding_total: "Meta内部项目"
-valuation: "N/A"
-employees: "N/A"
-category: "Video Editing"
-subcategory: "Short-form Video"
-target_user: "Content creators, TikTok/CapCut users"
-pricing_model: ["free", "freemium"]
+arr: N/A (工具免费)
+users: 7M+ 首周下载
+funding_total: Meta内部项目
+valuation: N/A
+employees: N/A
+category: Video Editing
+subcategory: Short-form Video
+target_user: 'Content creators, TikTok/CapCut users'
+pricing_model:
+  - free
+  - freemium
 opportunity_playbooks:
-  - "[[政策风险转机]]"
-  - "[[大厂入场]]"
-  - "[[生态协同]]"
+  - '[[政策风险转机]]'
+  - '[[大厂入场]]'
+  - '[[生态协同]]'
 design_playbooks:
-  - "[[CapCut逆向设计]]"
-  - "[[无广告体验]]"
+  - '[[CapCut逆向设计]]'
+  - '[[无广告体验]]'
 mvp_playbooks:
-  - "[[快速复制]]"
+  - '[[快速复制]]'
 pmf_playbooks:
-  - "[[政策驱动]]"
+  - '[[政策驱动]]'
 growth_playbooks:
-  - "[[政策窗口]]"
-  - "[[Instagram集成]]"
+  - '[[政策窗口]]'
+  - '[[Instagram集成]]'
 monetization_playbooks:
-  - "[[免费策略]]"
+  - '[[免费策略]]'
 moat_playbooks:
-  - "[[Instagram原生集成]]"
-  - "[[大厂资源]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "高自主-高归因"
+  - '[[Instagram原生集成]]'
+  - '[[大厂资源]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 高自主-高归因
 competitors:
-  - "[[CapCut]]"
-  - "[[VivaCut]]"
-  - "[[VN Video Editor]]"
-last_updated: 2026-03-14
-confidence: "Medium"
+  - '[[CapCut]]'
+  - '[[01-产品库/产品卡片-VivaCut|VivaCut]]'
+  - '[[01-产品库/产品卡片-VN Video Editor|VN Video Editor]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium
 mars_reviewed: false
+title: Edits
 ---
-
 # Edits
 
-> 一句话：Meta 在 TikTok/[[产品卡片-CapCut|CapCut]] 政策风险窗口推出的短视频编辑应用，首周 700 万下载，代表"政策驱动"而非"产品创新"的大厂竞争模式。
+> 一句话：Meta 在 TikTok/CapCut 政策风险窗口推出的短视频编辑应用，首周 700 万下载，代表"政策驱动"而非"产品创新"的大厂竞争模式。
 
 ---
 

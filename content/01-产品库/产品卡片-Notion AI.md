@@ -2,43 +2,83 @@
 type: product
 name: Notion AI
 name_cn: Notion AI 功能层
-url: https://www.notion.so/ai
+url: 'https://www.notion.so/ai'
 founded: 2016
-headquarters: "San Francisco, USA"
-founders: ["Ivan Zhao", "Chris Prucha", "Akshay Kothari", "Calvin French-Owen"]
+headquarters: 'San Francisco, USA'
+founders:
+  - Ivan Zhao
+  - Chris Prucha
+  - Akshay Kothari
+  - Calvin French-Owen
 stage: Growth/Scale
 status: Active
-metrics_date: "2026-03"
-arr: "$500M+"
-users: "100M+"
-monthly_visits: "50M+"
-mau: ""
-funding_total: "$300M+"
-funding_rounds: ["Series A", "Series B", "Series C", "Series D"]
-valuation: "$10B (estimated 2024)"
-employees: "500+"
-category: "Productivity / Knowledge Management"
-subcategory: "AI-Enhanced Note-Taking & Workspace"
-target_user: "Individual users, teams, enterprises, knowledge workers"
-pricing_model: ["Freemium", "Tiered SaaS", "Enterprise Contracts"]
-opportunity_playbooks: ["Incumbent + AI Integration", "AI-as-a-Feature", "Data Flywheel"]
-design_playbooks: ["Multi-model LLM Access", "Autonomous AI Agents"]
-mvp_playbooks: ["AI Writing Assistant", "Smart Summarization"]
-pmf_playbooks: ["AI-Powered Productivity", "Team Collaboration Enhancement"]
-growth_playbooks: ["PLG + AI Differentiation", "Enterprise Expansion"]
-monetization_playbooks: ["AI Feature Premium", "Enterprise AI Licensing"]
-moat_playbooks: ["Data Network Effects", "User Lock-in via Integration"]
-distance_to_money: "Very Close (Direct B2B2C)"
-industry_layer: "Application Layer"
-pricing_quadrant: "Medium Price, High Volume"
-key_people: [Ivan Zhao - CEO & Co-founder, Chris Prucha - Co-founder]
-competitors: [Mem, Reflect, Obsidian, OneNote, "Apple Notes", "Roam Research"]
-related_products: [Mem, Reflect, Obsidian, "Apple Notes", [[产品卡片-Claude\|Claude API]], [[产品卡片-ChatGPT\|GPT-4 Turbo]]]
-last_updated: "2026-03-14"
-confidence: "High"
+metrics_date: 2026-03
+arr: $500M+
+users: 100M+
+monthly_visits: 50M+
+mau: ''
+funding_total: $300M+
+funding_rounds:
+  - Series A
+  - Series B
+  - Series C
+  - Series D
+valuation: $10B (estimated 2024)
+employees: 500+
+category: Productivity / Knowledge Management
+subcategory: AI-Enhanced Note-Taking & Workspace
+target_user: 'Individual users, teams, enterprises, knowledge workers'
+pricing_model:
+  - Freemium
+  - Tiered SaaS
+  - Enterprise Contracts
+opportunity_playbooks:
+  - Incumbent + AI Integration
+  - AI-as-a-Feature
+  - Data Flywheel
+design_playbooks:
+  - Multi-model LLM Access
+  - Autonomous AI Agents
+mvp_playbooks:
+  - AI Writing Assistant
+  - Smart Summarization
+pmf_playbooks:
+  - AI-Powered Productivity
+  - Team Collaboration Enhancement
+growth_playbooks:
+  - PLG + AI Differentiation
+  - Enterprise Expansion
+monetization_playbooks:
+  - AI Feature Premium
+  - Enterprise AI Licensing
+moat_playbooks:
+  - Data Network Effects
+  - User Lock-in via Integration
+distance_to_money: Very Close (Direct B2B2C)
+industry_layer: Application Layer
+pricing_quadrant: 'Medium Price, High Volume'
+key_people:
+  - Ivan Zhao - CEO & Co-founder
+  - Chris Prucha - Co-founder
+competitors:
+  - Mem
+  - Reflect
+  - Obsidian
+  - OneNote
+  - Apple Notes
+  - Roam Research
+related_products:
+  - '[[Mem]]'
+  - '[[Reflect]]'
+  - '[[01-产品库/Obsidian|Obsidian]]'
+  - '[[Apple Notes]]'
+  - '[[Claude API]]'
+  - '[[GPT-4 Turbo]]'
+last_updated: '2026-03-14'
+confidence: High
 mars_reviewed: false
+title: Notion AI
 ---
-
 ## 基本面表格
 
 | 指标 | 数据 | 备注 |
@@ -726,7 +766,7 @@ Notion AI 的故事，本质上是**"一个成功的 Incumbent 如何在 AI 时�
 - [[Mem]]（AI-First 竞争对手）
 - [[Reflect]]（隐私友好竞争对手）
 - [[OneNote]]（微软的 Incumbent）
-- [[Obsidian]]（本地优先竞争对手）
+- [[01-产品库/Obsidian|Obsidian]]（本地优先竞争对手）
 - [[Claude API]]（核心的 AI 供应方）
-- [[数据飞轮]]（护城河框架）
+- [[02-打法库/07-护城河/数据飞轮|数据飞轮]]（护城河框架）
 - [[Incumbent + AI 战略]]（商业模式框架）

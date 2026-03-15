@@ -2,33 +2,29 @@
 type: product
 name: GigaChat
 name_cn: 吉加聊天
-url: https://giga.chat
-
-# 基本信息
+url: 'https://giga.chat'
 founded: 2023
 headquarters: 莫斯科
-founders: [Sberbank, Sber AI Lab]
+founders:
+  - Sberbank
+  - Sber AI Lab
 stage: Scale
 status: Active
-
-# 关键指标（截至2026年3月）
 metrics_date: 2026-03
 arr: 未公开
 users: 数百万月活
-monthly_visits:
-mau:
-funding_total:
+monthly_visits: null
+mau: null
+funding_total: null
 funding_rounds: []
-valuation:
-employees:
-
-# 分类
+valuation: null
+employees: null
 category: AI助手+语言模型
 subcategory: 俄语LLM、企业AI、国家级产品
 target_user: 俄罗斯企业、政府机构、个人用户
-pricing_model: [subscription, freemium]
-
-# 打法标签（双向链接）
+pricing_model:
+  - subscription
+  - freemium
 opportunity_playbooks: []
 design_playbooks: []
 mvp_playbooks: []
@@ -36,23 +32,23 @@ pmf_playbooks: []
 growth_playbooks: []
 monetization_playbooks: []
 moat_playbooks: []
-
-# 战略框架标签
 distance_to_money: 近
 industry_layer: 模型层+应用层
 pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [Vladimir Solovyev]
-competitors: [ChatGPT, Claude, 通义千问]
-related_products: [Yandex.GPT, Saiga]
-
-# 元信息
-last_updated: 2026-03-14
+key_people:
+  - Vladimir Solovyev
+competitors:
+  - ChatGPT
+  - Claude
+  - 通义千问
+related_products:
+  - Yandex.GPT
+  - Saiga
+last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
+title: GigaChat
 ---
-
 # GigaChat
 
 > 被西方制裁逼出来的"独立"AI助手：俄罗斯国有银行Sberbank打造的国产AI，用地缘政治中的"必需性"弥补技术差距
@@ -419,7 +415,7 @@ AI Native 产品——完全自研俄语对话 AI。优势：合规性强。风�
 
 **竞争维度选择**：本地化 + 合规性 + 数据安全
 
-**主要竞品**：[[产品卡片-ChatGPT|ChatGPT]], [[产品卡片-Gemini|Gemini]], [[产品卡片-Claude|Claude]]
+**主要竞品**：ChatGPT, Gemini, Claude
 
 **可替代性与迁移成本**：用户切换成本相对较低。真正的竞争战场是争夺 本地化 + 合规性 + 数据安全 这个维度的用户心智。
 
@@ -445,7 +441,7 @@ GigaChat不在"技术能力"维度与ChatGPT竞争，而是引入了两个新变
 
 这两个新变量改变了竞争边界。
 
-**[[产品卡片-Cursor|Cursor]] for X评估**
+**Cursor for X评估**
 
 GigaChat是"Cursor for Russian Enterprises"的典型：
 - **工作流复杂度**：★★★★☆（企业文档处理、客服等）
@@ -568,9 +564,9 @@ AI 草稿——待 Mars 确认
 
 ## 相关案例
 
-- [[通义千问]] — 同样是"国有企业支持"的AI，但面向的是全球市场而非被孤立的市场
-- [[ChatGPT]] — 对标产品，代表"无约束的全球AI"
-- [[[[产品卡片-Doubao|豆包]]]] — 国内竞品，采用类似的生态集成战略但缺少"政治驱动"
+- [[01-产品库/产品卡片-Qwen|通义千问]] — 同样是"国有企业支持"的AI，但面向的是全球市场而非被孤立的市场
+- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 对标产品，代表"无约束的全球AI"
+- [[01-产品库/产品卡片-Doubao|豆包]] — 国内竞品，采用类似的生态集成战略但缺少"政治驱动"
 
 ---
 

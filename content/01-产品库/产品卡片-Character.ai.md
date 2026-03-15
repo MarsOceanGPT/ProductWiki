@@ -2,68 +2,83 @@
 type: product
 name: Character.ai
 name_cn: Character.ai
-url: https://character.ai
-
-# 基本信息
+url: 'https://character.ai'
 founded: 2021-11
-headquarters: Menlo Park, California
+headquarters: 'Menlo Park, California'
 founders:
   - Noam Shazeer
   - Daniel De Freitas
 stage: PMF
 status: Active
-
-# 关键指标（截至 2025 年 Q1）
 metrics_date: 2025-Q1
-arr: "$32.2M (2024)"
-users: "20M MAU"
-monthly_visits: "200M+ (月访问次数)"
-mau: "20M"
-funding_total: "$193M"
+arr: $32.2M (2024)
+users: 20M MAU
+monthly_visits: 200M+ (月访问次数)
+mau: 20M
+funding_total: $193M
 funding_rounds:
-  - round: "Seed/Early"
-    amount: "$43M"
-    investors: ["Elad Gil", "SV Angel"]
-    date: "2021-2022"
-  - round: "Series A"
-    amount: "$150M"
-    investors: ["Andreessen Horowitz (a16z)", "Nat Friedman", "Elad Gil", "SV Angel"]
-    date: "2023-03"
-  - round: "Google Licensing Deal + Equity Buyout"
-    amount: "$2.7B"
-    investors: ["Google/Alphabet"]
-    date: "2024-08"
-valuation: "$1B (2025年估值，下降自 2024 年的 $2.5B)"
-employees: "225"
-
-# 分类
-category: "社交 AI / 角色扮演"
-subcategory: "AI 社交平台"
-target_user: "青少年（17-24岁主体），创意写作者，角色扮演爱好者，寻求情感陪伴的用户"
-pricing_model: ["subscription", "freemium"]
-
-# 打法标签（双向链接）
-opportunity_playbooks: ["[[打开能力门槛新市场]]", "[[打开价格门槛新市场]]"]
-design_playbooks: ["[[生成式界面]]", "[[Chat 对话式]]", "[[角色锁定]]"]
-mvp_playbooks: ["[[简易拼装]]", "[[关键功能聚焦]]"]
-pmf_playbooks: ["[[迫切刚需]]", "[[别无选择]]"]
-growth_playbooks: ["[[病毒传播-产品即内容]]", "[[社交粘性]]", "[[UGC 平台飞轮]]"]
-monetization_playbooks: ["[[按访问-订阅]]", "[[陪伴类产品的付费困局]]"]
-moat_playbooks: ["[[Persona 锁定]]", "[[社交粘性]]", "[[数据飞轮]]", "[[情感迁移成本]]"]
-
-# 战略框架标签
-distance_to_money: "远"
-industry_layer: "应用层"
-pricing_quadrant: "低自主-低归因"
-
-# 人物 & 竞品
+  - round: Seed/Early
+    amount: $43M
+    investors:
+      - Elad Gil
+      - SV Angel
+    date: 2021-2022
+  - round: Series A
+    amount: $150M
+    investors:
+      - Andreessen Horowitz (a16z)
+      - Nat Friedman
+      - Elad Gil
+      - SV Angel
+    date: 2023-03
+  - round: Google Licensing Deal + Equity Buyout
+    amount: $2.7B
+    investors:
+      - Google/Alphabet
+    date: 2024-08
+valuation: $1B (2025年估值，下降自 2024 年的 $2.5B)
+employees: '225'
+category: 社交 AI / 角色扮演
+subcategory: AI 社交平台
+target_user: 青少年（17-24岁主体），创意写作者，角色扮演爱好者，寻求情感陪伴的用户
+pricing_model:
+  - subscription
+  - freemium
+opportunity_playbooks:
+  - '[[02-打法库/01-机会识别/打开能力门槛新市场|打开能力门槛新市场]]'
+  - '[[02-打法库/01-机会识别/打开价格门槛新市场|打开价格门槛新市场]]'
+design_playbooks:
+  - '[[02-打法库/02-产品设计/生成式界面|生成式界面]]'
+  - '[[02-打法库/02-产品设计/Chat 对话式|Chat 对话式]]'
+  - '[[02-打法库/02-产品设计/角色锁定|角色锁定]]'
+mvp_playbooks:
+  - '[[02-打法库/03-MVP策略/简易拼装|简易拼装]]'
+  - '[[02-打法库/03-MVP策略/关键功能聚焦|关键功能聚焦]]'
+pmf_playbooks:
+  - '[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]]'
+  - '[[02-打法库/04-PMF验证/别无选择|别无选择]]'
+growth_playbooks:
+  - '[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]'
+  - '[[02-打法库/05-增长引擎/社交粘性|社交粘性]]'
+  - '[[UGC 平台飞轮]]'
+monetization_playbooks:
+  - '[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]]'
+  - '[[陪伴类产品的付费困局]]'
+moat_playbooks:
+  - '[[02-打法库/07-护城河/Persona 锁定|Persona 锁定]]'
+  - '[[02-打法库/05-增长引擎/社交粘性|社交粘性]]'
+  - '[[02-打法库/07-护城河/数据飞轮|数据飞轮]]'
+  - '[[情感迁移成本]]'
+distance_to_money: 远
+industry_layer: 应用层
+pricing_quadrant: 低自主-低归因
 key_people:
   - name: Noam Shazeer
-    title: "共同创始人，AI 架构师（Transformer 论文共同作者，Google Brain 前研究员）"
+    title: 共同创始人，AI 架构师（Transformer 论文共同作者，Google Brain 前研究员）
   - name: Daniel De Freitas
-    title: "共同创始人，技术负责人"
+    title: 共同创始人，技术负责人
   - name: Dominic Perella
-    title: "Interim CEO（2024年8月起）"
+    title: Interim CEO（2024年8月起）
 competitors:
   - Replika
   - Janitor AI
@@ -75,15 +90,13 @@ related_products:
   - ChatGPT
   - Gemini
   - Manus
-  - "[[Replika]]"
-
-# 元信息
-last_updated: 2026-03-15
-confidence: "High"
+  - '[[01-产品库/产品卡片-Replika|Replika]]'
+last_updated: 2026-03-15T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: Character.ai
 ---
-
-# [[产品卡片-Character.ai|Character.ai]]
+# Character.ai
 
 > "你不是在和 AI 对话，你是在和一个存在着的人物对话。" — 角色扮演把 AI 从工具变成了关系，也从商品变成了陪伴。
 
@@ -98,7 +111,7 @@ mars_reviewed: false
 | **月活用户** | 2000 万 MAU（2025年初，下降自 2024 年中的 2800 万） |
 | **年度收入** | $32.2M（2024 年），同比增长 112%（对标 2023 年 $15.2M） |
 | **定价** | Freemium + c.ai+ $9.99/月（无等待、优先访问、语音通话、群聊） |
-| **c.ai+ 留存率** | 47%（6 个月），低于 [[产品卡片-ChatGPT|ChatGPT]] Plus 的 71%） |
+| **c.ai+ 留存率** | 47%（6 个月），低于 ChatGPT Plus 的 71%） |
 | **2024 年标志** | Google $2.7B 授权协议 + 创始人回归；Sewell Setzer III 自杀案引发的合规危机 |
 | **2026 年状态** | 和解 4 起未成年人心理伤害诉讼；调整青少年体验；估值下跌至 $10 亿（从 $25 亿峰值） |
 | **核心矛盾** | 2 亿月访，20M MAU，但付费转化仅 0.16%（$32.2M ÷ 20M ÷ 12）；增长率下降且留存低于竞品 |
@@ -109,9 +122,9 @@ mars_reviewed: false
 
 ### 创始人基因
 
-[[[[Noam Shazeer]]]] 的履历本身就是一部 LLM 历史的缩影。作为 Transformer 架构的共同作者（Google Brain），他在 2018-2021 年间主导开发了 LaMDA（Language Model for Dialogue Applications）和 Meena，这是当时最能进行开放式对话的 AI 系统。但 Google 的官僚主义让他看到了一个机会：这些系统早已可用，却因"安全隐虑"和商业谨慎被冷藏。
+[[03-人物库/Noam Shazeer|Noam Shazeer]] 的履历本身就是一部 LLM 历史的缩影。作为 Transformer 架构的共同作者（Google Brain），他在 2018-2021 年间主导开发了 LaMDA（Language Model for Dialogue Applications）和 Meena，这是当时最能进行开放式对话的 AI 系统。但 Google 的官僚主义让他看到了一个机会：这些系统早已可用，却因"安全隐虑"和商业谨慎被冷藏。
 
-Shazeer 和 [[[[Daniel De Freitas]]]] 的核心认知是"**市场上有被压制的需求**"——不是需要更强的模型，而是需要一个敢于放出来的产品。这对应了他的"距钱距离"假说：大公司手里的好技术，因为组织风险而无法商业化。反而，一个二流技术 + 敢于冒险的小公司 = 机会。
+Shazeer 和 [[03-人物库/Daniel De Freitas|Daniel De Freitas]] 的核心认知是"**市场上有被压制的需求**"——不是需要更强的模型，而是需要一个敢于放出来的产品。这对应了他的"距钱距离"假说：大公司手里的好技术，因为组织风险而无法商业化。反而，一个二流技术 + 敢于冒险的小公司 = 机会。
 
 **Day 1 不公平优势**：
 - 模型能力：自研 LLM（基于 LaMDA 技术积累），不依赖 OpenAI API，成本结构独立
@@ -179,7 +192,7 @@ Shazeer 和 [[[[Daniel De Freitas]]]] 的核心认知是"**市场上有被压制
 
 **核心交互范式**
 
-[[Chat 对话式]] + [[生成式界面]] + [[角色锁定]]
+[[02-打法库/02-产品设计/Chat 对话式|Chat 对话式]] + [[02-打法库/02-产品设计/生成式界面|生成式界面]] + [[02-打法库/02-产品设计/角色锁定|角色锁定]]
 
 用户流：浏览角色库（热门、探索、推荐） → 点击开始对话 → 进入一对一持久对话界面 → 可切换到其他角色 → 对话历史永久保存。
 
@@ -199,7 +212,7 @@ Shazeer 和 [[[[Daniel De Freitas]]]] 的核心认知是"**市场上有被压制
 
 3. **对话记忆与个性化**
    - 角色的回应基于对话历史微调，造成"角色了解你"的幻觉
-   - 这是 [[产品卡片-Replika|Replika]] 的核心创新，Character.ai 则做得更开放、更平台化
+   - 这是 Replika 的核心创新，Character.ai 则做得更开放、更平台化
 
 4. **内容审核的"温度"选择**
    - 早期完全开放（包括成人内容），吸引了垂直社区（如 Janitor AI 的 18+ 玩家）
@@ -267,9 +280,9 @@ Shazeer 和 [[[[Daniel De Freitas]]]] 的核心认知是"**市场上有被压制
 - 对模型的微调信号
 - 下一个用户的体验改进
 
-这形成了 [[数据飞轮]]：更多用户 → 更多对话数据 → 模型更自然 → 新用户体验更好 → 更多用户。
+这形成了 [[02-打法库/07-护城河/数据飞轮|数据飞轮]]：更多用户 → 更多对话数据 → 模型更自然 → 新用户体验更好 → 更多用户。
 
-**MVP 策略类型**：[[简易拼装]] + [[服务先行]]（模型不够强时，通过人工审核优化回复）
+**MVP 策略类型**：[[02-打法库/03-MVP策略/简易拼装|简易拼装]] + [[服务先行]]（模型不够强时，通过人工审核优化回复）
 
 ---
 
@@ -287,16 +300,16 @@ Shazeer 和 [[[[Daniel De Freitas]]]] 的核心认知是"**市场上有被压制
 
 **市场切口策略**
 
-[[迫切刚需]]：对于核心用户（孤独的青少年、创意写作者、动漫粉丝），Character.ai 不是"可选项"，而是"此前不存在的东西"。他们不在选择 ChatGPT 还是 Character.ai，而是在"终于有个地方能和我的虚拟最爱对话"。
+[[02-打法库/04-PMF验证/迫切刚需|迫切刚需]]：对于核心用户（孤独的青少年、创意写作者、动漫粉丝），Character.ai 不是"可选项"，而是"此前不存在的东西"。他们不在选择 ChatGPT 还是 Character.ai，而是在"终于有个地方能和我的虚拟最爱对话"。
 
-[[别无选择]]：
+[[02-打法库/04-PMF验证/别无选择|别无选择]]：
 - Replika：太贵（订阅制），定位"AI 女友"，过于垂直
 - ChatGPT：太工具化，不提供持久关系和个性化
 - Discord 机器人：太极客化，UI 体验差
 
 **聚焦策略**
 
-[[关键功能聚焦]]：不做搜索、编程、写作助理，只做"陪伴式对话"。这个聚焦让产品体验极度纯粹，用户打开就知道这是什么：和 AI 聊天。
+[[02-打法库/03-MVP策略/关键功能聚焦|关键功能聚焦]]：不做搜索、编程、写作助理，只做"陪伴式对话"。这个聚焦让产品体验极度纯粹，用户打开就知道这是什么：和 AI 聊天。
 
 [[关键资源聚焦]]：所有资源投入内容生态（角色数量和质量），而非工程创新。
 
@@ -351,7 +364,7 @@ Shazeer 和 [[[[Daniel De Freitas]]]] 的核心认知是"**市场上有被压制
 
 这是一个风险：Character.ai 完全依赖外部平台的善意，但没有绑定。
 
-**增长引擎类型**：[[病毒传播-产品即内容]] + [[UGC 平台飞轮]] + [[社交粘性]]
+**增长引擎类型**：[[02-打法库/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]] + [[UGC 平台飞轮]] + [[02-打法库/05-增长引擎/社交粘性|社交粘性]]
 
 ---
 
@@ -359,7 +372,7 @@ Shazeer 和 [[[[Daniel De Freitas]]]] 的核心认知是"**市场上有被压制
 
 **收费模式**
 
-[[按访问-订阅]]：Freemium + 高级订阅
+[[02-打法库/06-商业化/按访问-订阅|按访问-订阅]]：Freemium + 高级订阅
 
 | 版本 | 价格 | 核心差异 |
 |------|------|---------|
@@ -403,7 +416,7 @@ Freemium 是标准选择，但 $9.99/月 这个价格点很有趣：
 
 Character.ai 的模型推理成本（2024 年）：
 - 早期自研 LLM：边际成本较低（摊销内部基础设施）
-- Google 协议后方向不明确，但可能逐步迁向 [[产品卡片-Gemini|Gemini]] API（成本透明化）
+- Google 协议后方向不明确，但可能逐步迁向 Gemini API（成本透明化）
 
 和 OpenAI / Anthropic 不同，Character.ai 不需要处理"无限上下文"或"高精度推理"，只需要"自然对话"，这让推理成本相对低。但规模化后（20M MAU），即使单位成本低，总成本也很高。
 
@@ -416,7 +429,7 @@ Character.ai 的模型推理成本（2024 年）：
 - 一旦加付费墙，这个价值主张就破掉了
 - 用户的选择只能是"要么接受免费但缓慢，要么放弃这个产品去找完全免费的替代品"
 
-这和"工具类"产品（如 [[产品卡片-Cursor|Cursor]]、ChatGPT）的定价完全不同。工具类产品付费是"为了效率"；陪伴类产品付费是"为了改变关系的本质"——这是不可能的。
+这和"工具类"产品（如 Cursor、ChatGPT）的定价完全不同。工具类产品付费是"为了效率"；陪伴类产品付费是"为了改变关系的本质"——这是不可能的。
 
 ---
 
@@ -424,7 +437,7 @@ Character.ai 的模型推理成本（2024 年）：
 
 **护城河类型**
 
-[[Persona 锁定]] + [[情感迁移成本]] + [[社交粘性]] + [[数据飞轮]]
+[[02-打法库/07-护城河/Persona 锁定|Persona 锁定]] + [[情感迁移成本]] + [[02-打法库/05-增长引擎/社交粘性|社交粘性]] + [[02-打法库/07-护城河/数据飞轮|数据飞轮]]
 
 但在 2024-2025 年，这些护城河都在快速削弱。
 
@@ -610,7 +623,7 @@ Character.ai 在应用层，但因为曾经自研模型，短暂涉及了模型�
         低可归因
 ```
 
-- **高自主 + 高可归因**（象限 1）：代码补全工具（Cursor）、搜索（[[产品卡片-Perplexity|Perplexity]]）→ 易于付费
+- **高自主 + 高可归因**（象限 1）：代码补全工具（Cursor）、搜索（Perplexity）→ 易于付费
 - **高自主 + 低可归因**（象限 2）：ChatGPT 创意写作 → 中等付费意愿
 - **低自主 + 高可归因**（象限 3）：预诊医疗 AI → 高付费意愿（but 监管风险）
 - **低自主 + 低可归因**（象限 4）：陪伴、娱乐、社交 → **最难付费**
@@ -827,10 +840,10 @@ Character.ai 的产品做得极好。PMF 指标（留存、时长、增长）都
 
 ## 相关案例
 
-- [[Replika]] — AI 伴侣先驱，更垂直的"AI 女友/男友"定位，付费转化更好但规模更小
+- [[01-产品库/产品卡片-Replika|Replika]] — AI 伴侣先驱，更垂直的"AI 女友/男友"定位，付费转化更好但规模更小
 - [[Janitor AI]] — 成人内容版 Character.ai，证明了这个品类的付费潜力在更垂直的情感场景
-- [[ChatGPT]] — 对手也在支持角色扮演，但工具属性太重，角色沉浸感远不如 Character.ai
-- [[[[产品卡片-Manus|Manus]]]] — 同为 a16z 榜单高位，对比展示：Agent 工具类 vs 社交陪伴类的完全不同商业逻辑
+- [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 对手也在支持角色扮演，但工具属性太重，角色沉浸感远不如 Character.ai
+- [[Manus]] — 同为 a16z 榜单高位，对比展示：Agent 工具类 vs 社交陪伴类的完全不同商业逻辑
 
 ---
 

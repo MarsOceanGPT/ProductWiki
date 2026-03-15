@@ -1,56 +1,60 @@
 ---
 type: product
-name: "Pixverse"
-name_cn: "像素宇宙"
-url: "https://pixverse.ai"
+name: Pixverse
+name_cn: 像素宇宙
+url: 'https://pixverse.ai'
 founded: 2022
-headquarters: "Beijing, China"
-founders: ["AIsphere 团队"]
-stage: "Scale"
-status: "Active"
+headquarters: 'Beijing, China'
+founders:
+  - AIsphere 团队
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$100M+"
-users: "100M+ 全球用户"
-videos_generated: "800M+ 视频"
-funding_total: "$360M+"
-latest_funding: "$300M Series C (2026-03, CDH Investments 领投)"
-valuation: "$1B+ (unicorn)"
-employees: "N/A"
-category: "AI Video Generation"
-subcategory: "Video Synthesis"
-target_user: "Content creators, video producers, developers"
-pricing_model: ["freemium", "subscription", "api"]
+arr: $100M+
+users: 100M+ 全球用户
+videos_generated: 800M+ 视频
+funding_total: $360M+
+latest_funding: '$300M Series C (2026-03, CDH Investments 领投)'
+valuation: $1B+ (unicorn)
+employees: N/A
+category: AI Video Generation
+subcategory: Video Synthesis
+target_user: 'Content creators, video producers, developers'
+pricing_model:
+  - freemium
+  - subscription
+  - api
 opportunity_playbooks:
-  - "[[吃技术升级红利]]"
-  - "[[中国AI出海]]"
+  - '[[02-打法库/01-机会识别/吃技术升级红利|吃技术升级红利]]'
+  - '[[中国AI出海]]'
 design_playbooks:
-  - "[[多模式支持]]"
-  - "[[开发者友好]]"
+  - '[[多模式支持]]'
+  - '[[开发者友好]]'
 mvp_playbooks:
-  - "[[API优先]]"
+  - '[[API优先]]'
 pmf_playbooks:
-  - "[[创意社区]]"
+  - '[[创意社区]]'
 growth_playbooks:
-  - "[[融资驱动增长]]"
-  - "[[合作伙伴网络]]"
+  - '[[融资驱动增长]]'
+  - '[[合作伙伴网络]]'
 monetization_playbooks:
-  - "[[按使用量计费]]"
-  - "[[API商业化]]"
+  - '[[按使用量计费]]'
+  - '[[API商业化]]'
 moat_playbooks:
-  - "[[多视角支持]]"
-  - "[[开发者生态]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "高自主-高归因"
+  - '[[多视角支持]]'
+  - '[[开发者生态]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 高自主-高归因
 competitors:
-  - "[[Kling]]"
-  - "[[Runway]]"
-  - "[[Pika]]"
-last_updated: 2026-03-14
-confidence: "High"
+  - '[[Kling]]'
+  - '[[01-产品库/产品卡片-Runway|Runway]]'
+  - '[[Pika]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+title: Pixverse
 ---
-
 # Pixverse
 
 > 一句话：中国创业团队的 AI 视频生成工具，获 Alibaba 战略投资，通过"多镜头视角"和"开发者 API"差异化竞争，2026年融资 $3 亿成为AI视频独角兽。

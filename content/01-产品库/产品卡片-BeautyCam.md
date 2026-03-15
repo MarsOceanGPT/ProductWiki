@@ -1,64 +1,7 @@
 ---
-type: product
-name: BeautyCam
-name_cn: 美颜相机
-url: https://www.meitu.com/beautycam
-
-# 基本信息
-founded: 2011
-headquarters: 厦门
-founders: [美图公司]
-stage: Mature
-status: Active
-
-# 关键指标（截至2026年3月）
-metrics_date: 2026-03
-arr: 约5000万人民币
-users: 数千万月活（全球）
-monthly_visits:
-mau:
-funding_total:
-funding_rounds: []
-valuation: 作为美图公司子产品
-employees:
-
-# 分类
-category: AI美颜相机
-subcategory: 自拍美颜、实时滤镜、人脸编辑
-target_user: 青少年、内容创作者、女性用户
-pricing_model: [freemium, subscription]
-
-# 打法标签（双向链接）
-opportunity_playbooks: []
-design_playbooks: []
-mvp_playbooks: []
-pmf_playbooks: []
-growth_playbooks: []
-monetization_playbooks: []
-moat_playbooks: []
-
-# 战略框架标签
-distance_to_money: 近
-industry_layer: 应用层
-pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [吴欣鸿]
-competitors: [Snow, B612, Snapchat, 抖音特效]
-pricing_quadrant: 高自主-高归因
-
-# 人物 & 竞品
-key_people: [吴欣鸿]
-competitors: [Snow, B612, Snapchat, 抖音特效]
-related_products: [美图秀秀, 秒拍, 大眼, 天天P图]
-
-# 元信息
-last_updated: 2026-03-14
-confidence: High
-mars_reviewed: false
+title: 美颜相机 BeautyCam
 ---
-
-# [[产品卡片-BeautyCam|美颜相机]] [[产品卡片-BeautyCam|BeautyCam]]
+# 美颜相机 BeautyCam
 
 > 美颜赛道的全球化传奇：中国团队用"实时AI美颜"打败硅谷，却面临Deepfake风险和审美伦理的终极困局
 
@@ -463,7 +406,7 @@ AI 草稿——待 Mars 确认
 
 ## 相关案例
 
-- [[[[产品卡片-BeautyPlus|美图秀秀]]]] — 同属美图生态，展示了"修图+生成"的完整链条
+- [[01-产品库/产品卡片-Meitu|美图秀秀]] — 同属美图生态，展示了"修图+生成"的完整链条
 - [[Snow, B612]] — 竞品，但市场占有率不如美颜相机
 - [[Snapchat]] — 西方竞品，最终被美颜相机等产品压制
 

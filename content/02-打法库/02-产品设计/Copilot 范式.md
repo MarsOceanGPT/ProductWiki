@@ -1,10 +1,16 @@
 ---
 类型: 打法
 阶段: 产品设计
-别名: [副驾驶模式, AI 辅助模式]
-案例: [Cursor, Copilot, Grammarly, Notion AI]
+别名:
+  - 副驾驶模式
+  - AI 辅助模式
+案例:
+  - Cursor
+  - Copilot
+  - Grammarly
+  - Notion AI
+title: Copilot 范式
 ---
-
 # Copilot 范式
 
 > AI 不替代用户，而是在用户身旁实时辅助——用户主导决策，AI 提供建议和补全。
@@ -24,16 +30,16 @@ Copilot 的神奇在于：
 
 ## 典型案例
 
-### [[产品卡片-Cursor|Cursor]]
+### [[01-产品库/产品卡片-Cursor|Cursor]]
 Tab 补全就是典型的 Copilot 模式。Cursor 看着你的代码上下文，猜测你想写什么，然后用半透明的灰色字体显示建议。你可以按 Tab 接受、按 Esc 拒绝、继续编辑。整个过程中，你始终在打字，Cursor 只是"加速"了你的打字速度，没有替代你的决策。这也是为什么 Copilot 比 Agent 更广泛地被接受——开发者喜欢保留对代码的掌控。
 
-### [[产品卡片-Grammarly|Grammarly]]
+### [[01-产品库/产品卡片-Grammarly|Grammarly]]
 写文案时，Grammarly 不是"自动改你的文案"，而是提示"这里语法有问题"、"这个词用法可能不当"、"这句话可以更简洁"。用户看到建议，决定要不要改。很多初级写手其实通过 Grammarly 的建议学会了怎么写好文案。
 
-### [[产品卡片-Copilot|Copilot]]
+### [[01-产品库/产品卡片-Copilot|Copilot]]
 代码补全的开创者。你打了几个字，Copilot 就猜出你要写什么函数，给出一个建议。如果不满意，你继续打，它重新猜测。这个互动的过程，本质上是"人和 AI 的协作"，而不是"AI 替人做"。
 
-### [[产品卡片-Notion AI|Notion AI]]
+### [[01-产品库/产品卡片-Notion AI|Notion AI]]
 在你写文档的时候，Notion AI 可以建议"继续写下去"、"总结这一段"、"改进这个措辞"。但所有的改动都需要你确认。这保留了文档的"主人翁感"，用户不会觉得 AI 改变了自己的内容。
 
 ## 关键成功要素
@@ -49,5 +55,5 @@ Tab 补全就是典型的 Copilot 模式。Cursor 看着你的代码上下文，
 
 ## 相关打法
 
-- [[Agent 代理式|Agent 代理式]] — 光谱的另一端是完全自主的 Agent
-- [[Chat 对话式|Chat 对话式]] — 对话中也可以加入 Copilot 式的建议
+- [[02-打法库/02-产品设计/Agent 代理式|Agent 代理式]] — 光谱的另一端是完全自主的 Agent
+- [[02-打法库/02-产品设计/Chat 对话式|Chat 对话式]] — 对话中也可以加入 Copilot 式的建议

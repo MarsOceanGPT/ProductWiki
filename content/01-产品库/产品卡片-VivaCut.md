@@ -1,53 +1,56 @@
 ---
 type: product
-name: "VivaCut"
-name_cn: "VivaCut"
-url: "https://vivacut.com"
+name: VivaCut
+name_cn: VivaCut
+url: 'https://vivacut.com'
 founded: 2019
-headquarters: "Hangzhou, China"
-founders: ["Hangzhou Qumeng Technology"]
-stage: "Growth"
-status: "Active"
+headquarters: 'Hangzhou, China'
+founders:
+  - Hangzhou Qumeng Technology
+stage: Growth
+status: Active
 metrics_date: 2026-01
-arr: "$50M+（估计）"
-users: "50M+ 全球用户"
-funding_total: "未公开"
-valuation: "未公开"
-employees: "N/A"
-category: "Video Editing"
-subcategory: "Mobile Video Editor"
-target_user: "Content creators, video producers, TikTok creators"
-pricing_model: ["freemium", "subscription"]
+arr: $50M+（估计）
+users: 50M+ 全球用户
+funding_total: 未公开
+valuation: 未公开
+employees: N/A
+category: Video Editing
+subcategory: Mobile Video Editor
+target_user: 'Content creators, video producers, TikTok creators'
+pricing_model:
+  - freemium
+  - subscription
 opportunity_playbooks:
-  - "[[移动优先]]"
-  - "[[中国出海]]"
+  - '[[移动优先]]'
+  - '[[中国出海]]'
 design_playbooks:
-  - "[[多轨道编辑]]"
-  - "[[AI功能集成]]"
+  - '[[多轨道编辑]]'
+  - '[[AI功能集成]]'
 mvp_playbooks:
-  - "[[专业工具简化]]"
+  - '[[专业工具简化]]'
 pmf_playbooks:
-  - "[[创作者友好]]"
+  - '[[创作者友好]]'
 growth_playbooks:
-  - "[[应用商店]]"
-  - "[[创作者网络]]"
+  - '[[应用商店]]'
+  - '[[创作者网络]]'
 monetization_playbooks:
-  - "[[订阅 + 虚拟货币]]"
+  - '[[订阅 + 虚拟货币]]'
 moat_playbooks:
-  - "[[多功能集成]]"
-  - "[[本地化]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "高自主-高归因"
+  - '[[多功能集成]]'
+  - '[[本地化]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 高自主-高归因
 competitors:
-  - "[[CapCut]]"
-  - "[[Edits]]"
-  - "[[VN]]"
-last_updated: 2026-03-14
-confidence: "Medium"
+  - '[[CapCut]]'
+  - '[[01-产品库/产品卡片-Edits|Edits]]'
+  - '[[VN]]'
+last_updated: 2026-03-14T00:00:00.000Z
+confidence: Medium
 mars_reviewed: false
+title: VivaCut
 ---
-
 # VivaCut
 
 > 一句话：中国团队的移动视频编辑工具，更专业的多轨道编辑、零广告体验、支持 AI 功能，与 CapCut 形成"专业 vs 易用"的差异化竞争。
