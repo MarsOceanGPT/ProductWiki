@@ -1,9 +1,12 @@
 import { cp, mkdir, readdir, readFile, rm, stat, writeFile } from "node:fs/promises"
 import path from "node:path"
+import { fileURLToPath } from "node:url"
 import matter from "gray-matter"
 
-const SOURCE_DIR = "/Users/marsocean/Downloads/Content Master/Product Wiki"
-const TARGET_DIR = "/Users/marsocean/Downloads/Content Master/Product Wiki Site/content"
+const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url))
+const PROJECT_ROOT = path.resolve(SCRIPT_DIR, "..")
+const TARGET_DIR = path.join(PROJECT_ROOT, "content")
+const DEFAULT_SOURCE_DIR = path.resolve(PROJECT_ROOT, "../Product Wiki")
 const INCLUDED_PATHS = ["README.md", "01-产品库", "02-打法库", "03-人物库"]
 const EXCLUDED_BASENAMES = new Set(["README-AI产品卡片库.md", "README-新产品卡片.md"])
 const LABEL_OVERRIDES = {
@@ -206,12 +209,43 @@ async function copyEntry(srcPath, destPath, relativePath = "", isIndex = false) 
   await cp(srcPath, destPath)
 }
 
+async function pathExists(targetPath) {
+  try {
+    await stat(targetPath)
+    return true
+  } catch {
+    return false
+  }
+}
+
+async function directoryHasFiles(targetPath) {
+  try {
+    const entries = await readdir(targetPath)
+    return entries.length > 0
+  } catch {
+    return false
+  }
+}
+
 async function main() {
+  const sourceDir = process.env.SOURCE_WIKI_DIR
+    ? path.resolve(process.env.SOURCE_WIKI_DIR)
+    : DEFAULT_SOURCE_DIR
+
+  if (!(await pathExists(sourceDir))) {
+    if (await directoryHasFiles(TARGET_DIR)) {
+      console.log(`Source wiki not found at ${sourceDir}, using checked-in content/`)
+      return
+    }
+
+    throw new Error(`Source wiki not found at ${sourceDir} and content/ is empty`)
+  }
+
   await rm(TARGET_DIR, { recursive: true, force: true })
   await mkdir(TARGET_DIR, { recursive: true })
 
   for (const relativePath of INCLUDED_PATHS) {
-    const sourcePath = path.join(SOURCE_DIR, relativePath)
+    const sourcePath = path.join(sourceDir, relativePath)
     const isIndex = relativePath === "README.md"
     const normalizedRelativePath = isIndex ? "README.md" : relativePath
     const targetPath = resolveDestination(normalizedRelativePath, isIndex)
