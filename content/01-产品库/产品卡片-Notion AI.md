@@ -698,5 +698,5 @@ Notion AI 的故事，本质上是**"一个成功的 Incumbent 如何在 AI 时�
 - [[OneNote]]（微软的 Incumbent）
 - [[Obsidian]]（本地优先竞争对手）
 - [[Claude API]]（核心的 AI 供应方）
-- [[playbooks/data-flywheel|数据飞轮]]（护城河框架）
+- [[数据飞轮]]（护城河框架）
 - [[Incumbent + AI 战略]]（商业模式框架）

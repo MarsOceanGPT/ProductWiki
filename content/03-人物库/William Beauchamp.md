@@ -55,6 +55,6 @@ title: William Beauchamp
 
 ## 相关人物
 
-- [[people/noam-shazeer|Noam Shazeer]] — Character.ai CEO，间接竞争者
+- [[Noam Shazeer]] — Character.ai CEO，间接竞争者
 - [[Seamless Capital]] — 前创业经历
 - [[剑桥大学]] — 学术背景

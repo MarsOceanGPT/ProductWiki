@@ -25,7 +25,7 @@ pricing_model:
   - subscription
   - api
 opportunity_playbooks:
-  - '[[playbooks/tech-upgrade-tailwind|吃技术升级红利]]'
+  - '[[吃技术升级红利]]'
   - '[[中国AI出海]]'
 design_playbooks:
   - '[[多模式支持]]'

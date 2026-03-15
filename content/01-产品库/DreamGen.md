@@ -14,5 +14,5 @@ DreamGen 是专注于 NSFW 内容生成的 AI 平台，提供文本和图像生�
 
 ## 与其他产品的关系
 
-- [[products/character-ai|Character.ai]] — 竞品，角色扮演和内容创作
+- [[产品卡片-Character.ai|Character.ai]] — 竞品，角色扮演和内容创作
 - [[产品卡片-Spicychat.ai|Spicychat.ai]] — 竞品，专注成人内容的 AI 聊天

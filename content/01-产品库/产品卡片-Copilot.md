@@ -28,7 +28,7 @@ pricing_model:
 opportunity_playbooks:
   - '[[生态垄断]]'
   - '[[企业采购]]'
-  - '[[playbooks/workflow-embed|工作流嵌入]]'
+  - '[[工作流嵌入]]'
 design_playbooks:
   - '[[Office 集成]]'
   - '[[Windows 集成]]'

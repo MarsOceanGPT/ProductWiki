@@ -24,7 +24,7 @@ pricing_model:
   - subscription
   - enterprise
 opportunity_playbooks:
-  - '[[playbooks/tech-upgrade-tailwind|吃技术升级红利]]'
+  - '[[吃技术升级红利]]'
   - '[[中国AI出海]]'
   - '[[视频数据商业化]]'
 design_playbooks:

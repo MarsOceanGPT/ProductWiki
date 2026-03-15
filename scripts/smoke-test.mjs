@@ -12,12 +12,12 @@ const fileChecks = [
   "404.html",
   "sitemap.xml",
   "static/contentIndex.json",
-  "products/deepseek.html",
-  "products/perplexity.html",
-  "products/cursor.html",
-  "playbooks/seo-content-marketing.html",
-  "playbooks/ai-as-moat.html",
-  "people/liang-wenfeng.html",
+  "01-产品库/产品卡片-DeepSeek.html",
+  "01-产品库/产品卡片-Perplexity.html",
+  "01-产品库/产品卡片-Cursor.html",
+  "02-打法库/05-增长引擎/SEO-内容营销.html",
+  "02-打法库/07-护城河/AI就是壁垒.html",
+  "03-人物库/梁文锋.html",
 ]
 
 const hiddenChecks = [
@@ -31,22 +31,22 @@ const hiddenChecks = [
 const routeChecks = [
   {
     route: "/",
-    expected: ["AI 产品策略图谱 — Product Wiki", "/products/deepseek", "/people/liang-wenfeng"],
+    expected: ["AI 产品策略图谱 — Product Wiki", "DeepSeek", "梁文锋", "Perplexity"],
   },
   {
-    route: "/products/deepseek",
-    expected: ["<title>DeepSeek</title>", 'class="backlinks"', "梁文锋", "/playbooks/ai-as-moat"],
+    route: "/01-%E4%BA%A7%E5%93%81%E5%BA%93/%E4%BA%A7%E5%93%81%E5%8D%A1%E7%89%87-DeepSeek",
+    expected: ["<title>DeepSeek</title>", 'class="backlinks"', "梁文锋", "AI就是壁垒"],
   },
   {
-    route: "/products/perplexity",
+    route: "/01-%E4%BA%A7%E5%93%81%E5%BA%93/%E4%BA%A7%E5%93%81%E5%8D%A1%E7%89%87-Perplexity",
     expected: ["<title>Perplexity</title>"],
   },
   {
-    route: "/playbooks/seo-content-marketing",
+    route: "/02-%E6%89%93%E6%B3%95%E5%BA%93/05-%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E/SEO-%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80",
     expected: ["<title>SEO / 内容营销</title>", "Perplexity"],
   },
   {
-    route: "/people/liang-wenfeng",
+    route: "/03-%E4%BA%BA%E7%89%A9%E5%BA%93/%E6%A2%81%E6%96%87%E9%94%8B",
     expected: ["<title>梁文锋</title>", 'class="backlinks"', "DeepSeek"],
   },
 ]
@@ -97,8 +97,9 @@ async function main() {
   assert.match(contentIndex, /梁文锋/)
 
   const sitemap = await readFile(path.join(PUBLIC_DIR, "sitemap.xml"), "utf8")
-  assert.match(sitemap, /https:\/\/wiki\.marsren\.ai\/products\/deepseek/)
-  assert.match(sitemap, /https:\/\/wiki\.marsren\.ai\/people\/liang-wenfeng/)
+  assert.match(sitemap, /https:\/\/wiki\.marsren\.ai\/01-%E4%BA%A7%E5%93%81%E5%BA%93\/%E4%BA%A7%E5%93%81%E5%8D%A1%E7%89%87-DeepSeek/)
+  assert.match(sitemap, /https:\/\/wiki\.marsren\.ai\/03-%E4%BA%BA%E7%89%A9%E5%BA%93\/%E6%A2%81%E6%96%87%E9%94%8B/)
+  assert.match(sitemap, /https:\/\/wiki\.marsren\.ai\/02-%E6%89%93%E6%B3%95%E5%BA%93\/05-%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E\/SEO-%E5%86%85%E5%AE%B9%E8%90%A5%E9%94%80/)
 
   const server = await startServer()
 
