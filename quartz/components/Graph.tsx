@@ -30,7 +30,7 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 1,
+    depth: 2,
     scale: 1.1,
     repelForce: 0.5,
     centerForce: 0.3,
@@ -66,8 +66,9 @@ export default ((opts?: Partial<GraphOptions>) => {
     return (
       <div class={classNames(displayClass, "graph")}>
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
-        <div class="graph-outer">
+        <div class="graph-outer" role="button" aria-label="展开全局关系图谱" tabIndex={0}>
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
+          <div class="graph-expand-hint">点击展开全屏</div>
           <button class="global-graph-icon" aria-label="Global Graph">
             <svg
               version="1.1"

@@ -636,8 +636,24 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
   const containerIcons = document.getElementsByClassName("global-graph-icon")
   Array.from(containerIcons).forEach((icon) => {
-    icon.addEventListener("click", renderGlobalGraph)
+    icon.addEventListener("click", (e) => {
+      e.stopPropagation()
+      renderGlobalGraph()
+    })
     window.addCleanup(() => icon.removeEventListener("click", renderGlobalGraph))
+  })
+
+  // Make the whole graph-outer area clickable to open fullscreen
+  const graphOuters = document.getElementsByClassName("graph-outer")
+  Array.from(graphOuters).forEach((outer) => {
+    const handler = (e: Event) => {
+      // Only trigger if not dragging a node (check if click target is the canvas or outer)
+      const target = e.target as HTMLElement
+      if (target.tagName === 'BUTTON' || target.closest('button')) return
+      renderGlobalGraph()
+    }
+    outer.addEventListener("click", handler)
+    window.addCleanup(() => outer.removeEventListener("click", handler))
   })
 
   document.addEventListener("keydown", shortcutHandler)
