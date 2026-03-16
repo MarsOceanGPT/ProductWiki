@@ -15,7 +15,15 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "zh-CN",
     baseUrl: "wiki.marsren.ai",
-    ignorePatterns: ["private", "templates", ".obsidian", "04-模板"],
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "04-模板",
+      "AI 炼金术实验室*",
+      "AI产品策略图谱*",
+      "a16z_AI_Top100*",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",
