@@ -26,8 +26,8 @@ distance_to_money: 中（创意工作者付费意愿中等）
 industry_layer: 应用层 / 生产力工具
 pricing_quadrant: 免费 (300积分) → 订阅制
 key_people: 待补充
-competitors: [[Notion]], [[Obsidian]], [[Figma]], [[Miro]]
-related_products: [[YouMind]], [[Dify]], [[Flowchart]]
+competitors: "[[Notion]], [[Obsidian]], [[Figma]], [[Miro]]"
+related_products: "[[YouMind]], [[Dify]], [[Flowchart]]"
 last_updated: 2026-03-16
 confidence: 0.75
 mars_reviewed: false

@@ -26,8 +26,8 @@ distance_to_money: 中（知识工作者付费能力强）
 industry_layer: 应用层 / 生产力工具
 pricing_quadrant: 免费 → 订阅制
 key_people: CaiCai (CPO & Co-founder)
-competitors: [[Notion]], [[Obsidian]], [[Flowith]], [[Readwise]]
-related_products: [[Flowith]], [[Readwise Reader]]
+competitors: "[[Notion]], [[Obsidian]], [[Flowith]], [[Readwise]]"
+related_products: "[[Flowith]], [[Readwise Reader]]"
 last_updated: 2026-03-16
 confidence: 0.80
 mars_reviewed: false

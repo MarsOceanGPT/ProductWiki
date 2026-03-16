@@ -26,8 +26,8 @@ distance_to_money: 中等（开发者工具变现难）
 industry_layer: 应用层 / 开发工具层
 pricing_quadrant: 免费 → 企业版
 key_people: 待补充
-competitors: [[Cursor]], [[GitHub Copilot]], VS Code
-related_products: [[Dify]], [[FastGPT]]
+competitors: "[[Cursor]], [[GitHub Copilot]], VS Code"
+related_products: "[[Dify]], [[FastGPT]]"
 last_updated: 2026-03-16
 confidence: 0.85
 mars_reviewed: false

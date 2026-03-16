@@ -26,8 +26,8 @@ distance_to_money: 中（硬件销售直接变现，云服务需订阅）
 industry_layer: 硬件 + 应用层
 pricing_quadrant: 硬件 $179 → 云服务订阅 $99/年
 key_people: 待补充
-competitors: [[Otter.ai]], [[Fireflies.ai]], [[讯飞AI笔]]
-related_products: [[讯飞星火]], [[Dify]], [[YouMind]]
+competitors: "[[Otter.ai]], [[Fireflies.ai]], [[讯飞AI笔]]"
+related_products: "[[讯飞星火]], [[Dify]], [[YouMind]]"
 last_updated: 2026-03-16
 confidence: 0.78
 mars_reviewed: false

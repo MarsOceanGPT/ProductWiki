@@ -26,8 +26,8 @@ distance_to_money: 中（企业客户付费能力强）
 industry_layer: 应用层
 pricing_quadrant: 免费 → 企业SaaS
 key_people: 待补充
-competitors: [[Dify]], [[Bisheng]], [[Flowise]]
-related_products: [[Dify]], [[Flowith]], [[Bisheng]]
+competitors: "[[Dify]], [[Bisheng]], [[Flowise]]"
+related_products: "[[Dify]], [[Flowith]], [[Bisheng]]"
 last_updated: 2026-03-16
 confidence: 0.85
 mars_reviewed: false

@@ -26,8 +26,8 @@ distance_to_money: 最近（API计费已成熟，硬件直销）
 industry_layer: 基础层（LLM）+ 应用层
 pricing_quadrant: API按量付费 → 企业年度合同
 key_people: 刘庆峰 (CEO)
-competitors: [[OpenAI]], [[Anthropic]], [[DeepSeek]], [[百度Ernie]]
-related_products: [[字节豆包]], [[阿里通义]], [[百度文心]]
+competitors: "[[OpenAI]], [[Anthropic]], [[DeepSeek]], [[百度Ernie]]"
+related_products: "[[字节豆包]], [[阿里通义]], [[百度文心]]"
 last_updated: 2026-03-16
 confidence: 0.85
 mars_reviewed: false

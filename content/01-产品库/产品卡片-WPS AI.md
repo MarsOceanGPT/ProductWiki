@@ -26,8 +26,8 @@ distance_to_money: 最近（已有成熟付费用户基数）
 industry_layer: 应用层 / 生产力工具
 pricing_quadrant: 免费(基础) → 会员(Pro) → 企业版
 key_people: 待补充
-competitors: [[Microsoft 365]], [[Google Workspace]], [[Notion]]
-related_products: [[飞书]], [[钉钉]]
+competitors: "[[Microsoft 365]], [[Google Workspace]], [[Notion]]"
+related_products: "[[飞书]], [[钉钉]]"
 last_updated: 2026-03-16
 confidence: 0.90
 mars_reviewed: false

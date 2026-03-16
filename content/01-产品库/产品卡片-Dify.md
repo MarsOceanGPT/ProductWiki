@@ -26,8 +26,8 @@ distance_to_money: 中等（需要企业付费转化）
 industry_layer: 应用层 / 开发中间件层
 pricing_quadrant: 免费 → SaaS订阅
 key_people: 待补充
-competitors: [[LangChain]], [[Flowise]], [[n8n]]
-related_products: [[FastGPT]], [[Bisheng]], [[Flowith]]
+competitors: "[[LangChain]], [[Flowise]], [[n8n]]"
+related_products: "[[FastGPT]], [[Bisheng]], [[Flowith]]"
 last_updated: 2026-03-16
 confidence: 0.90
 mars_reviewed: false
