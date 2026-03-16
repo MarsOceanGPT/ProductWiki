@@ -10,10 +10,11 @@ founders:
 stage: Scale
 status: Active
 metrics_date: 2026-03
-arr: 未公开
-users: 数千万月活
-monthly_visits: null
-mau: null
+arr: 估算1-3亿人民币/年（基于API和订阅）
+users: 2.03亿MAU（月活用户）
+mau: 2.03亿
+dau: 7352万（春节期间）
+monthly_visits: 50亿次服务请求/月
 funding_total: null
 funding_rounds: []
 valuation: null
@@ -65,7 +66,9 @@ title: Qwen
 | **核心定位** | 开源+闭源的混合大模型，同时面向企业API和消费者对话 |
 | **关键指标** | 数千万月活（对话服务），开源模型下载超5000万次 |
 | **定价** | 免费+付费订阅+API按量计费（混合模式） |
-| **标志性时刻** | 2023年推出公开版，2024年开源模型，打破闭源模型垄断 |
+| **标志性时刻** | 2023年推出公开版，2024年开源模型，2026年春节MAU突破2亿 |
+| **开源规模** | 衍生模型20万+，下载量10亿次，全球TOP 1开源大模型 |
+| **企业接入** | 超100万企业，包括宝马、西门子、LV等国际品牌 |
 | **核心差异** | 大厂背书（$200B+阿里市值）+开源战略+云平台深度整合，相比ChatGPT是"国产替代"，相比豆包是"更企业级" |
 
 ---
@@ -96,7 +99,10 @@ title: Qwen
 | 2023年4月 | 推出通义千问公测版 | 数百万用户排队使用，验证市场需求 |
 | 2023年9月 | 开源Qwen-7B/14B模型 | 突破闭源垄断，赢得开发者社区 |
 | 2024年 | 推出更强模型版本+API商业化 | ARR快速增长，成为国内最赚钱的大模型公司 |
-| 2025-2026 | 行业模型深度优化（法律、医学等） | 从"通用模型"向"垂直行业模型"进阶 |
+| 2025年底 | 开源模型下载突破6亿次 | Qwen成为全球最受欢迎的开源大模型 |
+| 2026年2月 | 发布Qwen 3.5系列，397B参数模型上线 | 在HuggingFace排名全球前四，超越Gemini 3 |
+| 2026年春节 | MAU突破2亿，DAU 7352万增幅940% | 支付笔数超1.2亿，50亿次服务请求/月 |
+| 2026年3月 | 衍生模型突破20万，日均新增200+ | 全球企业接入超100万，包括宝马/西门子/LV |
 
 ---
 
@@ -581,11 +587,13 @@ AI 草稿——待 Mars 确认
 
 ---
 
-## 相关案例
+## 相关产品与对标
 
 - [[01-产品库/产品卡片-Quark|夸克]] — 通义千问的应用层产品，展示了"模型如何被集成到消费级产品"
 - [[01-产品库/产品卡片-Doubao|豆包]] — 竞品，也采用了类似的开源+API+C端的三元战略
 - [[01-产品库/产品卡片-ChatGPT|ChatGPT]] — 对标产品，单一闭源模式与通义千问的混合模式形成对比
+- [[01-产品库/产品卡片-Claude|Claude]] — 海外对标，通用大模型的闭源代表
+- [[01-产品库/产品卡片-Gemini|Gemini]] — Google的多模态大模型，与Qwen 3.5竞争
 
 ---
 
@@ -642,6 +650,24 @@ AI 草稿——待 Mars 确认
 
 ---
 
+---
+
+## 参考来源
+
+- [Qwen 官方网站](https://tongyi.aliyun.com/)
+- [千问在 HuggingFace 排名](https://huggingface.co/Qwen)
+- [Qwen 开源模型突破 20 万 | PC Home](https://article.pchome.net/news/10025.html)
+- [千问 App 春节期间用户数据 | 新浪财经](https://finance.sina.cn/stock/jdts/2026-03-04/detail-inhpvyee3700300.d.html)
+- [Qwen 3.5 最强开源模型 | QbitAI](https://www.qbitai.com/2026/02/380433.html)
+- [千问团队人事变动分析 | 新浪新闻](https://k.sina.com.cn/article_7857201856_1d45362c001902wlce.html)
+- [ModelScope 魔搭社区](https://modelscope.cn/)
+- [阿里云大模型文档](https://help.aliyun.com/zh/model-studio/what-is-qwen-llm)
+- [Github Qwen 开源项目](https://github.com/QwenLM/Qwen)
+- [通义千问官方新闻](https://tongyi.aliyun.com/news)
+
+---
+
 ## 更新日志
 
+- 2026-03-16：v4.2版本更新，增补2026年最新数据（MAU 2亿、开源模型20万+、企业接入100万+）
 - 2026-03-14：初始创建（AI研究 + 待Mars审核）
