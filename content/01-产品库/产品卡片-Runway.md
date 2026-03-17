@@ -1,12 +1,4 @@
 ---
-title: Runway v4.0
-slug: runway
-category: 视频生成
-status: active
-version: v4.0
-lastUpdate: 2026-03-17
-author: Mars
-confidence: high
 type: product
 name: Runway
 name_cn: Runway AI 视频生成与世界模型平台
