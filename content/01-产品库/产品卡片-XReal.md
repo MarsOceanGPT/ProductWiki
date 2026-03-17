@@ -41,7 +41,7 @@ type: product
   - Netflix、YouTube（内容）
   - BMW、NIO（汽车应用）
 关联产品:
-  - [[硅基智能|AR 数字人]] / [[AI 编程]]
+  - "[[硅基智能|AR 数字人]] / [[AI 编程]]"
 最后更新: 2026-03-17
 信心度: high
 mars_reviewed: false

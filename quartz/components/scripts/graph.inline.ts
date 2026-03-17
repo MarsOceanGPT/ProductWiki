@@ -174,6 +174,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
 
+  // Warm up simulation so nodes are settled before first render
+  simulation.tick(50)
+
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
     "--secondary",
@@ -596,14 +599,19 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   })
 
   const containers = [...document.getElementsByClassName("global-graph-outer")] as HTMLElement[]
+  // Store original parents so we can move containers back
+  const originalParents = containers.map((c) => c.parentElement)
+
   async function renderGlobalGraph() {
     const slug = getFullSlug(window)
     for (const container of containers) {
+      // Move to document.body to escape sidebar's backdrop-filter stacking context
+      // which breaks position:fixed
+      document.body.appendChild(container)
       container.classList.add("active")
-      const sidebar = container.closest(".sidebar") as HTMLElement
-      if (sidebar) {
-        sidebar.style.zIndex = "1"
-      }
+
+      // Wait for layout to complete before rendering
+      await new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
 
       const graphContainer = container.querySelector(".global-graph-container") as HTMLElement
       registerEscapeHandler(container, hideGlobalGraph)
@@ -615,11 +623,13 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
   function hideGlobalGraph() {
     cleanupGlobalGraphs()
-    for (const container of containers) {
+    for (let i = 0; i < containers.length; i++) {
+      const container = containers[i]
       container.classList.remove("active")
-      const sidebar = container.closest(".sidebar") as HTMLElement
-      if (sidebar) {
-        sidebar.style.zIndex = ""
+      // Move back to original parent
+      const parent = originalParents[i]
+      if (parent) {
+        parent.appendChild(container)
       }
     }
   }
