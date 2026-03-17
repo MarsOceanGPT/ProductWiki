@@ -2,7 +2,7 @@
 type: person
 name: Mati Staniszewski
 role: Co-founder & CEO
-company: '[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]'
+company: '[[01-产品库/ElevenLabs|ElevenLabs]]'
 nationality: Polish
 age: '32'
 background: Google 工程师（基础设施）→ Palantir 数据工程 → ElevenLabs CEO
@@ -75,7 +75,7 @@ Mati 定价策略反映了这个理解：透明的 API 定价，按使用量付�
 
 ## 产品 DNA
 
-[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]] 的设计哲学就是"企业级音质 + API 化部署"。
+[[01-产品库/ElevenLabs|ElevenLabs]] 的设计哲学就是"企业级音质 + API 化部署"。
 
 不做 B2C 应用，而是成为**基础设施**。Mati 从 Palantir 学到的"系统可靠性"，用在了语音模型的推理速度和稳定性上。
 
@@ -115,7 +115,7 @@ Mati 定价策略反映了这个理解：透明的 API 定价，按使用量付�
 
 ## 相关产品
 
-- **[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]** — AI 语音合成平台，CEO
+- **[[01-产品库/ElevenLabs|ElevenLabs]]** — AI 语音合成平台，CEO
 - **[[ElevenLabs VoiceAgent]]** — 企业客服方案
 - **[[ElevenLabs API]]** — 开发者集成
 

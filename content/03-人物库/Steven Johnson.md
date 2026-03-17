@@ -87,7 +87,7 @@ Johnson 告诉团队：**真正的需求是『如何让不同的想法对话』*
 
 ## 相关产品与人物
 
-- **[[01-产品库/产品卡片-NotebookLM|NotebookLM]]** — 早期顾问
+- **[[01-产品库/NotebookLM|NotebookLM]]** — 早期顾问
 - **[[03-人物库/Raiza Martin|Raiza Martin]]** — NotebookLM Product Lead，理论的实践者
 
 ---

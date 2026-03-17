@@ -93,7 +93,7 @@ Hassabis 的思维方式虽然主要体现在研究而非产品中，但对 Deep
 - [[AlphaFold]] - 蛋白质结构预测
 - [[AlphaZero]] - 通用强化学习系统
 - [[Google DeepMind]] - Google 与 DeepMind 合并后的研究部门
-- [[01-产品库/产品卡片-Gemini|Gemini]] - Google 的旗舰 AI 模型
+- [[01-产品库/Gemini|Gemini]] - Google 的旗舰 AI 模型
 
 ## 相关人物
 

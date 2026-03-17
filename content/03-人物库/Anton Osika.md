@@ -2,7 +2,7 @@
 type: person
 name: Anton Osika
 role: Founder & CEO
-company: '[[01-产品库/产品卡片-Lovable|Lovable]]'
+company: '[[01-产品库/Lovable|Lovable]]'
 nationality: Swedish
 age: '30'
 background: >-
@@ -48,7 +48,7 @@ KTH 工程物理硕士，加速完成。随后进入 CERN（欧洲核子研究�
 
 ### 阶段四：商业化转折（2023年底 - 2026年3月）
 
-Osika 与 Fabian Hedin 联合，2023年底将 GPT Engineer 的核心思想商业化为 [[01-产品库/产品卡片-Lovable|Lovable]]。
+Osika 与 Fabian Hedin 联合，2023年底将 GPT Engineer 的核心思想商业化为 [[01-产品库/Lovable|Lovable]]。
 
 一开始的假设是：开发者工具市场——让专业程序员更快编码。
 
@@ -111,7 +111,7 @@ Lovable 的选择是：不要"最强的代码补全"，而要"最完整的应用
 
 ## 产品 DNA：黑箱工程学的消费化
 
-[[01-产品库/产品卡片-Lovable|Lovable]] 的设计哲学完全源于 Osika 的物理学思维：**隐藏复杂性，暴露意图**。
+[[01-产品库/Lovable|Lovable]] 的设计哲学完全源于 Osika 的物理学思维：**隐藏复杂性，暴露意图**。
 
 用户的工作流很简单：
 1. 描述你要什么（自然语言）
@@ -178,7 +178,7 @@ Osika 对此的解释：**"如果产品不足以让人主动分享，更多的�
 
 ## 相关产品与人物
 
-- [[01-产品库/产品卡片-Lovable|Lovable]] — 全栈应用生成器，CEO
+- [[01-产品库/Lovable|Lovable]] — 全栈应用生成器，CEO
 - [[GPT Engineer]] — 原始开源项目，GitHub 50K stars
 - [[Claude 3.5 Sonnet]] — Lovable 的主要 AI 底座
 

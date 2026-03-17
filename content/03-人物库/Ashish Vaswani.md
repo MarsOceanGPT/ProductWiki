@@ -294,7 +294,7 @@ Vaswani 的回答很有趣："我更关心现在我能做什么，而不是过�
 - **[[Rnj-1]]** — Essential AI 的开源 8B 代码模型（2025年12月）
 - **[[BERT]]** — 基于 Transformer 的双向编码
 - **[[GPT 系列]]** — 基于 Transformer 的单向生成
-- **[[01-产品库/产品卡片-Claude|Claude]]** — 基于 Transformer 的 Constitutional AI
+- **[[01-产品库/Claude|Claude]]** — 基于 Transformer 的 Constitutional AI
 
 ## 相关人物
 

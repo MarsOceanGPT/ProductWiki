@@ -55,7 +55,7 @@ NotebookLM 在 Twitter 和 Product Hunt 爆火，完全靠用户自发分享。
 
 ## 产品 DNA
 
-[[01-产品库/产品卡片-NotebookLM|NotebookLM]] 的产品哲学就是 Raiza 的同情心：**为学习者去除摩擦**。
+[[01-产品库/NotebookLM|NotebookLM]] 的产品哲学就是 Raiza 的同情心：**为学习者去除摩擦**。
 
 上传文件 → 问问题 → 听播客。三步完成的工作流，背后是数百次的 PM 调整。
 
@@ -89,7 +89,7 @@ Raiza 允许用户用各种意想不到的方式使用 NotebookLM。很多最好
 
 ## 相关产品
 
-- **[[01-产品库/产品卡片-NotebookLM|NotebookLM]]** — 研究助手，Product Lead
+- **[[01-产品库/NotebookLM|NotebookLM]]** — 研究助手，Product Lead
 - **[[Audio Overview]]** — 播客生成功能
 
 ## 相关人物

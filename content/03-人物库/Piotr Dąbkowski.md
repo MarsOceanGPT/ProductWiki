@@ -2,7 +2,7 @@
 type: person
 name: Piotr Dąbkowski
 role: Co-founder & CTO
-company: '[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]'
+company: '[[01-产品库/ElevenLabs|ElevenLabs]]'
 nationality: Polish
 age: '31'
 background: Oxford CS + Cambridge MPhil（深度学习） → Google ML 工程师（语音） → ElevenLabs CTO
@@ -65,7 +65,7 @@ ElevenLabs 最初有消费端（阅读工具、播客生成），但 Piotr 和 M
 
 ## 产品 DNA
 
-[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]] 的模型设计是 Piotr 的"执念"体现：不追求参数量的庞大，而追求**声音质量的极致**。
+[[01-产品库/ElevenLabs|ElevenLabs]] 的模型设计是 Piotr 的"执念"体现：不追求参数量的庞大，而追求**声音质量的极致**。
 
 这意味着在 Google 时代学到的"模型精调"技巧被充分应用——每一个语言、每一个声色都有专门优化。
 
@@ -102,7 +102,7 @@ ElevenLabs 最初有消费端（阅读工具、播客生成），但 Piotr 和 M
 
 ## 相关产品
 
-- **[[01-产品库/产品卡片-ElevenLabs|ElevenLabs]]** — AI 语音合成平台，CTO
+- **[[01-产品库/ElevenLabs|ElevenLabs]]** — AI 语音合成平台，CTO
 - **[[ElevenLabs VoiceAgent]]** — 企业客服方案
 
 ## 相关人物

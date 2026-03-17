@@ -2,7 +2,7 @@
 type: person
 name: Johnny Ho
 role: Co-founder & Chief Strategy Officer
-company: '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+company: '[[01-产品库/Perplexity|Perplexity]]'
 nationality: American
 background: 竞技编程 → Quora ML工程师 → Tower Research高频交易 → Perplexity CSO
 notable_for: Perplexity的策略和产品负责人，三时国际编程竞赛金牌得主，不太公开露面但对产品方向有重大影响
@@ -125,7 +125,7 @@ Johnny的官方头衔是"Chief Strategy Officer"，这意味着他负责的是�
 ## 相关产品和人物
 
 ### Perplexity的产品线
-- [[01-产品库/产品卡片-Perplexity|Perplexity]] — AI搜索引擎，Johnny是策略负责人
+- [[01-产品库/Perplexity|Perplexity]] — AI搜索引擎，Johnny是策略负责人
 - [[Focus Mode]] — 垂直搜索，可能是Johnny的想法（竞技编程的分治思想）
 - [[Comet]] — AI浏览器
 - [[Perplexity Personal Computer]] — 2026年最新产品
@@ -138,7 +138,7 @@ Johnny的官方头衔是"Chief Strategy Officer"，这意味着他负责的是�
 ### 职业轨迹中的关键公司
 - [[Quora]] — 学习搜索排序
 - [[Tower Research Capital]] — 学习高性能系统
-- [[01-产品库/产品卡片-Perplexity|Perplexity]] — 整合所有经验
+- [[01-产品库/Perplexity|Perplexity]] — 整合所有经验
 
 ## 核心特征总结
 

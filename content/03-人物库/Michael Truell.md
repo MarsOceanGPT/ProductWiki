@@ -2,7 +2,7 @@
 type: person
 name: Michael Truell
 role: Co-founder & CEO
-company: '[[01-产品库/产品卡片-Cursor|Cursor]]'
+company: '[[01-产品库/Cursor|Cursor]]'
 nationality: American
 age: '25'
 background: MIT CS & Math 双学位 → Anysphere 创始人 → Cursor CEO
@@ -65,7 +65,7 @@ $60M Series A → $2.3B Series C，中间不过度融资。这个节奏给了团
 
 ## 产品 DNA
 
-[[01-产品库/产品卡片-Cursor|Cursor]] 的核心是"开发者协作编辑器"。
+[[01-产品库/Cursor|Cursor]] 的核心是"开发者协作编辑器"。
 
 不是"聊天界面"（那是 ChatGPT 的模式），而是"代码本身"。Tab、命令、快捷键都经过精心设计，最大化 AI 协作的流畅度。
 
@@ -108,7 +108,7 @@ ChatGPT 的定位是"替代人类思考"。Cursor 的定位是"增强人类能�
 
 ## 相关产品
 
-- **[[01-产品库/产品卡片-Cursor|Cursor]]** — AI 编程 IDE，CEO
+- **[[01-产品库/Cursor|Cursor]]** — AI 编程 IDE，CEO
 
 ## 相关人物
 

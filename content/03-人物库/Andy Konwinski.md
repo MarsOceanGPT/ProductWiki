@@ -2,7 +2,7 @@
 type: person
 name: Andy Konwinski
 role: Co-founder
-company: '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+company: '[[01-产品库/Perplexity|Perplexity]]'
 nationality: American
 background: >-
   UC Berkeley PhD → Apache Mesos & Spark → Databricks Co-founder → Perplexity
@@ -184,7 +184,7 @@ Perplexity现在也在做类似的事——从消费搜索到API、到Copilot集
 ## 相关产品与人物
 
 ### 核心产品线
-- [[01-产品库/产品卡片-Perplexity|Perplexity]] — 联合创始人，产品负责人
+- [[01-产品库/Perplexity|Perplexity]] — 联合创始人，产品负责人
 - [[Databricks]] — 共同创办人（现已离职）
 - [[Apache Spark]] — 早期核心贡献者
 - [[Apache Mesos]] — UC Berkeley时代的项目

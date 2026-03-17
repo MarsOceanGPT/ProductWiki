@@ -2,7 +2,7 @@
 type: person
 name: Daniel De Freitas
 role: Co-founder & President
-company: '[[01-产品库/产品卡片-Character.ai|Character.ai]] → [[Google DeepMind]]'
+company: '[[01-产品库/Character.ai|Character.ai]] → [[Google DeepMind]]'
 nationality: Brazilian
 age: '38'
 background: >-
@@ -54,7 +54,7 @@ De Freitas 和 Shazeer 看穿了这个悖论，决定创业。
 
 ### 阶段二：Character.ai 的"反击"（2021-2024）
 
-**2021 年底**，Shazeer 和 De Freitas 离职，创办 [[01-产品库/产品卡片-Character.ai|Character.ai]]。
+**2021 年底**，Shazeer 和 De Freitas 离职，创办 [[01-产品库/Character.ai|Character.ai]]。
 
 #### 核心产品洞察：角色，而非助手
 
@@ -144,7 +144,7 @@ De Freitas 的洞见是：**娱乐和陪伴市场在互联网上可能比工具�
 
 ## 相关产品与人物
 
-- **[[01-产品库/产品卡片-Character.ai|Character.ai]]** — 角色对话平台，联合创始人兼 President
+- **[[01-产品库/Character.ai|Character.ai]]** — 角色对话平台，联合创始人兼 President
 - **[[LaMDA]]** — Google 对话 AI 基础模型
 - **[[Meena]]** — 前置对话突破
 

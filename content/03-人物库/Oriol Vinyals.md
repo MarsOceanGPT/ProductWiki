@@ -133,7 +133,7 @@ Vinyals 的思维方式对 Google DeepMind 的产品有深刻影响：
 
 - **[[seq2seq]]** — 序列到序列的架构
 - **[[AlphaStar]]** — 星际争霸 II AI
-- **[[01-产品库/产品卡片-Gemini|Gemini]]** — Google 旗舰多模态模型
+- **[[01-产品库/Gemini|Gemini]]** — Google 旗舰多模态模型
 
 ## 相关人物
 

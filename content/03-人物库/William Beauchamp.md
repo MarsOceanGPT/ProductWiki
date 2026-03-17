@@ -2,7 +2,7 @@
 type: person
 name: William Beauchamp
 role: Co-founder & CEO
-company: '[[01-产品库/产品卡片-Chai|Chai]]'
+company: '[[01-产品库/Chai|Chai]]'
 nationality: British
 age: '38'
 background: 职业扑克手（赚 £100K） → 剑桥经济学 → Seamless Capital CEO（£1亿估值） → Chai CEO
@@ -67,7 +67,7 @@ Beauchamp 设计了 Chai 的核心——开发者排行榜竞技。
 
 ## 产品 DNA
 
-[[01-产品库/产品卡片-Chai|Chai]] 的本质是"排行榜游戏"。
+[[01-产品库/Chai|Chai]] 的本质是"排行榜游戏"。
 
 这反而是对"AI 陪伴"这个品类最深刻的理解：
 
@@ -113,7 +113,7 @@ Beauchamp 设计了 Chai 的核心——开发者排行榜竞技。
 
 ## 相关产品
 
-- **[[01-产品库/产品卡片-Chai|Chai]]** — AI 陪伴平台，CEO
+- **[[01-产品库/Chai|Chai]]** — AI 陪伴平台，CEO
 - **[[Chai Leaderboard]]** — 排行榜生态
 
 ## 相关人物

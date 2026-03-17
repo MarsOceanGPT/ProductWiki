@@ -2,7 +2,7 @@
 type: person
 name: Aravind Srinivas
 role: Co-founder & CEO
-company: '[[01-产品库/产品卡片-Perplexity|Perplexity]]'
+company: '[[01-产品库/Perplexity|Perplexity]]'
 nationality: Indian-American
 background: IIT Madras电子工程 → UC Berkeley PhD → OpenAI/DeepMind/Google → Perplexity CEO
 notable_for: 把搜索从蓝链接变成AI直接答案，31岁成印度最年轻亿万富翁，与ChatGPT/Google竞争的最有声量的创业者
@@ -243,7 +243,7 @@ Aravind用自己的产品来Pitch，这本身就是个信号：
 ## 相关产品和人物
 
 ### 产品
-- [[01-产品库/产品卡片-Perplexity|Perplexity]] — AI搜索/答案引擎，CEO
+- [[01-产品库/Perplexity|Perplexity]] — AI搜索/答案引擎，CEO
 - [[Perplexity Pro]] — 深度研究模式
 - [[Comet]] — AI浏览器，2025年7月发布
 - [[Perplexity Personal Computer]] — AI代理 + 硬件，2026年2月发布
