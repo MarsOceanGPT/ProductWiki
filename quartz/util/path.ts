@@ -169,7 +169,12 @@ export function pathToRoot(slug: FullSlug): RelativeURL {
 }
 
 export function resolveRelative(current: FullSlug, target: FullSlug | SimpleSlug): RelativeURL {
-  const res = joinSegments(pathToRoot(current), simplifySlug(target as FullSlug)) as RelativeURL
+  const simplified = simplifySlug(target as FullSlug)
+  const res = joinSegments(pathToRoot(current), simplified) as RelativeURL
+  // Add .html extension for non-folder, non-anchor links so static hosting works without URL rewriting
+  if (simplified && !simplified.endsWith("/") && !res.endsWith("/") && !res.includes(".html")) {
+    return (res + ".html") as RelativeURL
+  }
   return res
 }
 
@@ -252,7 +257,11 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
     }
 
     // if it's not unique, then it's the absolute path from the vault root
-    return (joinSegments(pathToRoot(src), canonicalSlug) + folderTail) as RelativeURL
+    const absPath = joinSegments(pathToRoot(src), canonicalSlug) + folderTail
+    if (!folderTail && !absPath.endsWith("/") && !absPath.includes(".html") && !targetAnchor) {
+      return (absPath + ".html") as RelativeURL
+    }
+    return (absPath + targetAnchor) as RelativeURL
   }
 }
 
