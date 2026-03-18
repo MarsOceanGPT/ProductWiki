@@ -34,7 +34,7 @@ related_products: "[[飞书]], [[钉钉]], [[DeepSeek]]"
 last_updated: 2026-03-17
 confidence: 0.95
 mars_reviewed: false
-title: "WPS AI：国产AI办公套件的产品-市场适配样本"
+title: "WPS AI"
 ---
 
 ## 一句话定位

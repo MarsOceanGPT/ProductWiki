@@ -1,5 +1,5 @@
 ---
-title: 美颜相机 BeautyCam
+title: "BeautyCam"
 ---
 # 美颜相机 BeautyCam
 

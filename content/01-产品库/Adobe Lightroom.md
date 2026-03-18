@@ -40,7 +40,7 @@ tags:
   - Adobe Photoshop
   - Firefly
   - Creative Cloud
-title: Adobe Lightroom
+title: "Adobe Lightroom"
 ---
 # Adobe Lightroom
 

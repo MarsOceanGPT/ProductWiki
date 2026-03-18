@@ -12,7 +12,7 @@ results_headline: "AI推荐驱动80%观看量，个性化留存每年省$10亿+"
 last_updated: 2026-03-17
 confidence: high
 mars_reviewed: false
-title: "Netflix：AI推荐驱动80%观看量——流媒体之王如何用算法建立不可复制的护城河"
+title: "Netflix"
 ---
 
 ## 一句话定位

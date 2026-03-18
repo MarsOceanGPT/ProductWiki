@@ -61,7 +61,7 @@ related_products:
 last_updated: 2026-03-17
 confidence: 0.95
 mars_reviewed: false
-title: ChatGPT——消费级AI分发之王
+title: "ChatGPT"
 ---
 
 ## 一句话定位

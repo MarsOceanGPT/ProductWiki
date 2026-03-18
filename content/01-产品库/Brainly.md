@@ -38,7 +38,7 @@ tags:
   - Gauth
   - Learna AI
   - Character.ai
-title: Brainly
+title: "Brainly"
 ---
 # Brainly
 

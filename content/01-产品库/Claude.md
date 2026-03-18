@@ -1,5 +1,5 @@
 ---
-title: "Claude v4.0"
+title: "Claude"
 subtitle: "Anthropic的安全优先路线，用Constitutional AI换取企业信任溢价"
 product_type: "AI Assistant / LLM Platform"
 company: "Anthropic Inc."

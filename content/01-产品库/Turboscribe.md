@@ -23,7 +23,7 @@ pricing_model:
   - Subscription
 accuracy_claim: 99.8% (Whisper-based)
 languages_supported: 98+
-languages_subtitle: 130+
+languages_subtitle: "Turboscribe"
 opportunity_playbooks:
   - Unlimited transcription model vs minute-limited competitors
   - Creator economy positioning

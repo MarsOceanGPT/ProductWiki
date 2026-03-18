@@ -37,7 +37,7 @@ tags:
   - Janitor AI
 关联产品:
   - Character.ai
-title: Polybuzz
+title: "Polybuzz.ai"
 ---
 # Polybuzz
 

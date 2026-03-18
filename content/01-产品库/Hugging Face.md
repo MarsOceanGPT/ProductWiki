@@ -1,5 +1,5 @@
 ---
-title: Hugging Face
+title: "Hugging Face"
 version: v4.0
 date: 2026-03-17
 category: 基础设施与工具

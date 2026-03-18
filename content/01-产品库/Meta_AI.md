@@ -1,5 +1,5 @@
 ---
-title: Meta AI
+title: "Meta_AI"
 subtitle: 构建开放式 AI 生态的平台化助手
 category: AI Assistant
 type: product-card

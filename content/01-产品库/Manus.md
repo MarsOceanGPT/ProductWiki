@@ -1,5 +1,5 @@
 ---
-title: 产品卡片 - Manus
+title: "Manus"
 subtitle: 通用 AI Agent 的商业化突破
 author: Product Wiki
 date: 2026-03-17

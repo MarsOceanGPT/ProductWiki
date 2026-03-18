@@ -44,7 +44,7 @@ tags:
   - CrushOn.ai
   - Replika
   - Spicychat
-title: Janitor AI
+title: "Janitor AI"
 ---
 # Janitor AI
 

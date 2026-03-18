@@ -1,5 +1,5 @@
 ---
-title: Notion AI - AI 赋能的工作空间操作系统
+title: "Notion AI"
 version: 4.0
 category: AI产品
 subcategory: 工作空间/知识管理

@@ -60,7 +60,7 @@ related_products:
 last_updated: 2026-03-17
 confidence: 0.92
 mars_reviewed: false
-title: Suno AI——音乐产业的ChatGPT时刻
+title: "Suno"
 ---
 
 ## 一句话定位

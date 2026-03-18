@@ -74,7 +74,7 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High (regulatory context well-documented)
 mars_reviewed: false
-title: Replika
+title: "Replika"
 ---
 # Replika AI 产品卡片
 

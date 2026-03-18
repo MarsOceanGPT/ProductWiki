@@ -76,7 +76,7 @@ related_products:
 last_updated: 2026-03-17
 confidence: 很高
 mars_reviewed: false
-title: MiniMax / Hailuo AI - 全球第二大视频生成模型公司，IPO速度破纪录
+title: "MiniMax"
 ---
 
 ## 一句话定位

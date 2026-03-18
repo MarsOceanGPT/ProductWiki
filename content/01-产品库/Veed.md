@@ -85,7 +85,7 @@ related_products:
 last_updated: '2026-03-17'
 confidence: High
 mars_reviewed: false
-title: Veed - AI Video Editor
+title: "Veed"
 ---
 
 # Veed 产品卡片 v4.0

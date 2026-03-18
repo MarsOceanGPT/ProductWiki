@@ -71,7 +71,7 @@ related_products:
 last_updated: 2026-03-17
 confidence: 0.85
 mars_reviewed: false
-title: YouMind
+title: "YouMind"
 ---
 
 # YouMind：玉伯的「万物化稿，稿生万物」

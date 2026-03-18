@@ -12,7 +12,7 @@ results_headline: "1.6万财务顾问用GPT-4，每人周省10-15小时，知识
 last_updated: 2026-03-17
 confidence: high
 mars_reviewed: false
-title: "Morgan Stanley：1.6万投顾的GPT-4助手——华尔街如何率先拥抱大模型"
+title: "Morgan Stanley"
 ---
 
 # Morgan Stanley：1.6万投顾的GPT-4助手（v2.0）

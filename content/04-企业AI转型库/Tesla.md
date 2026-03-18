@@ -12,7 +12,7 @@ results_headline: "拆箱工艺成本-30~50%，FSD里程干预率突破9200英�
 last_updated: 2026-03-17
 confidence: high
 mars_reviewed: false
-title: "Tesla：AI重新定义汽车制造——从'拆箱工艺'到端到端自动驾驶与机器人"
+title: "Tesla"
 ---
 
 # Tesla：AI重新定义汽车制造（v2.0）

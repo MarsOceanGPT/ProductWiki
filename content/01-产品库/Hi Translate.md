@@ -37,7 +37,7 @@ tags:
   - Papago
   - Google 翻译
   - Gauth
-title: Hi Translate
+title: "Hi Translate"
 ---
 # Hi Translate
 

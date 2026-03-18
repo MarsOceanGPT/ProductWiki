@@ -33,7 +33,7 @@ related_products: "LLaMA、Mistral AI、Qwen、ChatGPT、Claude、Gemini"
 last_updated: "2026-03-17"
 confidence: "high"
 mars_reviewed: false
-title: "DeepSeek: 极低成本推理模型的中国破局者"
+title: "DeepSeek"
 ---
 
 ## 一句话定位

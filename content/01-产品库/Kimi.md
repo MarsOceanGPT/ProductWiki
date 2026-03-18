@@ -1,5 +1,5 @@
 ---
-title: "Kimi v4.0 产品卡片"
+title: "Kimi"
 subtitle: "月之暗面的长文本与推理突破"
 version: "4.0"
 author: "AI Product Wiki"

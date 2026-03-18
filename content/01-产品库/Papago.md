@@ -39,7 +39,7 @@ tags:
   - Naver Search
   - Line
   - Naver Cloud
-title: Papago
+title: "Papago"
 ---
 # Papago
 

@@ -1,5 +1,5 @@
 ---
-title: "Grok - xAI 的实时推理AGI野心"
+title: "Grok"
 date: 2026-03-17
 status: 推荐
 rating: 4.5/5

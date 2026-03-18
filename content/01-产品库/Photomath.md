@@ -36,7 +36,7 @@ tags:
 关联产品:
   - Gauth
   - Google Gemini
-title: Photomath
+title: "Photomath"
 ---
 # Photomath
 

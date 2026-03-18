@@ -1,5 +1,5 @@
 ---
-title: 豆包/Doubao v4.0 产品卡片
+title: "Doubao"
 subtitle: 字节跳动AI时代的消费级与企业级双引擎
 author: Claude Code Agent
 date: 2026-03-17

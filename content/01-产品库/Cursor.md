@@ -51,7 +51,7 @@ related_products:
 last_updated: 2026-03-17
 confidence: High (sourced from official announcements, major publications, user data)
 mars_reviewed: false
-title: "Cursor: 从 VS Code 分叉到 $29.3B AI IDE，用 Agent 重写代码编辑的未来"
+title: "Cursor"
 ---
 
 ## 一句话定位

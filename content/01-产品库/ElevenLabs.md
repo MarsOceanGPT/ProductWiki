@@ -1,5 +1,5 @@
 ---
-title: ElevenLabs v4.0 产品卡片
+title: "ElevenLabs"
 subtitle: AI 语音合成 & 对话智能体平台
 category: 产品库
 tags: [AI语音, TTS, 语音克隆, 对话AI, 配音/本地化, 企业应用]

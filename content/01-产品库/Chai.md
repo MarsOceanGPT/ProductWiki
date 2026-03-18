@@ -75,7 +75,7 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High (公开资料+多个来源验证)
 mars_reviewed: false
-title: Chai
+title: "Chai"
 ---
 # Chai：用户生成AI的YouTube模式
 

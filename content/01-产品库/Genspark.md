@@ -68,7 +68,7 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: Genspark
+title: "Genspark"
 ---
 ## 基本面
 

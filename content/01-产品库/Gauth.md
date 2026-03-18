@@ -37,7 +37,7 @@ tags:
   - Photomath
   - Learna AI
   - Brainly
-title: Gauth
+title: "Gauth"
 ---
 # Gauth
 

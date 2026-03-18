@@ -20,7 +20,7 @@ pricing_model: Freemium (Pro $9.99/月 or $89.99/年; Commerce Pro 另计)
 last_updated: 2026-03-17
 confidence: 8.5/10
 mars_reviewed: false
-title: CapCut v4.0 产品卡片 - AI视频编辑的"距钱距离"最优解
+title: "CapCut"
 ---
 
 ## 一句话定位

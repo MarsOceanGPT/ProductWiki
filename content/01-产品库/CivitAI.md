@@ -73,7 +73,7 @@ related_products:
 last_updated: '2026-03-14'
 confidence: Medium
 mars_reviewed: false
-title: CivitAI
+title: "CivitAI"
 ---
 # CivitAI 产品卡片
 

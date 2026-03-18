@@ -1,5 +1,5 @@
 ---
-title: HeyGen - AI 视频分身制造机
+title: "HeyGen"
 description: 一键生成数字分身，用 AI 替代真人出镜
 category: AI视频生成
 tags: [digital-human, avatar, video-translation, enterprise, generative-ai]

@@ -69,7 +69,7 @@ competitors:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: SeaArt
+title: "SeaArt"
 ---
 # SeaArt：创意工作者的经济共同体
 

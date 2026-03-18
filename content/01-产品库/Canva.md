@@ -34,7 +34,7 @@ related_products: "Leonardo.AI (acquired 2024), Affinity Suite (acquired 2024), 
 last_updated: 2026-03-17
 confidence: 95
 mars_reviewed: false
-title: "Canva v4.0：从设计工具到AI-Native平台的蜕变"
+title: "Canva"
 ---
 
 ## 一句话定位

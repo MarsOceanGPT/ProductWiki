@@ -12,7 +12,7 @@ results_headline: "See & Spray精准除草减少除草剂77%，自动驾驶拖�
 last_updated: 2026-03-17
 confidence: high
 mars_reviewed: false
-title: "John Deere：除草剂减少77%——农机巨头如何用AI重新定义精准农业（v2.0）"
+title: "John Deere"
 ---
 
 # John Deere：AI重新定义精准农业（v2.0）

@@ -1,5 +1,5 @@
 ---
-title: "Gamma - AI原生演示/文档工具"
+title: "Gamma"
 date: 2026-03-17
 version: "4.0"
 category: "AI工具"

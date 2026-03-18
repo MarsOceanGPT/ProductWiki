@@ -56,7 +56,7 @@ competitors:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: Pixa（原 Pixelcut）
+title: "Pixelcut"
 ---
 # Pixa（原 Pixelcut）
 

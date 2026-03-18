@@ -76,7 +76,7 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: Synthesia
+title: "Synthesia"
 ---
 ## 基本面表格
 

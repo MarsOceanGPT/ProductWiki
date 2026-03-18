@@ -1,5 +1,5 @@
 ---
-title: Dify v4.0 产品卡片
+title: "Dify"
 subtitle: 开源 AI 应用开发平台 | LLMOps 中文之光
 author: Mars
 date: 2026-03-17

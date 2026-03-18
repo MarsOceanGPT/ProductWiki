@@ -1,5 +1,5 @@
 ---
-title: NotebookLM
+title: "NotebookLM"
 subtitle: Google Labs 源文本驱动的 AI 研究助手
 version: v4.0
 date: 2026-03-17

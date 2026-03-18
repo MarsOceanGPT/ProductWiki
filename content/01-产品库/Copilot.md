@@ -33,7 +33,7 @@ related_products: GitHub Copilot, Copilot Studio, Azure OpenAI Service, Microsof
 last_updated: 2026-03-17
 confidence: 95%
 mars_reviewed: false
-title: Microsoft Copilot - AI Agents Across the Enterprise Stack
+title: "Copilot"
 ---
 
 ## 一句话定位

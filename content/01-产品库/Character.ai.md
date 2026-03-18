@@ -77,7 +77,7 @@ industry_layer: 应用层
 pricing_quadrant: 低自主-低归因
 key_people:
   - name: Noam Shazeer
-    title: 共同创始人，AI 架构师（Transformer 论文共同作者，已回归 Google 2024 年 8 月）
+    title: "Character.ai"
   - name: Daniel De Freitas
     title: 共同创始人，技术负责人（已回归 Google 2024 年 8 月）
   - name: Karandeep Anand
@@ -100,7 +100,7 @@ related_products:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: Character.ai v4.0 产品卡片
+title: "Character.ai"
 ---
 
 # Character.ai v4.0 产品卡片

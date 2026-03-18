@@ -22,10 +22,7 @@ pricing_model: Freemium + 订阅制 + 企业自定义
 last_updated: 2026-03-15
 confidence: 9/10
 mars_reviewed: false
-title: Lovable v4.0产品卡片｜从GPT Engineer到$6.6B独角兽，vibe coding时代的最大赢家
-  - 低代码到无代码
-  - B2B2C渠道
-  - PLG+企业销售双轨
+title: "Lovable"
 design_playbooks:
   - Lovability as moat
   - 品牌温暖度

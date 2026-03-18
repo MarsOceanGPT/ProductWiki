@@ -40,7 +40,7 @@ tags:
   - Janitor AI
   - Character.ai
   - CrushOn.ai
-title: Spicychat.ai
+title: "Spicychat.ai"
 ---
 
 # Spicychat.ai

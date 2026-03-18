@@ -62,7 +62,7 @@ related_products:
 last_updated: 2026-03-17
 confidence: 0.88
 mars_reviewed: false
-title: "Replit——AI编程民主化：从学习工具到自主智能体"
+title: "Replit"
 ---
 
 ## 一句话定位

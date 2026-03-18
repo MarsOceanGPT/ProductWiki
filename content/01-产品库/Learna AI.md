@@ -37,7 +37,7 @@ tags:
   - Duolingo
   - Khan Academy
   - Character.ai
-title: Learna AI
+title: "Learna AI"
 ---
 # Learna AI
 

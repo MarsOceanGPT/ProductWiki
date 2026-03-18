@@ -62,7 +62,7 @@ competitors:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: Medium-High
 mars_reviewed: false
-title: Remini - AI Photo Enhancer
+title: "Remini"
 ---
 # Remini - AI 照片修复与增强
 

@@ -34,7 +34,7 @@ tags:
   - Local AI alternatives
 关联产品:
   - Doubao（中国版）
-title: CiCi
+title: "CiCi"
 ---
 # CiCi
 

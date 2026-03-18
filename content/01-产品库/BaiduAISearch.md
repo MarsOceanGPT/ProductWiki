@@ -51,7 +51,7 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: Baidu AI Search
+title: "BaiduAISearch"
 ---
 # 百度AI搜索 / 文心一言
 

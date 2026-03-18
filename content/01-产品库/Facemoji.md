@@ -37,7 +37,7 @@ tags:
   - Character.ai
   - Midjourney
   - DALL-E
-title: Facemoji
+title: "Facemoji"
 ---
 # Facemoji
 

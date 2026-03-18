@@ -1,5 +1,5 @@
 ---
-title: "Kling - 可灵"
+title: "Kling"
 subtitle: "快手AI视频生成引擎"
 version: "4.0"
 date: 2026-03-17

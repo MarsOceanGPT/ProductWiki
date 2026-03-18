@@ -47,7 +47,7 @@ tags:
   - Replika
   - Character.ai
   - Janitor AI
-title: Candy AI
+title: "Candy AI"
 ---
 # Candy AI
 

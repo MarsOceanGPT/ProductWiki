@@ -12,7 +12,7 @@ results_headline: "从设计到上架7天，打折商品<10%，库存周转行�
 last_updated: 2026-03-17
 confidence: high
 mars_reviewed: false
-title: "Zara：AI预测让快时尚更快——从设计到上架7天的供应链革命"
+title: "Zara"
 ---
 
 ## 一句话定位

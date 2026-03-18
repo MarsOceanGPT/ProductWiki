@@ -40,7 +40,7 @@ tags:
   - Janitor AI
   - Character.ai
   - Replika
-title: CrushOn.ai
+title: "CrushOn.ai"
 ---
 # CrushOn.ai：被审核驱赶的 NSFW 用户的避难所
 

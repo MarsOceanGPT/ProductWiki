@@ -57,7 +57,7 @@ related_products:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: Yandex & Nebius Group
+title: "Yandex"
 ---
 # Yandex & Nebius Group：地缘政治与本地化AI的交集
 

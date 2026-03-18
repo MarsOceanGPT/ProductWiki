@@ -1,5 +1,5 @@
 ---
-title: Windsurf
+title: "Windsurf"
 subtitle: AI-Native IDE with Agentic Cascade Engine
 category: 开发者工具 / AI IDE
 status: 活跃

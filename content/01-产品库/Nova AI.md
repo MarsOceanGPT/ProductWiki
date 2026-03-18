@@ -31,7 +31,7 @@ tags:
   - Grok
   - Perplexity
 关联产品: []
-title: Nova
+title: "Nova AI"
 ---
 # Nova
 
