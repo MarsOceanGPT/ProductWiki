@@ -176,7 +176,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   // Warm up simulation so nodes are settled before first render
   // More ticks needed for large graphs (300+ nodes)
-  const tickCount = graphData.nodes.length > 100 ? 200 : 50
+  const tickCount = graphData.nodes.length > 200 ? 300 : graphData.nodes.length > 100 ? 200 : 50
   simulation.tick(tickCount)
 
   // precompute style prop strings as pixi doesn't support css variables
@@ -446,8 +446,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const linkRenderDatum: LinkRenderData = {
       simulationData: l,
       gfx,
-      color: computedStyleMap["--lightgray"],
-      alpha: 1,
+      color: computedStyleMap["--gray"],
+      alpha: 0.4,
       active: false,
     }
 
