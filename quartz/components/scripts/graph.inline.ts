@@ -210,10 +210,19 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
+  // Precompute link counts for sizing and label visibility
+  const linkCounts = new Map<string, number>()
+  for (const l of graphData.links) {
+    linkCounts.set(l.source.id, (linkCounts.get(l.source.id) || 0) + 1)
+    linkCounts.set(l.target.id, (linkCounts.get(l.target.id) || 0) + 1)
+  }
+
+  // Top N nodes by link count get visible labels by default
+  const sortedByLinks = [...linkCounts.entries()].sort((a, b) => b[1] - a[1])
+  const topLabelNodes = new Set(sortedByLinks.slice(0, 25).map(([id]) => id))
+
   function nodeRadius(d: NodeData) {
-    const numLinks = graphData.links.filter(
-      (l) => l.source.id === d.id || l.target.id === d.id,
-    ).length
+    const numLinks = linkCounts.get(d.id) || 0
     return 3 + Math.sqrt(numLinks)
   }
 
@@ -381,11 +390,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   for (const n of graphData.nodes) {
     const nodeId = n.id
 
+    // Only show labels for top-connected nodes by default
+    const defaultLabelAlpha = topLabelNodes.has(nodeId) ? 0.85 : 0
     const label = new Text({
       interactive: false,
       eventMode: "none",
       text: n.text,
-      alpha: 0,
+      alpha: defaultLabelAlpha,
       anchor: { x: 0.5, y: 1.2 },
       style: {
         fontSize: fontSize * 15,
@@ -396,7 +407,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     })
     label.scale.set(1 / scale)
 
-    let oldLabelOpacity = 0
+    let oldLabelOpacity = defaultLabelAlpha
     const isTagNode = nodeId.startsWith("tags/")
     const gfx = new Graphics({
       interactive: true,
@@ -521,9 +532,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
           const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
 
-          for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
+          for (const n of nodeRenderData) {
+            if (!activeNodes.includes(n.label)) {
+              // Top nodes keep their labels visible even at default zoom
+              const isTop = topLabelNodes.has(n.simulationData.id)
+              n.label.alpha = isTop ? Math.max(0.85, scaleOpacity) : scaleOpacity
             }
           }
         }),
