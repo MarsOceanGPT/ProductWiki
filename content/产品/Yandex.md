@@ -776,6 +776,13 @@ Alibaba（中国）= 政策隔离 + 本地化垄断
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Google & Google Search|Google & Google Search]]、[[产品/Microsoft Bing & Copilot|Microsoft Bing & Copilot]]、[[产品/OpenAI ChatGPT|OpenAI ChatGPT]]
+- 想了解行业？看 [[tags/行业-搜索知识|搜索知识赛道全部产品]]
+
 ## 时间线（详细版）
 
 | 年份 | Q&事件 | 战略意义 | 外部背景 |

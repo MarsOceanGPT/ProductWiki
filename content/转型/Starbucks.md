@@ -422,6 +422,13 @@ Starbucks的Deep Brew在美国和加拿大表现最好，但在中国的成功�
 
 ---
 
+
+
+## 体现的打法
+
+- [[打法/07-护城河/数据飞轮|数据飞轮]]
+- [[打法/07-护城河/品牌信任|品牌信任]]
+
 ## 参考来源
 
 - [Starbucks Deep Brew AI: How Technology Makes Coffee Human | Canopy Remote Device Management Software](https://www.gocanopy.com/news-insights/starbucks-deep-brew-ai)

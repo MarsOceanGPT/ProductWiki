@@ -839,6 +839,13 @@ Ideogram的优势：
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Midjourney|Midjourney]]、[[产品/DALL|DALL]]、[[产品/Adobe Firefly|Adobe Firefly]]
+- 想了解行业？看 [[tags/行业-图像设计|图像设计赛道全部产品]]
+
 ## 更新日志
 
 | 版本 | 日期 | 更新内容 | 编辑者 |

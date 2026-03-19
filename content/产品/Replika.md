@@ -716,6 +716,14 @@ origin story本身特别powerful：一个女性程序员因为好友的死亡，
 - [[打法/07-护城河/Persona 锁定|Persona 锁定]]
 - [[打法/07-护城河/数据飞轮|数据飞轮]]
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Character.AI|Character.AI]]、[[产品/Chai|Chai]]、[[产品/CrushOn.AI|CrushOn.AI]]
+- 想了解打法？看 [[打法/01-机会识别/打开价格门槛新市场|打开价格门槛新市场]]、[[打法/02-产品设计/Chat 对话式|Chat 对话式]]
+- 想了解行业？看 [[tags/行业-社交陪伴|社交陪伴赛道全部产品]]
+
 ## 参考来源
 
 - [Replika Italy DPA Ban和GDPR罚款](https://iapp.org/news/a/italy-s-dpa-reaffirms-ban-on-replika-over-ai-and-children-privacy-concerns) — 官方监管决议，5百万欧元罚款依据

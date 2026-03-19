@@ -744,6 +744,13 @@ Hovhannes Avoyan从亚美尼亚出发的handicap实际上变成了advantage：
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Instagram Filters|Instagram Filters]]、[[产品/Snapchat|Snapchat]]、[[产品/BeautyPlus|BeautyPlus]]
+- 想了解行业？看 [[tags/行业-开发工具|开发工具赛道全部产品]]
+
 ## 更新日志
 
 - 2026-03-14 | 初稿完成，重点关注teenager-first strategy和creator economy

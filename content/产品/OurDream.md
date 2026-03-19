@@ -333,6 +333,13 @@ AI 草稿——待 Mars 确认
 - 国家/地区的用户分布
 - 更详细的商业化策略
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[[Character AI]]|[[Character AI]]]]、[[产品/[[产品/Replika|Replika]]|[[产品/Replika|Replika]]]]、[[产品/[[产品/Candy AI|Candy AI]]|[[产品/Candy AI|Candy AI]]]]
+- 想了解行业？看 [[tags/行业-社交陪伴|社交陪伴赛道全部产品]]
+
 ## 更新日志
 
 - 2026-03-14：初始创建（网络信息整理 + 待 Mars 审核；信息不完整）

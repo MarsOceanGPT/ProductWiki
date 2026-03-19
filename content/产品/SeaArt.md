@@ -814,6 +814,13 @@ AI 草稿——待 Mars 确认
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[[产品/Midjourney|Midjourney]]|[[产品/Midjourney|Midjourney]]]]、[[产品/[[Stable Diffusion]]|[[Stable Diffusion]]]]、[[产品/[[产品/CivitAI|CivitAI]]|[[产品/CivitAI|CivitAI]]]]
+- 想了解行业？看 [[tags/行业-开发工具|开发工具赛道全部产品]]
+
 ## 参考来源
 
 [1] SeaArt 官方网站：https://www.seaart.ai

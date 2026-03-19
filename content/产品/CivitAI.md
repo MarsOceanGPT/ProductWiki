@@ -568,3 +568,9 @@ CivitAI代表了一个有趣的"contrapositive"战略：**通过embracing别人�
 - [[打法/05-增长引擎/开源合作|开源合作]]
 - [[打法/07-护城河/开源生态|开源生态]]
 - [[打法/07-护城河/数据飞轮|数据飞轮]]
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Hugging Face|Hugging Face]]、[[产品/Notion Community|Notion Community]]、[[产品/Discord communities|Discord communities]]
+- 想了解打法？看 [[打法/02-产品设计/开源颠覆|开源颠覆]]、[[打法/05-增长引擎/开源合作|开源合作]]

@@ -939,6 +939,12 @@ AI 草稿——待 Mars 确认
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[[产品/Remini|Remini]]|[[产品/Remini|Remini]]]]、[[产品/[[产品/BeautyPlus|BeautyPlus]]|[[产品/BeautyPlus|BeautyPlus]]]]、[[产品/[[Snapchat]]|[[Snapchat]]]]
+
 ## 时间线
 
 | 时间 | 事件 | 意义 | 数据支撑 |

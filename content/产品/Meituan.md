@@ -378,6 +378,13 @@ AI 草稿——待 Mars 确认
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Alibaba Ele.me|Alibaba Ele.me]]、[[产品/Didi|Didi]]、[[产品/Douyin Logistics|Douyin Logistics]]
+- 想了解行业？看 [[tags/行业-搜索知识|搜索知识赛道全部产品]]
+
 ## 更新日志
 
 - 2026-03-14：初始创建（AI 研究 + 待 Mars 审核）

@@ -563,6 +563,12 @@ AI 草稿——待 Mars 确认
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Photoshop|Photoshop]]、[[产品/Canva|Canva]]、[[产品/稿定设计|稿定设计]]
+
 ## 参考来源
 
 - [美图秀秀官方网站](https://meitu.com/)

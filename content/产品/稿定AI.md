@@ -690,6 +690,12 @@ tags:
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Canva（全球竞品）|Canva（全球竞品）]]、[[产品/Adobe Express（全球竞品）|Adobe Express（全球竞品）]]、[[产品/Lovart AI（直接竞品）|Lovart AI（直接竞品）]]
+
 ## 时间线
 
 | 年份 | 事件 | 意义 |

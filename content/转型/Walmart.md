@@ -410,6 +410,13 @@ Walmart 需要 A/B 两套库存策略：常规时 + 应急时。
 
 ---
 
+
+
+## 体现的打法
+
+- [[打法/07-护城河/数据飞轮|数据飞轮]]
+- [[打法/07-护城河/效率优先|效率优先]]
+
 ## 参考来源
 
 [1] [Walmart letting businesses tap into its route optimization tech | Supply Chain Dive](https://www.supplychaindive.com/news/walmart-selling-route-optimization-supply-chain-technology/710775/) - 路由优化技术的商业化与 Franz Edelman Award

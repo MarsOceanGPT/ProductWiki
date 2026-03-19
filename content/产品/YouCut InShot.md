@@ -394,6 +394,13 @@ AI 草稿——待 Mars 确认
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/CapCut|CapCut]]、[[产品/VN Video Editor|VN Video Editor]]、[[产品/Adobe Premiere Rush|Adobe Premiere Rush]]
+- 想了解行业？看 [[tags/行业-视频生成|视频生成赛道全部产品]]
+
 ## 更新日志
 
 - 2026-03-14：初始创建（AI 研究 + 待 Mars 审核）

@@ -1758,3 +1758,9 @@ Long-term，我觉得$190M的估值对Veed来说可能has peaked（基于current
 | 2023年 | Series C融资,估值$190M | 融资$30M+ |
 | 2024年 | MAU突破1M | 产品市场竞争加剧 |
 | 2025年 | 可能IPO或strategic sale | 企业化阶段 |
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/CapCut|CapCut]]、[[产品/Descript|Descript]]
+- 想了解行业？看 [[tags/行业-开发工具|开发工具赛道全部产品]]

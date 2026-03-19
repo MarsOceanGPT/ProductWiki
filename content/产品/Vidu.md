@@ -284,6 +284,13 @@ Vidu 目前在第 2-3 层之间徘徊，商业化路线不够清晰。
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Kling AI|Kling AI]]、[[产品/Dreamina / 即梦|Dreamina / 即梦]]、[[产品/OpenAI Sora|OpenAI Sora]]
+- 想了解行业？看 [[tags/行业-视频生成|视频生成赛道全部产品]]
+
 ## 参考来源
 
 - [Vidu AI 官方网站](https://www.vidu.cn/)

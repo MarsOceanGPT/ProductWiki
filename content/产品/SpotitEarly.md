@@ -821,3 +821,9 @@ SpotitEarly："狗嗅了一下，我的AI分析了狗的行为"
 *产品卡片作者：Claude Agent*
 *审核状态：待 Mars Ren 确认*
 *最后编辑：2026-03-19 12:00 UTC*
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Grail Galleri|Grail Galleri]]、[[产品/Tempus|Tempus]]、[[产品/Guardant Shield|Guardant Shield]]
+- 想了解行业？看 [[tags/行业-医疗AI|医疗AI赛道全部产品]]

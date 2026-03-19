@@ -646,6 +646,12 @@ AI 草稿——待 Mars 确认
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/OpenAI GPT Lab|OpenAI GPT Lab]]、[[产品/Anthropic Playground|Anthropic Playground]]、[[产品/Meta Research|Meta Research]]
+
 ## 更新日志
 
 - 2026-03-14：初始创建（AI 研究 + 待 Mars 审核）

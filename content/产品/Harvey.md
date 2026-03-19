@@ -507,6 +507,14 @@ Harvey 处于**极近距离钱、垂直 SaaS 层、强制单点依赖**的位置
 - [[打法/04-PMF验证/迫切刚需|迫切刚需]]
 - [[打法/07-护城河/AI就是壁垒|AI就是壁垒]]
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/LexisNexis AI solutions|LexisNexis AI solutions]]、[[产品/Westlaw AI|Westlaw AI]]、[[产品/Thomson Reuters AI|Thomson Reuters AI]]
+- 想了解打法？看 [[打法/01-机会识别/吃技术升级红利|吃技术升级红利]]、[[打法/02-产品设计/Agent 代理式|Agent 代理式]]
+- 想了解行业？看 [[tags/行业-法律AI|法律AI赛道全部产品]]
+
 ## 时间线表
 
 | 时间 | 事件 | ARR / 客户 | 融资 | 估值 | 关键指标 |

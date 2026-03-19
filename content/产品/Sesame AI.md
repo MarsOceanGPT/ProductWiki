@@ -809,3 +809,9 @@ Sesame = 好的"配置"，而非"更聪明的努力"：
 - [Investing in Sesame AI | Andreessen Horowitz](https://a16z.com/announcement/investing-in-sesame-ai/)
 - [Sesame's AI "voice presence" creates emotional bonds](https://getcoai.com/news/sesames-ai-voice-presence-creates-emotional-bonds-with-human-like-imperfections/)
 - [Sesame AI chatbot is "crossing the uncanny valley"](https://ispr.info/2025/03/04/masa-presence-sesame-ai-chatbot-is-crossing-the-uncanny-valley-of-conversational-voice/)
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Google Cloud Text|Google Cloud Text]]、[[产品/ElevenLabs|ElevenLabs]]
+- 想了解行业？看 [[tags/行业-语音AI|语音AI赛道全部产品]]

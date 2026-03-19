@@ -220,3 +220,9 @@ OpenAI 用 5 年时间训练 GPT-4；Replicate 用同样的时间，通过集成
 ## 九、更新日志
 
 - 2026-03-19：初始创建，基于 Series B 及市场数据完成全部章节（待 Mars 审核）
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[[Hugging Face Inference]]|[[Hugging Face Inference]]]]、[[产品/[[Together AI]]|[[Together AI]]]]、[[产品/[[Modal]]|[[Modal]]]]
+- 想了解行业？看 [[tags/行业-基础设施|基础设施赛道全部产品]]

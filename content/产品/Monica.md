@@ -540,6 +540,12 @@ Manus 的出现，其实是肖弘在说："我要升级从'工具聚合'到'任�
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/ChatGPT Plus|ChatGPT Plus]]、[[产品/Claude Web|Claude Web]]、[[产品/Copilot Pro|Copilot Pro]]
+
 ## 更新日志
 
 - **2026-03-14**：初稿完成，基于 Web 搜索和公开信息整合。数据来自 Crunchbase、ProductHunt、官方公告。

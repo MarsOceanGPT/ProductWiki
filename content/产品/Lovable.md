@@ -1164,6 +1164,13 @@ Lovable则是"Cursor for non-developers"：
 - [[打法/07-护城河/Persona 锁定|Persona 锁定]]
 - [[打法/01-机会识别/从做任务到出成果|从做任务到出成果]]
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Bolt.new|Bolt.new]]、[[产品/Vercel v0|Vercel v0]]、[[产品/Replit|Replit]]
+- 想了解打法？看 [[打法/01-机会识别/吃技术升级红利|吃技术升级红利]]、[[打法/01-机会识别/把玩法封装成产品|把玩法封装成产品]]
+
 ## 参考来源
 
 - [Lovable Official Website](https://lovable.dev/) — 官方网站和产品

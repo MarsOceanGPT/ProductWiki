@@ -528,3 +528,9 @@ Google AI Studio代表了一个有趣的战略转变：**从"垄断产品本身"
 | 2024年中 | 开发者突破200K DAU | 实质性增长 |
 | 2024年09月 | GCP Console集成 | 企业销售加强 |
 | 2025年01月 | 500K+ MAU达成 | 成为主流API |
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/OpenAI Platform|OpenAI Platform]]、[[产品/Anthropic Claude API|Anthropic Claude API]]、[[产品/Cohere API|Cohere API]]
+- 想了解行业？看 [[tags/行业-开发工具|开发工具赛道全部产品]]

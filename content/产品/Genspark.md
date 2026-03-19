@@ -782,3 +782,10 @@ Genspark可以看作是"Worker's IDE"——把普通员工的日常工作变成"
 ## 关联打法
 
 - [[打法/02-产品设计/Agent 代理式|Agent 代理式]]
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[[产品/Perplexity|Perplexity]]|[[产品/Perplexity|Perplexity]]]]、[[产品/[[产品/ChatGPT|ChatGPT]]|[[产品/ChatGPT|ChatGPT]]]]
+- 想了解打法？看 [[打法/02-产品设计/Agent 代理式|Agent 代理式]]
+- 想了解行业？看 [[tags/行业-搜索知识|搜索知识赛道全部产品]]

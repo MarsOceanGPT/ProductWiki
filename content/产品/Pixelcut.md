@@ -985,6 +985,13 @@ AI 草稿——待 Mars 确认
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[[产品/Remove.bg|Remove.bg]]|[[产品/Remove.bg|Remove.bg]]]]、[[产品/[[产品/Photoroom|Photoroom]]|[[产品/Photoroom|Photoroom]]]]、[[产品/[[Canva]]|[[Canva]]]]
+- 想了解行业？看 [[tags/行业-开发工具|开发工具赛道全部产品]]
+
 ## 时间线
 
 | 时间 | 事件 | 关键指标 | 战略意义 |

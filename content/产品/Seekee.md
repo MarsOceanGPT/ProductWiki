@@ -855,6 +855,13 @@ Perplexity证明了"AI搜索确实比Google搜索更好用"，这给Seekee的搜
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/ChatGPT|ChatGPT]]、[[产品/Google Search|Google Search]]、[[产品/Perplexity AI|Perplexity AI]]
+- 想了解行业？看 [[tags/行业-搜索知识|搜索知识赛道全部产品]]
+
 ## 时间线
 
 | 时间 | 事件 | 意义 |

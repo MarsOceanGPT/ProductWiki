@@ -455,6 +455,13 @@ YouMind 集成多个第三方大模型（OpenAI、Anthropic、Gemini、DeepSeek 
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/Notion|Notion]]、[[产品/NotebookLM|NotebookLM]]、[[产品/Descript|Descript]]
+- 想了解行业？看 [[tags/行业-搜索知识|搜索知识赛道全部产品]]
+
 ## 参考来源
 
 - [36氪：对话 YouMind 创始人玉伯](https://news.qq.com/rain/a/20250603A07VFY00) — 创始人深度访谈，产品理念和创业动机

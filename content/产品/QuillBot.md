@@ -149,7 +149,14 @@ QuillBot的成功不是因为创始人来自大公司或名校（虽然UIUC是CS
 2. **解决方案质量超群**：利用当时成熟的NLP技术(Transformer、Seq2Seq)，做出比Spinbot、ArticleRewriter好10倍的改写质量
 3. **执行力强**：从idea到product只需数月，没有过度设计
 
-### 时间线与关键事件
+#
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[object Object]|[object Object]]]、[[产品/ChatGPT|ChatGPT]]、[[产品/Google Docs AI|Google Docs AI]]
+- 想了解行业？看 [[tags/行业-效率工具|效率工具赛道全部产品]]
+
+## 时间线与关键事件
 
 | 时间 | 事件 | 战略意义 | 数据/反馈 |
 |------|------|--------|---------|

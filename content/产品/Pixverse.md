@@ -574,6 +574,13 @@ AI 草稿——待 Mars 确认
 
 ---
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[[Kling]]|[[Kling]]]]、[[产品/[[产品/Runway|Runway]]|[[产品/Runway|Runway]]]]、[[产品/[[Pika]]|[[Pika]]]]
+- 想了解行业？看 [[tags/行业-开发工具|开发工具赛道全部产品]]
+
 ## 参考来源
 
 - [爱诗科技完成 3 亿美元 C 轮融资 | 新浪财经](https://finance.sina.com.cn/chanjing/gsnews/2026-03-12/doc-inhqtqkp4772449.shtml)

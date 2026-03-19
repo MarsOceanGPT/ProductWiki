@@ -358,3 +358,9 @@ AI 草稿——待 Mars 确认
 | 2021-2024 | 用户逐步回落（被 TikTok 分流） | 调整期 |
 | 2024 年底 | **MAU 约 1200 万，ARR $40-60M** | 成熟/衰落期 |
 
+
+
+## 看完后推荐
+
+- 想了解竞品？看 [[产品/[[Snapchat]]|[[Snapchat]]]]、[[产品/[[TikTok]]|[[TikTok]]]]、[[产品/[[Instagram Stories]]|[[Instagram Stories]]]]
+- 想了解行业？看 [[tags/行业-社交陪伴|社交陪伴赛道全部产品]]
