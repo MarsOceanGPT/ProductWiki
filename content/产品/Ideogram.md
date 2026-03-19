@@ -61,7 +61,7 @@ related_products:
 last_updated: 2026-03-19T00:00:00.000Z
 confidence: 0.85
 mars_reviewed: false
-title: Ideogram - 用文字精度重新定义AI图像生成
+title: Ideogram
 tags:
   - 行业/图像设计
   - 阶段/A轮

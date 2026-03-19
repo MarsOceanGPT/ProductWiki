@@ -34,7 +34,7 @@ related_products: CapCut (video editing), TikTok/Reels (distribution), HeyGen (a
 last_updated: 2026-03-19T00:00:00.000Z
 confidence: 88
 mars_reviewed: false
-title: Pika / Pika Labs
+title: Pika
 tags:
   - 行业/开发工具
   - 行业/视频生成

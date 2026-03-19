@@ -49,7 +49,7 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: Microsoft Bing Copilot Search
+title: Copilot Search
 tags:
   - 行业/搜索知识
   - 阶段/A轮

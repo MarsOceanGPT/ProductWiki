@@ -56,7 +56,7 @@ related_products:
 last_updated: 2026-03-19T00:00:00.000Z
 confidence: 0.92
 mars_reviewed: false
-title: SpotitEarly：犬科嗅觉+AI的癌症早期筛查革命
+title: SpotitEarly
 tags:
   - 行业/医疗AI
   - 阶段/D轮+
