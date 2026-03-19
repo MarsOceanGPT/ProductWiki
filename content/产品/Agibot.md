@@ -1,3 +1,12 @@
+---
+type: product
+name: Agibot
+title: Agibot
+tags:
+  - 行业/机器人
+  - 阶段/B轮
+  - 地区/中国
+---
 # Agibot 智元机器人 - UH-1
 
 ## 基础信息

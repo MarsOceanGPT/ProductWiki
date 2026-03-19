@@ -1,3 +1,11 @@
+---
+type: product
+name: Cubox
+title: Cubox
+tags:
+  - 行业/效率工具
+  - 地区/中国
+---
 # Cubox v4.0 - AI 稍后阅读与知识管理系统
 
 ## 核心定位

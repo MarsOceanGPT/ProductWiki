@@ -13,6 +13,8 @@ url: https://mistral.ai
 date_published: '2026-03-19'
 tags:
   - 阶段/C轮
+  - 行业/基础设施
+  - 地区/欧洲
 ---
 
 ## 一句话

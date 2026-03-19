@@ -1,3 +1,12 @@
+---
+type: product
+name: Scale AI
+title: Scale AI
+tags:
+  - 行业/基础设施
+  - 阶段/D轮+
+  - 地区/美国
+---
 # Scale AI
 
 ## 基础信息

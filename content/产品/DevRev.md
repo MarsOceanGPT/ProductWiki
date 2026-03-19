@@ -3,8 +3,12 @@ title: DevRev
 slug: devrev
 category: AI 产品与客户运营
 status: active
-created: 2026-03-19
-updated: 2026-03-19
+created: 2026-03-19T00:00:00.000Z
+updated: 2026-03-19T00:00:00.000Z
+tags:
+  - 行业/开发工具
+  - 阶段/B轮
+  - 地区/美国
 ---
 
 ## 一句话定位

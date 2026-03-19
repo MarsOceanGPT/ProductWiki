@@ -13,6 +13,9 @@ url: https://n8n.io
 date_published: '2026-03-19'
 tags:
   - 阶段/C轮
+  - 行业/效率工具
+  - 阶段/B轮
+  - 地区/欧洲
 ---
 
 ## 一句话

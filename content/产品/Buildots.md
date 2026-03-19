@@ -1,3 +1,11 @@
+---
+type: product
+name: Buildots
+title: Buildots
+tags:
+  - 行业/房产建筑
+  - 地区/以色列
+---
 # Buildots
 
 ## 基本信息

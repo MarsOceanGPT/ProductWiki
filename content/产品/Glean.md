@@ -1,20 +1,24 @@
 ---
-title: "Glean"
-subtitle: "企业知识的重新发现，从搜索引擎到智能记忆的转向"
-product_type: "Enterprise RAG / Knowledge Search / Workplace AI"
-company: "Glean Inc."
-founded: "2019年"
-founders: "Pankaj Malik (CEO, 前Google Ads搜索算法负责人) | Arvind Jain (VP of Engineering, 前Google Brain)"
-hq: "Palo Alto, CA"
-stage: "Series F"
-funding: "总融资 $187M（截至2026年3月）"
-key_metrics: "ARR $180M（2026年3月）| 估值 $7.25B | 企业客户 150+ 家（含 Fortune 50占 40%）| 日活员工 2.8M+ | 索引文档数 40B+"
-url: "https://www.glean.com"
-api_url: "https://developers.glean.com"
-date_published: "2026-03-19"
+title: Glean
+subtitle: 企业知识的重新发现，从搜索引擎到智能记忆的转向
+product_type: Enterprise RAG / Knowledge Search / Workplace AI
+company: Glean Inc.
+founded: 2019年
+founders: Pankaj Malik (CEO, 前Google Ads搜索算法负责人) | Arvind Jain (VP of Engineering, 前Google Brain)
+hq: Palo Alto, CA
+stage: Series F
+funding: 总融资 $187M（截至2026年3月）
+key_metrics: ARR $180M（2026年3月）| 估值 $7.25B | 企业客户 150+ 家（含 Fortune 50占 40%）| 日活员工 2.8M+ | 索引文档数 40B+
+url: https://www.glean.com
+api_url: https://developers.glean.com
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于官方融资公告、客户案例研究、第三方分析报告）"
-last_updated: "2026-03-19"
+confidence: High（基于官方融资公告、客户案例研究、第三方分析报告）
+last_updated: '2026-03-19'
+tags:
+  - 行业/搜索知识
+  - 阶段/D轮+
+  - 地区/美国
 ---
 
 ## 一句话定位

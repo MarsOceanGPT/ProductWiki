@@ -3,8 +3,12 @@ title: iSales
 slug: isales
 category: AI 外贸
 status: active
-created: 2026-03-19
-updated: 2026-03-19
+created: 2026-03-19T00:00:00.000Z
+updated: 2026-03-19T00:00:00.000Z
+tags:
+  - 行业/销售营销
+  - 地区/中国
+  - 特征/出海
 ---
 
 ## 一句话定位

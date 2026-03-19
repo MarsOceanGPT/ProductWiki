@@ -13,6 +13,8 @@ url: https://www.copy.ai
 date_published: '2026-03-19'
 tags:
   - 阶段/B轮
+  - 行业/销售营销
+  - 地区/美国
 ---
 
 ## 一句话

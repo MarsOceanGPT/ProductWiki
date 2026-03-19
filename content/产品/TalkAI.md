@@ -1,3 +1,11 @@
+---
+type: product
+name: TalkAI
+title: TalkAI
+tags:
+  - 行业/教育AI
+  - 地区/中国
+---
 # TalkAI 练口语 - AI 沉浸式口语陪练
 
 **v4.0 产品卡**

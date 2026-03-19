@@ -1,3 +1,12 @@
+---
+type: product
+name: Leonardo AI
+title: Leonardo AI
+tags:
+  - 行业/图像设计
+  - 阶段/B轮
+  - 地区/亚洲其他
+---
 # Leonardo AI
 
 ## 核心信息卡

@@ -13,6 +13,8 @@ url: https://www.folk.app
 date_published: '2026-03-19'
 tags:
   - 阶段/A轮
+  - 行业/销售营销
+  - 地区/欧洲
 ---
 
 ## 一句话

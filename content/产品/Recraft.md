@@ -17,6 +17,8 @@ confidence: High（基于官方Series B公告、客户案例、产品发布信�
 last_updated: '2026-03-19'
 tags:
   - 阶段/B轮
+  - 行业/图像设计
+  - 地区/美国
 ---
 
 ## 一句话定位

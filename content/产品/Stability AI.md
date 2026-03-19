@@ -1,3 +1,12 @@
+---
+type: product
+name: Stability AI
+title: Stability AI
+tags:
+  - 行业/图像设计
+  - 阶段/D轮+
+  - 地区/欧洲
+---
 # Stability AI - Stable Diffusion 开放权重生成模型
 
 ## 基础信息

@@ -1,3 +1,12 @@
+---
+type: product
+name: Jasper
+title: Jasper
+tags:
+  - 行业/销售营销
+  - 阶段/C轮
+  - 地区/美国
+---
 # Jasper v4.0 产品卡片
 
 **版本**: v4.0 | **更新日期**: 2025年6月 | **融资**: Series A+（1.5B估值，融资$125M）

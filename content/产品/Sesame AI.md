@@ -78,6 +78,7 @@ title: Sesame AI - 跨越恐怖谷的对话音声
 tags:
   - 行业/语音AI
   - 阶段/A轮
+  - 地区/美国
 ---
 
 # Sesame AI v4.0 产品卡片

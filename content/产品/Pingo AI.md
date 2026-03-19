@@ -1,3 +1,12 @@
+---
+type: product
+name: Pingo AI
+title: Pingo AI
+tags:
+  - 行业/教育AI
+  - 地区/中国
+  - 特征/出海
+---
 # Pingo AI
 
 ## 产品信息卡

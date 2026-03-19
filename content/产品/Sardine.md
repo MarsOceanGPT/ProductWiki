@@ -13,6 +13,8 @@ url: https://sardine.ai
 date_published: '2026-03-19'
 tags:
   - 阶段/C轮
+  - 行业/金融AI
+  - 地区/美国
 ---
 
 ## 一句话

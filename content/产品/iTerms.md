@@ -1,3 +1,11 @@
+---
+type: product
+name: iTerms
+title: iTerms
+tags:
+  - 行业/法律AI
+  - 地区/中国
+---
 # iTerms v4.0 产品卡片
 
 ## 产品概览

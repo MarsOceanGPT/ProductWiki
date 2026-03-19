@@ -13,6 +13,9 @@ url: https://www.notta.ai
 date_published: '2026-03-19'
 tags:
   - 阶段/B轮
+  - 行业/效率工具
+  - 地区/中国
+  - 特征/出海
 ---
 
 ## 一句话

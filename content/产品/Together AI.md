@@ -13,6 +13,8 @@ url: https://www.together.ai
 date_published: '2026-03-19'
 tags:
   - 阶段/B轮
+  - 行业/基础设施
+  - 地区/美国
 ---
 
 ## 一句话

@@ -1,3 +1,12 @@
+---
+type: product
+name: Speak
+title: Speak
+tags:
+  - 行业/教育AI
+  - 阶段/B轮
+  - 地区/亚洲其他
+---
 # Speak: 用「说」重新定义语言学习
 
 **版本**: 4.0

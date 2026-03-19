@@ -1,20 +1,23 @@
 ---
-title: "Vocu"
-subtitle: "零样本语音克隆 + 极致逼真度，中国AI语音合成的技术天花板"
-product_type: "AI Voice Synthesis / Voice Cloning / TTS（Text-to-Speech）"
-company: "Vocu Inc."
-founded: "2023年（推测基于产品成熟度与融资周期）"
-founders: "非公开信息（AI语音领域新兴创业公司）"
-hq: "中国（推测）"
-stage: "融资中（具体轮次未公开）"
-funding: "融资信息未公开，但已完成A轮或以上融资（基于产品与市场影响力推断）"
-key_metrics: "HuggingFace TTS Arena排名：#1全球（ELO 1592分，56%胜率，1194投票） | 支持语言：中文（优先支持）+ 多语言 | 零样本克隆：支持（3-10秒参考音频） | 语音库规模：200+角色声音 | API支持：是（OpenAPI接口）"
-url: "https://www.vocu.ai"
-api_url: "https://www.vocu.ai/api"
-date_published: "2026-03-19"
+title: Vocu
+subtitle: 零样本语音克隆 + 极致逼真度，中国AI语音合成的技术天花板
+product_type: AI Voice Synthesis / Voice Cloning / TTS（Text-to-Speech）
+company: Vocu Inc.
+founded: 2023年（推测基于产品成熟度与融资周期）
+founders: 非公开信息（AI语音领域新兴创业公司）
+hq: 中国（推测）
+stage: 融资中（具体轮次未公开）
+funding: 融资信息未公开，但已完成A轮或以上融资（基于产品与市场影响力推断）
+key_metrics: HuggingFace TTS Arena排名：#1全球（ELO 1592分，56%胜率，1194投票） | 支持语言：中文（优先支持）+ 多语言 | 零样本克隆：支持（3-10秒参考音频） | 语音库规模：200+角色声音 | API支持：是（OpenAPI接口）
+url: https://www.vocu.ai
+api_url: https://www.vocu.ai/api
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于HuggingFace TTS Arena实时排行、官方网站、技术演示数据）"
-last_updated: "2026-03-19"
+confidence: High（基于HuggingFace TTS Arena实时排行、官方网站、技术演示数据）
+last_updated: '2026-03-19'
+tags:
+  - 行业/语音AI
+  - 地区/中国
 ---
 
 ## 一句话定位

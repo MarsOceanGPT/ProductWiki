@@ -1,3 +1,12 @@
+---
+type: product
+name: Luma AI
+title: Luma AI
+tags:
+  - 行业/视频生成
+  - 阶段/C轮
+  - 地区/美国
+---
 # Luma AI - Dream Machine
 
 ## 核心定位

@@ -63,6 +63,7 @@ title: Virtual Staging AI
 tags:
   - 行业/房产建筑
   - 阶段/A轮
+  - 地区/美国
 ---
 
 # Virtual Staging AI

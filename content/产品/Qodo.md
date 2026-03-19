@@ -13,6 +13,8 @@ url: https://www.qodo.ai
 date_published: '2026-03-19'
 tags:
   - 阶段/A轮
+  - 行业/开发工具
+  - 地区/以色列
 ---
 
 ## 一句话

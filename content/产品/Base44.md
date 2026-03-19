@@ -1,9 +1,12 @@
 ---
 title: Base44
-subtitle: "自然语言生成完整应用｜AI 时代的「软件工厂」"
+subtitle: 自然语言生成完整应用｜AI 时代的「软件工厂」
 description: 用对话就能构建全栈应用。不是写代码，是和 AI 「聊需求」
 category: 产品
-date: 2026-03-19
+date: 2026-03-19T00:00:00.000Z
+tags:
+  - 行业/开发工具
+  - 地区/以色列
 ---
 
 # Base44：Vibe Coding 时代的应用工厂

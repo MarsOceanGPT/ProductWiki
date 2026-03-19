@@ -13,6 +13,8 @@ url: https://lingvist.com
 date_published: '2026-03-19'
 tags:
   - 阶段/A轮
+  - 行业/教育AI
+  - 地区/欧洲
 ---
 
 ## 一句话

@@ -13,6 +13,8 @@ url: https://www.qiyuai.net
 date_published: '2026-03-19'
 tags:
   - 阶段/A轮
+  - 行业/图像设计
+  - 地区/中国
 ---
 
 ## 一句话

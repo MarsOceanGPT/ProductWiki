@@ -3,8 +3,12 @@ title: Motion
 slug: motion
 category: AI 生产力工具
 status: active
-created: 2026-03-19
-updated: 2026-03-19
+created: 2026-03-19T00:00:00.000Z
+updated: 2026-03-19T00:00:00.000Z
+tags:
+  - 行业/效率工具
+  - 阶段/B轮
+  - 地区/美国
 ---
 
 ## 一句话定位

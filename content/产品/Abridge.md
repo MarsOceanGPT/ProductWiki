@@ -17,6 +17,8 @@ confidence: High（基于官方新闻稿、Kaiser部署案例、Series D/E融资
 last_updated: '2026-03-19'
 tags:
   - 阶段/D轮+
+  - 行业/医疗AI
+  - 地区/美国
 ---
 
 ## 一句话定位

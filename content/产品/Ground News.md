@@ -58,6 +58,9 @@ mars_reviewed: false
 title: Ground News
 tags:
   - 阶段/D轮+
+  - 行业/搜索知识
+  - 阶段/A轮
+  - 地区/北美其他
 ---
 
 ## 一句话定位

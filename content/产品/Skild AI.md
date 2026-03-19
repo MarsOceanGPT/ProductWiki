@@ -1,3 +1,12 @@
+---
+type: product
+name: Skild AI
+title: Skild AI
+tags:
+  - 行业/机器人
+  - 阶段/A轮
+  - 地区/美国
+---
 # Skild AI - 通用机器人大脑
 
 ## 快速识别卡

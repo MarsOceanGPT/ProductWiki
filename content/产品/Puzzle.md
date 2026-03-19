@@ -3,8 +3,12 @@ title: Puzzle
 slug: puzzle
 category: AI 会计
 status: active
-created: 2026-03-19
-updated: 2026-03-19
+created: 2026-03-19T00:00:00.000Z
+updated: 2026-03-19T00:00:00.000Z
+tags:
+  - 行业/金融AI
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 ## 一句话定位

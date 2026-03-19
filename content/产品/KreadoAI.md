@@ -13,6 +13,9 @@ url: https://www.kreado.ai
 date_published: '2026-03-19'
 tags:
   - 阶段/A轮
+  - 行业/销售营销
+  - 地区/中国
+  - 特征/出海
 ---
 
 ## 一句话

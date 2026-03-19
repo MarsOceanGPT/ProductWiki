@@ -17,6 +17,8 @@ confidence: High (基于官方博客、API文档、融资新闻、用户案例)
 last_updated: '2026-03-19'
 tags:
   - 阶段/B轮
+  - 行业/语音AI
+  - 地区/美国
 ---
 
 ## 一句话定位

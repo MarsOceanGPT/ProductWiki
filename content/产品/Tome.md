@@ -1,3 +1,12 @@
+---
+type: product
+name: Tome
+title: Tome
+tags:
+  - 行业/效率工具
+  - 阶段/B轮
+  - 地区/美国
+---
 # Tome - AI 驱动的叙事演示平台
 
 **版本**: v4.0 | **融资阶段**: Series B | **核心定位**: Sales-focused AI Narrative Tool

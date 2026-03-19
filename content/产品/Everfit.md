@@ -13,6 +13,8 @@ url: https://everfit.io
 date_published: '2026-03-19'
 tags:
   - 阶段/A轮
+  - 行业/生活方式
+  - 地区/美国
 ---
 
 ## 一句话

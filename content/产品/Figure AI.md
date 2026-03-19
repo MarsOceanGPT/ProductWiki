@@ -1,3 +1,12 @@
+---
+type: product
+name: Figure AI
+title: Figure AI
+tags:
+  - 行业/机器人
+  - 阶段/B轮
+  - 地区/美国
+---
 # Figure AI - 通用人形机器人
 
 ## 快速识别卡

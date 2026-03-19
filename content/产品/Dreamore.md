@@ -26,6 +26,8 @@ tags:
   - 免费试用
   - 隐私保护
   - 心理学框架
+  - 行业/生活方式
+  - 地区/中国
 相关人物:
   - 待补充
 竞争对手:
@@ -35,7 +37,7 @@ tags:
   - Headspace（冥想 + 心理）
   - 微信公众号心理咨询
 关联产品: []
-title: "Dreamore AI"
+title: Dreamore AI
 ---
 
 # Dreamore AI

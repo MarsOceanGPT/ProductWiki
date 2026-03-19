@@ -1,3 +1,11 @@
+---
+type: product
+name: Luminance
+title: Luminance
+tags:
+  - 行业/法律AI
+  - 地区/欧洲
+---
 # Luminance: 法律级 AI 合同管理平台
 
 > **核心价值**：通过自研的法律专用大模型，而非 GPT，为企业和律师事务所自动化合同全生命周期管理，时间节省可达 60-90%。

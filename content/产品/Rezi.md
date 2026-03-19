@@ -17,6 +17,8 @@ confidence: High（基于官方融资公告、Crunchbase数据、用户评价）
 last_updated: '2026-03-19'
 tags:
   - 阶段/B轮
+  - 行业/效率工具
+  - 地区/美国
 ---
 
 ## 一句话定位

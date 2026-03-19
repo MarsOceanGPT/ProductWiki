@@ -25,6 +25,8 @@ tags:
   - Reality Check
   - 政治光谱
   - 阶段/A轮
+  - 行业/搜索知识
+  - 地区/美国
 valuation: 未公开融资后估值
 seed_funding: $4.4M (2024年初)
 series_a_funding: $10.9M (2024年中)

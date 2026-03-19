@@ -90,6 +90,8 @@ title: Kickresume
 tags:
   - 行业/搜索知识
   - 阶段/A轮
+  - 行业/效率工具
+  - 地区/欧洲
 ---
 
 # Kickresume 产品卡片 v4.0

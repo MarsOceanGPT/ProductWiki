@@ -1,3 +1,12 @@
+---
+type: product
+name: 1X Technologies
+title: 1X Technologies
+tags:
+  - 行业/机器人
+  - 阶段/B轮
+  - 地区/欧洲
+---
 # 1X Technologies - NEO
 
 ## 基础信息

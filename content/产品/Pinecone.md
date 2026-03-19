@@ -3,8 +3,12 @@ title: Pinecone
 slug: pinecone
 category: AI 基础设施
 status: active
-created: 2026-03-19
-updated: 2026-03-19
+created: 2026-03-19T00:00:00.000Z
+updated: 2026-03-19T00:00:00.000Z
+tags:
+  - 行业/基础设施
+  - 阶段/C轮
+  - 地区/美国
 ---
 
 ## 一句话定位

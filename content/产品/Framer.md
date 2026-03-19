@@ -1,3 +1,12 @@
+---
+type: product
+name: Framer
+title: Framer
+tags:
+  - 行业/图像设计
+  - 阶段/B轮
+  - 地区/欧洲
+---
 # Framer - AI Web Design & Site Builder
 
 ## 基础信息

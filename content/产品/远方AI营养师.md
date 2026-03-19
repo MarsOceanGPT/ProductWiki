@@ -1,3 +1,11 @@
+---
+type: product
+name: 远方AI营养师
+title: 远方AI营养师
+tags:
+  - 行业/生活方式
+  - 地区/中国
+---
 # 远方AI营养师
 
 ## 产品概览

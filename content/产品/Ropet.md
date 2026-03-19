@@ -1,3 +1,11 @@
+---
+type: product
+name: Ropet
+title: Ropet
+tags:
+  - 行业/机器人
+  - 地区/中国
+---
 # Ropet - 智能陪伴机器人
 
 ## 基础信息

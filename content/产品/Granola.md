@@ -1,16 +1,11 @@
 ---
-title: "Granola"
-subtitle: "隐私第一的AI会议笔记，用记忆替代文档，Series A的"反云"选手"
-product_type: "AI Meeting Assistant / Note-taking"
-company: "Granola Labs"
-founded: "2023年(Y Combinator W24)"
-founders: "Isaac Sheff (CEO), David Hu (CTO)"
-hq: "San Francisco, CA"
-stage: "Series A (2024年10月，$7M)"
-funding: "$7M Series A (2024年10月) + $1.5M Pre-seed (2023年)"
-key_metrics: "12K+ MAU (2025年底) | $2.5K MRR | 企业采用率42% | 用户留存率73%"
-url: "https://granolahq.com"
-date_published: "2026-03-19"
+type: product
+name: Granola
+title: Granola
+tags:
+  - 行业/效率工具
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 ## 一句话
