@@ -52,22 +52,37 @@ Cursor 的 Composer 模式就是 Agent 思维的应用。你描述一个需求�
 
 
 
-## 使用此打法的产品
+## 标杆案例
 
-- [[产品/Manus|Manus]]
-- [[产品/Ada|Ada]]
-- [[产品/Harvey|Harvey]]
-- [[产品/DevRev|DevRev]]
-- [[产品/Genspark|Genspark]]
-- [[产品/AutoGPT|AutoGPT]]
-- [[产品/AgentGPT|AgentGPT]]
-- [[产品/Hugging Face Agents|Hugging Face Agents]]
-- [[产品/Dify|Dify]]
-- [[产品/OpenHands|OpenHands]]
-- [[产品/n8n|n8n]]
-- [[产品/Zapier AI Actions|Zapier AI Actions]]
-- [[产品/LangChain|LangChain]]
-- [[产品/Vercel v0|Vercel v0]]
+### [[产品/Manus|Manus]]
+为什么是标杆：它把 Agent 的"自主执行"做到了极致——用户完全看不到中间过程，直接拿结果。没有任何学习曲线。
+
+### [[产品/Genspark|Genspark]]
+为什么是标杆：搜索领域的 Agent 化典范。AI 不仅搜索，还自动推理、对比来源、生成多视角答案。把"人脑搜索"的全过程自动化了。
+
+## 经典案例
+
+- [[产品/Cursor|Cursor]] - Composer 模式让代码编辑变成"一句话完成整个重构"
+- [[产品/Ada|Ada]] - 法律 Agent，能自动分析合同、标记风险条款
+- [[产品/Harvey|Harvey]] - 律师助手，通过 Agent 模式把律师的思维流程自动化
+
+## 中国案例
+
+- [[产品/Dify|Dify]] - 开源 Agent 工作流平台，让非技术用户也能搭建 Agent
+- [[转型/阿里钉钉|阿里钉钉]] - 在钉钉助手中加入 Agent 能力，自动处理工作流任务
+
+## 搭配打法
+
+### [[打法/02-产品设计/Copilot 范式|Copilot 范式]] 为什么搭配
+Agent 是"我定义目标，AI 全自动"。Copilot 是"AI 建议，我决定"。在执行风险高的任务时，两者结合——先用 Copilot 建议，用户确认后再用 Agent 执行，安全性和可控性都提升。
+
+### [[打法/03-MVP策略/关键功能聚焦|关键功能聚焦]] 为什么搭配
+Agent 最容易失败的原因是"什么都想做"。应该先聚焦一个高频、高价值的任务做成 Agent，而不是试图构建"通用 Agent"。
+
+## 在传统企业中的体现
+
+- [[转型/数据标注行业|数据标注行业]] - 用 Agent 自动抽取、清洗、标注数据，成本从 $0.1 降到 $0.01/条
+- [[转型/财务审计部门|财务审计]] - Agent 自动拉取财务数据、生成初步分析报告，审计师只需复核 20% 关键项
 
 ## 相关打法
 

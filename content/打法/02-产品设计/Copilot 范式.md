@@ -55,25 +55,26 @@ Tab 补全就是典型的 Copilot 模式。Cursor 看着你的代码上下文，
 
 
 
-## 使用此打法的产品
+## 谁把这个打法玩得最好
 
-- [[产品/Cursor|Cursor]]
-- [[产品/Grammarly|Grammarly]]
-- [[产品/GitHub Copilot|GitHub Copilot]]
-- [[产品/Notion AI|Notion AI]]
-- [[产品/Gmail Smart Compose|Gmail Smart Compose]]
-- [[产品/JetBrains AI|JetBrains AI]]
-- [[产品/Codeium|Codeium]]
-- [[产品/Claude Code|Claude Code]]
-- [[产品/WPS AI|WPS AI]]
-- [[产品/Copilot (Microsoft)|Copilot (Microsoft)]]
-- [[产品/Khanmigo|Khanmigo]]
-- [[产品/You.com|You.com]]
-- [[产品/Gamma|Gamma]]
-- [[产品/Raycast AI|Raycast AI]]
+**标杆案例**：[[产品/Cursor|Cursor]] — Tab 补全这个看似简单的交互（灰色半透明文字+按 Tab 接受+按 Esc 拒绝），完美诠释了 Copilot 的本质：人看得见、能拒绝、有掌控感。也是因为这个交互设计，Cursor 比 Agent 模式的产品更能获得开发者信任。
 
-## 相关打法
+**经典案例**：
+- [[产品/Grammarly|Grammarly]] — 不改你的文案，只提示问题+建议改进，用户完全掌控最终版本。这个"建议而非替代"的姿态让 Grammarly 成为了写手的良师益友而不是独裁者
+- [[产品/GitHub Copilot|GitHub Copilot]] — 代码补全的先驱，让人意识到"预测下一行代码"这个看似简单的功能，能加速开发者思维，因为人始终在敲键盘
+- [[产品/Notion AI|Notion AI]] — 在文档编辑中提供"继续写"、"总结"、"改进措辞"的建议，全部都需要用户审核确认，保留了文档的"主人翁感"
+- [[产品/Claude Code|Claude Code]] — 在代码生成的同时，保留了"人看见每一步改动"的可视化过程，不像某些 Agent 一口气改 50 个文件让用户懵
 
-- [[打法/02-产品设计/Agent 代理式|Agent 代理式]]
-- [[打法/02-产品设计/Chat 对话式|Chat 对话式]]
-- [[打法/07-护城河/工作流嵌入|工作流嵌入]]
+**中国案例**：
+- [[产品/WPS AI|WPS AI]] — 在国产办公套件中内置 Copilot 模式的建议，对标 Microsoft 365 的 Copilot，但目前的接受度还不如代码编辑器
+
+**反面教材**：很多产品把 Copilot 模式用得很激进，给出太多建议或者建议准确率太低（< 60%），结果反而降低效率——用户要频繁拒绝。某些 IDE 的 AI 助手因为建议不够准确，最后被用户关掉了。这说明 Copilot 模式的生命线就是"建议准确率"，失去这个就失去了存在的价值。
+
+## 搭配使用效果更好的打法
+- [[打法/02-产品设计/Agent 代理式|Agent 代理式]] — Copilot 是"人做决策，AI 帮忙"；Agent 是"AI 自主做决策"。很多产品其实需要混合这两种：简单事务用 Agent（节省时间），复杂创意用 Copilot（保留控制权）
+- [[打法/02-产品设计/Chat 对话式|Chat 对话式]] — Copilot 强调"在工作流中实时建议"；Chat 强调"随时随地问问题"。两者互补：Chat 用来探索，Copilot 用来执行
+- [[打法/07-护城河/工作流嵌入|工作流嵌入]] — Copilot 最强大的地方是完全嵌入在用户的既有工作流中，不需要打开新窗口、不需要学新操作，这个嵌入本身就是护城河
+
+## 在传统企业中的体现
+- [[转型/编码效率革命|编码效率革命]] — GitHub Copilot 在企业研发部门的普及，让开发者从"手工编码"变成"AI 辅助编码"，提升代码生产效率 20-40%，但保留了代码审查权在人手上
+- [[转型/知识工作者赋能|知识工作者赋能]] — Microsoft 365 Copilot 在企业中的应用，让普通员工的文档编写、邮件回复、数据分析效率提升，同时保留了员工对最终内容的决策权，这是企业采用 AI 最不引起反感的方式
