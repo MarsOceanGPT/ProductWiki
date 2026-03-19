@@ -273,12 +273,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       // if we are hovering over a node, we want to highlight the immediate neighbours
       // with full alpha and the rest with reduced alpha
       if (hoveredNodeId) {
-        alpha = l.active ? 1 : 0.1
+        alpha = l.active ? 1 : 0.05
       } else {
-        alpha = 0.35
+        alpha = 0.6
       }
 
-      l.color = l.active ? computedStyleMap["--secondary"] : computedStyleMap["--gray"]
+      l.color = l.active ? computedStyleMap["--secondary"] : computedStyleMap["--darkgray"]
       tweenGroup.add(new Tweened<LinkRenderData>(l).to({ alpha }, 200))
     }
 
@@ -459,8 +459,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const linkRenderDatum: LinkRenderData = {
       simulationData: l,
       gfx,
-      color: computedStyleMap["--gray"],
-      alpha: 0.4,
+      color: computedStyleMap["--darkgray"],
+      alpha: 0.6,
       active: false,
     }
 
@@ -561,7 +561,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
       l.gfx
         .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-        .stroke({ alpha: l.alpha, width: 1, color: l.color })
+        .stroke({ alpha: l.alpha, width: 1.5, color: l.color })
     }
 
     tweens.forEach((t) => t.update(time))
