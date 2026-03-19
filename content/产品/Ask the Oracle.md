@@ -1,16 +1,18 @@
 ---
-title: "Ask the Oracle"
-subtitle: "AI 塔罗+占星+梦境解读：灵性市场的第一个 AGI 前哨"
-product_type: "AI Spiritual Intelligence Platform"
-company: "Ask the Oracle Inc."
-founded: "2023年Q2（San Francisco）"
-founders: "待补充"
-hq: "San Francisco, CA"
-stage: "Seed / A轮筹备"
-funding: "种子轮资金待补充"
-key_metrics: "待补充"
-url: "待补充"
-date_published: "2026-03-19"
+title: Ask the Oracle
+subtitle: AI 塔罗+占星+梦境解读：灵性市场的第一个 AGI 前哨
+product_type: AI Spiritual Intelligence Platform
+company: Ask the Oracle Inc.
+founded: 2023年Q2（San Francisco）
+founders: 待补充
+hq: San Francisco, CA
+stage: Seed / A轮筹备
+funding: 种子轮资金待补充
+key_metrics: 待补充
+url: 待补充
+date_published: '2026-03-19'
+tags:
+  - 阶段/种子轮
 ---
 
 ## 一句话

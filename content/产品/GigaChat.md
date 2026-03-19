@@ -2,7 +2,7 @@
 type: product
 name: GigaChat
 name_cn: 吉加聊天
-url: 'https://giga.chat'
+url: https://giga.chat
 founded: 2023
 headquarters: 莫斯科
 founders:
@@ -47,7 +47,9 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "GigaChat"
+title: GigaChat
+tags:
+  - 阶段/A轮
 ---
 # GigaChat
 

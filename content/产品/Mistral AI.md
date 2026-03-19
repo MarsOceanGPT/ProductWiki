@@ -1,16 +1,18 @@
 ---
-title: "Mistral AI"
-subtitle: "欧洲开源 LLM 独角兽，€1.7B Series C 融资，向 GPT/Claude 正面开战的法国 AI 独立"
-product_type: "Large Language Model / Open-Weight LLM Platform"
-company: "Mistral AI"
-founded: "2023年4月"
-founders: "Arthur Mensch (CEO), Guilhem Ranwez (CTO), François Charton (Chief Scientist)"
-hq: "Paris, France"
-stage: "Growth / Series C"
-funding: "€100M Series A (2024年6月) + €200M Series B (2024年12月) + €675M Series C (2025年2月) = €975M 总融资"
-key_metrics: "€1.7B 估值(Series C) | 10M+ 周活跃用户 | MoE 架构 LLM 全景(7B~200B参数) | 12M+ GitHub 星 | €10M+ 月营收(估计) | 72K+ 开发者社区"
-url: "https://mistral.ai"
-date_published: "2026-03-19"
+title: Mistral AI
+subtitle: 欧洲开源 LLM 独角兽，€1.7B Series C 融资，向 GPT/Claude 正面开战的法国 AI 独立
+product_type: Large Language Model / Open-Weight LLM Platform
+company: Mistral AI
+founded: 2023年4月
+founders: Arthur Mensch (CEO), Guilhem Ranwez (CTO), François Charton (Chief Scientist)
+hq: Paris, France
+stage: Growth / Series C
+funding: €100M Series A (2024年6月) + €200M Series B (2024年12月) + €675M Series C (2025年2月) = €975M 总融资
+key_metrics: €1.7B 估值(Series C) | 10M+ 周活跃用户 | MoE 架构 LLM 全景(7B~200B参数) | 12M+ GitHub 星 | €10M+ 月营收(估计) | 72K+ 开发者社区
+url: https://mistral.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/C轮
 ---
 
 ## 一句话

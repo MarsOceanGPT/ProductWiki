@@ -49,9 +49,11 @@ related_products:
   - Microsoft Designer（竞品）
   - 微软 Copilot PPT（新兴竞品）
   - 讯飞 AI PPT（国内竞品）
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 高
 mars_reviewed: false
+tags:
+  - 阶段/D轮+
 ---
 
 ## 一句话定位

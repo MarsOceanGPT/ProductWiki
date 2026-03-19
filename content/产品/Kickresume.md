@@ -2,7 +2,7 @@
 type: product
 name: Kickresume
 name_cn: Kickresume
-url: 'https://www.kickresume.com/en/'
+url: https://www.kickresume.com/en/
 founded: 2013
 headquarters: Bratislava
 founders:
@@ -21,8 +21,8 @@ funding_rounds:
 valuation: Undisclosed (likely $20M-50M range based on revenue)
 employees: 20
 category: AI Resume & Cover Letter Builder
-subcategory: 'Career Tools, AI Writing, Job Search, Talent Acquisition'
-target_user: 'Job seekers (85%), HR teams & employers (15%), international professionals'
+subcategory: Career Tools, AI Writing, Job Search, Talent Acquisition
+target_user: Job seekers (85%), HR teams & employers (15%), international professionals
 pricing_model:
   - Freemium (limited templates, basic AI)
   - Premium ($8/月 annual or $24/月 monthly)
@@ -86,7 +86,10 @@ related_products:
 last_updated: '2026-03-19'
 confidence: Medium
 mars_reviewed: false
-title: "Kickresume"
+title: Kickresume
+tags:
+  - 行业/搜索知识
+  - 阶段/A轮
 ---
 
 # Kickresume 产品卡片 v4.0

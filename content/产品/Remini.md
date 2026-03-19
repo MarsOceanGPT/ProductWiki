@@ -2,9 +2,9 @@
 type: product
 name: Remini
 name_cn: Remini - AI照片修复增强
-url: 'https://remini.ai'
+url: https://remini.ai
 founded: 2019
-headquarters: 'Milan, Italy'
+headquarters: Milan, Italy
 founders:
   - Unknown original founders (2019 launch)
   - 'Bending Spoons: Owner/Operator'
@@ -12,13 +12,13 @@ stage: Scale
 status: Active
 metrics_date: 2025-12
 arr: $50M+
-users: '450M+ total downloads, 120M+ in 2024, 30M+ MAU'
+users: 450M+ total downloads, 120M+ in 2024, 30M+ MAU
 funding_total: Acquired by Bending Spoons (2021)
 valuation: Not disclosed
 employees: 50-100 (under Bending Spoons)
 category: Photo Enhancement & Restoration
 subcategory: AI-Powered Image Processing
-target_user: 'Families, photographers, history enthusiasts, casual mobile users'
+target_user: Families, photographers, history enthusiasts, casual mobile users
 pricing_model:
   - freemium
   - subscription
@@ -62,7 +62,10 @@ competitors:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: Medium-High
 mars_reviewed: false
-title: "Remini"
+title: Remini
+tags:
+  - 行业/图像设计
+  - 阶段/A轮
 ---
 # Remini - AI 照片修复与增强
 

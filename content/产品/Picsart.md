@@ -2,9 +2,9 @@
 type: product
 name: Picsart
 name_cn: Picsart
-url: 'https://www.picsart.com'
+url: https://www.picsart.com
 founded: 2011
-headquarters: 'San Francisco, USA (founded in Armenia)'
+headquarters: San Francisco, USA (founded in Armenia)
 founders:
   - Hovhannes Avoyan
   - Jivan Tabibian
@@ -25,8 +25,8 @@ funding_rounds:
 valuation: $1.4B (2023 estimate)
 employees: 600+
 category: AI-powered Creative Platform
-subcategory: 'Mobile Creator Tools, Image/Video Editing'
-target_user: 'Content creators, teenagers, social media influencers, artists, brands'
+subcategory: Mobile Creator Tools, Image/Video Editing
+target_user: Content creators, teenagers, social media influencers, artists, brands
 pricing_model:
   - Freemium
   - Subscription
@@ -61,7 +61,7 @@ distance_to_money: Direct (B2C subscription + creator monetization)
 industry_layer: Application/Creator Tools
 pricing_quadrant: Freemium + Premium subscription
 key_people:
-  - 'Hovhannes Avoyan (CEO, Co-founder)'
+  - Hovhannes Avoyan (CEO, Co-founder)
   - Jivan Tabibian
   - Vahe Kuzoyan
 competitors:
@@ -81,7 +81,13 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: "Picsart"
+title: Picsart
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 行业/图像设计
+  - 阶段/C轮
+  - 地区/美国
 ---
 # Picsart 产品卡片
 

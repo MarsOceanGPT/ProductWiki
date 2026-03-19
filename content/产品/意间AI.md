@@ -1,15 +1,17 @@
 ---
-title: "意间AI绘画"
-subtitle: "中文文本优先的AI绘画社交平台，微信生态中的'距钱最近'的创意工具"
-product_type: "AI Image Generation / Social Platform"
-company: "上海亘聪信息科技有限公司"
-founded: "2022年9月"
-team_background: "来自Nvidia、阿里巴巴等大厂，专注模型研究与算力优化"
-hq: "中国"
-stage: "Growth / Profitable"
-key_metrics: "15M+ 累计用户 | 900M+ 生成作品 | 400+ AI模型库 | 0.05元/张起价"
-url: "https://portal.yjai.art"
-date_published: "2026-03-19"
+title: 意间AI绘画
+subtitle: 中文文本优先的AI绘画社交平台，微信生态中的'距钱最近'的创意工具
+product_type: AI Image Generation / Social Platform
+company: 上海亘聪信息科技有限公司
+founded: 2022年9月
+team_background: 来自Nvidia、阿里巴巴等大厂，专注模型研究与算力优化
+hq: 中国
+stage: Growth / Profitable
+key_metrics: 15M+ 累计用户 | 900M+ 生成作品 | 400+ AI模型库 | 0.05元/张起价
+url: https://portal.yjai.art
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

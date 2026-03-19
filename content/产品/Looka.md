@@ -4,38 +4,42 @@ name: Looka
 name_cn: 露卡
 url: https://www.looka.com
 founded: 2016
-headquarters: "Toronto, Canada"
-founders: "Josh Sommers (CEO & Co-founder), David Rapson (Co-founder)"
-stage: "Growth/Pre-IPO"
+headquarters: Toronto, Canada
+founders: Josh Sommers (CEO & Co-founder), David Rapson (Co-founder)
+stage: Growth/Pre-IPO
 status: Active
-metrics_date: 2026-03-15
-arr: "~$40-50M (推测)"
+metrics_date: 2026-03-15T00:00:00.000Z
+arr: ~$40-50M (推测)
 users: 20000000
-paid_users: "~2-3M (推测)"
-funding_total: "~$75M (已披露融资)"
-valuation: "~$200-300M (私募估值推测)"
+paid_users: ~2-3M (推测)
+funding_total: ~$75M (已披露融资)
+valuation: ~$200-300M (私募估值推测)
 employees: 150
-category: "Generative AI"
-subcategory: "Brand Identity & Logo Design"
-target_user: "Entrepreneurs, SMBs, Freelancers, Startups, Brand Designers"
-pricing_model: "One-time purchase ($20) + optional premium files"
-opportunity: "AI-driven brand identity generation, solo entrepreneur empowerment, design democratization"
-design: "AI logo generator + complete brand kit (color palette, fonts, icon set), one-click refresh"
-mvp: "Logojoy (2016) → Looka rebrand (2018)"
-pmf: "2017-2018 (one-time $20 pricing, instant brand kits)"
-growth: "Design marketplace evolution, B2B partnerships, API integration"
-monetization: "One-time logo $20 + premium brand files ($15-80), brand marketplace revenue share"
-moat_playbooks: "AI美学品味 + 一次性定价护城河 + 品牌市场匹配"
-distance_to_money: "Very short (immediate transaction, no subscription friction)"
-industry_layer: "Application layer (AI-driven creative tool)"
-pricing_quadrant: "Ultra-low barrier entry + high-value output (低价民主化 + 极高转化)"
-key_people: "Josh Sommers (CEO), David Rapson (Co-founder/CTO)"
-competitors: "Canva Logo Maker, Adobe Express, GraphicSprings, Brandmark, Brandcrowd"
-related_products: "Leonardo.AI, Midjourney, Runway, Adobe Firefly"
-last_updated: 2026-03-19
+category: Generative AI
+subcategory: Brand Identity & Logo Design
+target_user: Entrepreneurs, SMBs, Freelancers, Startups, Brand Designers
+pricing_model: One-time purchase ($20) + optional premium files
+opportunity: AI-driven brand identity generation, solo entrepreneur empowerment, design democratization
+design: AI logo generator + complete brand kit (color palette, fonts, icon set), one-click refresh
+mvp: Logojoy (2016) → Looka rebrand (2018)
+pmf: 2017-2018 (one-time $20 pricing, instant brand kits)
+growth: Design marketplace evolution, B2B partnerships, API integration
+monetization: One-time logo $20 + premium brand files ($15-80), brand marketplace revenue share
+moat_playbooks: AI美学品味 + 一次性定价护城河 + 品牌市场匹配
+distance_to_money: Very short (immediate transaction, no subscription friction)
+industry_layer: Application layer (AI-driven creative tool)
+pricing_quadrant: Ultra-low barrier entry + high-value output (低价民主化 + 极高转化)
+key_people: Josh Sommers (CEO), David Rapson (Co-founder/CTO)
+competitors: Canva Logo Maker, Adobe Express, GraphicSprings, Brandmark, Brandcrowd
+related_products: Leonardo.AI, Midjourney, Runway, Adobe Firefly
+last_updated: 2026-03-19T00:00:00.000Z
 confidence: 75
 mars_reviewed: false
-title: "Looka"
+title: Looka
+tags:
+  - 行业/开发工具
+  - 行业/图像设计
+  - 阶段/D轮+
 ---
 
 ## 一句话定位

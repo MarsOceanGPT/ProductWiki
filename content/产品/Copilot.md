@@ -30,10 +30,14 @@ pricing_quadrant: High-touch SaaS for large enterprises
 key_people: Satya Nadella (CEO), Kevin Scott (CTO), Mustafa Suleyman (AI)
 competitors: ChatGPT (OpenAI), Gemini (Google), Claude (Anthropic)
 related_products: GitHub Copilot, Copilot Studio, Azure OpenAI Service, Microsoft 365, Power Platform
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 95%
 mars_reviewed: false
-title: "Copilot"
+title: Copilot
+tags:
+  - 行业/效率工具
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 ## 一句话定位

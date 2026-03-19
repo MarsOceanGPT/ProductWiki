@@ -1,20 +1,22 @@
 ---
-title: "Rezi.ai"
-subtitle: "用AI驱动的ATS优化引擎，将求职者简历升级为「会说话的数据包」，帮助4M+求职者破解招聘系统的隐形门槛"
-product_type: "AI Resume Builder / Career Optimization"
-company: "Rezi Inc."
-founded: "2016年（成立），总部原在纽约"
-founders: "Jason Fu (CEO & Co-founder) | 基于Rezi融资公告数据"
-hq: "New York, USA"
-stage: "Series B融资后 / 持续增长"
-funding: "总融资 $23M+（Series A $4M @ 2020年 + Series B $15M @ 2022年）"
-key_metrics: "用户规模：4M+求职者 | 日活用户：100K+推测 | 生成简历数：1000万+（累计） | ATS通过率提升：平均+35-45% | 日均新增用户：数千名"
-url: "https://www.rezi.ai"
-api_url: "https://www.rezi.ai/careers"
-date_published: "2026-03-19"
+title: Rezi.ai
+subtitle: 用AI驱动的ATS优化引擎，将求职者简历升级为「会说话的数据包」，帮助4M+求职者破解招聘系统的隐形门槛
+product_type: AI Resume Builder / Career Optimization
+company: Rezi Inc.
+founded: 2016年（成立），总部原在纽约
+founders: Jason Fu (CEO & Co-founder) | 基于Rezi融资公告数据
+hq: New York, USA
+stage: Series B融资后 / 持续增长
+funding: 总融资 $23M+（Series A $4M @ 2020年 + Series B $15M @ 2022年）
+key_metrics: 用户规模：4M+求职者 | 日活用户：100K+推测 | 生成简历数：1000万+（累计） | ATS通过率提升：平均+35-45% | 日均新增用户：数千名
+url: https://www.rezi.ai
+api_url: https://www.rezi.ai/careers
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于官方融资公告、Crunchbase数据、用户评价）"
-last_updated: "2026-03-19"
+confidence: High（基于官方融资公告、Crunchbase数据、用户评价）
+last_updated: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话定位

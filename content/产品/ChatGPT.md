@@ -2,7 +2,7 @@
 type: product
 name: ChatGPT
 url: https://chatgpt.com
-founded: 2022-11-30
+founded: 2022-11-30T00:00:00.000Z
 headquarters: San Francisco, CA, USA
 founders:
   - Sam Altman (CEO)
@@ -10,7 +10,7 @@ founders:
   - Jakub Pachocki (Chief Scientist)
 stage: Scale-up
 status: public
-metrics_date: 2026-02-28
+metrics_date: 2026-02-28T00:00:00.000Z
 arr: 25000000000
 users: 900000000
 monthly_visits: null
@@ -58,10 +58,13 @@ related_products:
   - Whisper
   - GPT Store
   - Workplace plugins
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.95
 mars_reviewed: false
-title: "ChatGPT"
+title: ChatGPT
+tags:
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 ## 一句话定位

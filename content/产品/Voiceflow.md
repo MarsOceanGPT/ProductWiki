@@ -1,16 +1,18 @@
 ---
-title: "Voiceflow"
-subtitle: "设计驱动的会话AI建筑师：从原型到生产的No-Code统一舞台"
-product_type: "No-Code Conversational AI Agent Builder"
-company: "Voiceflow Inc."
-founded: "2016年（Toronto）"
-founders: "Braden Ream, Tyler Han, 及其他联合创始人"
-hq: "Toronto, Canada"
-stage: "Series B（融资后期阶段）"
-funding: "$35M+累计融资（包含Series A和后续融资）"
-key_metrics: "数百万对话次数 | 数千家企业客户 | 50+频道支持 | 100+ API集成 | 支持GPT-4/Claude/自有模型"
-url: "https://www.voiceflow.com"
-date_published: "2026-03-19"
+title: Voiceflow
+subtitle: 设计驱动的会话AI建筑师：从原型到生产的No-Code统一舞台
+product_type: No-Code Conversational AI Agent Builder
+company: Voiceflow Inc.
+founded: 2016年（Toronto）
+founders: Braden Ream, Tyler Han, 及其他联合创始人
+hq: Toronto, Canada
+stage: Series B（融资后期阶段）
+funding: $35M+累计融资（包含Series A和后续融资）
+key_metrics: 数百万对话次数 | 数千家企业客户 | 50+频道支持 | 100+ API集成 | 支持GPT-4/Claude/自有模型
+url: https://www.voiceflow.com
+date_published: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话

@@ -2,28 +2,26 @@
 type: product
 name: Replika
 name_cn: Replika AI
-url: 'https://replika.ai'
+url: https://replika.ai
 founded: 2017
-headquarters: 'San Francisco, USA'
+headquarters: San Francisco, USA
 founders:
   - Eugenia Kuyda
 stage: Mature / Regulatory Challenged
 status: Active (regulated in Italy/Germany)
 metrics_date: 2025-12
 arr: $24-30M
-users: '40M+ lifetime users, 3-4M MAU'
+users: 40M+ lifetime users, 3-4M MAU
 monthly_visits: Information not available
 mau: 3-4M (estimated 2024)
 funding_total: $11M
 funding_rounds:
-  - 'Series A $6.5M (Khosla Ventures, 2017)'
-valuation: '$10-50M (estimated, 2017 valuation, no recent rounds)'
+  - Series A $6.5M (Khosla Ventures, 2017)
+valuation: $10-50M (estimated, 2017 valuation, no recent rounds)
 employees: ~93
 category: AI Companion / Emotional AI Chatbot
-subcategory: 'Personal Relationship AI, Mental Health Support Bot'
-target_user: >-
-  Lonely individuals, mental health seekers, people seeking emotional
-  companionship (now: 18+)
+subcategory: Personal Relationship AI, Mental Health Support Bot
+target_user: 'Lonely individuals, mental health seekers, people seeking emotional companionship (now: 18+)'
 pricing_model:
   - Freemium
   - Subscription
@@ -54,11 +52,11 @@ moat_playbooks:
   - Single-character lock-in
   - Founder origin story brand
   - First-mover in emotional AI
-distance_to_money: 'Direct (B2C subscription, but regulatory friction)'
+distance_to_money: Direct (B2C subscription, but regulatory friction)
 industry_layer: Application Layer / Social
 pricing_quadrant: Premium subscription (emotional/psychological premium)
 key_people:
-  - 'Eugenia Kuyda (Founder, stepped down as CEO 2025)'
+  - Eugenia Kuyda (Founder, stepped down as CEO 2025)
   - Dmytro Klochko (CEO since 2025)
 competitors:
   - Character.AI
@@ -74,7 +72,11 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High (regulatory context well-documented)
 mars_reviewed: false
-title: "Replika"
+title: Replika
+tags:
+  - 行业/社交陪伴
+  - 阶段/A轮
+  - 地区/美国
 ---
 # Replika AI 产品卡片
 

@@ -2,7 +2,7 @@
 type: product
 name: Poe
 name_cn: Poe
-url: 'https://poe.com'
+url: https://poe.com
 founded: 2022
 headquarters: San Francisco
 founders:
@@ -57,7 +57,9 @@ related_products:
 last_updated: '2026-03-17'
 confidence: High
 mars_reviewed: false
-title: "Poe"
+title: Poe
+tags:
+  - 阶段/A轮
 ---
 
 # Poe 产品卡片

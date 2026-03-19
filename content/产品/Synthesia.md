@@ -2,9 +2,9 @@
 type: product
 name: Synthesia
 name_cn: Synthesia AI 视频生成
-url: 'https://www.synthesia.io'
+url: https://www.synthesia.io
 founded: 2017
-headquarters: 'London, UK'
+headquarters: London, UK
 founders:
   - Victor Riparbelli
   - Agapito
@@ -14,7 +14,7 @@ stage: Growth/Late Stage
 status: Active
 metrics_date: 2026-03
 arr: $100M+
-users: '60,000+ businesses'
+users: 60,000+ businesses
 monthly_visits: ''
 mau: ''
 funding_total: $500M+
@@ -28,7 +28,7 @@ valuation: $4B (Feb 2026)
 employees: 140+
 category: AI Video Generation
 subcategory: Enterprise AI Video / Avatar
-target_user: 'Enterprise marketing teams, learning & development, large corporations'
+target_user: Enterprise marketing teams, learning & development, large corporations
 pricing_model:
   - SaaS
   - Enterprise Contracts
@@ -60,14 +60,14 @@ moat_playbooks:
   - Avatar Library Lock-in
 distance_to_money: Very Close (Enterprise Direct)
 industry_layer: Application Layer (Media/Learning)
-pricing_quadrant: 'High Price, Niche Market'
+pricing_quadrant: High Price, Niche Market
 key_people:
   - Victor Riparbelli - CEO
   - Niessner - Co-founder (Technology)
 competitors:
   - HeyGen
   - D-ID
-  - 'Synthesia Alternatives (Colossyan, Loom)'
+  - Synthesia Alternatives (Colossyan, Loom)
 related_products:
   - '[[产品/HeyGen|HeyGen]]'
   - '[[产品/Runway|Runway]]'
@@ -76,7 +76,12 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: "Synthesia"
+title: Synthesia
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/A轮
+  - 地区/欧洲
 ---
 ## 基本面表格
 

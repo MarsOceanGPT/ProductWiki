@@ -1,20 +1,22 @@
 ---
-title: "Hume AI"
-subtitle: "从情绪识别到表达生成，用「感知+响应」的闭环将AI语音从工具升级为陪伴"
-product_type: "Expressive Voice AI / Speech-to-Speech Platform"
-company: "Hume AI Inc."
-founded: "2021年3月（成立）| 2024年3月（EVI发布，Series B）"
-founders: "Dr. Alan Cowen (CEO, 前Google Affective Computing Lead) | John Beadle (CFO, Aegis Ventures创始合伙人)"
-hq: "New York, NY"
-stage: "Series B"
-funding: "总融资 $80.7M（Series B: $50M，2024年3月）"
-key_metrics: "100K+ 自定义语音库 | 200K+ 平台设计语音 | EVI 3 支持30秒极速声音克隆 | 对标ElevenLabs但情感纬度更深 | 客户包括hpy(治疗追踪提升70%)、Fortune 100汽车公司"
-url: "https://www.hume.ai"
-api_url: "https://dev.hume.ai"
-date_published: "2026-03-19"
+title: Hume AI
+subtitle: 从情绪识别到表达生成，用「感知+响应」的闭环将AI语音从工具升级为陪伴
+product_type: Expressive Voice AI / Speech-to-Speech Platform
+company: Hume AI Inc.
+founded: 2021年3月（成立）| 2024年3月（EVI发布，Series B）
+founders: Dr. Alan Cowen (CEO, 前Google Affective Computing Lead) | John Beadle (CFO, Aegis Ventures创始合伙人)
+hq: New York, NY
+stage: Series B
+funding: '总融资 $80.7M（Series B: $50M，2024年3月）'
+key_metrics: 100K+ 自定义语音库 | 200K+ 平台设计语音 | EVI 3 支持30秒极速声音克隆 | 对标ElevenLabs但情感纬度更深 | 客户包括hpy(治疗追踪提升70%)、Fortune 100汽车公司
+url: https://www.hume.ai
+api_url: https://dev.hume.ai
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High (基于官方博客、API文档、融资新闻、用户案例)"
-last_updated: "2026-03-19"
+confidence: High (基于官方博客、API文档、融资新闻、用户案例)
+last_updated: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话定位

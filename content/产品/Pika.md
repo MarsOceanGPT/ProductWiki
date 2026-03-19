@@ -4,7 +4,7 @@ name: Pika / Pika Labs
 url: https://pika.art
 founded: 2023
 headquarters: San Francisco, USA
-founders: "Demi Guo (CEO), Chenlin Meng (CTO)"
+founders: Demi Guo (CEO), Chenlin Meng (CTO)
 stage: Series B
 status: Active & Expanding
 metrics_date: 2026-Q1
@@ -16,25 +16,30 @@ valuation: 470000000
 employees: ~80-120
 category: AI Video Generation & Creation
 subcategory: Text-to-Video Platform for Short-Form Content
-target_user: "Creators, SMBs, TikTok/Reels creators, Content agencies, Gen Z"
+target_user: Creators, SMBs, TikTok/Reels creators, Content agencies, Gen Z
 pricing_model: Freemium (Free 80 credits/mo → Standard $10/mo → Fancy $95/mo)
-opportunity: "Short-form video democratization, creator economy, content automation for commerce, GenZ native"
-design: "Text-to-video, Image-to-video, Video-to-video, Scene Composition, Pikaframes, Pikaffects"
-mvp: "Pika 1.0 (April 2023) → Text-to-video API"
-pmf: "~2024 (Pika 1.5 crossed 11M users in single month)"
-growth: "5M+ users in single month (1.5 launch), 60K daily video shares, 1B+ user-generated views, 1.8x viral coefficient"
-monetization: "Freemium SaaS with credit-based usage, Premium features (commercial rights, watermark removal), Enterprise partnerships"
-moat_playbooks: "Viral creator loops, extreme speed optimization, Turbo inference engine, Community-driven (Discord 60K+), Pikaformance talking face model"
-distance_to_money: "Ultra-direct (SaaS revenue + Creator monetization ecosystem), extremely short distance to transaction"
-industry_layer: "Horizontal (all video use cases), application layer / creator tools layer"
-pricing_quadrant: "Extreme accessibility (free tier) + premium AI features (commercial rights tier)"
-key_people: "Demi Guo (CEO, 25yo), Chenlin Meng (CTO, PhD AI researcher), AI researchers from Google/Meta/Uber"
-competitors: "Runway ML (Gen-3), Luma AI (Dream Machine), OpenAI Sora, Kling AI, HeyGen"
-related_products: "CapCut (video editing), TikTok/Reels (distribution), HeyGen (avatar videos), D-ID (talking heads)"
-last_updated: 2026-03-19
+opportunity: Short-form video democratization, creator economy, content automation for commerce, GenZ native
+design: Text-to-video, Image-to-video, Video-to-video, Scene Composition, Pikaframes, Pikaffects
+mvp: Pika 1.0 (April 2023) → Text-to-video API
+pmf: ~2024 (Pika 1.5 crossed 11M users in single month)
+growth: 5M+ users in single month (1.5 launch), 60K daily video shares, 1B+ user-generated views, 1.8x viral coefficient
+monetization: Freemium SaaS with credit-based usage, Premium features (commercial rights, watermark removal), Enterprise partnerships
+moat_playbooks: Viral creator loops, extreme speed optimization, Turbo inference engine, Community-driven (Discord 60K+), Pikaformance talking face model
+distance_to_money: Ultra-direct (SaaS revenue + Creator monetization ecosystem), extremely short distance to transaction
+industry_layer: Horizontal (all video use cases), application layer / creator tools layer
+pricing_quadrant: Extreme accessibility (free tier) + premium AI features (commercial rights tier)
+key_people: Demi Guo (CEO, 25yo), Chenlin Meng (CTO, PhD AI researcher), AI researchers from Google/Meta/Uber
+competitors: Runway ML (Gen-3), Luma AI (Dream Machine), OpenAI Sora, Kling AI, HeyGen
+related_products: CapCut (video editing), TikTok/Reels (distribution), HeyGen (avatar videos), D-ID (talking heads)
+last_updated: 2026-03-19T00:00:00.000Z
 confidence: 88
 mars_reviewed: false
-title: "Pika / Pika Labs"
+title: Pika / Pika Labs
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/B轮
+  - 地区/美国
 ---
 
 ## 一句话定位

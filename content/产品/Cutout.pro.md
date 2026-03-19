@@ -2,9 +2,9 @@
 type: product
 name: Cutout.pro
 name_cn: Cutout.pro
-url: 'https://www.cutout.pro'
+url: https://www.cutout.pro
 founded: 2017
-headquarters: 'Shanghai, China (Global operations)'
+headquarters: Shanghai, China (Global operations)
 founders:
   - Chinese AI team
 stage: Bootstrapped / Self-funded
@@ -19,8 +19,8 @@ funding_rounds: []
 valuation: Private estimate $150-200M
 employees: 200+
 category: AI Image Processing
-subcategory: 'Multiple AI image tools, Creator tools'
-target_user: 'E-commerce sellers, designers, content creators, photo editors'
+subcategory: Multiple AI image tools, Creator tools
+target_user: E-commerce sellers, designers, content creators, photo editors
 pricing_model:
   - Freemium
   - Subscription
@@ -70,7 +70,11 @@ related_products:
 last_updated: '2026-03-14'
 confidence: Medium-High
 mars_reviewed: false
-title: "Cutout.pro"
+title: Cutout.pro
+tags:
+  - 行业/图像设计
+  - 阶段/A轮
+  - 地区/中国
 ---
 # Cutout.pro 产品卡片
 

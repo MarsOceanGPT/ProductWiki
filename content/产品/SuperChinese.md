@@ -1,16 +1,18 @@
 ---
-title: "SuperChinese"
-subtitle: "AI伴学+沉浸式剧情：硅谷创业者的「看剧学中文」革命"
-product_type: "AI-Powered Chinese Language Learning App"
-company: "SuperChinese Inc."
-founded: "2017年（Silicon Valley）"
-founders: "Jason Ge, Ruilin Ma"
-hq: "Sunnyvale, California, USA"
-stage: "融资状态（估计A轮或B轮）"
-funding: "融资规模未公开 | 已获得天使投资与机构融资"
-key_metrics: "100万+下载 | 150+国家 | AI伴学引擎 | 1000+真实视频剧情 | 4.8★评分 | 全球中文学习者"
-url: "https://www.superchinese.com"
-date_published: "2026-03-19"
+title: SuperChinese
+subtitle: AI伴学+沉浸式剧情：硅谷创业者的「看剧学中文」革命
+product_type: AI-Powered Chinese Language Learning App
+company: SuperChinese Inc.
+founded: 2017年（Silicon Valley）
+founders: Jason Ge, Ruilin Ma
+hq: Sunnyvale, California, USA
+stage: 融资状态（估计A轮或B轮）
+funding: 融资规模未公开 | 已获得天使投资与机构融资
+key_metrics: 100万+下载 | 150+国家 | AI伴学引擎 | 1000+真实视频剧情 | 4.8★评分 | 全球中文学习者
+url: https://www.superchinese.com
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

@@ -1,16 +1,18 @@
 ---
-title: "Sardine"
-subtitle: "实时欺诈检测 + 合规自动化，Fintech的信用基础设施"
-product_type: "Risk & Compliance Platform"
-company: "Sardine"
-founded: "2020年"
-founders: "Amol Joshi (CEO), Varun Deshpande (CTO), Jag Sidhu (VP Product)"
-hq: "San Francisco, CA"
-stage: "Series C"
-funding: "$60M (2025年E轮之前)"
-key_metrics: "1M+ 日活风险评估 | 150+ Fintech客户 | 20+ 国家部署 | 99.99% API可用性"
-url: "https://sardine.ai"
-date_published: "2026-03-19"
+title: Sardine
+subtitle: 实时欺诈检测 + 合规自动化，Fintech的信用基础设施
+product_type: Risk & Compliance Platform
+company: Sardine
+founded: 2020年
+founders: Amol Joshi (CEO), Varun Deshpande (CTO), Jag Sidhu (VP Product)
+hq: San Francisco, CA
+stage: Series C
+funding: $60M (2025年E轮之前)
+key_metrics: 1M+ 日活风险评估 | 150+ Fintech客户 | 20+ 国家部署 | 99.99% API可用性
+url: https://sardine.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/C轮
 ---
 
 ## 一句话

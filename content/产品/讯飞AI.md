@@ -8,7 +8,7 @@ headquarters: 合肥
 founders: 刘庆峰（CEO）
 stage: Mature
 status: Active
-metrics_date: 2026-03-17
+metrics_date: 2026-03-17T00:00:00.000Z
 arr: ~20-25亿元（基于2025年三季度营收推算）
 users: 1000万+（学习应用） + 700万+（硬件用户）
 monthly_visits: 待更新
@@ -21,16 +21,22 @@ category: AI / Large Language Model / Hardware
 subcategory: LLM Platform + Consumer Hardware Devices
 target_user: 学生/教师/企业/开发者/政府机构
 pricing_model: API按量付费 + 硬件销售 + 学习应用订阅
-打法标签: [pmf_verified, hardware_moat, vertical_integration, china_market]
+打法标签:
+  - pmf_verified
+  - hardware_moat
+  - vertical_integration
+  - china_market
 distance_to_money: 最近（硬件销售成熟 + API商用 + 学习订阅）
 industry_layer: 基础层（LLM）+ 应用层（教育/医疗/企业）
 pricing_quadrant: API按量付费 → 企业年度合同 → 硬件直销
 key_people: 刘庆峰 (创始人/董事长), 胡郁 (轮值总裁)
-competitors: "[[OpenAI]], [[Anthropic]], [[DeepSeek]], [[百度Ernie]], [[阿里通义]], [[字节豆包]]"
-related_products: "[[微软Copilot]], [[Google Gemini]], [[Claude]], [[ChatGPT]]"
-last_updated: 2026-03-17
+competitors: '[[OpenAI]], [[Anthropic]], [[DeepSeek]], [[百度Ernie]], [[阿里通义]], [[字节豆包]]'
+related_products: '[[微软Copilot]], [[Google Gemini]], [[Claude]], [[ChatGPT]]'
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.92
 mars_reviewed: false
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话定位

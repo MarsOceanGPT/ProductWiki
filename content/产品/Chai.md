@@ -2,9 +2,9 @@
 type: product
 name: Chai
 name_cn: Chai
-url: 'https://chai.ml'
+url: https://chai.ml
 founded: 2021
-headquarters: 'Palo Alto, CA, USA'
+headquarters: Palo Alto, CA, USA
 founders:
   - William R. G. Beauchamp
 stage: Growth/Scale
@@ -17,7 +17,7 @@ mau: 1M+ DAU (2025)
 funding_total: $55M+
 funding_rounds:
   - Strategic Round I (Jan 2024)
-  - 'Strategic Round II (Jul 2025, $47M, CoreWeave/AMD)'
+  - Strategic Round II (Jul 2025, $47M, CoreWeave/AMD)
 valuation: $450M (2025)
 employees: 11-21
 category: AI 社交/陪伴
@@ -63,7 +63,7 @@ key_people:
   - Shiya L. (Engineering Lead)
   - Vineet M. (Team)
   - Christie-Carol B. (Team)
-  - 'Nischay D. (3x Kaggle GrandMaster, Fine-tuning)'
+  - Nischay D. (3x Kaggle GrandMaster, Fine-tuning)
 competitors:
   - '[[产品/Character.ai|Character.ai]]'
   - '[[产品/Replika|Replika]]'
@@ -75,7 +75,11 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High (公开资料+多个来源验证)
 mars_reviewed: false
-title: "Chai"
+title: Chai
+tags:
+  - 行业/社交陪伴
+  - 阶段/A轮
+  - 地区/美国
 ---
 # Chai：用户生成AI的YouTube模式
 

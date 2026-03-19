@@ -3,8 +3,10 @@ title: 小满CRM (OKKI)
 slug: xiaoman-crm
 category: AI CRM
 status: active
-created: 2026-03-19
-updated: 2026-03-19
+created: 2026-03-19T00:00:00.000Z
+updated: 2026-03-19T00:00:00.000Z
+tags:
+  - 行业/销售营销
 ---
 
 ## 一句话定位

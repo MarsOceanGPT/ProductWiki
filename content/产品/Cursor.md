@@ -2,7 +2,7 @@
 type: product
 name: Cursor
 url: https://cursor.com
-founded: 2023-03-01
+founded: 2023-03-01T00:00:00.000Z
 headquarters: San Francisco, CA
 founders:
   - Michael Truell
@@ -11,7 +11,7 @@ founders:
   - Aman Sanger
 stage: Late Stage (Series D)
 status: Active & Scaling
-metrics_date: 2026-03-17
+metrics_date: 2026-03-17T00:00:00.000Z
 arr: 2000000000
 users: 2000000
 users_paying: 720000
@@ -22,16 +22,16 @@ category: Developer Tools
 subcategory: AI Code Editor / IDE
 target_user: Software engineers, AI-aware development teams, enterprises
 pricing_model: Freemium + Subscription (Pro/Pro+/Ultra + Teams/Enterprise)
-opportunity: "AI-native IDE market: $100B+ TAM, replacing legacy code editors with agent-capable platforms"
-design: "VS Code fork + proprietary AI integration; whole-project awareness; tab completion + chat + agent mode"
-mvp: "Tab completion + inline editing (2023); Agent mode for multi-file tasks"
-pmf: "Developer PMF (2024): tab completion > agent mode; Enterprise PMF (2025): agent-driven refactors at scale"
-growth: "9,900% YoY ARR growth (2024-2025); $1B ARR in 20 months; doubling revenue every ~2 months"
-monetization: "Usage-based credits + subscription tiers; enterprise pooled usage; 60% revenue from enterprise"
-moat_playbooks: "VS Code fork with faster AI UX; proprietary embeddings + fine-tuning; developer social graph potential; first-mover advantage in agent IDE"
-distance_to_money: "Very close: direct payment from developers & enterprises for core coding workflow"
-industry_layer: "Platform/IDE layer (below application, above infrastructure)"
-pricing_quadrant: "Premium + Usage-based (high value, moderate frequency)"
+opportunity: 'AI-native IDE market: $100B+ TAM, replacing legacy code editors with agent-capable platforms'
+design: VS Code fork + proprietary AI integration; whole-project awareness; tab completion + chat + agent mode
+mvp: Tab completion + inline editing (2023); Agent mode for multi-file tasks
+pmf: 'Developer PMF (2024): tab completion > agent mode; Enterprise PMF (2025): agent-driven refactors at scale'
+growth: 9,900% YoY ARR growth (2024-2025); $1B ARR in 20 months; doubling revenue every ~2 months
+monetization: Usage-based credits + subscription tiers; enterprise pooled usage; 60% revenue from enterprise
+moat_playbooks: VS Code fork with faster AI UX; proprietary embeddings + fine-tuning; developer social graph potential; first-mover advantage in agent IDE
+distance_to_money: 'Very close: direct payment from developers & enterprises for core coding workflow'
+industry_layer: Platform/IDE layer (below application, above infrastructure)
+pricing_quadrant: Premium + Usage-based (high value, moderate frequency)
 key_people:
   - Michael Truell (CEO/Co-founder, CS+Math, MIT)
   - Sualeh Asif (Co-founder, CS, MIT)
@@ -48,10 +48,14 @@ related_products:
   - Codeium
   - Replit
   - Bolt (Vercel)
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: High (sourced from official announcements, major publications, user data)
 mars_reviewed: false
-title: "Cursor"
+title: Cursor
+tags:
+  - 行业/开发工具
+  - 阶段/A轮
+  - 地区/北美其他
 ---
 
 ## 一句话定位

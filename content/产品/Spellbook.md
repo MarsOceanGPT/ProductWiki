@@ -3,8 +3,15 @@ title: Spellbook
 subtitle: AI赋能的合同起草与修改，嵌入Word生产流
 stage: Series B
 category: 企业SaaS | 法律科技
-tags: [合同管理, LLM应用, 工作流嵌入, 企业SaaS, 法律科技]
-created: 2026-03-19
+tags:
+  - 合同管理
+  - LLM应用
+  - 工作流嵌入
+  - 企业SaaS
+  - 法律科技
+  - 行业/法律AI
+  - 阶段/B轮
+created: 2026-03-19T00:00:00.000Z
 ---
 
 ## 产品定位

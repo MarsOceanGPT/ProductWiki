@@ -2,22 +2,22 @@
 type: product
 name: FaceApp
 name_cn: FaceApp
-url: 'https://faceapp.com'
+url: https://faceapp.com
 founded: 2017
-headquarters: 'St. Petersburg, Russia / Phoenix, USA'
+headquarters: St. Petersburg, Russia / Phoenix, USA
 founders:
   - Yaroslav Goncharov
 stage: Profitable/Mature
 status: Active
 metrics_date: 2025-01
 arr: $135M
-users: '480M+ downloads, 30M+ MAU'
+users: 480M+ downloads, 30M+ MAU
 funding_total: Bootstrapped (unfunded)
 valuation: Not disclosed
 employees: ~50
 category: Photo Editing / AI Beauty
 subcategory: AI Face Enhancement
-target_user: 'General consumers, casual photo editors, social media users'
+target_user: General consumers, casual photo editors, social media users
 pricing_model:
   - freemium
   - subscription
@@ -68,7 +68,10 @@ related_products:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "FaceApp"
+title: FaceApp
+tags:
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 # FaceApp

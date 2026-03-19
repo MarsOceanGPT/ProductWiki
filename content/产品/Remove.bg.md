@@ -2,15 +2,15 @@
 type: product
 name: Remove.bg
 name_cn: Remove.bg
-url: 'https://www.remove.bg'
+url: https://www.remove.bg
 founded: 2017
-headquarters: 'Berlin, Germany (Kaleido AI)'
+headquarters: Berlin, Germany (Kaleido AI)
 founders:
   - Florian Christl
 stage: Acquired (by Canva 2021)
 status: Active
 metrics_date: 2026-03
-arr: '$10M+ (estimated, part of Canva)'
+arr: $10M+ (estimated, part of Canva)
 users: 50M+ (cumulative)
 monthly_visits: 50M+
 mau: 5M+
@@ -22,8 +22,8 @@ funding_rounds:
 valuation: Part of Canva $45B
 employees: 20+ (part of Canva team)
 category: AI Background Removal
-subcategory: 'Image Processing, API Service'
-target_user: 'Designers, photographers, e-commerce businesses, casual users'
+subcategory: Image Processing, API Service
+target_user: Designers, photographers, e-commerce businesses, casual users
 pricing_model:
   - Freemium
   - API subscription
@@ -72,7 +72,10 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: "Remove.bg"
+title: Remove.bg
+tags:
+  - 行业/图像设计
+  - 阶段/A轮
 ---
 # Remove.bg 产品卡片
 

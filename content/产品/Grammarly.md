@@ -2,14 +2,14 @@
 type: product
 name: Grammarly
 name_cn: Grammarly
-url: 'https://www.grammarly.com'
+url: https://www.grammarly.com
 founded: 2009
 headquarters: San Francisco
 founders:
   - Max Lytvyn
   - Alex Shevchenko
   - Dmytro Lider
-stage: 'VC-backed, Series C+, pre-IPO'
+stage: VC-backed, Series C+, pre-IPO
 status: Active
 metrics_date: 2026-03
 arr: $700M
@@ -25,8 +25,8 @@ funding_rounds:
 valuation: $13B (2021 equity valuation maintained through 2026)
 employees: 600+
 category: AI Writing Assistant & Communication Platform
-subcategory: 'Productivity, Enterprise Software, AI Tools'
-target_user: 'Students, professionals, enterprises, non-native English speakers'
+subcategory: Productivity, Enterprise Software, AI Tools
+target_user: Students, professionals, enterprises, non-native English speakers
 pricing_model:
   - Freemium
   - Premium subscription
@@ -87,7 +87,10 @@ related_products:
 last_updated: '2026-03-17'
 confidence: High
 mars_reviewed: false
-title: "Grammarly"
+title: Grammarly
+tags:
+  - 行业/效率工具
+  - 阶段/A轮
 ---
 
 # Grammarly 产品卡片 v4.0

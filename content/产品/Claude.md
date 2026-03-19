@@ -1,20 +1,22 @@
 ---
-title: "Claude"
-subtitle: "Anthropic的安全优先路线，用Constitutional AI换取企业信任溢价"
-product_type: "AI Assistant / LLM Platform"
-company: "Anthropic Inc."
-founded: "2021年3月（成立）| 2023年3月（Claude发布）"
-founders: "Dario Amodei (CEO, 前OpenAI VP of Research) | Daniela Amodei (President, 前OpenAI VP of Safety & Policy)"
-hq: "San Francisco, CA"
-stage: "Series D / Pre-IPO"
-funding: "总融资 $79.5B（截至2026年3月）"
-key_metrics: "ARR $19B（2026年3月） | $380B估值 | 用户数：企业 12000+，消费者 250M+ | 员工数 2800+"
-url: "https://claude.ai"
-api_url: "https://api.anthropic.com"
-date_published: "2026-03-17"
+title: Claude
+subtitle: Anthropic的安全优先路线，用Constitutional AI换取企业信任溢价
+product_type: AI Assistant / LLM Platform
+company: Anthropic Inc.
+founded: 2021年3月（成立）| 2023年3月（Claude发布）
+founders: Dario Amodei (CEO, 前OpenAI VP of Research) | Daniela Amodei (President, 前OpenAI VP of Safety & Policy)
+hq: San Francisco, CA
+stage: Series D / Pre-IPO
+funding: 总融资 $79.5B（截至2026年3月）
+key_metrics: ARR $19B（2026年3月） | $380B估值 | 用户数：企业 12000+，消费者 250M+ | 员工数 2800+
+url: https://claude.ai
+api_url: https://api.anthropic.com
+date_published: '2026-03-17'
 mars_reviewed: false
-confidence: "High (基于公开财报数据、新闻稿、官方文档)"
-last_updated: "2026-03-17"
+confidence: High (基于公开财报数据、新闻稿、官方文档)
+last_updated: '2026-03-17'
+tags:
+  - 阶段/D轮+
 ---
 
 ## 一句话定位

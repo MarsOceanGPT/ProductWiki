@@ -2,11 +2,9 @@
 type: product
 name: Genspark
 name_cn: Genspark
-url: 'https://genspark.ai'
+url: https://genspark.ai
 founded: 2023
-headquarters: >-
-  Palo Alto, California, USA (Headquarters in Silicon Valley with Singapore
-  office)
+headquarters: Palo Alto, California, USA (Headquarters in Silicon Valley with Singapore office)
 founders:
   - Eric Jing
   - Kaihua Zhu
@@ -32,7 +30,7 @@ funding_rounds:
     date: November 2025
     lead_investor: Emergence Capital Partners
     valuation: $1.25B
-valuation: '$1.25B (Post-money, Series B, November 2025)'
+valuation: $1.25B (Post-money, Series B, November 2025)
 employees: 143 (January 2026); 50 (February 2025)
 category: AI 搜索 / AI 工作室
 subcategory: AI Search Engine / Agent Workspace / Super Agent
@@ -68,7 +66,11 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: "Genspark"
+title: Genspark
+tags:
+  - 行业/搜索知识
+  - 阶段/B轮
+  - 地区/美国
 ---
 ## 基本面
 

@@ -1,19 +1,21 @@
 ---
-title: "ListenHub"
-subtitle: "AI播客生成平台：将任意内容（文本、网页、文档）一键转化为自然流畅的AI播客音频，用「耳朵经济」重新定义内容消费方式"
-product_type: "AI Podcast Generation / Audio Content Creation / AIGC"
-company: "Mars Airwave Technology Co., Ltd（火星波浪科技有限公司）"
-founded: "2023年"
-hq: "Beijing, China"
-stage: "Growth Stage"
-funding: "天使轮融资进行中（具体数据未公开）"
-key_metrics: "日活用户：数万+（估） | 支持语言：中英双语 | 生成速度：3分钟内生成完整播客 | 语音风格：10+种 | 生成能力：文本→播客 / 网页链接→播客 / PDF/Word文档→播客 | 移动端下载：6位数+（iOS + Android） | 核心用户群：内容创作者、知识工作者、学生、播客制作人"
-url: "https://listenhub.ai/"
-api_url: "https://listenhub.ai/api"
-date_published: "2026-03-19"
+title: ListenHub
+subtitle: AI播客生成平台：将任意内容（文本、网页、文档）一键转化为自然流畅的AI播客音频，用「耳朵经济」重新定义内容消费方式
+product_type: AI Podcast Generation / Audio Content Creation / AIGC
+company: Mars Airwave Technology Co., Ltd（火星波浪科技有限公司）
+founded: 2023年
+hq: Beijing, China
+stage: Growth Stage
+funding: 天使轮融资进行中（具体数据未公开）
+key_metrics: 日活用户：数万+（估） | 支持语言：中英双语 | 生成速度：3分钟内生成完整播客 | 语音风格：10+种 | 生成能力：文本→播客 / 网页链接→播客 / PDF/Word文档→播客 | 移动端下载：6位数+（iOS + Android） | 核心用户群：内容创作者、知识工作者、学生、播客制作人
+url: https://listenhub.ai/
+api_url: https://listenhub.ai/api
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于官方网站、App Store / Google Play数据、知乎讨论、AI工具导航网站）"
-last_updated: "2026-03-19"
+confidence: High（基于官方网站、App Store / Google Play数据、知乎讨论、AI工具导航网站）
+last_updated: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话定位

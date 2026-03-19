@@ -2,9 +2,9 @@
 type: product
 name: Higgsfield
 name_cn: 希格斯场
-url: 'https://higgsfield.ai'
+url: https://higgsfield.ai
 founded: 2024
-headquarters: 'San Francisco, US'
+headquarters: San Francisco, US
 founders:
   - Alex Mashrabov (前Snap生成AI主管)
   - James Holden (前Snap工程师)
@@ -19,7 +19,7 @@ valuation: $1.3B
 employees: 80+
 category: AI Video Generation
 subcategory: Cinematic Video Synthesis
-target_user: 'Video creators, TikTok influencers, agencies'
+target_user: Video creators, TikTok influencers, agencies
 pricing_model:
   - freemium
   - subscription
@@ -51,7 +51,12 @@ competitors:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "Higgsfield"
+title: Higgsfield
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/A轮
+  - 地区/美国
 ---
 # Higgsfield
 

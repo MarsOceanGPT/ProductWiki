@@ -2,9 +2,9 @@
 type: product
 name: Google Labs
 name_cn: Google实验室
-url: 'https://labs.google'
+url: https://labs.google
 founded: 2018
-headquarters: 'Mountain View, California'
+headquarters: Mountain View, California
 founders:
   - Google
 stage: Growth
@@ -50,7 +50,9 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "Google Labs"
+title: Google Labs
+tags:
+  - 阶段/D轮+
 ---
 # Google Labs
 

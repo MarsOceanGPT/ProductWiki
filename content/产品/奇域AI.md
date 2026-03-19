@@ -1,16 +1,18 @@
 ---
-title: "奇域AI"
-subtitle: "反Midjourney的东方美学AI绘画：小红书造的中式审美国防线"
-product_type: "AI 图像生成 / 创意工具平台"
-company: "小红书(Red)"
-founded: "2024年上半年"
-founders: "小红书AI中台团队(产品主导)"
-hq: "中国，北京"
-stage: "Product-Market Fit / 增长期"
-funding: "母公司融资(非独立融资)"
-key_metrics: "100+ 风格模型 | 支持70+细分画风 | 免费额度100次 | 小红书内嵌 | 微信小程序版"
-url: "https://www.qiyuai.net"
-date_published: "2026-03-19"
+title: 奇域AI
+subtitle: 反Midjourney的东方美学AI绘画：小红书造的中式审美国防线
+product_type: AI 图像生成 / 创意工具平台
+company: 小红书(Red)
+founded: 2024年上半年
+founders: 小红书AI中台团队(产品主导)
+hq: 中国，北京
+stage: Product-Market Fit / 增长期
+funding: 母公司融资(非独立融资)
+key_metrics: 100+ 风格模型 | 支持70+细分画风 | 免费额度100次 | 小红书内嵌 | 微信小程序版
+url: https://www.qiyuai.net
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

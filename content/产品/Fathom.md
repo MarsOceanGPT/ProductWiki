@@ -1,18 +1,20 @@
 ---
-title: "Fathom"
-subtitle: "AI会议记录+CRM同步，用\"无感记录\"消灭销售的\"复盘文档黑洞\""
-product_type: "Sales AI / Meeting Intelligence Platform"
-company: "Fathom Inc."
-founded: "2017年"
-founders: "Ryan Smith (CEO & Co-founder) | Kyle Krouse (Co-founder)"
-hq: "San Francisco, CA"
-stage: "Series A（融资中/后期）"
-funding: "总融资 $20-30M（Series A及之前轮）"
-key_metrics: "20K+ 月活用户 | 500+ 企业团队客户 | Salesforce/Hubspot/Pipedrive集成 | 支持语言：28+ | 日处理会议量：2000+ | 免费层转付费率：12-15%"
-url: "https://www.fathom.video"
-date_published: "2026-03-19"
-confidence: "High（基于官网产品、用户反馈、公开融资信息、集成能力验证）"
-last_updated: "2026-03-19"
+title: Fathom
+subtitle: AI会议记录+CRM同步，用"无感记录"消灭销售的"复盘文档黑洞"
+product_type: Sales AI / Meeting Intelligence Platform
+company: Fathom Inc.
+founded: 2017年
+founders: Ryan Smith (CEO & Co-founder) | Kyle Krouse (Co-founder)
+hq: San Francisco, CA
+stage: Series A（融资中/后期）
+funding: 总融资 $20-30M（Series A及之前轮）
+key_metrics: 20K+ 月活用户 | 500+ 企业团队客户 | Salesforce/Hubspot/Pipedrive集成 | 支持语言：28+ | 日处理会议量：2000+ | 免费层转付费率：12-15%
+url: https://www.fathom.video
+date_published: '2026-03-19'
+confidence: High（基于官网产品、用户反馈、公开融资信息、集成能力验证）
+last_updated: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话定位

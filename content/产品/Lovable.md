@@ -9,7 +9,7 @@ founders:
   - Fabian Hedin (CTO)
 stage: Series B
 status: active
-metrics_date: 2026-03-15
+metrics_date: 2026-03-15T00:00:00.000Z
 arr: 400000000
 users: 15000000
 funding_total: 653000000
@@ -19,10 +19,10 @@ category: AI应用开发
 subcategory: No-code/Low-code, Full-stack App Builder, Vibe Coding
 target_user: AI创业者、非技术创始人、独立开发者、中小型企业技术负责人
 pricing_model: Freemium + 订阅制 + 企业自定义
-last_updated: 2026-03-15
+last_updated: 2026-03-15T00:00:00.000Z
 confidence: 9/10
 mars_reviewed: false
-title: "Lovable"
+title: Lovable
 design_playbooks:
   - Lovability as moat
   - 品牌温暖度
@@ -56,7 +56,7 @@ key_people:
     background: 物理学家(CERN) -> Sana Labs founding engineer -> Depict.ai co-founder & CTO
   - name: Fabian Hedin
     title: Co-founder & CTO
-    background: 'KTH毕业生, Depict Frontend Lead, 11岁时在Minecraft赚数千美元'
+    background: KTH毕业生, Depict Frontend Lead, 11岁时在Minecraft赚数千美元
 competitors:
   - Bolt.new
   - Vercel v0
@@ -64,9 +64,9 @@ competitors:
   - Cursor
   - Magic.dev
 related_products:
-  - >-
-    [[产品/Claude|Claude]], [[产品/Cursor|Cursor]], [[Bolt]],
-    [[V0]], [[产品/Replit|Replit]]
+  - '[[产品/Claude|Claude]], [[产品/Cursor|Cursor]], [[Bolt]], [[V0]], [[产品/Replit|Replit]]'
+tags:
+  - 阶段/B轮
 ---
 # Lovable - AI 软件构建平台
 

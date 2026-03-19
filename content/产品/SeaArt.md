@@ -2,7 +2,7 @@
 type: product
 name: SeaArt
 name_cn: 海艺 AI
-url: 'https://www.seaart.ai'
+url: https://www.seaart.ai
 founded: 2022
 headquarters: Singapore (运营) / Chengdu (成都，创始团队)
 founders:
@@ -20,7 +20,7 @@ valuation: 未公开
 employees: N/A
 category: AI Image Generation & Video Creation
 subcategory: Creator Economy Platform
-target_user: 'Game artists, illustrators, concept artists, indie creators, content creators'
+target_user: Game artists, illustrators, concept artists, indie creators, content creators
 pricing_model:
   - freemium
   - subscription (Pro/Creator tiers)
@@ -69,7 +69,12 @@ competitors:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "SeaArt"
+title: SeaArt
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 行业/图像设计
+  - 阶段/A轮
 ---
 # SeaArt：创意工作者的经济共同体
 

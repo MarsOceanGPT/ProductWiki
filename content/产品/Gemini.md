@@ -1,16 +1,18 @@
 ---
-title: "Gemini"
-subtitle: "Google DeepMind 的生态粘合剂，不是第二个ChatGPT"
-product_type: "AI Agent / LLM Platform"
-company: "Google DeepMind (Alphabet Inc.)"
-founded: "2023年3月(Bard) → 2023年12月(Gemini 1.0)"
-founders: "Demis Hassabis (CEO DeepMind), Jeff Dean (Chief Scientist), Sundar Pichai (CEO Alphabet)"
-hq: "Mountain View, CA"
-stage: "Public / Scale"
-funding: "不融资(Alphabet资本)"
-key_metrics: "750M MAU (Q4 2025) | 21.5% 市占率 | $63B搜索收入贡献"
-url: "https://gemini.google.com"
-date_published: "2026-03-17"
+title: Gemini
+subtitle: Google DeepMind 的生态粘合剂，不是第二个ChatGPT
+product_type: AI Agent / LLM Platform
+company: Google DeepMind (Alphabet Inc.)
+founded: 2023年3月(Bard) → 2023年12月(Gemini 1.0)
+founders: Demis Hassabis (CEO DeepMind), Jeff Dean (Chief Scientist), Sundar Pichai (CEO Alphabet)
+hq: Mountain View, CA
+stage: Public / Scale
+funding: 不融资(Alphabet资本)
+key_metrics: 750M MAU (Q4 2025) | 21.5% 市占率 | $63B搜索收入贡献
+url: https://gemini.google.com
+date_published: '2026-03-17'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

@@ -1,16 +1,18 @@
 ---
-title: "KreadoAI"
-subtitle: "AI 数字人视频营销平台，300+ 形象库 + 多语言支持，瞄准东南亚市场的「TikTok 时代的真人代言人工厂」"
-product_type: "AI Video Generation / Digital Human Marketing"
-company: "Kreado AI (新加坡)"
-founded: "2022年"
-founders: "Ren Yin (任鑫) 等"
-hq: "Singapore / China"
-stage: "Growth / Pre-Series A"
-funding: "未公开融资（预计 A 轮启动中）"
-key_metrics: "300+ 数字人形象 | 12+ 语言支持 | 50+ 行业应用 | 日视频生成 5000+ | 东南亚 30+ 国家覆盖"
-url: "https://www.kreado.ai"
-date_published: "2026-03-19"
+title: KreadoAI
+subtitle: AI 数字人视频营销平台，300+ 形象库 + 多语言支持，瞄准东南亚市场的「TikTok 时代的真人代言人工厂」
+product_type: AI Video Generation / Digital Human Marketing
+company: Kreado AI (新加坡)
+founded: 2022年
+founders: Ren Yin (任鑫) 等
+hq: Singapore / China
+stage: Growth / Pre-Series A
+funding: 未公开融资（预计 A 轮启动中）
+key_metrics: 300+ 数字人形象 | 12+ 语言支持 | 50+ 行业应用 | 日视频生成 5000+ | 东南亚 30+ 国家覆盖
+url: https://www.kreado.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

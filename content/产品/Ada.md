@@ -1,16 +1,18 @@
 ---
-title: "Ada"
-subtitle: "交易自动化，而非对话机器人：83%自动化率的加拿大独角兽"
-product_type: "Enterprise AI Customer Service Agent"
-company: "Ada Support Inc."
-founded: "2016年7月（Toronto）"
-founders: "Mike Murchison (CEO), David Hariri (Co-founder, Head of R&D)"
-hq: "Toronto, Canada"
-stage: "Series C / Unicorn (已融资)"
-funding: "$130M Series C (2024年3月) + $60M前期 = $190M+累计"
-key_metrics: "83% 自动化率 | 4.2B 已处理对话 | $70.6M ARR (2024) | 350+ 企业客户 | 50+ 频道整合"
-url: "https://www.ada.cx"
-date_published: "2026-03-19"
+title: Ada
+subtitle: 交易自动化，而非对话机器人：83%自动化率的加拿大独角兽
+product_type: Enterprise AI Customer Service Agent
+company: Ada Support Inc.
+founded: 2016年7月（Toronto）
+founders: Mike Murchison (CEO), David Hariri (Co-founder, Head of R&D)
+hq: Toronto, Canada
+stage: Series C / Unicorn (已融资)
+funding: $130M Series C (2024年3月) + $60M前期 = $190M+累计
+key_metrics: 83% 自动化率 | 4.2B 已处理对话 | $70.6M ARR (2024) | 350+ 企业客户 | 50+ 频道整合
+url: https://www.ada.cx
+date_published: '2026-03-19'
+tags:
+  - 阶段/C轮
 ---
 
 ## 一句话

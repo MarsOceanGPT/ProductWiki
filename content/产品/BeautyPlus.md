@@ -2,7 +2,7 @@
 type: product
 name: BeautyPlus
 name_cn: 美颜Plus
-url: 'https://beautyplus.com'
+url: https://beautyplus.com
 founded: 2013
 headquarters: Xiamen & San Francisco
 founders:
@@ -12,13 +12,13 @@ stage: Mature/Global
 status: Active
 metrics_date: 2024-12
 arr: $80M-100M (估)
-users: '120M+ downloads, 20M+ MAU'
+users: 120M+ downloads, 20M+ MAU
 funding_total: 集团内部
 valuation: 美图上市公司子产品
 employees: 30-50
 category: Beauty Camera
 subcategory: AI Photo Beautification
-target_user: 'Female users 18-35, Asia-focused'
+target_user: Female users 18-35, Asia-focused
 pricing_model:
   - freemium
   - subscription
@@ -56,7 +56,9 @@ competitors:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "BeautyPlus"
+title: BeautyPlus
+tags:
+  - 阶段/A轮
 ---
 # BeautyPlus
 

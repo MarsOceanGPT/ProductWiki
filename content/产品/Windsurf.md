@@ -1,5 +1,5 @@
 ---
-title: "Windsurf"
+title: Windsurf
 subtitle: AI-Native IDE with Agentic Cascade Engine
 category: 开发者工具 / AI IDE
 status: 活跃
@@ -7,8 +7,11 @@ founded: 2021-06
 founders: Varun Mohan, Douglas Chen
 hq: 美国
 stage: 成熟 (Acquired by Cognition, July 2025)
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 version: v4.0
+tags:
+  - 行业/开发工具
+  - 阶段/A轮
 ---
 
 ## 一句话定位

@@ -1,16 +1,18 @@
 ---
-title: "Beelinguapp"
-subtitle: "平行文本+卡拉OK式学习：柏林创业者的「读书就是学语言」范式"
-product_type: "Bilingual Language Learning App"
-company: "Beelinguapp GmbH"
-founded: "2016年9月（Berlin）"
-founders: "David Montiel"
-hq: "Berlin, Germany"
-stage: "B轮融资（2024年）"
-funding: "$1.1M融资（2021年后）| 自营状态"
-key_metrics: "400万下载 | 188个国家 | 14语言对 | 23种学习语言 | 1000+双语文本 | 4.8★评分"
-url: "https://beelinguapp.com"
-date_published: "2026-03-19"
+title: Beelinguapp
+subtitle: 平行文本+卡拉OK式学习：柏林创业者的「读书就是学语言」范式
+product_type: Bilingual Language Learning App
+company: Beelinguapp GmbH
+founded: 2016年9月（Berlin）
+founders: David Montiel
+hq: Berlin, Germany
+stage: B轮融资（2024年）
+funding: $1.1M融资（2021年后）| 自营状态
+key_metrics: 400万下载 | 188个国家 | 14语言对 | 23种学习语言 | 1000+双语文本 | 4.8★评分
+url: https://beelinguapp.com
+date_published: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话

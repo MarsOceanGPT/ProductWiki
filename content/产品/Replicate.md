@@ -1,57 +1,65 @@
 ---
 type: product
-name: "Replicate"
-name_cn: "Replicate"
-url: "https://replicate.com"
+name: Replicate
+name_cn: Replicate
+url: https://replicate.com
 founded: 2022
-headquarters: "San Francisco, US"
-founders: ["Ben Firshman", "Andreas Jansson"]
-stage: "Series B"
-status: "Active"
+headquarters: San Francisco, US
+founders:
+  - Ben Firshman
+  - Andreas Jansson
+stage: Series B
+status: Active
 metrics_date: 2026-03
-arr: "$50M+ (estimated, private company)"
-users: "50,000+ developers"
-funding_total: "$40M (Series B, 2024)"
-valuation: "$500M+ (Series B estimated)"
-employees: "50-80 (estimated)"
-category: "Generative AI Infrastructure"
-subcategory: "API & Model Deployment"
-target_user: "AI/ML Developers, Startups, Product Engineers, AI Researchers"
-pricing_model: ["API", "Pay-as-you-go"]
+arr: $50M+ (estimated, private company)
+users: 50,000+ developers
+funding_total: $40M (Series B, 2024)
+valuation: $500M+ (Series B estimated)
+employees: 50-80 (estimated)
+category: Generative AI Infrastructure
+subcategory: API & Model Deployment
+target_user: AI/ML Developers, Startups, Product Engineers, AI Researchers
+pricing_model:
+  - API
+  - Pay-as-you-go
 opportunity_playbooks:
-  - "[[AI模型商业化]]"
-  - "[[开发者基础设施]]"
-  - "[[AI民主化]]"
+  - '[[AI模型商业化]]'
+  - '[[开发者基础设施]]'
+  - '[[AI民主化]]'
 design_playbooks:
-  - "[[极简API设计]]"
-  - "[[即插即用]]"
-  - "[[模型中立]]"
+  - '[[极简API设计]]'
+  - '[[即插即用]]'
+  - '[[模型中立]]'
 mvp_playbooks:
-  - "[[代码先行]]"
-  - "[[开发者至上]]"
+  - '[[代码先行]]'
+  - '[[开发者至上]]'
 pmf_playbooks:
-  - "[[开发者网络]]"
-  - "[[生态整合]]"
+  - '[[开发者网络]]'
+  - '[[生态整合]]'
 growth_playbooks:
-  - "[[社区驱动]]"
-  - "[[Hacker News效应]]"
+  - '[[社区驱动]]'
+  - '[[Hacker News效应]]'
 monetization_playbooks:
-  - "[[按量付费]]"
-  - "[[梯度定价]]"
+  - '[[按量付费]]'
+  - '[[梯度定价]]'
 moat_playbooks:
-  - "[[用户数据]]"
-  - "[[模型兼容性]]"
-  - "[[网络效应]]"
-distance_to_money: "近"
-industry_layer: "应用层 & 基础设施层"
-pricing_quadrant: "低定价-高归因"
+  - '[[用户数据]]'
+  - '[[模型兼容性]]'
+  - '[[网络效应]]'
+distance_to_money: 近
+industry_layer: 应用层 & 基础设施层
+pricing_quadrant: 低定价-高归因
 competitors:
-  - "[[Hugging Face Inference]]"
-  - "[[Together AI]]"
-  - "[[Modal]]"
-last_updated: 2026-03-19
-confidence: "High"
+  - '[[Hugging Face Inference]]'
+  - '[[Together AI]]'
+  - '[[Modal]]'
+last_updated: 2026-03-19T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+tags:
+  - 行业/基础设施
+  - 阶段/B轮
+  - 地区/美国
 ---
 
 # Replicate

@@ -1,16 +1,18 @@
 ---
-title: "Everfit"
-subtitle: "AI 匹配的健身教练两边市场，从「人找人」升级到「AI选人」的反向 C2B 模式"
-product_type: "Fitness Coaching Marketplace / AI Matching Platform"
-company: "Everfit Inc"
-founded: "2015年"
-founders: "创始人信息待补充"
-hq: "美国（具体地点待确认）"
-stage: "Growth / Series A 或 B"
-funding: "融资信息待补充"
-key_metrics: "待补充（需要：MAU、交易额、教练数、完成率等）"
-url: "https://everfit.io"
-date_published: "2026-03-19"
+title: Everfit
+subtitle: AI 匹配的健身教练两边市场，从「人找人」升级到「AI选人」的反向 C2B 模式
+product_type: Fitness Coaching Marketplace / AI Matching Platform
+company: Everfit Inc
+founded: 2015年
+founders: 创始人信息待补充
+hq: 美国（具体地点待确认）
+stage: Growth / Series A 或 B
+funding: 融资信息待补充
+key_metrics: 待补充（需要：MAU、交易额、教练数、完成率等）
+url: https://everfit.io
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

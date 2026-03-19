@@ -28,7 +28,7 @@ category: 设计创意 / AIGC
 subcategory: 在线设计平台 / AI 设计工具 / SaaS
 target_user: 自媒体运营者、小企业、电商卖家、设计师、营销团队、学生、创业者
 pricing_model: 免费 + VIP 订阅 + 企业版
-pricing_structure: "VIP ¥9.9-99/月、年费折扣、企业定制"
+pricing_structure: VIP ¥9.9-99/月、年费折扣、企业定制
 打法标签:
   - product_design
   - pmf
@@ -40,7 +40,7 @@ pricing_structure: "VIP ¥9.9-99/月、年费折扣、企业定制"
   - freemium_model
 distance_to_money: 距交易 2 层（用户→订阅/内购→变现）
 industry_layer: 应用层（AIGC + SaaS 设计工具）
-pricing_quadrant: "免费+高级订阅"
+pricing_quadrant: 免费+高级订阅
 key_people:
   - 团队创办（创始人信息未完全公开）
 key_features:
@@ -63,9 +63,11 @@ related_products:
   - 稿定设计模板库
   - 稿定开放平台（API / SDK）
   - 稿定AI实验室
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 中高
 mars_reviewed: false
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话定位

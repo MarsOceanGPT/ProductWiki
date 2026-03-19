@@ -2,16 +2,16 @@
 type: product
 name: CivitAI
 name_cn: CivitAI
-url: 'https://civitai.com'
+url: https://civitai.com
 founded: 2022
 headquarters: United States (distributed)
 founders:
   - Justin Maier
-stage: 'VC-backed, Series A'
+stage: VC-backed, Series A
 status: Active
 metrics_date: 2026-03
 arr: Not disclosed (likely $5M-10M)
-users: '500K+ registered, 100K+ monthly active'
+users: 500K+ registered, 100K+ monthly active
 monthly_visits: 100M+
 mau: 100K+
 funding_total: $45M+ (Series A)
@@ -21,8 +21,8 @@ funding_rounds:
 valuation: Estimated $100M-200M
 employees: 30-50
 category: AI Art/Model Community
-subcategory: 'Open Source Models, Creator Community, NSFW Content Hub'
-target_user: 'Digital artists, Stable Diffusion users, AI model enthusiasts, indie creators'
+subcategory: Open Source Models, Creator Community, NSFW Content Hub
+target_user: Digital artists, Stable Diffusion users, AI model enthusiasts, indie creators
 pricing_model:
   - Free with optional premium
   - Model monetization for creators
@@ -56,7 +56,7 @@ moat_playbooks:
   - Network effect of model ecosystem
   - Creator community lock-in
   - Permissive culture vs competition
-distance_to_money: 'Direct but weak (creator-centric, not platform-centric)'
+distance_to_money: Direct but weak (creator-centric, not platform-centric)
 industry_layer: Community/Marketplace Layer
 pricing_quadrant: Free with optional creator monetization
 key_people:
@@ -73,7 +73,9 @@ related_products:
 last_updated: '2026-03-14'
 confidence: Medium
 mars_reviewed: false
-title: "CivitAI"
+title: CivitAI
+tags:
+  - 阶段/A轮
 ---
 # CivitAI 产品卡片
 

@@ -2,7 +2,7 @@
 type: product
 name: Baidu AI Search
 name_cn: 百度AI搜索/文心一言
-url: 'https://yiyan.baidu.com'
+url: https://yiyan.baidu.com
 founded: 2023
 headquarters: 北京
 founders:
@@ -51,7 +51,10 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "BaiduAISearch"
+title: BaiduAISearch
+tags:
+  - 行业/搜索知识
+  - 阶段/A轮
 ---
 # 百度AI搜索 / 文心一言
 

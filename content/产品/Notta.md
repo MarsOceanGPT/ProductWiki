@@ -1,16 +1,18 @@
 ---
-title: "Notta"
-subtitle: "中国创业者的日本逆袭：从会议转录到硬件+SaaS的距钱最近的AI路径"
-product_type: "AI转录 / AI会议助手 / 硬件+SaaS平台"
-company: "Notta (总部东京，日本)"
-founded: "2020年"
-founders: "任刚（Ryan Zhang，摩拜创始人）"
-hq: "Tokyo, Japan"
-stage: "Series B (融资¥2.3亿 | $15M)"
-funding: "$31.8M (3轮融资) | Series B 2024年 | 补充融资$6.3M 2025年"
-key_metrics: "1500万+ 全球用户 | 4000家企业客户 | 75% 日本C端用户 | 1200万 ARR (2024年) | 日本日经225上市企业中68%用户 | 累计转录时间3000万+ 小时"
-url: "https://www.notta.ai"
-date_published: "2026-03-19"
+title: Notta
+subtitle: 中国创业者的日本逆袭：从会议转录到硬件+SaaS的距钱最近的AI路径
+product_type: AI转录 / AI会议助手 / 硬件+SaaS平台
+company: Notta (总部东京，日本)
+founded: 2020年
+founders: 任刚（Ryan Zhang，摩拜创始人）
+hq: Tokyo, Japan
+stage: Series B (融资¥2.3亿 | $15M)
+funding: $31.8M (3轮融资) | Series B 2024年 | 补充融资$6.3M 2025年
+key_metrics: 1500万+ 全球用户 | 4000家企业客户 | 75% 日本C端用户 | 1200万 ARR (2024年) | 日本日经225上市企业中68%用户 | 累计转录时间3000万+ 小时
+url: https://www.notta.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话

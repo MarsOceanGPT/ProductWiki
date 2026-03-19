@@ -1,16 +1,18 @@
 ---
-title: "Wispr Flow"
-subtitle: "MacOS 上的 AI 语音转文本工具，用 Command Mode 把声音变成「打磨过的文字」，正在颠覆传统键盘输入"
-product_type: "AI Voice-to-Text / Accessibility / Productivity"
-company: "Wispr AI"
-founded: "2022年(团队创立) / 2024年(正式商业化)"
-founders: "Tanay Kothari (Co-founder & CEO)、其他联合创始人来自 Stanford AI Lab"
-hq: "San Francisco, USA"
-stage: "Growth / Series A Extension"
-funding: "$81M 总融资（$30M Series A + $25M Series A Extension）| $700M 估值(post-money, 2025年11月)"
-key_metrics: "$10M ARR(2025年10月) | 100x YoY 用户增长 | 40% MoM 月增 | 80% 6个月留存 | 270+ Fortune 500 公司 | 97.2% 转录准确率 | 100+ 语言支持"
-url: "https://wisprflow.ai"
-date_published: "2026-03-19"
+title: Wispr Flow
+subtitle: MacOS 上的 AI 语音转文本工具，用 Command Mode 把声音变成「打磨过的文字」，正在颠覆传统键盘输入
+product_type: AI Voice-to-Text / Accessibility / Productivity
+company: Wispr AI
+founded: 2022年(团队创立) / 2024年(正式商业化)
+founders: Tanay Kothari (Co-founder & CEO)、其他联合创始人来自 Stanford AI Lab
+hq: San Francisco, USA
+stage: Growth / Series A Extension
+funding: $81M 总融资（$30M Series A + $25M Series A Extension）| $700M 估值(post-money, 2025年11月)
+key_metrics: $10M ARR(2025年10月) | 100x YoY 用户增长 | 40% MoM 月增 | 80% 6个月留存 | 270+ Fortune 500 公司 | 97.2% 转录准确率 | 100+ 语言支持
+url: https://wisprflow.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

@@ -2,7 +2,7 @@
 type: product
 name: Replit
 url: https://replit.com
-founded: 2016-04-01
+founded: 2016-04-01T00:00:00.000Z
 headquarters: San Francisco, CA, USA
 founders:
   - Amjad Masad (CEO)
@@ -10,7 +10,7 @@ founders:
   - Haya Odeh
 stage: Growth → Scale-up
 status: private
-metrics_date: 2026-03-11
+metrics_date: 2026-03-11T00:00:00.000Z
 arr: 240000000
 users: 40000000
 mau: null
@@ -34,7 +34,7 @@ pricing_model: Freemium + Subscription (Pro/Teams) + Enterprise
 opportunity: 民主化编程 → AI编程民主化
 design: 浏览器IDE + Agent对话
 mvp: Online Code Editor (Repl.it)
-pmf: "云端协作IDE + Agent全栈开发"
+pmf: 云端协作IDE + Agent全栈开发
 growth: 病毒式教育生态 + Agent自动化驱动 + 平台聚集效应
 monetization: 订阅付费 + Enterprise定制 + 可能的Agent API
 moat_playbooks:
@@ -59,10 +59,14 @@ related_products:
   - Replit Ghostwriter (前身)
   - Replit Deploy (云部署)
   - Teams/Multiplayer (协作编码)
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.88
 mars_reviewed: false
-title: "Replit"
+title: Replit
+tags:
+  - 行业/开发工具
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 ## 一句话定位

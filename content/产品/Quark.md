@@ -2,7 +2,7 @@
 type: product
 name: Quark
 name_cn: 夸克
-url: 'https://quark.cn'
+url: https://quark.cn
 founded: 2010
 headquarters: 杭州
 founders:
@@ -45,7 +45,10 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "Quark"
+title: Quark
+tags:
+  - 行业/搜索知识
+  - 阶段/A轮
 ---
 # 夸克 Quark
 

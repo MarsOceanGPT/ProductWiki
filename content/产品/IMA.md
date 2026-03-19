@@ -3,12 +3,12 @@ type: product
 name: Pippit AI / IMA Creator
 name_cn: Pippit AI / IMA创想
 url: https://www.pippit.ai
-founded: 2024-01-01
+founded: 2024-01-01T00:00:00.000Z
 headquarters: 北京
 founders: 字节跳动 (ByteDance CapCut / Jianying Team)
 stage: Growth
 status: active
-metrics_date: 2026-03-17
+metrics_date: 2026-03-17T00:00:00.000Z
 arr: 信息不足，待补充
 users: 超1000万
 monthly_visits: 信息不足，待补充
@@ -72,9 +72,13 @@ related_products:
   - 飞书AI (企业协作)
   - 剪映 (CapCut，视频编辑)
   - Dify (开源Agent平台)
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 中
 mars_reviewed: false
+tags:
+  - 行业/销售营销
+  - 行业/视频生成
+  - 阶段/D轮+
 ---
 
 ## 一句话定位

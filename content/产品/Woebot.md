@@ -2,14 +2,14 @@
 type: product
 name: Woebot Health
 url: https://woebothealth.com
-founded: 2017-02-01
+founded: 2017-02-01T00:00:00.000Z
 headquarters: San Francisco, CA, USA
 founders:
   - Alison Darcy (CEO, Stanford心理学家)
   - James Fitzpatrick (Co-founder, CTO)
 stage: Pre-exit / Enterprise Transition
 status: private (2025年6月宣布关闭消费者应用，转向企业模式)
-metrics_date: 2026-02-28
+metrics_date: 2026-02-28T00:00:00.000Z
 arr: 80000000
 users: 0
 monthly_visits: null
@@ -55,10 +55,14 @@ related_products:
   - WB001 (产后抑郁症专用)
   - Woebot Care for Teams
   - EAP心理援助项目集成
-last_updated: 2026-03-19
+last_updated: 2026-03-19T00:00:00.000Z
 confidence: 0.92
 mars_reviewed: false
-title: "Woebot Health"
+title: Woebot Health
+tags:
+  - 行业/医疗AI
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 ## 一句话定位

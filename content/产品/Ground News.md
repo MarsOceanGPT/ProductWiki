@@ -2,13 +2,13 @@
 type: product
 name: Ground News
 url: https://groundnews.com
-founded: 2021-01-15
+founded: 2021-01-15T00:00:00.000Z
 headquarters: Toronto, Ontario, Canada
 founders:
   - Tom Mrazauskas (CEO & Founder)
 stage: Growth
 status: private
-metrics_date: 2026-03-15
+metrics_date: 2026-03-15T00:00:00.000Z
 users: 850000
 monthly_visits: 2100000
 mau: 320000
@@ -52,10 +52,12 @@ competitors:
 related_products:
   - Ground News for Teams
   - Ground News API（企业）
-last_updated: 2026-03-19
+last_updated: 2026-03-19T00:00:00.000Z
 confidence: 0.85
 mars_reviewed: false
-title: "Ground News"
+title: Ground News
+tags:
+  - 阶段/D轮+
 ---
 
 ## 一句话定位

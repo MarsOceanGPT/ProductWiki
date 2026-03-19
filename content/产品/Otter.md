@@ -1,20 +1,22 @@
 ---
-title: "Otter.ai"
-subtitle: "实时会议转录与AI智能笔记，会议记录领域的先发者，从\"语音→文本\"升级到\"对话→决策支持\""
-product_type: "Real-time Meeting Transcription / AI Meeting Assistant / Productivity SaaS"
-company: "Otter.ai Inc."
-founded: "2016年（创立为AISense），2018年正式推出Otter.ai"
-founders: "Sam Liang (CEO) | Yun Fu (联合创始人)"
-hq: "San Francisco, CA / Mountain View, CA"
-stage: "Series B+ (融资阶段后期，未IPO)"
-funding: "总融资 $73M+（Series B $50M @ 2021年2月 + 历次融资）"
-key_metrics: "用户规模：100万+（累计，含免费用户）| 企业客户：数千家（包括Fortune 500）| 日均处理会议数：100万+（推测，基于市场规模）| 支持会议平台：Zoom / Microsoft Teams / Google Meet等主流会议工具 | 实时转录准确率：85%+ | 支持语言：28+（含医学、法律、技术术语库）| OtterPilot采用率：50%+（Pro及Business用户） | 估值：$10亿+（融资后推测，2021年）"
-url: "https://otter.ai"
-api_url: "https://otter.ai/integrations"
-date_published: "2026-03-19"
+title: Otter.ai
+subtitle: 实时会议转录与AI智能笔记，会议记录领域的先发者，从"语音→文本"升级到"对话→决策支持"
+product_type: Real-time Meeting Transcription / AI Meeting Assistant / Productivity SaaS
+company: Otter.ai Inc.
+founded: 2016年（创立为AISense），2018年正式推出Otter.ai
+founders: Sam Liang (CEO) | Yun Fu (联合创始人)
+hq: San Francisco, CA / Mountain View, CA
+stage: Series B+ (融资阶段后期，未IPO)
+funding: 总融资 $73M+（Series B $50M @ 2021年2月 + 历次融资）
+key_metrics: 用户规模：100万+（累计，含免费用户）| 企业客户：数千家（包括Fortune 500）| 日均处理会议数：100万+（推测，基于市场规模）| 支持会议平台：Zoom / Microsoft Teams / Google Meet等主流会议工具 | 实时转录准确率：85%+ | 支持语言：28+（含医学、法律、技术术语库）| OtterPilot采用率：50%+（Pro及Business用户） | 估值：$10亿+（融资后推测，2021年）
+url: https://otter.ai
+api_url: https://otter.ai/integrations
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于官方网站、Series B融资公告、SaaStr案例、多家媒体评测）"
-last_updated: "2026-03-19"
+confidence: High（基于官方网站、Series B融资公告、SaaStr案例、多家媒体评测）
+last_updated: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话定位

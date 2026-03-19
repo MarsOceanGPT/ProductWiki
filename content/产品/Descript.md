@@ -1,20 +1,22 @@
 ---
-title: "Descript"
-subtitle: "将视频/播客编辑转化为文本编辑，用AI代理Underlord重新定义媒体创作范式，Series C融资后的文本驱动视听生产力平台"
-product_type: "AI Video/Audio Editor / Text-Based Media Production"
-company: "Descript Inc."
-founded: "2014年（成立），源自语音识别与音频处理研究"
-founders: "Andrew Mason (CEO & Co-founder) | Adam Boulanger (Chief Scientist)"
-hq: "San Francisco, CA"
-stage: "Series C（2022年11月）"
-funding: "总融资 $100M（Series C $50M @ 2022年11月，OpenAI Startup Fund领投 + a16z / Redpoint Ventures / Spark Capital / Daniel Gross参投）"
-key_metrics: "支持语言：25+（自动转录） | 转录准确率：95%+ | AI功能：30+ | 生成视频、音频编辑、配音、字幕、多机位自动切换、Studio Sound（NPR级音质）、Overlord AI代理编辑 | 定价模式：订阅制 + 使用量计费（AI积分）| 用户群体：独立创作者、播客团队、营销部门、L&D、客户成功团队 | 知名客户：NPR、VICE、The Washington Post、The New York Times、Shopify、HubSpot、Masterclass"
-url: "https://www.descript.com"
-api_url: "https://www.descript.com/api"
-date_published: "2026-03-19"
+title: Descript
+subtitle: 将视频/播客编辑转化为文本编辑，用AI代理Underlord重新定义媒体创作范式，Series C融资后的文本驱动视听生产力平台
+product_type: AI Video/Audio Editor / Text-Based Media Production
+company: Descript Inc.
+founded: 2014年（成立），源自语音识别与音频处理研究
+founders: Andrew Mason (CEO & Co-founder) | Adam Boulanger (Chief Scientist)
+hq: San Francisco, CA
+stage: Series C（2022年11月）
+funding: 总融资 $100M（Series C $50M @ 2022年11月，OpenAI Startup Fund领投 + a16z / Redpoint Ventures / Spark Capital / Daniel Gross参投）
+key_metrics: 支持语言：25+（自动转录） | 转录准确率：95%+ | AI功能：30+ | 生成视频、音频编辑、配音、字幕、多机位自动切换、Studio Sound（NPR级音质）、Overlord AI代理编辑 | 定价模式：订阅制 + 使用量计费（AI积分）| 用户群体：独立创作者、播客团队、营销部门、L&D、客户成功团队 | 知名客户：NPR、VICE、The Washington Post、The New York Times、Shopify、HubSpot、Masterclass
+url: https://www.descript.com
+api_url: https://www.descript.com/api
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于官方产品文档、Series C融资公告、Underlord功能发布、用户案例）"
-last_updated: "2026-03-19"
+confidence: High（基于官方产品文档、Series C融资公告、Underlord功能发布、用户案例）
+last_updated: '2026-03-19'
+tags:
+  - 阶段/C轮
 ---
 
 ## 一句话定位

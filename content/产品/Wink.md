@@ -2,7 +2,7 @@
 type: product
 name: Wink
 name_cn: Wink
-url: 'https://winkapp.com'
+url: https://winkapp.com
 founded: 2022
 headquarters: Xiamen & Singapore
 founders:
@@ -11,13 +11,13 @@ stage: Growth
 status: Active
 metrics_date: 2024-12
 arr: $30M-50M (估)
-users: '50M+ downloads, 3M+ MAU'
+users: 50M+ downloads, 3M+ MAU
 funding_total: 美图集团内部
 valuation: 美图子产品
 employees: 20-30
 category: Video Enhancement
 subcategory: AI Video Beauty & AR Effects
-target_user: 'Video creators, short video enthusiasts'
+target_user: Video creators, short video enthusiasts
 pricing_model:
   - freemium
   - subscription
@@ -52,7 +52,11 @@ competitors:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "Wink"
+title: Wink
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/D轮+
 ---
 # Wink
 

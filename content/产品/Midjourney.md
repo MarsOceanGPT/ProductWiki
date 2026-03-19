@@ -1,61 +1,67 @@
 ---
 type: product
-name: "Midjourney"
-name_cn: "中途"
-url: "https://midjourney.com"
+name: Midjourney
+name_cn: 中途
+url: https://midjourney.com
 founded: 2022
-headquarters: "San Francisco, US"
-founders: ["David Holz"]
-stage: "Scale"
-status: "Active"
+headquarters: San Francisco, US
+founders:
+  - David Holz
+stage: Scale
+status: Active
 metrics_date: 2026-01
-arr: "$500M+"
-users: "19.83M registered, 1.2-2.8M DAU"
-funding_total: "$0 (Bootstrapped)"
-valuation: "Unlisted (Assumed $10-15B private valuation)"
-employees: "107-163"
-category: "Generative AI"
-subcategory: "Image Generation"
-target_user: "Creators, Designers, Artists, AI Entrepreneurs"
-pricing_model: ["subscription"]
+arr: $500M+
+users: 19.83M registered, 1.2-2.8M DAU
+funding_total: $0 (Bootstrapped)
+valuation: Unlisted (Assumed $10-15B private valuation)
+employees: 107-163
+category: Generative AI
+subcategory: Image Generation
+target_user: Creators, Designers, Artists, AI Entrepreneurs
+pricing_model:
+  - subscription
 opportunity_playbooks:
-  - "[[零融资超增长]]"
-  - "[[社区数据壁垒]]"
-  - "[[平台化品牌]]"
+  - '[[零融资超增长]]'
+  - '[[社区数据壁垒]]'
+  - '[[平台化品牌]]'
 design_playbooks:
-  - "[[从Discord出发]]"
-  - "[[个性化学习]]"
-  - "[[多模态融合]]"
+  - '[[从Discord出发]]'
+  - '[[个性化学习]]'
+  - '[[多模态融合]]'
 mvp_playbooks:
-  - "[[最小化范围]]"
-  - "[[社区优先]]"
+  - '[[最小化范围]]'
+  - '[[社区优先]]'
 pmf_playbooks:
-  - "[[美学壁垒]]"
-  - "[[即时反馈]]"
+  - '[[美学壁垒]]'
+  - '[[即时反馈]]'
 growth_playbooks:
-  - "[[有机传播-产品即作品]]"
-  - "[[创意社区]]"
+  - '[[有机传播-产品即作品]]'
+  - '[[创意社区]]'
 monetization_playbooks:
-  - "[[纯订阅制]]"
-  - "[[分层定价]]"
+  - '[[纯订阅制]]'
+  - '[[分层定价]]'
 moat_playbooks:
-  - "[[品牌美学]]"
-  - "[[社区网络效应]]"
-  - "[[数据壁垒]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "中自主-高归因"
+  - '[[品牌美学]]'
+  - '[[社区网络效应]]'
+  - '[[数据壁垒]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 中自主-高归因
 key_people:
-  - "[[David Holz]]"
-  - "[[Janus]]"
+  - '[[David Holz]]'
+  - '[[Janus]]'
 competitors:
-  - "[[DALL-E 3]]"
-  - "[[Stable Diffusion]]"
-  - "[[Flux]]"
-  - "[[Adobe Firefly]]"
-last_updated: 2026-03-17
-confidence: "High"
+  - '[[DALL-E 3]]'
+  - '[[Stable Diffusion]]'
+  - '[[Flux]]'
+  - '[[Adobe Firefly]]'
+last_updated: 2026-03-17T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+tags:
+  - 行业/图像设计
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 # Midjourney

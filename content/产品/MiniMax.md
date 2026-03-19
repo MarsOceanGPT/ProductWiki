@@ -3,12 +3,12 @@ type: product
 name: MiniMax / Hailuo AI
 name_cn: MiniMax / 海螺AI
 url: https://www.minimaxi.com
-founded: 2021-12-01
+founded: 2021-12-01T00:00:00.000Z
 headquarters: 上海
 founders: 闫俊杰、杨彬、周昱聪
 stage: IPO (已上市)
 status: active
-metrics_date: 2026-02-28
+metrics_date: 2026-02-28T00:00:00.000Z
 arr: 150+ 百万美元
 users: 2.36亿（个人用户）；21.4万（企业用户及开发者）
 monthly_visits: 月均超10亿访问
@@ -73,10 +73,14 @@ related_products:
   - Jisou Dreamina
   - Luma Dream Machine
   - Replika（社交AI）
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 很高
 mars_reviewed: false
-title: "MiniMax"
+title: MiniMax
+tags:
+  - 行业/视频生成
+  - 行业/社交陪伴
+  - 阶段/上市
 ---
 
 ## 一句话定位

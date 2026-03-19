@@ -1,16 +1,18 @@
 ---
-title: "Gliglish"
-subtitle: "语音优先的AI语言学习，把对话变成唯一的学习路径"
-product_type: "Speech-First Language Learning / AI Tutor"
-company: "Gliglish Inc."
-founded: "2021年"
-founders: "Adrian Schönig (CEO, 联合创始人)"
-hq: "瑞士苏黎世"
-stage: "Growth / Series A+"
-funding: "$2-5M 估计"
-key_metrics: "10M+ 累计用户 | 50万+ 月活 | 180个国家覆盖 | 月续费率 ~70%"
-url: "https://www.gliglish.com"
-date_published: "2026-03-19"
+title: Gliglish
+subtitle: 语音优先的AI语言学习，把对话变成唯一的学习路径
+product_type: Speech-First Language Learning / AI Tutor
+company: Gliglish Inc.
+founded: 2021年
+founders: Adrian Schönig (CEO, 联合创始人)
+hq: 瑞士苏黎世
+stage: Growth / Series A+
+funding: $2-5M 估计
+key_metrics: 10M+ 累计用户 | 50万+ 月活 | 180个国家覆盖 | 月续费率 ~70%
+url: https://www.gliglish.com
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

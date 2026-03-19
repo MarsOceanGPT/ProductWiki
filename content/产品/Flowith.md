@@ -8,7 +8,7 @@ headquarters: 美国（加州）
 founders: Derek Nee (CEO), Yichen Wu
 stage: Growth / Series A
 status: Active
-metrics_date: 2026-03-17
+metrics_date: 2026-03-17T00:00:00.000Z
 arr: 待补充
 users: 100万+（2025年6月Product Hunt发布后）
 monthly_visits: 待补充
@@ -21,16 +21,23 @@ category: AI Workspace / Agentic OS
 subcategory: AI Canvas / Knowledge Management / Deep Work Automation
 target_user: 内容创作者、研究者、产品经理、设计师、团队协作（20-500人团队）
 pricing_model: 免费tier(300积分) + 订阅制(Pro $19.90/月 - Infinite $499.90/月)
-打法标签: [opportunity, design, growth, positioning]
+打法标签:
+  - opportunity
+  - design
+  - growth
+  - positioning
 distance_to_money: 中偏高（创意工作者高意愿支付，但平台学习成本影响转化）
 industry_layer: 应用层 / AI原生生产力基础设施
 pricing_quadrant: 免费积分 → 订阅制 → 企业定制
 key_people: Derek Nee (CEO), Yichen Wu (Co-founder, Design)
-competitors: "[[Notion]], [[Figma]], [[Miro]], [[ChatGPT]], [[Perplexity]], [[Claude]]"
-related_products: "[[Obsidian]], [[Cursor]], [[GitHub Copilot]], [[YouMind]]"
-last_updated: 2026-03-17
+competitors: '[[Notion]], [[Figma]], [[Miro]], [[ChatGPT]], [[Perplexity]], [[Claude]]'
+related_products: '[[Obsidian]], [[Cursor]], [[GitHub Copilot]], [[YouMind]]'
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.85
 mars_reviewed: false
+tags:
+  - 行业/搜索知识
+  - 阶段/A轮
 ---
 
 # Flowith AI：AI原生的二维思维空间与1000步自主推理

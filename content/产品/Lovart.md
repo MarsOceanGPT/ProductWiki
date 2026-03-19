@@ -31,7 +31,7 @@ pricing_model: 免费+订阅
   - creative_workflow
 distance_to_money: 距交易 2-3 层（创意→设计→商业应用）
 industry_layer: 应用层（AIGC 创意设计）
-pricing_quadrant: "免费+高级订阅"
+pricing_quadrant: 免费+高级订阅
 key_people:
   - 待补充
 competitors:
@@ -43,9 +43,11 @@ related_products:
   - Photoshop AI (竞品)
   - Figma AI (竞品)
   - Kling AI (视频生成集成)
-last_updated: 2026-03-16
+last_updated: 2026-03-16T00:00:00.000Z
 confidence: 中
 mars_reviewed: false
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

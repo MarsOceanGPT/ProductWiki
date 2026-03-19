@@ -2,9 +2,9 @@
 type: product
 name: Meituan (美团)
 name_cn: 中国美团平台
-url: 'https://meituan.com'
+url: https://meituan.com
 founded: 2010
-headquarters: 'Beijing, China'
+headquarters: Beijing, China
 founders:
   - Wang Xing (王兴)
 stage: Scale
@@ -52,7 +52,11 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "Meituan"
+title: Meituan
+tags:
+  - 行业/搜索知识
+  - 阶段/A轮
+  - 地区/中国
 ---
 # Meituan（中国美团平台）
 

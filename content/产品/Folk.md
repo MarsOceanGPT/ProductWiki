@@ -1,16 +1,18 @@
 ---
-title: "Folk"
-subtitle: "欧洲轻量级CRM，从eFounders孵化的Salesforce补充者"
-product_type: "AI CRM / Contact Management"
-company: "Folk SAS"
-founded: "2020年4月(eFounders内部孵化)"
-founders: "Simo Lemhandez (CEO) | Jean-Yves Poilleux | Thibaud Elziere"
-hq: "Paris, France"
-stage: "Growth / Series A"
-funding: "$33M Series A (2022年，由Bessemer Venture Partners领投) | 累计融资$40M+"
-key_metrics: "300K+ 用户 | 3K+ 客户 | $8.3M ARR (2024年) | 55人团队 | 5倍YoY增长"
-url: "https://www.folk.app"
-date_published: "2026-03-19"
+title: Folk
+subtitle: 欧洲轻量级CRM，从eFounders孵化的Salesforce补充者
+product_type: AI CRM / Contact Management
+company: Folk SAS
+founded: 2020年4月(eFounders内部孵化)
+founders: Simo Lemhandez (CEO) | Jean-Yves Poilleux | Thibaud Elziere
+hq: Paris, France
+stage: Growth / Series A
+funding: $33M Series A (2022年，由Bessemer Venture Partners领投) | 累计融资$40M+
+key_metrics: 300K+ 用户 | 3K+ 客户 | $8.3M ARR (2024年) | 55人团队 | 5倍YoY增长
+url: https://www.folk.app
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

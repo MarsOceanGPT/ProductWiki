@@ -17,10 +17,14 @@ category: Video Editing & Creation Tools
 subcategory: AI Video Editor / Content Creation Platform
 target_user: Creators / SMBs / E-commerce Sellers / Enterprises
 pricing_model: Freemium (Pro $9.99/月 or $89.99/年; Commerce Pro 另计)
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 8.5/10
 mars_reviewed: false
-title: "CapCut"
+title: CapCut
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/A轮
 ---
 
 ## 一句话定位

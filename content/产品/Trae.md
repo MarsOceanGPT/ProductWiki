@@ -1,15 +1,27 @@
 ---
-title: "Trae"
-slug: "trae"
-category: "AI IDE/代码编辑"
-stage: "Growth"
-founded: 2025-01-20
-hq: "杭州/北京"
-website: "https://www.trae.ai/"
-status: "Active"
-tags: ["AI编程助手", "IDE", "VS Code Fork", "免费工具", "字节跳动", "豆包", "Builder Mode", "SOLO模式", "AI创业", "开发者工具"]
-author: "Mars"
-lastUpdated: "2026-03-17"
+title: Trae
+slug: trae
+category: AI IDE/代码编辑
+stage: Growth
+founded: 2025-01-20T00:00:00.000Z
+hq: 杭州/北京
+website: https://www.trae.ai/
+status: Active
+tags:
+  - AI编程助手
+  - IDE
+  - VS Code Fork
+  - 免费工具
+  - 字节跳动
+  - 豆包
+  - Builder Mode
+  - SOLO模式
+  - AI创业
+  - 开发者工具
+  - 行业/开发工具
+  - 阶段/D轮+
+author: Mars
+lastUpdated: '2026-03-17'
 ---
 
 ## 一句话定位

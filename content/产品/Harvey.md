@@ -2,14 +2,14 @@
 type: product
 name: Harvey
 url: https://www.harvey.ai
-founded: 2022-06-01
+founded: 2022-06-01T00:00:00.000Z
 headquarters: San Francisco, CA
 founders:
   - Winston Weinberg
   - Gabriel Pereyra
 stage: Late Stage (Series E)
 status: Active & Scaling
-metrics_date: 2026-03-19
+metrics_date: 2026-03-19T00:00:00.000Z
 arr: 190000000
 users: 1000
 users_paying: 700
@@ -20,16 +20,16 @@ category: Vertical SaaS
 subcategory: Legal AI / Generative AI for Professionals
 target_user: Law firms, in-house legal teams, legal professionals
 pricing_model: Subscription-based + usage
-opportunity: "Vertical AI SaaS for legal: $200B+ legal services market, 60%+ tasks automatable by AI"
-design: "Domain-specific LLM fine-tuned on OpenAI foundation; custom legal models for case law, contracts, litigation"
-mvp: "GPT-3 chain-of-thought prompting on California tenant law (2022); case law Q&A system"
-pmf: "Enterprise legal PMF (2023-2024): law firms adopt for due diligence, doc review, contract analysis"
-growth: "3.9x ARR growth (2024-2025: $50M→$190M); 1,000 customers by 2026; partnership expansion with A&O, PwC"
-monetization: "SaaS subscription per seat/firm; tiered pricing based on usage; enterprise contracts"
-moat_playbooks: "Custom legal model fine-tuning; institutional law firm relationships (A&O, Macfarlanes); OpenAI partnership; domain-specific training data"
-distance_to_money: "Very close: direct payment from law firms for core legal workflow automation"
-industry_layer: "Vertical SaaS layer (professional services application layer)"
-pricing_quadrant: "Premium + usage-based (high value, high frequency)"
+opportunity: 'Vertical AI SaaS for legal: $200B+ legal services market, 60%+ tasks automatable by AI'
+design: Domain-specific LLM fine-tuned on OpenAI foundation; custom legal models for case law, contracts, litigation
+mvp: GPT-3 chain-of-thought prompting on California tenant law (2022); case law Q&A system
+pmf: 'Enterprise legal PMF (2023-2024): law firms adopt for due diligence, doc review, contract analysis'
+growth: '3.9x ARR growth (2024-2025: $50M→$190M); 1,000 customers by 2026; partnership expansion with A&O, PwC'
+monetization: SaaS subscription per seat/firm; tiered pricing based on usage; enterprise contracts
+moat_playbooks: Custom legal model fine-tuning; institutional law firm relationships (A&O, Macfarlanes); OpenAI partnership; domain-specific training data
+distance_to_money: 'Very close: direct payment from law firms for core legal workflow automation'
+industry_layer: Vertical SaaS layer (professional services application layer)
+pricing_quadrant: Premium + usage-based (high value, high frequency)
 key_people:
   - Winston Weinberg (CEO/Co-founder, securities lawyer at O'Melveny & Myers)
   - Gabriel Pereyra (Co-founder, research scientist at Google DeepMind/Meta)
@@ -44,10 +44,14 @@ related_products:
   - Dify (AI application platform)
   - FastGPT (custom LLM applications)
   - Perplexity (domain-specific search)
-last_updated: 2026-03-19
+last_updated: 2026-03-19T00:00:00.000Z
 confidence: High (sourced from official announcements, TechCrunch, Forbes, Fortune, Harvey blog)
 mars_reviewed: false
-title: "Harvey"
+title: Harvey
+tags:
+  - 行业/法律AI
+  - 阶段/A轮
+  - 地区/北美其他
 ---
 
 ## 一句话定位

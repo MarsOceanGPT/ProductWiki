@@ -1,16 +1,18 @@
 ---
-title: "n8n"
-subtitle: "欧洲开源的 AI 工作流自动化平台，用 Fair-Code 模式挑战 Zapier"
-product_type: "Workflow Automation / AI Agents Platform"
-company: "n8n GmbH"
-founded: "2019年6月(GitHub首版) / 2020年(正式公司)"
-founders: "Jan Oberhauser (CEO & Founder)"
-hq: "Berlin, Germany"
-stage: "Growth / Series C"
-funding: "€55M Series B (2025年3月) + $180M Series C (2025年10月) = $240M+ 总融资"
-key_metrics: "$40M ARR (2025年7月) | €250-300M(B轮) → $2.5B(C轮) 估值 | 3000+ 企业客户 | 400+ 集成 | 10k+ GitHub Star"
-url: "https://n8n.io"
-date_published: "2026-03-19"
+title: n8n
+subtitle: 欧洲开源的 AI 工作流自动化平台，用 Fair-Code 模式挑战 Zapier
+product_type: Workflow Automation / AI Agents Platform
+company: n8n GmbH
+founded: 2019年6月(GitHub首版) / 2020年(正式公司)
+founders: Jan Oberhauser (CEO & Founder)
+hq: Berlin, Germany
+stage: Growth / Series C
+funding: €55M Series B (2025年3月) + $180M Series C (2025年10月) = $240M+ 总融资
+key_metrics: $40M ARR (2025年7月) | €250-300M(B轮) → $2.5B(C轮) 估值 | 3000+ 企业客户 | 400+ 集成 | 10k+ GitHub Star
+url: https://n8n.io
+date_published: '2026-03-19'
+tags:
+  - 阶段/C轮
 ---
 
 ## 一句话

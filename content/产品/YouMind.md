@@ -65,13 +65,16 @@ competitors:
   - Descript
   - Readwise Reader
 related_products:
-  - "[[Notion]]"
-  - "[[Obsidian]]"
-  - "[[Readwise]]"
-last_updated: 2026-03-17
+  - '[[Notion]]'
+  - '[[Obsidian]]'
+  - '[[Readwise]]'
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.85
 mars_reviewed: false
-title: "YouMind"
+title: YouMind
+tags:
+  - 行业/搜索知识
+  - 阶段/D轮+
 ---
 
 # YouMind：玉伯的「万物化稿，稿生万物」

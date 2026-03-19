@@ -1,16 +1,18 @@
 ---
-title: "Copy.ai"
-subtitle: "从 AI 文案生成到完整 GTM 平台，Series B+ 融资的创意自动化独角兽"
-product_type: "AI-Powered Marketing Automation / GTM Platform"
-company: "Copy.ai Inc."
-founded: "2022年11月"
-founders: "Paul Yacoubian (CEO), Jack Rearden (CTO)"
-hq: "San Francisco, USA"
-stage: "Series B+ / Growth"
-funding: "$11M Series A (2023年10月) + $40M Series B (2024年4月) = $51M+ 总融资"
-key_metrics: "$15M+ ARR (2024年底) | $500M+ 估值 | 500k+ 活跃用户 | 90+ 集成 | 日均 100M+ 生成内容任务"
-url: "https://www.copy.ai"
-date_published: "2026-03-19"
+title: Copy.ai
+subtitle: 从 AI 文案生成到完整 GTM 平台，Series B+ 融资的创意自动化独角兽
+product_type: AI-Powered Marketing Automation / GTM Platform
+company: Copy.ai Inc.
+founded: 2022年11月
+founders: Paul Yacoubian (CEO), Jack Rearden (CTO)
+hq: San Francisco, USA
+stage: Series B+ / Growth
+funding: $11M Series A (2023年10月) + $40M Series B (2024年4月) = $51M+ 总融资
+key_metrics: $15M+ ARR (2024年底) | $500M+ 估值 | 500k+ 活跃用户 | 90+ 集成 | 日均 100M+ 生成内容任务
+url: https://www.copy.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话

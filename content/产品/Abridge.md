@@ -1,20 +1,22 @@
 ---
-title: "Abridge"
-subtitle: "用环境监听AI将患者-医生对话转化为标准化临床笔记，重新定义美国医疗中的文档自动化"
-product_type: "AI Clinical Documentation / Healthcare Automation"
-company: "Abridge Inc."
-founded: "2018年（成立），源自匹兹堡健康数据联盟（University of Pittsburgh + UPMC + Carnegie Mellon）"
-founders: "Shivdev Rao (CEO) | Florian Metze (CSO) | Sandeep Konam (CTO) | Zachary Lipton"
-hq: "Pittsburgh, PA"
-stage: "Series E（融资中）"
-funding: "总融资 $550M+（Series D $250M @ 2025年2月 + Series E $300M @ 2025年6月）"
-key_metrics: "部署医疗系统：200+（Series D时） / 150家医疗系统（重点推荐） | Kaiser Permanente：40家医院 + 600+医疗办公室 | 支持语言：28+ | 支持专科：50+（医疗记录） | 估值 $5.3B（Series E后）"
-url: "https://www.abridge.com"
-api_url: "https://www.abridge.com/platform"
-date_published: "2026-03-19"
+title: Abridge
+subtitle: 用环境监听AI将患者-医生对话转化为标准化临床笔记，重新定义美国医疗中的文档自动化
+product_type: AI Clinical Documentation / Healthcare Automation
+company: Abridge Inc.
+founded: 2018年（成立），源自匹兹堡健康数据联盟（University of Pittsburgh + UPMC + Carnegie Mellon）
+founders: Shivdev Rao (CEO) | Florian Metze (CSO) | Sandeep Konam (CTO) | Zachary Lipton
+hq: Pittsburgh, PA
+stage: Series E（融资中）
+funding: 总融资 $550M+（Series D $250M @ 2025年2月 + Series E $300M @ 2025年6月）
+key_metrics: 部署医疗系统：200+（Series D时） / 150家医疗系统（重点推荐） | Kaiser Permanente：40家医院 + 600+医疗办公室 | 支持语言：28+ | 支持专科：50+（医疗记录） | 估值 $5.3B（Series E后）
+url: https://www.abridge.com
+api_url: https://www.abridge.com/platform
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于官方新闻稿、Kaiser部署案例、Series D/E融资公告）"
-last_updated: "2026-03-19"
+confidence: High（基于官方新闻稿、Kaiser部署案例、Series D/E融资公告）
+last_updated: '2026-03-19'
+tags:
+  - 阶段/D轮+
 ---
 
 ## 一句话定位

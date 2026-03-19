@@ -2,9 +2,9 @@
 type: product
 name: YouCut
 name_cn: YouCut视频编辑（InShot旗下）
-url: 'https://www.inshot.com'
+url: https://www.inshot.com
 founded: 2015
-headquarters: 'San Francisco, USA (InShot/Nextwave Software)'
+headquarters: San Francisco, USA (InShot/Nextwave Software)
 founders:
   - Inshot Team
 stage: Scale
@@ -50,7 +50,11 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "YouCut InShot"
+title: YouCut InShot
+tags:
+  - 行业/视频生成
+  - 阶段/A轮
+  - 地区/美国
 ---
 # YouCut（InShot 旗下视频编辑应用）
 

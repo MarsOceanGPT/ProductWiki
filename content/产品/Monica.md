@@ -2,7 +2,7 @@
 type: product
 name: Monica
 name_cn: Monica AI 全能助手
-url: 'https://monica.im'
+url: https://monica.im
 founded: 2022
 headquarters: China (Shanghai)
 founders:
@@ -23,7 +23,7 @@ valuation: $100M (estimated 2024)
 employees: 50-100
 category: AI Assistant / Browser Extension
 subcategory: Multi-model LLM Aggregator
-target_user: 'Individual users, knowledge workers, small teams'
+target_user: Individual users, knowledge workers, small teams
 pricing_model:
   - Freemium
   - Subscription
@@ -54,7 +54,7 @@ moat_playbooks:
   - Network Effects
 distance_to_money: Near (Direct B2C SaaS)
 industry_layer: Application Layer
-pricing_quadrant: 'Low Cost, High Volume'
+pricing_quadrant: Low Cost, High Volume
 key_people:
   - 肖弘 (Xiao Hong) - Founder & CEO
   - Ji Yichao - Co-founder (Manus)
@@ -72,7 +72,10 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: "Monica"
+title: Monica
+tags:
+  - 阶段/D轮+
+  - 地区/中国
 ---
 ## 基本面表格
 

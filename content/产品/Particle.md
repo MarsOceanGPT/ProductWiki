@@ -10,8 +10,21 @@ headquarters: San Francisco
 ceo: Sara Beykpour
 key_investors: Lightspeed Venture Partners, Kindred Ventures, Adverb Ventures, Axel Springer, Ev Williams, Scott Belsky
 market: AI News Aggregation / Multi-Perspective News
-categories: [AI新闻聚合, 多视角阅读, 信息去偏见, 内容聚合, LLM应用]
-tags: [AI新闻, 多视角, 偏见检测, 事实核验, 新闻聚合, Reality Check, 政治光谱]
+categories:
+  - AI新闻聚合
+  - 多视角阅读
+  - 信息去偏见
+  - 内容聚合
+  - LLM应用
+tags:
+  - AI新闻
+  - 多视角
+  - 偏见检测
+  - 事实核验
+  - 新闻聚合
+  - Reality Check
+  - 政治光谱
+  - 阶段/A轮
 valuation: 未公开融资后估值
 seed_funding: $4.4M (2024年初)
 series_a_funding: $10.9M (2024年中)
@@ -19,7 +32,7 @@ launch_date: 2024年11月
 mau: 未公开(估计100万+)
 key_products: iOS应用, Web版本(2025年5月发布)
 subscription: Particle+ $2.99/月或$29.99/年
-last_updated: 2026-03-19
+last_updated: 2026-03-19T00:00:00.000Z
 ---
 
 ## 一句话定位

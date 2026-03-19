@@ -2,22 +2,22 @@
 type: product
 name: Snow
 name_cn: Snow
-url: 'https://snow.me'
+url: https://snow.me
 founded: 2015
-headquarters: 'Seoul, South Korea'
+headquarters: Seoul, South Korea
 founders:
   - SNOW Corporation (Naver 子公司)
 stage: Mature/Global
 status: Active
 metrics_date: 2024-12
 arr: $40M-60M (估)
-users: '200M+ downloads, 12M+ MAU'
+users: 200M+ downloads, 12M+ MAU
 funding_total: Naver/Line ecosystem
 valuation: Not disclosed
 employees: 100-150
 category: Selfie Camera & Social
 subcategory: AI Beauty + K-pop Culture
-target_user: 'Young females 13-25, K-pop fans'
+target_user: Young females 13-25, K-pop fans
 pricing_model:
   - freemium
   - virtual_goods
@@ -53,7 +53,10 @@ competitors:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "Snow"
+title: Snow
+tags:
+  - 行业/社交陪伴
+  - 阶段/A轮
 ---
 # Snow
 

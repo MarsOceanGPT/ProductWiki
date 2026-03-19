@@ -2,7 +2,7 @@
 type: product
 name: Turboscribe
 name_cn: Turboscribe
-url: 'https://www.turboscribe.ai'
+url: https://www.turboscribe.ai
 founded: 2023
 headquarters: Bellevue, Washington, USA
 founders:
@@ -16,14 +16,14 @@ monthly_visits: 25.4M+
 arr_currency: USD
 team_size: ~3-5
 category: AI Audio/Video Transcription
-subcategory: 'Productivity, Content Tools, Speech-to-Text, Creator Tools'
-target_user: 'Podcasters, content creators, YouTubers, journalists, researchers, educators'
+subcategory: Productivity, Content Tools, Speech-to-Text, Creator Tools
+target_user: Podcasters, content creators, YouTubers, journalists, researchers, educators
 pricing_model:
   - Freemium
   - Subscription
 accuracy_claim: 99.8% (Whisper-based)
 languages_supported: 98+
-languages_subtitle: "Turboscribe"
+languages_subtitle: Turboscribe
 opportunity_playbooks:
   - Unlimited transcription model vs minute-limited competitors
   - Creator economy positioning
@@ -78,6 +78,13 @@ last_updated: '2026-03-17'
 confidence: Medium-High
 mars_reviewed: false
 title: Turboscribe
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 行业/语音AI
+  - 行业/效率工具
+  - 阶段/A轮
+  - 地区/美国
 ---
 # Turboscribe 产品卡片
 

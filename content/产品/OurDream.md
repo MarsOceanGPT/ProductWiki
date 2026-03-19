@@ -2,7 +2,7 @@
 type: product
 name: OurDream.AI
 name_cn: OurDream
-url: 'https://ourdream.ai'
+url: https://ourdream.ai
 founded: 2023
 headquarters: Uncertain（国际或中国）
 founders:
@@ -18,7 +18,7 @@ valuation: 未公开
 employees: N/A
 category: AI Companions
 subcategory: Character Generation & Chat
-target_user: 'AI companion enthusiasts, roleplayers, chat users'
+target_user: AI companion enthusiasts, roleplayers, chat users
 pricing_model:
   - freemium
   - subscription
@@ -54,7 +54,10 @@ competitors:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Low-Medium
 mars_reviewed: false
-title: "OurDream"
+title: OurDream
+tags:
+  - 行业/社交陪伴
+  - 阶段/D轮+
 ---
 # OurDream.AI
 

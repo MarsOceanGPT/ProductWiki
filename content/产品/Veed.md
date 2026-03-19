@@ -2,7 +2,7 @@
 type: product
 name: Veed
 name_cn: Veed
-url: 'https://www.veed.io'
+url: https://www.veed.io
 founded: 2018
 headquarters: London, UK
 founders:
@@ -12,8 +12,8 @@ stage: Post-Series C, Growth Stage
 status: Active
 metrics_date: 2026-03
 arr: $45M (October 2025)
-users: '10M+ MAU (2025)'
-registered_users: '15M+'
+users: 10M+ MAU (2025)
+registered_users: 15M+
 monthly_visits: 80M+
 mau: 10M+
 funding_total: $35M
@@ -22,8 +22,8 @@ funding_rounds:
 valuation: Unknown (Post-$35M Series A)
 employees: 100+
 category: AI-Powered Video Editing SaaS
-subcategory: 'Creator Tools, Content Production, GenAI Video'
-target_user: 'Content creators, social media managers, marketers, enterprises, agencies'
+subcategory: Creator Tools, Content Production, GenAI Video
+target_user: Content creators, social media managers, marketers, enterprises, agencies
 pricing_model:
   - Freemium
   - Subscription (Pro, Plus)
@@ -85,7 +85,12 @@ related_products:
 last_updated: '2026-03-17'
 confidence: High
 mars_reviewed: false
-title: "Veed"
+title: Veed
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/A轮
+  - 地区/欧洲
 ---
 
 # Veed 产品卡片 v4.0

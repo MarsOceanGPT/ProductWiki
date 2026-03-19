@@ -2,9 +2,9 @@
 type: product
 name: Virtual Staging AI
 name_cn: Virtual Staging AI
-url: 'https://www.virtualstagingai.app'
+url: https://www.virtualstagingai.app
 founded: 2023
-headquarters: 'United States'
+headquarters: United States
 founders:
   - Michael Bonacina
   - Mikhail Andreev
@@ -12,13 +12,13 @@ stage: Acquired / Growth
 status: Active
 metrics_date: 2024-10
 arr: $5M-8M (估)
-users: '10K+ real estate agents, 100K+ rooms staged'
+users: 10K+ real estate agents, 100K+ rooms staged
 funding_total: Zillow Group Acquisition (2024)
 valuation: Acquired
 employees: 20-30
 category: Real Estate Tech / AI Staging
 subcategory: AI Virtual Home Staging
-target_user: 'Real estate agents, home sellers, vacant property managers'
+target_user: Real estate agents, home sellers, vacant property managers
 pricing_model:
   - subscription
   - per-image
@@ -48,9 +48,9 @@ distance_to_money: 极近
 industry_layer: 应用层
 pricing_quadrant: 低价格-高价值
 key_people:
-  - 'Michael Bonacina (Co-founder)'
-  - 'Mikhail Andreev (Co-founder)'
-  - 'Zillow Group (Acquirer)'
+  - Michael Bonacina (Co-founder)
+  - Mikhail Andreev (Co-founder)
+  - Zillow Group (Acquirer)
 competitors:
   - '[[产品/RoOomy|RoOomy]]'
   - '[[产品/Stager AI|Stager AI]]'
@@ -59,7 +59,10 @@ competitors:
 last_updated: 2026-03-19T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "Virtual Staging AI"
+title: Virtual Staging AI
+tags:
+  - 行业/房产建筑
+  - 阶段/A轮
 ---
 
 # Virtual Staging AI

@@ -1,61 +1,70 @@
 ---
 type: product
-name: "Black Forest Labs"
-name_cn: "黑森林实验室"
-url: "https://bfl.ai"
+name: Black Forest Labs
+name_cn: 黑森林实验室
+url: https://bfl.ai
 founded: 2024
-headquarters: "San Francisco, US & Munich, Germany"
-founders: ["Robin Rombach", "Andreas Blattmann", "Patrick Esser"]
-stage: "Growth"
-status: "Active"
+headquarters: San Francisco, US & Munich, Germany
+founders:
+  - Robin Rombach
+  - Andreas Blattmann
+  - Patrick Esser
+stage: Growth
+status: Active
 metrics_date: 2026-03
-arr: "$140M+ (Meta partnership value in first year)"
-users: "Millions of monthly users (indirect via partnerships)"
-funding_total: "$300M+ (Series B, Oct 2024)"
-valuation: "$3.25B (Oct 2024), $4B+ (projected)"
-employees: "50-100 (estimated)"
-category: "Generative AI"
-subcategory: "Image Generation"
-target_user: "Creative Professionals, Enterprise Platforms, Design Teams, Content Creators"
-pricing_model: ["API", "partnership"]
+arr: $140M+ (Meta partnership value in first year)
+users: Millions of monthly users (indirect via partnerships)
+funding_total: $300M+ (Series B, Oct 2024)
+valuation: $3.25B (Oct 2024), $4B+ (projected)
+employees: 50-100 (estimated)
+category: Generative AI
+subcategory: Image Generation
+target_user: Creative Professionals, Enterprise Platforms, Design Teams, Content Creators
+pricing_model:
+  - API
+  - partnership
 opportunity_playbooks:
-  - "[[开源模型商业化]]"
-  - "[[B2B创意工具]]"
-  - "[[学术创业]]"
+  - '[[开源模型商业化]]'
+  - '[[B2B创意工具]]'
+  - '[[学术创业]]'
 design_playbooks:
-  - "[[研究驱动的产品]]"
-  - "[[多模态能力]]"
-  - "[[工程效率]]"
+  - '[[研究驱动的产品]]'
+  - '[[多模态能力]]'
+  - '[[工程效率]]'
 mvp_playbooks:
-  - "[[论文先行]]"
-  - "[[学术背书]]"
+  - '[[论文先行]]'
+  - '[[学术背书]]'
 pmf_playbooks:
-  - "[[企业整合]]"
-  - "[[即插即用]]"
+  - '[[企业整合]]'
+  - '[[即插即用]]'
 growth_playbooks:
-  - "[[大厂合作]]"
-  - "[[生态整合]]"
+  - '[[大厂合作]]'
+  - '[[生态整合]]'
 monetization_playbooks:
-  - "[[API授权]]"
-  - "[[战略合伙]]"
+  - '[[API授权]]'
+  - '[[战略合伙]]'
 moat_playbooks:
-  - "[[研发效率]]"
-  - "[[模型质量]]"
-  - "[[学术人才]]"
-distance_to_money: "近"
-industry_layer: "基础模型层"
-pricing_quadrant: "低定价-高归因"
+  - '[[研发效率]]'
+  - '[[模型质量]]'
+  - '[[学术人才]]'
+distance_to_money: 近
+industry_layer: 基础模型层
+pricing_quadrant: 低定价-高归因
 key_people:
-  - "[[Robin Rombach]]"
-  - "[[Andreas Blattmann]]"
-  - "[[Patrick Esser]]"
+  - '[[Robin Rombach]]'
+  - '[[Andreas Blattmann]]'
+  - '[[Patrick Esser]]'
 competitors:
-  - "[[Midjourney]]"
-  - "[[DALL-E 3]]"
-  - "[[Stable Diffusion]]"
-last_updated: 2026-03-19
-confidence: "High"
+  - '[[Midjourney]]'
+  - '[[DALL-E 3]]'
+  - '[[Stable Diffusion]]'
+last_updated: 2026-03-19T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+tags:
+  - 行业/图像设计
+  - 阶段/D轮+
+  - 地区/美国
 ---
 
 # Black Forest Labs

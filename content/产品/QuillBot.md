@@ -2,7 +2,7 @@
 type: product
 name: QuillBot
 name_cn: QuillBot
-url: 'https://www.quillbot.com'
+url: https://www.quillbot.com
 founded: 2017
 headquarters: Chicago
 founders:
@@ -22,8 +22,8 @@ funding_rounds:
 valuation: $4.9B (acquired by Course Hero, August 2023)
 employees: 200+
 category: AI Writing & Paraphrasing Platform
-subcategory: 'Productivity, Student Tools, AI-powered Content Generation, Grammar Checking'
-target_user: 'Students (60%), ESL learners, content creators, professional writers (40%)'
+subcategory: Productivity, Student Tools, AI-powered Content Generation, Grammar Checking
+target_user: Students (60%), ESL learners, content creators, professional writers (40%)
 pricing_model:
   - Freemium (125-word limit, 2 modes)
   - Premium ($9.95/month or $8.33/month annually)
@@ -88,7 +88,10 @@ related_products:
 last_updated: '2026-03-17'
 confidence: High
 mars_reviewed: false
-title: "QuillBot"
+title: QuillBot
+tags:
+  - 行业/效率工具
+  - 阶段/A轮
 ---
 # QuillBot 产品卡片
 

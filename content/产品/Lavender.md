@@ -1,16 +1,18 @@
 ---
-title: "Lavender"
-subtitle: "AI 邮件写作助手嵌入销售工作流，通过数据驱动的回复优化做销售 SaaS 的新卡位"
-product_type: "Sales Intelligence / AI Email Coach"
-company: "Lavender"
-founded: "2020年"
-founders: "William Ballance (CEO & Cofounder)"
-hq: "New York, USA"
-stage: "Series A"
-funding: "$13.2M Series A (2023年2月) = 总融资 $15.4M"
-key_metrics: "100M+ 邮件数据库 | 1000+ 企业客户（包括 Clari、Twilio、Segment） | 2-3x 回复率提升 | 9 大销售平台集成"
-url: "https://www.lavender.ai"
-date_published: "2026-03-19"
+title: Lavender
+subtitle: AI 邮件写作助手嵌入销售工作流，通过数据驱动的回复优化做销售 SaaS 的新卡位
+product_type: Sales Intelligence / AI Email Coach
+company: Lavender
+founded: 2020年
+founders: William Ballance (CEO & Cofounder)
+hq: New York, USA
+stage: Series A
+funding: $13.2M Series A (2023年2月) = 总融资 $15.4M
+key_metrics: 100M+ 邮件数据库 | 1000+ 企业客户（包括 Clari、Twilio、Segment） | 2-3x 回复率提升 | 9 大销售平台集成
+url: https://www.lavender.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

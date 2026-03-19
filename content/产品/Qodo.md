@@ -1,16 +1,18 @@
 ---
-title: "Qodo"
-subtitle: "从代码审查到自动化修复：AI驱动的代码质量管理，以色列AI工程团队的$40M大赌注"
-product_type: "AI Code Review & Automated Remediation Agent"
-company: "Qodo (formerly Codium AI)"
-founded: "2021年（以色列 Tel Aviv）"
-founders: "Itay Tevet (CEO), Omer Rosenbaum (Co-founder), Nir Paz (CTO)"
-hq: "Tel Aviv, Israel"
-stage: "Series A / High-Growth (已融资)"
-funding: "$40M Series A (2024年下半年) + $8M前期 = $48M+累计"
-key_metrics: "100万+开发者 | 10亿+代码审查次数 | 支持50+编程语言 | IDE集成率>60% | 企业客户200+ | 代码审查自动化率85%"
-url: "https://www.qodo.ai"
-date_published: "2026-03-19"
+title: Qodo
+subtitle: 从代码审查到自动化修复：AI驱动的代码质量管理，以色列AI工程团队的$40M大赌注
+product_type: AI Code Review & Automated Remediation Agent
+company: Qodo (formerly Codium AI)
+founded: 2021年（以色列 Tel Aviv）
+founders: Itay Tevet (CEO), Omer Rosenbaum (Co-founder), Nir Paz (CTO)
+hq: Tel Aviv, Israel
+stage: Series A / High-Growth (已融资)
+funding: $40M Series A (2024年下半年) + $8M前期 = $48M+累计
+key_metrics: 100万+开发者 | 10亿+代码审查次数 | 支持50+编程语言 | IDE集成率>60% | 企业客户200+ | 代码审查自动化率85%
+url: https://www.qodo.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

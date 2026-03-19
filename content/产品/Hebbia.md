@@ -1,16 +1,18 @@
 ---
-title: "Hebbia"
-subtitle: "金融级RAG的选择权博弈：用「可解释性」替代「黑盒自信」的AI检索引擎"
-product_type: "Enterprise RAG Analytics Platform"
-company: "Hebbia.ai"
-founded: "2023年9月（New York）"
-founders: "Daniel Yao (CEO), Junu Bhattacharya (Co-founder), Isaac Tran (Co-founder)"
-hq: "New York, USA"
-stage: "Series B"
-funding: "$30M+ Series B（2024年底）+ $5M Seed"
-key_metrics: "10+ 金融机构客户 | 日均处理100M+ 文件 | 0.1ms查询延迟 | 99.9% 准确率 | 支持百亿级向量"
-url: "https://www.hebbia.ai"
-date_published: "2026-03-19"
+title: Hebbia
+subtitle: 金融级RAG的选择权博弈：用「可解释性」替代「黑盒自信」的AI检索引擎
+product_type: Enterprise RAG Analytics Platform
+company: Hebbia.ai
+founded: 2023年9月（New York）
+founders: Daniel Yao (CEO), Junu Bhattacharya (Co-founder), Isaac Tran (Co-founder)
+hq: New York, USA
+stage: Series B
+funding: $30M+ Series B（2024年底）+ $5M Seed
+key_metrics: 10+ 金融机构客户 | 日均处理100M+ 文件 | 0.1ms查询延迟 | 99.9% 准确率 | 支持百亿级向量
+url: https://www.hebbia.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话

@@ -1,20 +1,22 @@
 ---
-title: "Deepgram"
-subtitle: "从'音频转文字'到'对话AI基础设施'，Flux模型重新定义实时语音识别的范式"
-product_type: "Speech-to-Text API / Voice AI Platform"
-company: "Deepgram Inc."
-founded: "2014年"
-founders: "Scott Stephens (CEO & Co-founder) | Adam Sharkey (VP & Co-founder)"
-hq: "San Francisco, CA"
-stage: "Series C"
-funding: "总融资 $215M（截至2026年1月，其中Series C $130M）| 估值 $1.3B"
-key_metrics: "企业客户 400+ | 开发者 200,000+ | 音频处理 50,000+年 | 转录词数 1T+ | ARR $21.8M（2024年） | Nova-3 WER 6.84%（实时流）"
-url: "https://deepgram.com"
-api_url: "https://api.deepgram.com"
-date_published: "2026-03-19"
+title: Deepgram
+subtitle: 从'音频转文字'到'对话AI基础设施'，Flux模型重新定义实时语音识别的范式
+product_type: Speech-to-Text API / Voice AI Platform
+company: Deepgram Inc.
+founded: 2014年
+founders: Scott Stephens (CEO & Co-founder) | Adam Sharkey (VP & Co-founder)
+hq: San Francisco, CA
+stage: Series C
+funding: 总融资 $215M（截至2026年1月，其中Series C $130M）| 估值 $1.3B
+key_metrics: 企业客户 400+ | 开发者 200,000+ | 音频处理 50,000+年 | 转录词数 1T+ | ARR $21.8M（2024年） | Nova-3 WER 6.84%（实时流）
+url: https://deepgram.com
+api_url: https://api.deepgram.com
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High (基于官方融资稿、技术文档、第三方测试数据)"
-last_updated: "2026-03-19"
+confidence: High (基于官方融资稿、技术文档、第三方测试数据)
+last_updated: '2026-03-19'
+tags:
+  - 阶段/C轮
 ---
 
 ## 一句话定位

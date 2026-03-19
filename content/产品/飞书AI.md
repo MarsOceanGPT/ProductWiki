@@ -3,12 +3,12 @@ type: product
 name: Lark / Feishu AI
 name_cn: 飞书 / 飞书AI
 url: https://www.feishu.cn
-founded: 2016-04-01
+founded: 2016-04-01T00:00:00.000Z
 headquarters: 北京
 founders: 字节跳动
 stage: Growth
 status: active
-metrics_date: 2025-03-17
+metrics_date: 2025-03-17T00:00:00.000Z
 arr: 3亿美元+ (2024年)；增速40-60%（预计2025年）
 users: 企业用户超500万；全球月活用户数千万
 monthly_visits: N/A
@@ -70,9 +70,12 @@ related_products:
   - 扣子（AI应用开发平台）
   - 字节Aily智能伙伴（AI助手框架）
   - 字节MCP生态
-last_updated: 2025-03-17
+last_updated: 2025-03-17T00:00:00.000Z
 confidence: 高
 mars_reviewed: false
+tags:
+  - 行业/效率工具
+  - 阶段/D轮+
 ---
 
 ## 一句话定位

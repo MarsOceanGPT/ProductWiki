@@ -8,7 +8,7 @@ headquarters: 北京
 founders: Lei Jun (雷军)
 stage: Growth
 status: Active
-metrics_date: 2025-06-30
+metrics_date: 2025-06-30T00:00:00.000Z
 arr: ¥51.2B (2024年营业收入)
 users: 29.51M MAU (WPS AI, 2025 H1) / 651M 月活设备 (全WPS)
 funding_total: 上市公司（上海STAR市场 688111.SH）
@@ -28,13 +28,16 @@ moat_playbooks: 政策支持 + 用户基数 + 本地化 + 成本优势
 distance_to_money: 最近（已有成熟B2B/B2C付费用户基数）
 industry_layer: 应用层（生产力工具+AI服务）
 pricing_quadrant: 免费(基础) → Premium(¥199/年) → 365商业(¥199-599/人/年) → 企业版(定制)
-key_people: "Lei Jun (创始人/名誉董事长), Zhang Qingyuan (CEO/总经理)"
-competitors: "[[Microsoft 365]], [[Google Workspace]], [[Notion]]"
-related_products: "[[飞书]], [[钉钉]], [[DeepSeek]]"
-last_updated: 2026-03-17
+key_people: Lei Jun (创始人/名誉董事长), Zhang Qingyuan (CEO/总经理)
+competitors: '[[Microsoft 365]], [[Google Workspace]], [[Notion]]'
+related_products: '[[飞书]], [[钉钉]], [[DeepSeek]]'
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.95
 mars_reviewed: false
-title: "WPS AI"
+title: WPS AI
+tags:
+  - 行业/效率工具
+  - 阶段/D轮+
 ---
 
 ## 一句话定位

@@ -2,9 +2,9 @@
 type: product
 name: Pixa (formerly Pixelcut)
 name_cn: Pixa（原 Pixelcut）
-url: 'https://pixa.com'
+url: https://pixa.com
 founded: 2021
-headquarters: 'Oakland, CA, US'
+headquarters: Oakland, CA, US
 founders:
   - Dominique Yahyavi
 stage: Growth
@@ -12,12 +12,12 @@ status: Active
 metrics_date: 2026-03
 arr: 未公开（估计 $20M+）
 users: 15M+ 月均活跃用户；100M+ 月处理图片数
-funding_total: '$250k Convertible Note (2022)'
+funding_total: $250k Convertible Note (2022)
 valuation: 未公开
 employees: N/A
 category: Image Editing & Video
 subcategory: AI Creative Workspace / E-commerce Product Photography
-target_user: 'E-commerce sellers, small businesses, creators, Shopify store owners'
+target_user: E-commerce sellers, small businesses, creators, Shopify store owners
 pricing_model:
   - freemium
   - subscription
@@ -56,7 +56,13 @@ competitors:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "Pixelcut"
+title: Pixelcut
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 行业/图像设计
+  - 阶段/D轮+
+  - 地区/美国
 ---
 # Pixa（原 Pixelcut）
 

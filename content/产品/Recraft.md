@@ -1,20 +1,22 @@
 ---
-title: "Recraft"
-subtitle: "用向量优先 + 品牌可控的生成式设计，将AI从创意混乱变成设计系统的执行引擎，重新定义品牌设计的可扩展性"
-product_type: "AI Vector Image Generation & Design Editing Platform"
-company: "Recraft"
-founded: "2023年（公开发布），源自OpenAI和Meta的AI研究团队"
-founders: "Anna Veronika Dorogush (CEO & Co-founder) | AI/ML领导团队"
-hq: "Remote/International"
-stage: "Series B（$30M，2025年中）"
-funding: "总融资 $30M+（Series B，由Accel领投，Madrona Ventures、Khosla Ventures、NVIDIA、Ethan Eismann参投）"
-key_metrics: "月活设计师：400万+ | 付费用户：含个人+团队计划 | 企业客户：Amazon、NVIDIA、Salesforce、Uber | V3模型排名：Artificial Analysis第一 | V4发布：2026年2月"
-url: "https://www.recraft.ai"
-api_url: "https://www.recraft.ai/api"
-date_published: "2026-03-19"
+title: Recraft
+subtitle: 用向量优先 + 品牌可控的生成式设计，将AI从创意混乱变成设计系统的执行引擎，重新定义品牌设计的可扩展性
+product_type: AI Vector Image Generation & Design Editing Platform
+company: Recraft
+founded: 2023年（公开发布），源自OpenAI和Meta的AI研究团队
+founders: Anna Veronika Dorogush (CEO & Co-founder) | AI/ML领导团队
+hq: Remote/International
+stage: Series B（$30M，2025年中）
+funding: 总融资 $30M+（Series B，由Accel领投，Madrona Ventures、Khosla Ventures、NVIDIA、Ethan Eismann参投）
+key_metrics: 月活设计师：400万+ | 付费用户：含个人+团队计划 | 企业客户：Amazon、NVIDIA、Salesforce、Uber | V3模型排名：Artificial Analysis第一 | V4发布：2026年2月
+url: https://www.recraft.ai
+api_url: https://www.recraft.ai/api
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于官方Series B公告、客户案例、产品发布信息、行业评估数据）"
-last_updated: "2026-03-19"
+confidence: High（基于官方Series B公告、客户案例、产品发布信息、行业评估数据）
+last_updated: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话定位

@@ -2,7 +2,7 @@
 type: product
 name: OpusClip
 url: https://www.opus.pro
-founded: 2022-01-01
+founded: 2022-01-01T00:00:00.000Z
 headquarters: Redwood City, CA
 founders:
   - Young Zhao
@@ -10,7 +10,7 @@ founders:
   - Jay W
 stage: Series A
 status: Active & Scaling
-metrics_date: 2026-03-19
+metrics_date: 2026-03-19T00:00:00.000Z
 arr: 20000000
 users: 10000000
 users_paying: 300000
@@ -21,16 +21,16 @@ category: Content Creation & Video
 subcategory: AI Video Clipping / Short-form Content
 target_user: Creators, content marketers, vloggers, podcasters, enterprises
 pricing_model: Freemium + Subscription (Starter/Pro/Business)
-opportunity: "AI-native short-form content market: $50B+ TAM, converting long-form to viral shorts with multimodal AI"
-design: "Long video → AI clipping + reframing + social scheduling; ClipAnything (visual+audio+sentiment cues)"
-mvp: "Automatic clip detection from live streams (2022); basic highlight extraction"
-pmf: "Creator PMF (2023-2024): turns 60min video into 20 clips in 5 min; B2B PMF (2025): enterprise workflow integration"
-growth: "5M users in 7 months (2022-2023); 10M+ users by early 2025; 172M+ clips generated; 57B+ accumulated views"
-monetization: "Credit-based subscription + enterprise licensing; $20.3M ARR (2025); approaching $20M ARR in 2026"
-moat_playbooks: "Multimodal AI (visual+audio+sentiment) that competitors lack; 0.93 mAP accuracy in highlight detection; proprietary reframing tech with object tracking"
-distance_to_money: "Very close: direct payment from creators & enterprises for daily content workflow"
-industry_layer: "Content automation layer (above creation, below distribution)"
-pricing_quadrant: "Mid-premium + Usage-based (moderate value per clip, high frequency)"
+opportunity: 'AI-native short-form content market: $50B+ TAM, converting long-form to viral shorts with multimodal AI'
+design: Long video → AI clipping + reframing + social scheduling; ClipAnything (visual+audio+sentiment cues)
+mvp: Automatic clip detection from live streams (2022); basic highlight extraction
+pmf: 'Creator PMF (2023-2024): turns 60min video into 20 clips in 5 min; B2B PMF (2025): enterprise workflow integration'
+growth: 5M users in 7 months (2022-2023); 10M+ users by early 2025; 172M+ clips generated; 57B+ accumulated views
+monetization: Credit-based subscription + enterprise licensing; $20.3M ARR (2025); approaching $20M ARR in 2026
+moat_playbooks: Multimodal AI (visual+audio+sentiment) that competitors lack; 0.93 mAP accuracy in highlight detection; proprietary reframing tech with object tracking
+distance_to_money: 'Very close: direct payment from creators & enterprises for daily content workflow'
+industry_layer: Content automation layer (above creation, below distribution)
+pricing_quadrant: Mid-premium + Usage-based (moderate value per clip, high frequency)
 key_people:
   - Young Zhao (CEO/Co-founder, founded from live streaming pivot)
   - Grace Wang (Co-founder)
@@ -46,10 +46,15 @@ related_products:
   - VEED
   - Adobe Premiere Pro
   - CapCut
-last_updated: 2026-03-19
+last_updated: 2026-03-19T00:00:00.000Z
 confidence: High (sourced from official OpusClip announcements, funding news, user metrics)
 mars_reviewed: false
-title: "OpusClip"
+title: OpusClip
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/A轮
+  - 地区/北美其他
 ---
 
 ## 一句话定位

@@ -2,9 +2,9 @@
 type: product
 name: Pixverse
 name_cn: 像素宇宙
-url: 'https://pixverse.ai'
+url: https://pixverse.ai
 founded: 2022
-headquarters: 'Beijing, China'
+headquarters: Beijing, China
 founders:
   - AIsphere 团队
 stage: Scale
@@ -15,12 +15,12 @@ users: 100M+ 全球用户（分布175个国家）
 mau: 1600万
 videos_generated: 21亿+视频（累计）
 funding_total: $360M+
-latest_funding: '$300M Series C (2026-03, 鼎晖投资领投)'
+latest_funding: $300M Series C (2026-03, 鼎晖投资领投)
 valuation: $10B+（独角兽）
 employees: N/A
 category: AI Video Generation
 subcategory: Video Synthesis
-target_user: 'Content creators, video producers, developers'
+target_user: Content creators, video producers, developers
 pricing_model:
   - freemium
   - subscription
@@ -54,7 +54,12 @@ competitors:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "Pixverse"
+title: Pixverse
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/A轮
+  - 地区/中国
 ---
 # Pixverse
 

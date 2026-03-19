@@ -11,35 +11,35 @@ founders:
   - K9 Unit Commander (Co-founder)
 stage: Growth
 status: public
-metrics_date: 2026-03-19
-arr: "7-12M USD (推测，基于定价与早期用户采用)"
-users: "早期用户群（医疗体检、预防性健康检查人群）"
-funding_total: "26.5M USD"
+metrics_date: 2026-03-19T00:00:00.000Z
+arr: 7-12M USD (推测，基于定价与早期用户采用)
+users: 早期用户群（医疗体检、预防性健康检查人群）
+funding_total: 26.5M USD
 funding_rounds:
   - Seed: 6.2M USD (Hanaco Ventures主导)
   - Series A: 20.3M USD (May 2025，US市场启动)
-valuation: "80-120M USD (未公开，私有估值推测)"
-employees: "18+ (含18只经过认证的小猎犬)"
-category: "Biotech AI / Healthcare"
-subcategory: "Early Cancer Detection / Breath Biomarker Analysis"
+valuation: 80-120M USD (未公开，私有估值推测)
+employees: 18+ (含18只经过认证的小猎犬)
+category: Biotech AI / Healthcare
+subcategory: Early Cancer Detection / Breath Biomarker Analysis
 target_user:
   - 45岁以上预防性健康检查人群
   - 有家族癌症史的风险人群
   - 健康管理意识强的中产消费者
-pricing_model: "Direct-to-Consumer + Partnership with Healthcare Systems"
-opportunity: "AI+生物传感 重新定义癌症早期筛查"
-design: "Bio-AI混杂平台（犬类嗅觉+机器学习）"
-mvp: "18只训练有素的小猎犬 + 深呼吸样本采集"
-pmf: "简单、非侵入、在家检测的多癌症筛查"
-growth: "医疗机构合作（Fox Chase, Hackensack Meridian）+ 消费者直购"
-monetization: "单癌症筛查$250 / 四癌症筛查$500"
+pricing_model: Direct-to-Consumer + Partnership with Healthcare Systems
+opportunity: AI+生物传感 重新定义癌症早期筛查
+design: Bio-AI混杂平台（犬类嗅觉+机器学习）
+mvp: 18只训练有素的小猎犬 + 深呼吸样本采集
+pmf: 简单、非侵入、在家检测的多癌症筛查
+growth: 医疗机构合作（Fox Chase, Hackensack Meridian）+ 消费者直购
+monetization: 单癌症筛查$250 / 四癌症筛查$500
 moat_playbooks:
   - 生物+AI的复合护城河
   - 犬类嗅觉生物学的垄断性掌握
   - 临床验证与医学信誉
-distance_to_money: "非常近（直接消费者支付）"
-industry_layer: "应用层（healthcare diagnostic）"
-pricing_quadrant: "中价格+高价值（相对于传统筛查$2000+）"
+distance_to_money: 非常近（直接消费者支付）
+industry_layer: 应用层（healthcare diagnostic）
+pricing_quadrant: 中价格+高价值（相对于传统筛查$2000+）
 key_people:
   - Ohad Sharon (创始人/总裁)
   - Shlomi Madar (CEO)
@@ -53,10 +53,14 @@ related_products:
   - LUCID平台（AI识别算法）
   - 呼吸采样盒 (at-home kit)
   - 云端检测分析平台
-last_updated: 2026-03-19
+last_updated: 2026-03-19T00:00:00.000Z
 confidence: 0.92
 mars_reviewed: false
-title: "SpotitEarly：犬科嗅觉+AI的癌症早期筛查革命"
+title: SpotitEarly：犬科嗅觉+AI的癌症早期筛查革命
+tags:
+  - 行业/医疗AI
+  - 阶段/D轮+
+  - 地区/美国
 ---
 
 ## 一句话定位

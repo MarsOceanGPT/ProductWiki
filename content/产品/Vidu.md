@@ -33,7 +33,7 @@ pricing_model: 免费+订阅
   - architecture_innovation
 distance_to_money: 距交易 2 层（用户→付费订阅→内容变现）
 industry_layer: 应用层 + 基础模型层（AIGC）
-pricing_quadrant: "免费+高级订阅"
+pricing_quadrant: 免费+高级订阅
 key_people:
   - 待补充
 competitors:
@@ -43,9 +43,12 @@ competitors:
 related_products:
   - UniDiffuser (多模态扩散模型)
   - Vidu Q1 (高可控版本)
-last_updated: 2026-03-16
+last_updated: 2026-03-16T00:00:00.000Z
 confidence: 高
 mars_reviewed: false
+tags:
+  - 行业/视频生成
+  - 阶段/D轮+
 ---
 
 ## 一句话

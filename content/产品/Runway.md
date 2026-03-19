@@ -2,9 +2,9 @@
 type: product
 name: Runway
 name_cn: Runway AI 视频生成与世界模型平台
-url: 'https://runwayml.com'
+url: https://runwayml.com
 founded: 2018
-headquarters: 'New York City, USA'
+headquarters: New York City, USA
 founders:
   - Cristóbal Valenzuela
   - Alejandro Matamala-Ortiz
@@ -13,7 +13,7 @@ stage: Late Stage / Pre-IPO
 status: Active
 metrics_date: 2026-03
 arr: $90M+ (2025年8月), 目标2026年$265M+
-users: '300,000+'
+users: 300,000+
 funding_total: $859M
 funding_rounds:
   - Series A ($15M, 2020)
@@ -23,8 +23,7 @@ funding_rounds:
 valuation: $5.3B (Feb 2026)
 employees: 140+
 category: AI视频生成 / 世界模型
-target_user: >-
-  AI创业者、创意专业人士、电影制作、内容创作者、好莱坞制片厂、游戏公司、机器人公司
+target_user: AI创业者、创意专业人士、电影制作、内容创作者、好莱坞制片厂、游戏公司、机器人公司
 pricing_model:
   - Freemium (125 credits)
   - Standard ($15/月)
@@ -35,6 +34,10 @@ core_models:
   - Gen-4.5 (文本转视频, Video Arena排名第一)
   - GWM-1 (通用世界模型, 支持交互与机器人训练)
   - Gen-3 Alpha Turbo (7倍加速, 50%降费)
+tags:
+  - 行业/视频生成
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 # Runway v4.0 产品卡片

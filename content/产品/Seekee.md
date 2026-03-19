@@ -2,7 +2,7 @@
 type: product
 name: Seekee
 name_cn: AI搜索与学习助手
-url: 'https://seekee.ai'
+url: https://seekee.ai
 founded: 2024
 headquarters: 全球（多平台）
 founders:
@@ -47,7 +47,10 @@ related_products:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "Seekee"
+title: Seekee
+tags:
+  - 行业/搜索知识
+  - 阶段/D轮+
 ---
 
 # Seekee

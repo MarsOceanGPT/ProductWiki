@@ -2,9 +2,9 @@
 type: product
 name: Freepik
 name_cn: Freepik
-url: 'https://www.freepik.com'
+url: https://www.freepik.com
 founded: 2010
-headquarters: 'Madrid, Spain'
+headquarters: Madrid, Spain
 founders:
   - Claudio Sanchez-Sanchez
 stage: Public Company (Listed on Spanish stock exchange 2024)
@@ -23,8 +23,8 @@ funding_rounds:
 valuation: $800M (market cap at IPO)
 employees: 800+
 category: AI-powered Design Assets + Generation
-subcategory: 'Creative Tools, Design Resources'
-target_user: 'Designers, content creators, marketers, SMBs, agencies'
+subcategory: Creative Tools, Design Resources
+target_user: Designers, content creators, marketers, SMBs, agencies
 pricing_model:
   - Freemium
   - Subscription
@@ -59,7 +59,7 @@ distance_to_money: Direct (B2C + B2B)
 industry_layer: Application/Creator Tools
 pricing_quadrant: Freemium + Premium subscription
 key_people:
-  - 'Claudio Sanchez-Sanchez (Founder, CEO)'
+  - Claudio Sanchez-Sanchez (Founder, CEO)
   - Pablo Sanchez (Co-founder)
   - Raul Sanchez-Sanchez (Co-founder)
 competitors:
@@ -77,7 +77,10 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: "Freepik"
+title: Freepik
+tags:
+  - 行业/图像设计
+  - 阶段/A轮
 ---
 # Freepik 产品卡片
 

@@ -2,9 +2,9 @@
 type: product
 name: VivaCut
 name_cn: VivaCut
-url: 'https://vivacut.com'
+url: https://vivacut.com
 founded: 2019
-headquarters: 'Hangzhou, China'
+headquarters: Hangzhou, China
 founders:
   - Hangzhou Qumeng Technology
 stage: Growth
@@ -17,7 +17,7 @@ valuation: 未公开
 employees: N/A
 category: Video Editing
 subcategory: Mobile Video Editor
-target_user: 'Content creators, video producers, TikTok creators'
+target_user: Content creators, video producers, TikTok creators
 pricing_model:
   - freemium
   - subscription
@@ -49,7 +49,12 @@ competitors:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "VivaCut"
+title: VivaCut
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/D轮+
+  - 地区/中国
 ---
 # VivaCut
 

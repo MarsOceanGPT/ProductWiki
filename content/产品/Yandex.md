@@ -2,9 +2,9 @@
 type: product
 name: Yandex
 name_cn: 俄罗斯Yandex搜索与AI生态
-url: 'https://yandex.com'
+url: https://yandex.com
 founded: 1997
-headquarters: 'Moscow, Russia（2025年后：Nebius Group总部Amsterdam,荷兰）'
+headquarters: Moscow, Russia（2025年后：Nebius Group总部Amsterdam,荷兰）
 founders:
   - Arkady Volozh
   - Ilya Segalovich (1964-2013)
@@ -17,11 +17,11 @@ monthly_visits: 1.5B
 mau: 155M
 funding_total: IPO NASDAQ (2011) / Nebius restructure (2024)
 funding_rounds: []
-valuation: "$5.4B (Yandex Russian sale 2024); Nebius Group private"
-employees: "2500+ (Yandex Russian); Nebius Group separate"
+valuation: $5.4B (Yandex Russian sale 2024); Nebius Group private
+employees: 2500+ (Yandex Russian); Nebius Group separate
 category: 搜索/AI搜索/AI助手/云计算
 subcategory: 俄语AI搜索平台 & 国际AI基础设施
-target_user: "俄语用户、隐私导向用户、反依赖美国AI用户"
+target_user: 俄语用户、隐私导向用户、反依赖美国AI用户
 pricing_model:
   - free
   - freemium
@@ -57,7 +57,10 @@ related_products:
 last_updated: 2026-03-17T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "Yandex"
+title: Yandex
+tags:
+  - 行业/搜索知识
+  - 阶段/A轮
 ---
 # Yandex & Nebius Group：地缘政治与本地化AI的交集
 

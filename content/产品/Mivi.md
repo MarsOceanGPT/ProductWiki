@@ -2,7 +2,7 @@
 type: product
 name: Mivi
 name_cn: 美唯（印度AI音乐视频创作工具）
-url: 'https://mivi.in'
+url: https://mivi.in
 founded: 2023
 headquarters: 班加罗尔
 founders:
@@ -44,7 +44,10 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "Mivi"
+title: Mivi
+tags:
+  - 行业/视频生成
+  - 阶段/D轮+
 ---
 # Mivi
 

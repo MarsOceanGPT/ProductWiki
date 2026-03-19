@@ -2,9 +2,9 @@
 type: product
 name: Sesame
 name_cn: Sesame AI
-url: 'https://www.sesame.com/'
+url: https://www.sesame.com/
 founded: 2024-11
-headquarters: 'Palo Alto, California'
+headquarters: Palo Alto, California
 founders:
   - Brendan Iribe
   - Ankit Kumar
@@ -26,7 +26,7 @@ valuation: TBD (likely $100M-500M range, pre-revenue stage)
 employees: TBD
 category: AI Voice Technology / Conversational AI
 subcategory: Voice Interaction Platform
-target_user: 'Early adopters, creators, accessibility users, customer service applications, enterprise voice solutions'
+target_user: Early adopters, creators, accessibility users, customer service applications, enterprise voice solutions
 pricing_model:
   - freemium
   - api_licensing
@@ -74,7 +74,10 @@ related_products:
 last_updated: 2026-03-19T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "Sesame AI - 跨越恐怖谷的对话音声"
+title: Sesame AI - 跨越恐怖谷的对话音声
+tags:
+  - 行业/语音AI
+  - 阶段/A轮
 ---
 
 # Sesame AI v4.0 产品卡片

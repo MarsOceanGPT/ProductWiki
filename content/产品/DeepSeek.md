@@ -2,38 +2,40 @@
 type: product
 name: DeepSeek
 url: https://www.deepseek.com
-founded: "2023-07"
-headquarters: "杭州, 中国"
-founders: "梁文峰 (Liang Wenfeng)"
-stage: "Series C"
-status: "Active"
-metrics_date: "2026-03"
-arr: "$220,000,000"
-users: "96,880,000"
-funding_total: "$1,100,000,000"
-valuation: "$3,400,000,000"
-employees: "160"
-category: "AI / LLM"
-subcategory: "基础模型 / API"
-target_user: "开发者、企业、AI研究机构"
-pricing_model: "API按量付费 + 免费使用"
-opportunity: "极低成本、开源战略、推理能力、中国AI竞争力"
-design: "MoE架构、推理优化、多模态能力"
-mvp: "DeepSeek-Coder (2023年11月)"
-pmf: "DeepSeek-V2 (2024年5月) / R1推理模型 (2025年1月)"
-growth: "2025年1月病毒传播、市场份额快速提升"
-monetization: "API使用费、企业许可证"
-moat_playbooks: "成本领先、开源生态、推理能力、芯片优化"
-distance_to_money: "近距离（直接API付费）"
-industry_layer: "AI基础层 → 应用层"
-pricing_quadrant: "超低价格、高质量 (左下象限)"
-key_people: "梁文峰 (创始人/CEO)、高通联合创始人背景的工程师团队"
-competitors: "OpenAI (GPT-4/o1)、Anthropic (Claude)、Google (Gemini)、Meta (Llama)、Mistral"
-related_products: "LLaMA、Mistral AI、Qwen、ChatGPT、Claude、Gemini"
-last_updated: "2026-03-17"
-confidence: "high"
+founded: 2023-07
+headquarters: 杭州, 中国
+founders: 梁文峰 (Liang Wenfeng)
+stage: Series C
+status: Active
+metrics_date: 2026-03
+arr: $220,000,000
+users: 96,880,000
+funding_total: $1,100,000,000
+valuation: $3,400,000,000
+employees: '160'
+category: AI / LLM
+subcategory: 基础模型 / API
+target_user: 开发者、企业、AI研究机构
+pricing_model: API按量付费 + 免费使用
+opportunity: 极低成本、开源战略、推理能力、中国AI竞争力
+design: MoE架构、推理优化、多模态能力
+mvp: DeepSeek-Coder (2023年11月)
+pmf: DeepSeek-V2 (2024年5月) / R1推理模型 (2025年1月)
+growth: 2025年1月病毒传播、市场份额快速提升
+monetization: API使用费、企业许可证
+moat_playbooks: 成本领先、开源生态、推理能力、芯片优化
+distance_to_money: 近距离（直接API付费）
+industry_layer: AI基础层 → 应用层
+pricing_quadrant: 超低价格、高质量 (左下象限)
+key_people: 梁文峰 (创始人/CEO)、高通联合创始人背景的工程师团队
+competitors: OpenAI (GPT-4/o1)、Anthropic (Claude)、Google (Gemini)、Meta (Llama)、Mistral
+related_products: LLaMA、Mistral AI、Qwen、ChatGPT、Claude、Gemini
+last_updated: '2026-03-17'
+confidence: high
 mars_reviewed: false
-title: "DeepSeek"
+title: DeepSeek
+tags:
+  - 阶段/C轮
 ---
 
 ## 一句话定位

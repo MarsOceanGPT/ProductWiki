@@ -2,9 +2,9 @@
 type: product
 name: Photoroom
 name_cn: Photoroom
-url: 'https://www.photoroom.com'
+url: https://www.photoroom.com
 founded: 2019
-headquarters: 'Paris, France'
+headquarters: Paris, France
 founders:
   - Matthieu Rouif (ex-Apple)
   - Yassir Elmazouni
@@ -23,8 +23,8 @@ funding_rounds:
 valuation: $85M (2023 estimate)
 employees: 120+
 category: AI-powered E-commerce Photography
-subcategory: 'Image Editing, Product Photography, Creator Tools'
-target_user: 'E-commerce businesses, product photographers, influencers, SMB sellers'
+subcategory: Image Editing, Product Photography, Creator Tools
+target_user: E-commerce businesses, product photographers, influencers, SMB sellers
 pricing_model:
   - Freemium
   - Subscription
@@ -60,7 +60,7 @@ distance_to_money: Direct (B2C + B2B)
 industry_layer: Application/Business Tools
 pricing_quadrant: Freemium + Premium subscription + API
 key_people:
-  - 'Matthieu Rouif (CEO, ex-Apple)'
+  - Matthieu Rouif (CEO, ex-Apple)
   - Yassir Elmazouni (Co-founder)
 competitors:
   - Remove.bg
@@ -77,7 +77,10 @@ related_products:
 last_updated: '2026-03-14'
 confidence: High
 mars_reviewed: false
-title: "Photoroom"
+title: Photoroom
+tags:
+  - 行业/图像设计
+  - 阶段/A轮
 ---
 # Photoroom 产品卡片
 

@@ -10,14 +10,25 @@ headquarters: San Francisco
 ceo: Aravind Srinivas
 key_investors: Insight Partners, IVP, Bessemer Venture Partners, OpenAI, Salesforce Ventures
 market: AI Search / Answer Engine
-categories: [AI Search, Answer Engine, Real-time QA, Research Tools]
-tags: [AI搜索, 答案引擎, 知识检索, 网络搜索, LLM集成, 发布者合作]
+categories:
+  - AI Search
+  - Answer Engine
+  - Real-time QA
+  - Research Tools
+tags:
+  - AI搜索
+  - 答案引擎
+  - 知识检索
+  - 网络搜索
+  - LLM集成
+  - 发布者合作
+  - 阶段/A轮
 valuation: $20-21.21B (2025年9月-2026年3月)
 arr: ~$200M (2025年底)
 mau: 33-45M
 dau: 2M+
 queries_monthly: 1.2-1.5B (2026年中)
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 ---
 
 ## 一句话定位

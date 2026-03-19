@@ -1,60 +1,68 @@
 ---
 type: product
-name: "Talkie"
-name_cn: "Talkie"
-url: "https://talkie-ai.com/"
+name: Talkie
+name_cn: Talkie
+url: https://talkie-ai.com/
 founded: 2023
-headquarters: "Shanghai, China"
-founders: ["MiniMax Team"]
-stage: "Scale"
-status: "Active"
+headquarters: Shanghai, China
+founders:
+  - MiniMax Team
+stage: Scale
+status: Active
 metrics_date: 2026-03
-arr: "$53.1M+ (2025)"
-users: "29.77M MAU (Dec 2024), 27.64M MAU (Q3 2025)"
-funding_total: "$Unknown (Private)"
-valuation: "$2.8B+ (est. 2025)"
-employees: "Unknown"
-category: "AI Social"
-subcategory: "AI Companion Chat"
-target_user: "Global Users, Content Creators, Anime/Gaming Fans"
-pricing_model: ["subscription", "in-app purchase", "ads"]
+arr: $53.1M+ (2025)
+users: 29.77M MAU (Dec 2024), 27.64M MAU (Q3 2025)
+funding_total: $Unknown (Private)
+valuation: $2.8B+ (est. 2025)
+employees: Unknown
+category: AI Social
+subcategory: AI Companion Chat
+target_user: Global Users, Content Creators, Anime/Gaming Fans
+pricing_model:
+  - subscription
+  - in-app purchase
+  - ads
 opportunity_playbooks:
-  - "[[国产模型全球化]]"
-  - "[[AI社交新品类]]"
-  - "[[角色UGC生态]]"
+  - '[[国产模型全球化]]'
+  - '[[AI社交新品类]]'
+  - '[[角色UGC生态]]'
 design_playbooks:
-  - "[[拟人化交互]]"
-  - "[[多语言本地化]]"
-  - "[[角色创作工具]]"
+  - '[[拟人化交互]]'
+  - '[[多语言本地化]]'
+  - '[[角色创作工具]]'
 mvp_playbooks:
-  - "[[快速国际扩展]]"
-  - "[[社交分享驱动]]"
+  - '[[快速国际扩展]]'
+  - '[[社交分享驱动]]'
 pmf_playbooks:
-  - "[[情感陪伴需求]]"
-  - "[[IP角色消费]]"
+  - '[[情感陪伴需求]]'
+  - '[[IP角色消费]]'
 growth_playbooks:
-  - "[[病毒传播-内容即产品]]"
-  - "[[社交媒体自传播]]"
+  - '[[病毒传播-内容即产品]]'
+  - '[[社交媒体自传播]]'
 monetization_playbooks:
-  - "[[订阅制]]"
-  - "[[内购卡抽奖]]"
-  - "[[广告变现]]"
+  - '[[订阅制]]'
+  - '[[内购卡抽奖]]'
+  - '[[广告变现]]'
 moat_playbooks:
-  - "[[AI模型能力]]"
-  - "[[用户生成内容]]"
-  - "[[社交网络效应]]"
-distance_to_money: "中"
-industry_layer: "应用层"
-pricing_quadrant: "低自主-高归因"
+  - '[[AI模型能力]]'
+  - '[[用户生成内容]]'
+  - '[[社交网络效应]]'
+distance_to_money: 中
+industry_layer: 应用层
+pricing_quadrant: 低自主-高归因
 key_people:
-  - "Yan Shu（CEO/MiniMax创始人）"
+  - Yan Shu（CEO/MiniMax创始人）
 competitors:
-  - "[[Character.AI]]"
-  - "[[Replika]]"
-  - "[[Candy AI]]"
-last_updated: 2026-03-19
-confidence: "High"
+  - '[[Character.AI]]'
+  - '[[Replika]]'
+  - '[[Candy AI]]'
+last_updated: 2026-03-19T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+tags:
+  - 行业/社交陪伴
+  - 阶段/A轮
+  - 地区/中国
 ---
 
 # Talkie

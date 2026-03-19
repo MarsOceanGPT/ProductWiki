@@ -37,7 +37,7 @@ pricing_vip: 99 元/年（核心会员）
   - ecosystem_leverage
 distance_to_money: 距交易 1-2 层（用户直接付费会员 / 创作者变现）
 industry_layer: 应用层（内容平台 + AIGC）
-pricing_quadrant: "免费+会员订阅+内容分成"
+pricing_quadrant: 免费+会员订阅+内容分成
 key_people:
   - Robin Li（百度创始人，战略决策）
   - 百度文库产品线负责人
@@ -56,9 +56,12 @@ related_products:
   - 百度网盘（内容存储协同，月活超 1.1 亿）
   - 百度知道（QA 平台）
   - 橙篇（并行产品，专业知识检索和创作）
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 很高
 mars_reviewed: false
+tags:
+  - 行业/搜索知识
+  - 阶段/A轮
 ---
 
 ## 一句话定位

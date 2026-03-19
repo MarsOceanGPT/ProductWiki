@@ -1,61 +1,69 @@
 ---
 type: product
-name: "Krea AI"
-name_cn: "Krea"
-url: "https://www.krea.ai"
+name: Krea AI
+name_cn: Krea
+url: https://www.krea.ai
 founded: 2021
-headquarters: "San Francisco, US"
-founders: ["Pranay Chevli", "Arun Chandrasekaran"]
-stage: "Growth"
-status: "Active"
+headquarters: San Francisco, US
+founders:
+  - Pranay Chevli
+  - Arun Chandrasekaran
+stage: Growth
+status: Active
 metrics_date: 2026-03
-arr: "Unlisted (Estimated $20-50M based on market data)"
-users: "500K+ free users, 50-100K paying subscribers (estimated)"
-funding_total: "$5-10M (Series seed/A estimated)"
-valuation: "Unlisted (Estimated $100-200M based on feature parity with competitors)"
-employees: "20-50"
-category: "Generative AI"
-subcategory: "Image Generation"
-target_user: "Designers, Creative Professionals, Content Creators, Motion Graphics Artists"
-pricing_model: ["subscription", "freemium"]
+arr: Unlisted (Estimated $20-50M based on market data)
+users: 500K+ free users, 50-100K paying subscribers (estimated)
+funding_total: $5-10M (Series seed/A estimated)
+valuation: Unlisted (Estimated $100-200M based on feature parity with competitors)
+employees: 20-50
+category: Generative AI
+subcategory: Image Generation
+target_user: Designers, Creative Professionals, Content Creators, Motion Graphics Artists
+pricing_model:
+  - subscription
+  - freemium
 opportunity_playbooks:
-  - "[[交互范式创新]]"
-  - "[[创意工具专业化]]"
-  - "[[多模态聚合]]"
+  - '[[交互范式创新]]'
+  - '[[创意工具专业化]]'
+  - '[[多模态聚合]]'
 design_playbooks:
-  - "[[实时反馈系统]]"
-  - "[[画布优先]]"
-  - "[[手势与AI融合]]"
+  - '[[实时反馈系统]]'
+  - '[[画布优先]]'
+  - '[[手势与AI融合]]'
 mvp_playbooks:
-  - "[[核心体验最小化]]"
-  - "[[单一渠道深化]]"
+  - '[[核心体验最小化]]'
+  - '[[单一渠道深化]]'
 pmf_playbooks:
-  - "[[即时反馈]]"
-  - "[[专业人士付费]]"
+  - '[[即时反馈]]'
+  - '[[专业人士付费]]'
 growth_playbooks:
-  - "[[口碑传播-作品展示]]"
-  - "[[社交内容分享]]"
+  - '[[口碑传播-作品展示]]'
+  - '[[社交内容分享]]'
 monetization_playbooks:
-  - "[[分层订阅制]]"
-  - "[[API 增值]]"
+  - '[[分层订阅制]]'
+  - '[[API 增值]]'
 moat_playbooks:
-  - "[[交互范式专利]]"
-  - "[[模型优化]]"
-  - "[[创意社区]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "中自主-中归因"
+  - '[[交互范式专利]]'
+  - '[[模型优化]]'
+  - '[[创意社区]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 中自主-中归因
 key_people:
-  - "[[Pranay Chevli]]"
-  - "[[Arun Chandrasekaran]]"
+  - '[[Pranay Chevli]]'
+  - '[[Arun Chandrasekaran]]'
 competitors:
-  - "[[Midjourney]]"
-  - "[[DALL-E 3]]"
-  - "[[Adobe Firefly]]"
-  - "[[Runway]]"
-last_updated: 2026-03-19
-confidence: "High"
+  - '[[Midjourney]]'
+  - '[[DALL-E 3]]'
+  - '[[Adobe Firefly]]'
+  - '[[Runway]]'
+last_updated: 2026-03-19T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+tags:
+  - 行业/图像设计
+  - 阶段/D轮+
+  - 地区/美国
 ---
 
 # Krea AI

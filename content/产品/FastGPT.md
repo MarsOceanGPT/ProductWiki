@@ -8,7 +8,7 @@ headquarters: 中国（Labring）
 founders: 云原生社区（Labring团队）
 stage: Growth
 status: Active
-metrics_date: 2026-03-17
+metrics_date: 2026-03-17T00:00:00.000Z
 arr: $2M+（估算，企业版+云服务）
 users: 500K+ 活跃用户
 monthly_visits: 100K+（文档官网）
@@ -21,16 +21,23 @@ category: AI Application Platform
 subcategory: Knowledge Base QA System / RAG Platform
 target_user: 企业客户、知识库管理者、内容团队、客服部门、产品团队
 pricing_model: 开源免费 + 云服务SaaS + 企业私有部署
-打法标签: [pmf, growth, monetization, vertical-first]
+打法标签:
+  - pmf
+  - growth
+  - monetization
+  - vertical-first
 distance_to_money: 中偏高（企业客户单价$500-5000/月，ROI可量化）
 industry_layer: 应用层（AI Agent + 知识库）
 pricing_quadrant: 免费（开源）→ 中端SaaS（$50-500/月）→ 企业版（$10K+/年）
 key_people: Labring团队（云原生社区）
-competitors: "[[Dify]], [[RAGFlow]], [[Bisheng]], [[Coze]], [[Flowise]]"
-related_products: "[[Dify]], [[RAGFlow]], [[Bisheng]], [[Sealos]]"
-last_updated: 2026-03-17
+competitors: '[[Dify]], [[RAGFlow]], [[Bisheng]], [[Coze]], [[Flowise]]'
+related_products: '[[Dify]], [[RAGFlow]], [[Bisheng]], [[Sealos]]'
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.88
 mars_reviewed: false
+tags:
+  - 行业/搜索知识
+  - 阶段/D轮+
 ---
 
 # FastGPT：垂直知识库RAG平台的开源标杆

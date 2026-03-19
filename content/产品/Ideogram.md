@@ -2,7 +2,7 @@
 type: product
 name: Ideogram
 url: https://ideogram.ai
-founded: 2022-08-01
+founded: 2022-08-01T00:00:00.000Z
 headquarters: Toronto, Canada
 founders:
   - Mohammad Norouzi (CEO)
@@ -11,7 +11,7 @@ founders:
   - Jonathan Ho
 stage: Series A
 status: private
-metrics_date: 2026-03-15
+metrics_date: 2026-03-15T00:00:00.000Z
 arr: null
 users: null
 monthly_visits: null
@@ -58,10 +58,13 @@ related_products:
   - Ideogram Character
   - Ideogram 2.0
   - Ideogram 3.0
-last_updated: 2026-03-19
+last_updated: 2026-03-19T00:00:00.000Z
 confidence: 0.85
 mars_reviewed: false
-title: "Ideogram - 用文字精度重新定义AI图像生成"
+title: Ideogram - 用文字精度重新定义AI图像生成
+tags:
+  - 行业/图像设计
+  - 阶段/A轮
 ---
 
 ## 一句话定位

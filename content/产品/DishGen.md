@@ -1,16 +1,18 @@
 ---
-title: "DishGen"
-subtitle: "AI 厨房教练，将冰箱变交互界面，重构家庭食物决策链"
-product_type: "AI 应用 / 个人助手"
-company: "DishGen Inc."
-founded: "2023年"
-founders: "未公开"
-hq: "Santa Clarita, CA, USA"
-stage: "早期 / Bootstrap"
-funding: "0美元(自筹)"
-key_metrics: "Free / Premium $7.99/月 | 日均食谱生成量 100M+ | 核心用户留存率 >60% | App Store评分 4.8/5"
-url: "https://www.dishgen.com"
-date_published: "2026-03-19"
+title: DishGen
+subtitle: AI 厨房教练，将冰箱变交互界面，重构家庭食物决策链
+product_type: AI 应用 / 个人助手
+company: DishGen Inc.
+founded: 2023年
+founders: 未公开
+hq: Santa Clarita, CA, USA
+stage: 早期 / Bootstrap
+funding: 0美元(自筹)
+key_metrics: Free / Premium $7.99/月 | 日均食谱生成量 100M+ | 核心用户留存率 >60% | App Store评分 4.8/5
+url: https://www.dishgen.com
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

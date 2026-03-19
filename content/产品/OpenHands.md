@@ -2,7 +2,7 @@
 type: product
 name: OpenHands
 name_cn: OpenHands AI 编程代理
-url: 'https://github.com/OpenHands/OpenHands'
+url: https://github.com/OpenHands/OpenHands
 founded: 2024
 headquarters: USA
 founders: []
@@ -21,7 +21,7 @@ valuation: $100M+ (estimated)
 employees: 20-30
 category: AI Development Tools / Coding Agent
 subcategory: Open-Source AI Software Engineer
-target_user: 'Developers, CTOs, Engineering Teams'
+target_user: Developers, CTOs, Engineering Teams
 pricing_model:
   - Open-Source (MIT)
   - Hosted SaaS (Beta/Paid)
@@ -65,7 +65,10 @@ related_products:
 last_updated: '2026-03-14'
 confidence: Medium-High
 mars_reviewed: false
-title: "OpenHands"
+title: OpenHands
+tags:
+  - 阶段/D轮+
+  - 地区/美国
 ---
 ## 基本面表格
 

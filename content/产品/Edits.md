@@ -2,9 +2,9 @@
 type: product
 name: Edits
 name_cn: Edits（Meta版）
-url: 'https://instagram.com/edits'
+url: https://instagram.com/edits
 founded: 2025
-headquarters: 'Menlo Park, US'
+headquarters: Menlo Park, US
 founders:
   - Meta/Facebook
   - Adam Mosseri（Instagram负责人）
@@ -18,7 +18,7 @@ valuation: N/A
 employees: N/A
 category: Video Editing
 subcategory: Short-form Video
-target_user: 'Content creators, TikTok/CapCut users'
+target_user: Content creators, TikTok/CapCut users
 pricing_model:
   - free
   - freemium
@@ -51,7 +51,12 @@ competitors:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "Edits"
+title: Edits
+tags:
+  - 行业/开发工具
+  - 行业/视频生成
+  - 阶段/D轮+
+  - 地区/美国
 ---
 # Edits
 

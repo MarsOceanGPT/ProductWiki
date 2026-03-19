@@ -2,7 +2,7 @@
 type: product
 name: Suno AI
 url: https://suno.com
-founded: 2022-11-01
+founded: 2022-11-01T00:00:00.000Z
 headquarters: Cambridge, MA, USA
 founders:
   - Mikey Shulman (CEO, Co-founder)
@@ -11,7 +11,7 @@ founders:
   - Keenan Freyberg (Co-founder, 已离职)
 stage: Scale-up
 status: Private
-metrics_date: 2026-02-27
+metrics_date: 2026-02-27T00:00:00.000Z
 arr: 300000000
 users: 2000000
 mau: 12000000
@@ -57,10 +57,13 @@ related_products:
   - Suno Studio（AI原生DAW）
   - Suno API（开发者集成）
   - Suno Covers（已删除功能）
-last_updated: 2026-03-17
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.92
 mars_reviewed: false
-title: "Suno"
+title: Suno
+tags:
+  - 阶段/A轮
+  - 地区/美国
 ---
 
 ## 一句话定位

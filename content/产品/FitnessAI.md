@@ -1,16 +1,18 @@
 ---
-title: "FitnessAI"
-subtitle: "AI个人训练器，让算法比人类教练更懂你的肌肉"
-product_type: "AI Fitness Coach / Adaptive Workout App"
-company: "FitnessAI (Jumpers Inc.旗下)"
-founded: "2019年"
-founders: "Jake Mor (Founder & CEO)"
-hq: "New York, USA"
-stage: "Acquired / Profitability"
-funding: "$369K (Y Combinator + Leonis Investment) | 2020年被Jumpers收购"
-key_metrics: "40,000+ 训练者数据库 | 5.9M 工作量数据 | App Store 4.8★ | 用户称优于真人教练"
-url: "https://www.fitnessai.com"
-date_published: "2026-03-19"
+title: FitnessAI
+subtitle: AI个人训练器，让算法比人类教练更懂你的肌肉
+product_type: AI Fitness Coach / Adaptive Workout App
+company: FitnessAI (Jumpers Inc.旗下)
+founded: 2019年
+founders: Jake Mor (Founder & CEO)
+hq: New York, USA
+stage: Acquired / Profitability
+funding: $369K (Y Combinator + Leonis Investment) | 2020年被Jumpers收购
+key_metrics: 40,000+ 训练者数据库 | 5.9M 工作量数据 | App Store 4.8★ | 用户称优于真人教练
+url: https://www.fitnessai.com
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

@@ -2,7 +2,7 @@
 type: product
 name: Meitu
 name_cn: 美图秀秀
-url: 'https://meitu.com'
+url: https://meitu.com
 founded: 2008
 headquarters: 厦门
 founders:
@@ -49,7 +49,9 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: High
 mars_reviewed: false
-title: "Meitu"
+title: Meitu
+tags:
+  - 阶段/A轮
 ---
 # 美图秀秀 Meitu
 

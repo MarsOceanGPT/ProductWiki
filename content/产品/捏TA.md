@@ -31,7 +31,7 @@ pricing_model: 免费+订阅+内购
   - interactive_storytelling
 distance_to_money: 距交易 2-3 层（用户→创作→社区→变现）
 industry_layer: 应用层（AIGC + 社区）
-pricing_quadrant: "免费+高级订阅+内购"
+pricing_quadrant: 免费+高级订阅+内购
 key_people:
   - 待补充
 competitors:
@@ -42,9 +42,12 @@ related_products:
   - Stable Diffusion（基础模型）
   - 橙光游戏
   - 微博超话
-last_updated: 2026-03-16
+last_updated: 2026-03-16T00:00:00.000Z
 confidence: 中
 mars_reviewed: false
+tags:
+  - 行业/社交陪伴
+  - 阶段/D轮+
 ---
 
 ## 一句话

@@ -1,16 +1,18 @@
 ---
-title: "Lingvist"
-subtitle: "AI词汇算法 + 爱沙尼亚极简精神：用「遗忘曲线优化」重新定义语言学习的天花板"
-product_type: "AI-Powered Vocabulary Learning Platform"
-company: "Lingvist OÜ"
-founded: "2013年6月（Tartu, Estonia）"
-founders: "Mait Müntel, Mark Trukk"
-hq: "Tartu, Estonia"
-stage: "Bootstrap / Profitability"
-funding: "$1.2M 融资（2014-2017）| 盈利运营状态"
-key_metrics: "1M+ 注册用户 | 100+ 国家 | 13种学习语言 | 98%续订率（推测）| 月均$3 ARPU | 无广告模式"
-url: "https://lingvist.com"
-date_published: "2026-03-19"
+title: Lingvist
+subtitle: AI词汇算法 + 爱沙尼亚极简精神：用「遗忘曲线优化」重新定义语言学习的天花板
+product_type: AI-Powered Vocabulary Learning Platform
+company: Lingvist OÜ
+founded: 2013年6月（Tartu, Estonia）
+founders: Mait Müntel, Mark Trukk
+hq: Tartu, Estonia
+stage: Bootstrap / Profitability
+funding: $1.2M 融资（2014-2017）| 盈利运营状态
+key_metrics: 1M+ 注册用户 | 100+ 国家 | 13种学习语言 | 98%续订率（推测）| 月均$3 ARPU | 无广告模式
+url: https://lingvist.com
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

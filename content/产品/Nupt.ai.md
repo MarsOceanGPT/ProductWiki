@@ -1,16 +1,18 @@
 ---
-title: "Nupt.ai"
-subtitle: "AI婚礼规划师：用生成式AI分解人生第二大决策"
-product_type: "AI Application / Vertical SaaS"
-company: "Nupt.ai Inc."
-founded: "2024年初"
-founders: "未公开(推估：婚礼策划行业出身 + 技术联合创始人)"
-hq: "美国(推估硅谷或纽约)"
-stage: "Early Stage / Pre-A"
-funding: "未披露(推估$500K-2M种子轮)"
-key_metrics: "日活用户 < 10K | 平均订单价值 $180 | 客户复购率 35%"
-url: "https://nupt.ai"
-date_published: "2026-03-19"
+title: Nupt.ai
+subtitle: AI婚礼规划师：用生成式AI分解人生第二大决策
+product_type: AI Application / Vertical SaaS
+company: Nupt.ai Inc.
+founded: 2024年初
+founders: 未公开(推估：婚礼策划行业出身 + 技术联合创始人)
+hq: 美国(推估硅谷或纽约)
+stage: Early Stage / Pre-A
+funding: 未披露(推估$500K-2M种子轮)
+key_metrics: 日活用户 < 10K | 平均订单价值 $180 | 客户复购率 35%
+url: https://nupt.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话

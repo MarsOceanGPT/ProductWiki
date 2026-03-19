@@ -1,20 +1,22 @@
 ---
-title: "Fireflies.ai"
-subtitle: "用对话智能将会议转化为可执行洞察，通过情感分析与Deal智能重新定义销售与团队协作中的'信息跨越'"
-product_type: "AI Meeting Intelligence / Conversation Intelligence Platform"
-company: "Fireflies Inc."
-founded: "2016年（成立），创始人年仅20岁时从UPenn创办"
-founders: "Krish Ramineni (CEO & Co-Founder) | Sam Udotong (CTO & Co-Founder)"
-hq: "Global（团队遍布20个国家，47个城市）"
-stage: "Post-Series A（未完成Series B，但已达成独角兽估值$1B+，通过Tender Offer获得）"
-funding: "总融资 $19-24M（多轮融资，主要为Seed + Series A $14M @ 2021年5月 by Khosla Ventures）"
-key_metrics: "用户：2000万+ | 组织：50万+ | 处理会议分钟数：20亿+ | 财富500强覆盖率：75% | 估值：$1B+（2025年6月，基于Tender Offer）| 盈利年份：2023年至今（少见的AI盈利企业）| YoY增长：三位数（无需新融资）"
-url: "https://fireflies.ai"
-api_url: "https://fireflies.ai/api"
-date_published: "2026-03-19"
+title: Fireflies.ai
+subtitle: 用对话智能将会议转化为可执行洞察，通过情感分析与Deal智能重新定义销售与团队协作中的'信息跨越'
+product_type: AI Meeting Intelligence / Conversation Intelligence Platform
+company: Fireflies Inc.
+founded: 2016年（成立），创始人年仅20岁时从UPenn创办
+founders: Krish Ramineni (CEO & Co-Founder) | Sam Udotong (CTO & Co-Founder)
+hq: Global（团队遍布20个国家，47个城市）
+stage: Post-Series A（未完成Series B，但已达成独角兽估值$1B+，通过Tender Offer获得）
+funding: 总融资 $19-24M（多轮融资，主要为Seed + Series A $14M @ 2021年5月 by Khosla Ventures）
+key_metrics: 用户：2000万+ | 组织：50万+ | 处理会议分钟数：20亿+ | 财富500强覆盖率：75% | 估值：$1B+（2025年6月，基于Tender Offer）| 盈利年份：2023年至今（少见的AI盈利企业）| YoY增长：三位数（无需新融资）
+url: https://fireflies.ai
+api_url: https://fireflies.ai/api
+date_published: '2026-03-19'
 mars_reviewed: false
-confidence: "High（基于官方网站、Crunchbase、融资公告、媒体报道）"
-last_updated: "2026-03-19"
+confidence: High（基于官方网站、Crunchbase、融资公告、媒体报道）
+last_updated: '2026-03-19'
+tags:
+  - 阶段/A轮
 ---
 
 ## 一句话定位

@@ -1,61 +1,71 @@
 ---
 type: product
-name: "Glow"
-name_cn: "Glow / Talkie"
-url: "https://www.talkieai.com"
+name: Glow
+name_cn: Glow / Talkie
+url: https://www.talkieai.com
 founded: 2022
-headquarters: "Shanghai, China"
-founders: ["Yan Junjie", "Yang Bin", "Zhou Yucong"]
-stage: "Public (IPO)"
-status: "Active"
+headquarters: Shanghai, China
+founders:
+  - Yan Junjie
+  - Yang Bin
+  - Zhou Yucong
+stage: Public (IPO)
+status: Active
 metrics_date: 2026-01
-arr: "$79M+"
-users: "1.2-2.8M DAU (Talkie), 11M MAU (历史), 2000万+ 累计注册"
-funding_total: "$600M+ (last round)"
-valuation: "$13.7B (IPO debut valuation)"
-employees: "200+"
-category: "AI Companion"
-subcategory: "AI Character Chat"
-target_user: "Gen Z, AI Enthusiasts, Entertainment Seekers"
-pricing_model: ["subscription", "in-app purchase", "character cards"]
+arr: $79M+
+users: 1.2-2.8M DAU (Talkie), 11M MAU (历史), 2000万+ 累计注册
+funding_total: $600M+ (last round)
+valuation: $13.7B (IPO debut valuation)
+employees: 200+
+category: AI Companion
+subcategory: AI Character Chat
+target_user: Gen Z, AI Enthusiasts, Entertainment Seekers
+pricing_model:
+  - subscription
+  - in-app purchase
+  - character cards
 opportunity_playbooks:
-  - "[[国产AI全球化]]"
-  - "[[AI陪伴经济]]"
-  - "[[模型商业化]]"
+  - '[[国产AI全球化]]'
+  - '[[AI陪伴经济]]'
+  - '[[模型商业化]]'
 design_playbooks:
-  - "[[角色扮演]]"
-  - "[[社交游戏化]]"
-  - "[[多模态融合]]"
+  - '[[角色扮演]]'
+  - '[[社交游戏化]]'
+  - '[[多模态融合]]'
 mvp_playbooks:
-  - "[[速度优先]]"
-  - "[[快速迭代]]"
+  - '[[速度优先]]'
+  - '[[快速迭代]]'
 pmf_playbooks:
-  - "[[情感共鸣]]"
-  - "[[沉浸体验]]"
+  - '[[情感共鸣]]'
+  - '[[沉浸体验]]'
 growth_playbooks:
-  - "[[全球化扩张]]"
-  - "[[本地化适配]]"
+  - '[[全球化扩张]]'
+  - '[[本地化适配]]'
 monetization_playbooks:
-  - "[[订阅制]]"
-  - "[[虚拟商品]]"
-  - "[[抽卡机制]]"
+  - '[[订阅制]]'
+  - '[[虚拟商品]]'
+  - '[[抽卡机制]]'
 moat_playbooks:
-  - "[[模型能力]]"
-  - "[[社区黏性]]"
-distance_to_money: "近"
-industry_layer: "应用层"
-pricing_quadrant: "中自主-高情感"
+  - '[[模型能力]]'
+  - '[[社区黏性]]'
+distance_to_money: 近
+industry_layer: 应用层
+pricing_quadrant: 中自主-高情感
 key_people:
-  - "[[Yan Junjie]]"
-  - "[[Yang Bin]]"
+  - '[[Yan Junjie]]'
+  - '[[Yang Bin]]'
 competitors:
-  - "[[Character.AI]]"
-  - "[[Chai]]"
-  - "[[Candy AI]]"
-  - "[[Claude]]"
-last_updated: 2026-03-19
-confidence: "High"
+  - '[[Character.AI]]'
+  - '[[Chai]]'
+  - '[[Candy AI]]'
+  - '[[Claude]]'
+last_updated: 2026-03-19T00:00:00.000Z
+confidence: High
 mars_reviewed: false
+tags:
+  - 行业/社交陪伴
+  - 阶段/B轮
+  - 地区/中国
 ---
 
 # Glow（Talkie / Xing Ye）

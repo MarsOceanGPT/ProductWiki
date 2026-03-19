@@ -1,16 +1,18 @@
 ---
-title: "Together AI"
-subtitle: "开源模型推理平台，成为应用层的「模型超市」"
-product_type: "AI Infrastructure / Model Inference Platform"
-company: "Together Computer"
-founded: "2022年7月"
-founders: "Tim Tully (CEO), Ramakrishnan Iyer (CTO), Shreyas Shankar (Lead), Isaac Ong (Co-founder)"
-hq: "San Francisco, CA"
-stage: "Series B"
-funding: "$60M Series B (2024年5月) | 估值 $500M+ | 总融资 $100M+"
-key_metrics: "50K+ 日活API调用 | 100+ 开源模型托管 | 平均延迟<100ms | API成本对标Anthropic的50-70%"
-url: "https://www.together.ai"
-date_published: "2026-03-19"
+title: Together AI
+subtitle: 开源模型推理平台，成为应用层的「模型超市」
+product_type: AI Infrastructure / Model Inference Platform
+company: Together Computer
+founded: 2022年7月
+founders: Tim Tully (CEO), Ramakrishnan Iyer (CTO), Shreyas Shankar (Lead), Isaac Ong (Co-founder)
+hq: San Francisco, CA
+stage: Series B
+funding: $60M Series B (2024年5月) | 估值 $500M+ | 总融资 $100M+
+key_metrics: 50K+ 日活API调用 | 100+ 开源模型托管 | 平均延迟<100ms | API成本对标Anthropic的50-70%
+url: https://www.together.ai
+date_published: '2026-03-19'
+tags:
+  - 阶段/B轮
 ---
 
 ## 一句话

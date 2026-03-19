@@ -2,7 +2,7 @@
 type: product
 name: Google AI Studio
 name_cn: Google AI Studio
-url: 'https://aistudio.google.com'
+url: https://aistudio.google.com
 founded: 2023
 headquarters: Mountain View
 founders:
@@ -19,8 +19,8 @@ funding_rounds: []
 valuation: Strategic value only
 employees: Embedded in Google org
 category: AI Developer Tools / LLM API Access
-subcategory: 'Developer Platform, API Gateway, Model Access'
-target_user: 'Developers, startups, enterprises using Google AI models'
+subcategory: Developer Platform, API Gateway, Model Access
+target_user: Developers, startups, enterprises using Google AI models
 pricing_model:
   - Freemium
   - Pay-as-you-go API pricing
@@ -41,7 +41,7 @@ pmf_playbooks:
   - Startups avoiding OpenAI costs
   - Enterprise standardization on Google
 growth_playbooks:
-  - 'Zero advertising, organic discovery'
+  - Zero advertising, organic discovery
   - Enterprise sales integration
   - Cloud integration (GCP)
   - Competitive pricing vs OpenAI
@@ -72,7 +72,10 @@ related_products:
 last_updated: '2026-03-14'
 confidence: Medium
 mars_reviewed: false
-title: "Google AI Studio"
+title: Google AI Studio
+tags:
+  - 行业/开发工具
+  - 阶段/A轮
 ---
 # Google AI Studio 产品卡片
 

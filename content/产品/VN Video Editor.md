@@ -2,9 +2,9 @@
 type: product
 name: VN Video Editor
 name_cn: VN视频编辑器
-url: 'https://vnvideoed.com'
+url: https://vnvideoed.com
 founded: 2015
-headquarters: 'Ho Chi Minh City, Vietnam'
+headquarters: Ho Chi Minh City, Vietnam
 founders:
   - Viet Nam Team
 stage: Scale
@@ -53,7 +53,10 @@ related_products:
 last_updated: 2026-03-14T00:00:00.000Z
 confidence: Medium
 mars_reviewed: false
-title: "VN Video Editor"
+title: VN Video Editor
+tags:
+  - 行业/视频生成
+  - 阶段/A轮
 ---
 # VN Video Editor（越南视频编辑应用）
 

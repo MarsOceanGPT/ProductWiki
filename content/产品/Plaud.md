@@ -8,10 +8,10 @@ url_notepin: https://www.plaud.ai/products/plaud-notepin
 url_notepro: https://www.plaud.ai/products/plaud-note-pro
 founded: 2022
 headquarters: 美国/中国
-founders: "Xu Gao (Nathan Xu/许高) - 连续创业者"
+founders: Xu Gao (Nathan Xu/许高) - 连续创业者
 stage: Growth / Profitability
 status: Active
-metrics_date: 2026-03-17
+metrics_date: 2026-03-17T00:00:00.000Z
 arr: $250M (revenue 2025预期)[^1]
 users: 1500000+[^2]
 units_shipped: 1000000+[^2]
@@ -26,16 +26,23 @@ category: AI Hardware / Productivity Device
 subcategory: AI Recording Pen + Transcription + Wearable
 target_user: 学生、专业人士、会议记录者、国际商务人士
 pricing_model: 硬件一次性购买 + 云服务订阅 + 企业版
-打法标签: [hardware_saas, pmf_verified, hardware_first, international_expansion]
+打法标签:
+  - hardware_saas
+  - pmf_verified
+  - hardware_first
+  - international_expansion
 distance_to_money: 极近（硬件销售直接变现，云服务高毛利订阅）
 industry_layer: 硬件 + 应用层 + 基础设施（LLM调用）
 pricing_quadrant: 硬件 $99-$179 → 云服务订阅 $99-$240/年 → 企业版待定
-key_people: "Xu Gao (CEO/创始人) - 连续创业者，历经4次创业"
-competitors: "[[Otter.ai]], [[Fireflies.ai]], [[讯飞智能笔]], [[Apple Pencil]]"
-related_products: "[[Notion AI]], [[Dify]], [[YouMind]], [[Tldraw]]"
-last_updated: 2026-03-17
+key_people: Xu Gao (CEO/创始人) - 连续创业者，历经4次创业
+competitors: '[[Otter.ai]], [[Fireflies.ai]], [[讯飞智能笔]], [[Apple Pencil]]'
+related_products: '[[Notion AI]], [[Dify]], [[YouMind]], [[Tldraw]]'
+last_updated: 2026-03-17T00:00:00.000Z
 confidence: 0.92
 mars_reviewed: false
+tags:
+  - 行业/效率工具
+  - 阶段/A轮
 ---
 
 ## 一句话定位
