@@ -566,7 +566,7 @@ C端(日活300K) → 建立"品牌信誉" → 企业信任 → 签API合约
 ### 官方渠道
 - [意间AI官网](https://portal.yjai.art)
 - [意间开放API](https://open.yjai.art/)
-- [意间微信小程序](https://sj.qq.com/appdetail/wx828109001a513bac)
+- 意间微信小程序（搜索"意间AI"）
 
 ### 产品与功能
 - [意间AI工具集](https://ai-bot.cn/yjai-art/)
