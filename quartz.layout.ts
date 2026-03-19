@@ -24,6 +24,32 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: {
+          depth: 2,
+          scale: 1.1,
+          repelForce: 0.5,
+          centerForce: 0.3,
+          linkDistance: 30,
+          fontSize: 0.5,
+          showTags: false,
+          focusOnHover: true,
+        },
+        globalGraph: {
+          depth: -1,
+          scale: 0.9,
+          repelForce: 0.5,
+          centerForce: 0.3,
+          linkDistance: 30,
+          fontSize: 0.6,
+          showTags: false,
+          focusOnHover: true,
+          enableRadial: false,
+        },
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
