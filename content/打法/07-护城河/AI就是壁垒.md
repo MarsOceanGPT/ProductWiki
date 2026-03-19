@@ -53,7 +53,27 @@ Perplexity 定期更新后端模型选择（支持 GPT-4、Claude、Gemini），
 2. **把"模型强"和"产品强"搞混**：仅仅因为接入了强模型，产品就变强了。但竞品也可以接入同一个模型。真正的壁垒是"怎么用这个模型"的独特方式。比如 Cursor 不仅用了好模型，还在"怎么理解 codebase、怎么生成修改"上有独特的优化。
 3. **迭代太慢**：如果你的迭代周期是"3 个月才换一个模型"，竞品"1 个月换一个"，就会被甩开。要把迭代周期控制在"能快速反应新模型"的范围内。
 
+
+
+## 使用此打法的产品
+
+- [[产品/OpenAI|OpenAI]]
+- [[产品/Anthropic Claude|Anthropic Claude]]
+- [[产品/DeepSeek|DeepSeek]]
+- [[产品/Google Gemini|Google Gemini]]
+- [[产品/Meta Llama|Meta Llama]]
+- [[产品/Mistral|Mistral]]
+- [[产品/Cohere|Cohere]]
+- [[产品/Stability AI|Stability AI]]
+- [[产品/Hugging Face|Hugging Face]]
+- [[产品/Midjourney|Midjourney]]
+- [[产品/Perplexity|Perplexity]]
+- [[产品/Character.ai|Character.ai]]
+- [[产品/Scale AI|Scale AI]]
+- [[产品/Harvey|Harvey]]
+
 ## 相关打法
 
-- [[打法/01-机会识别/吃技术升级红利|吃技术升级红利]] — 初期通过吃红利增长，长期通过保持快速迭代形成壁垒
-- [[打法/03-MVP策略/技术适配|技术适配]] — 前期是 MVP 策略，后期是护城河建设
+- [[打法/07-护城河/效率优先|效率优先]]
+- [[打法/07-护城河/数据飞轮|数据飞轮]]
+- [[打法/06-商业化/按消耗-请求数|按消耗-请求数]]

@@ -50,7 +50,27 @@ Cursor 的 Composer 模式就是 Agent 思维的应用。你描述一个需求�
 1. **什么都想做成 Agent**：不是所有任务都适合 Agent。一些需要人类判断、创意、个性化偏好的任务，Agent 反而容易让人失控。比如"写一篇文章"，可能你想要的是 Copilot 模式（AI 建议，自己写），而不是 Agent 模式（AI 全自动写）。
 2. **过度自动化导致用户感到"黑盒"**：如果用户完全看不到 AI 在做什么，一旦出问题就很难调试。好的 Agent 产品需要"透明的过程"——用户能看到每一步在做什么，如果不满意可以中断或调整。
 
+
+
+## 使用此打法的产品
+
+- [[产品/Manus|Manus]]
+- [[产品/Ada|Ada]]
+- [[产品/Harvey|Harvey]]
+- [[产品/DevRev|DevRev]]
+- [[产品/Genspark|Genspark]]
+- [[产品/AutoGPT|AutoGPT]]
+- [[产品/AgentGPT|AgentGPT]]
+- [[产品/Hugging Face Agents|Hugging Face Agents]]
+- [[产品/Dify|Dify]]
+- [[产品/OpenHands|OpenHands]]
+- [[产品/n8n|n8n]]
+- [[产品/Zapier AI Actions|Zapier AI Actions]]
+- [[产品/LangChain|LangChain]]
+- [[产品/Vercel v0|Vercel v0]]
+
 ## 相关打法
 
-- [[打法/02-产品设计/Copilot 范式|Copilot 范式]] — Agent 是完全自主，Copilot 是辅助人决策，两种都有价值
-- [[打法/01-机会识别/从做任务到出成果|从做任务到出成果]] — Agent 的本质就是把中间的所有任务都吸收，直接交付成果
+- [[打法/02-产品设计/Copilot 范式|Copilot 范式]]
+- [[打法/01-机会识别/从做任务到出成果|从做任务到出成果]]
+- [[打法/07-护城河/效率优先|效率优先]]

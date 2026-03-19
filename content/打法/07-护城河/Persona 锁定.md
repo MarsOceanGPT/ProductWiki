@@ -57,7 +57,26 @@ Replika 作为 AI 伴侣应用，整个商业模式就建立在 Persona 锁定�
 1. **把"记住用户信息"当成"了解用户"**：有些系统只是记住用户说过"我叫 Tom"、"我喜欢篮球"。但这不是真正的"了解"。真正的 Persona 锁定需要系统能"理解用户的情感需求、能做出有温度的回应"。
 2. **过度营销"情感连接"**：有些产品为了强化 Persona 锁定，会夸大"AI 可以像人一样爱你"。这样容易引起道德争议，甚至伤害用户。应该保持"这是一个很好用的工具，也能提供情感支持"的平衡。
 
+
+
+## 使用此打法的产品
+
+- [[产品/Character.ai|Character.ai]]
+- [[产品/Chai|Chai]]
+- [[产品/Replika|Replika]]
+- [[产品/CrushOn.ai|CrushOn.ai]]
+- [[产品/My AI|My AI]]
+- [[产品/Khanmigo|Khanmigo]]
+- [[产品/Bing Chat|Bing Chat]]
+- [[产品/Grok|Grok]]
+- [[产品/Ask the Oracle|Ask the Oracle]]
+- [[产品/Xiaohongshu|Xiaohongshu]]
+- [[产品/XiaoIce|XiaoIce]]
+- [[产品/Lovable|Lovable]]
+- [[产品/NotebookLM|NotebookLM]]
+
 ## 相关打法
 
-- [[打法/05-增长引擎/社交粘性|社交粘性]] — Persona 锁定是情感粘性的最高形态
-- [[打法/02-产品设计/角色锁定|角色锁定]] — 角色锁定是产品设计层面的，Persona 锁定是用户关系层面的
+- [[打法/02-产品设计/角色锁定|角色锁定]]
+- [[打法/07-护城河/品牌信任|品牌信任]]
+- [[打法/05-增长引擎/社交粘性|社交粘性]]

@@ -58,7 +58,27 @@ Claude 作为聊天模型，很多用户在社交媒体、博客、GitHub Issues
 2. **短期期待 SEO 效果**：SEO 是一个长期策略。内容发布后，通常要 3-6 个月才能开始看到排名。很多团队等不及就放弃了。要有耐心，持续产出内容。
 3. **内容和产品不一致**：有些产品的 SEO 内容写得很漂亮，但用户进来用产品时发现"实际和内容描述的不一样"。这样会伤害品牌信任。内容应该是产品的真实体现。
 
+
+
+## 使用此打法的产品
+
+- [[产品/Perplexity|Perplexity]]
+- [[产品/Copilot|Copilot]]
+- [[产品/You.com|You.com]]
+- [[产品/Brainly|Brainly]]
+- [[产品/Cubox|Cubox]]
+- [[产品/NotionPress|NotionPress]]
+- [[产品/Medium|Medium]]
+- [[产品/Dev.to|Dev.to]]
+- [[产品/ProductHunt|ProductHunt]]
+- [[产品/Indie Hackers|Indie Hackers]]
+- [[产品/Twitter/X|Twitter/X]]
+- [[产品/LinkedIn|LinkedIn]]
+- [[产品/YouTube|YouTube]]
+- [[产品/Substack|Substack]]
+
 ## 相关打法
 
-- [[打法/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]] — 很多 SEO 流量其实来自产品输出本身的分享
-- [[打法/05-增长引擎/借势崛起|借势崛起]] — 好的 SEO 排名就是一种"借势"——借 Google 的流量
+- [[打法/05-增长引擎/借势崛起|借势崛起]]
+- [[打法/05-增长引擎/社交粘性|社交粘性]]
+- [[打法/07-护城河/品牌信任|品牌信任]]

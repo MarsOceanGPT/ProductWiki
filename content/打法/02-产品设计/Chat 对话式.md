@@ -54,8 +54,27 @@ Chat + 角色扮演。每个 AI 都有不同的"人设"和"回答风格"，这�
 1. **把 Chat 当成全能工具**：不是。Chat 适合信息密集、需要对话深化的任务。但有些任务（比如专业的配图、视频编辑）根本不适合 Chat，试图硬用 Chat 反而降低效率。
 2. **忽视"对话疲劳"**：用户不会一直想和 AI 聊天。有时候他们就想快速拿结果，不想反复对话。好的产品需要"快速模式"和"深度对话模式"的组合。
 
+
+
+## 使用此打法的产品
+
+- [[产品/ChatGPT|ChatGPT]]
+- [[产品/Claude|Claude]]
+- [[产品/Grok|Grok]]
+- [[产品/Character.ai|Character.ai]]
+- [[产品/Chai|Chai]]
+- [[产品/Replika|Replika]]
+- [[产品/CrushOn.ai|CrushOn.ai]]
+- [[产品/Copilot Chat|Copilot Chat]]
+- [[产品/Perplexity|Perplexity]]
+- [[产品/You.com|You.com]]
+- [[产品/Doubao|Doubao]]
+- [[产品/Qwen|Qwen]]
+- [[产品/Llama Chat|Llama Chat]]
+- [[产品/Poe|Poe]]
+
 ## 相关打法
 
-- [[打法/02-产品设计/生成式界面|生成式界面]] — Chat 界面本身虽然是固定的，但可以搭配生成式的内容呈现
-- [[打法/02-产品设计/Copilot 范式|Copilot 范式]] — Chat 可以搭配 Copilot 的辅助建议模式
-- [[打法/02-产品设计/角色锁定|角色锁定]] — Chat 可以用特定角色来提升用户粘性
+- [[打法/02-产品设计/Copilot 范式|Copilot 范式]]
+- [[打法/02-产品设计/角色锁定|角色锁定]]
+- [[打法/07-护城河/Persona 锁定|Persona 锁定]]

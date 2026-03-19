@@ -417,6 +417,12 @@ Qwen3-Max-Thinking vs GPT-5.2-Thinking：
 
 ---
 
+
+
+## 关联打法
+
+- [[打法/02-产品设计/Chat 对话式|Chat 对话式]]
+
 ## 时间线
 
 | 时间 | 事件 | 影响 |

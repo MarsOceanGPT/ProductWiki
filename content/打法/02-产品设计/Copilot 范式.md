@@ -53,7 +53,27 @@ Tab 补全就是典型的 Copilot 模式。Cursor 看着你的代码上下文，
 1. **把 Copilot 当 Agent 用**：有些产品试图把 Copilot 模式"自动化"，结果变成了不太可靠的 Agent，反而失去了 Copilot 的优势。要明确"人主导还是 AI 主导"。
 2. **建议太多导致选择困难**：给 5 个建议和给 1 个最好的建议，用户体验完全不同。更多选项不一定更好，有时候一个高置信度的建议反而更有价值。
 
+
+
+## 使用此打法的产品
+
+- [[产品/Cursor|Cursor]]
+- [[产品/Grammarly|Grammarly]]
+- [[产品/GitHub Copilot|GitHub Copilot]]
+- [[产品/Notion AI|Notion AI]]
+- [[产品/Gmail Smart Compose|Gmail Smart Compose]]
+- [[产品/JetBrains AI|JetBrains AI]]
+- [[产品/Codeium|Codeium]]
+- [[产品/Claude Code|Claude Code]]
+- [[产品/WPS AI|WPS AI]]
+- [[产品/Copilot (Microsoft)|Copilot (Microsoft)]]
+- [[产品/Khanmigo|Khanmigo]]
+- [[产品/You.com|You.com]]
+- [[产品/Gamma|Gamma]]
+- [[产品/Raycast AI|Raycast AI]]
+
 ## 相关打法
 
-- [[打法/02-产品设计/Agent 代理式|Agent 代理式]] — 光谱的另一端是完全自主的 Agent
-- [[打法/02-产品设计/Chat 对话式|Chat 对话式]] — 对话中也可以加入 Copilot 式的建议
+- [[打法/02-产品设计/Agent 代理式|Agent 代理式]]
+- [[打法/02-产品设计/Chat 对话式|Chat 对话式]]
+- [[打法/07-护城河/工作流嵌入|工作流嵌入]]

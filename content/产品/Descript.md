@@ -735,3 +735,15 @@ Descript通过**"编辑文本 = 编辑视频/音频"的范式转移**，将传�
 - [The Podcast Haven - Descript 2025 Update](https://thepodcasthaven.com/descript-your-ai-powered-podcast-video-studio-2025-update/)
 - [Descript Pricing Overhaul - Media Minutes & AI Credits](https://cotovan.com/post/descript-pricing-overhaul-media-minutes-ai-credits-topups-explained/)
 - [Descript vs Riverside Comparison - Opus Clip Blog](https://www.opus.pro/blog/descript-vs-riverside)
+
+
+## 关联打法
+
+- [[打法/01-机会识别/把玩法封装成产品|把玩法封装成产品]]
+- [[打法/01-机会识别/打开能力门槛新市场|打开能力门槛新市场]]
+- [[打法/02-产品设计/生成式界面|生成式界面]]
+- [[打法/03-MVP策略/关键功能聚焦|关键功能聚焦]]
+- [[打法/04-PMF验证/迫切刚需|迫切刚需]]
+- [[打法/05-增长引擎/病毒传播-产品即内容|病毒传播-产品即内容]]
+- [[打法/07-护城河/效率优先|效率优先]]
+- [[打法/01-机会识别/从做任务到出成果|从做任务到出成果]]

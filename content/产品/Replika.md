@@ -705,6 +705,17 @@ origin story本身特别powerful：一个女性程序员因为好友的死亡，
 
 ---
 
+
+
+## 关联打法
+
+- [[打法/01-机会识别/打开价格门槛新市场|打开价格门槛新市场]]
+- [[打法/02-产品设计/Chat 对话式|Chat 对话式]]
+- [[打法/02-产品设计/角色锁定|角色锁定]]
+- [[打法/05-增长引擎/社交粘性|社交粘性]]
+- [[打法/07-护城河/Persona 锁定|Persona 锁定]]
+- [[打法/07-护城河/数据飞轮|数据飞轮]]
+
 ## 参考来源
 
 - [Replika Italy DPA Ban和GDPR罚款](https://iapp.org/news/a/italy-s-dpa-reaffirms-ban-on-replika-over-ai-and-children-privacy-concerns) — 官方监管决议，5百万欧元罚款依据
