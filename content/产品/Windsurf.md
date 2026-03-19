@@ -13,6 +13,11 @@ tags:
   - 行业/开发工具
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Windsurf** · 开发者工具 / AI IDE · 成熟 (Acquired by Cognition, July 2025)
+> #行业-开发工具
+
+
 
 ## 一句话定位
 

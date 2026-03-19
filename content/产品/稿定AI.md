@@ -69,6 +69,12 @@ mars_reviewed: false
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **稿定设计 / Gaoding Design** · 在线设计平台 / AI 设计工具 / SaaS · 杭州、厦门 · Growth / Mature
+> 待补充 估值 · 未公开 ARR · 1 亿+（全球） 用户
+> 竞品：Canva（全球竞品） · Adobe Express（全球竞品） · Lovart AI（直接竞品）
+
+
 
 ## 一句话定位
 

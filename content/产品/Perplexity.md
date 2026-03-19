@@ -30,6 +30,11 @@ dau: 2M+
 queries_monthly: 1.2-1.5B (2026年中)
 last_updated: 2026-03-17T00:00:00.000Z
 ---
+> [!info] 快速了解
+> **Perplexity AI** · San Francisco · 增长期 Growth Stage
+> $20-21.21B (2025年9月-2026年3月) 估值 · ~$200M (2025年底) ARR
+
+
 
 ## 一句话定位
 

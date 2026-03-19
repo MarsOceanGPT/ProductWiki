@@ -56,6 +56,13 @@ tags:
   - 阶段/D轮+
   - 地区/中国
 ---
+> [!info] 快速了解
+> **VivaCut** · Mobile Video Editor · Hangzhou, China · Growth
+> 未公开 估值 · $50M+（估计） ARR · 50M+ 全球用户 用户
+> #行业-开发工具 #行业-视频生成
+> 竞品：[[CapCut]] · [[产品/Edits|Edits]] · [[VN]]
+
+
 # VivaCut
 
 > 一句话：中国团队的移动视频编辑工具，更专业的多轨道编辑、零广告体验、支持 AI 功能，与 CapCut 形成"专业 vs 易用"的差异化竞争。

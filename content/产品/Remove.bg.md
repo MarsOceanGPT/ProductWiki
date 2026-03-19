@@ -77,6 +77,13 @@ tags:
   - 行业/图像设计
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Remove.bg** · Image Processing, API Service · Berlin, Germany (Kaleido AI) · Acquired (by Canva 2021)
+> Part of Canva $45B 估值 · $10M+ (estimated, part of Canva) ARR · 50M+ (cumulative) 用户
+> #行业-图像设计
+> 竞品：Photoroom · Adobe removal · Pixlr
+
+
 # Remove.bg 产品卡片
 
 ## 基本面表格

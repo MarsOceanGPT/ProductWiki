@@ -58,6 +58,13 @@ tags:
   - 阶段/C轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **OpusClip** · AI Video Clipping / Short-form Content · Redwood City, CA · Series A
+> $215M 估值 · $20M ARR · 10M 用户
+> #行业-开发工具 #行业-视频生成
+> 竞品：Descript · Runway · VEED.io
+
+
 
 ## 一句话定位
 

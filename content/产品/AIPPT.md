@@ -55,6 +55,12 @@ mars_reviewed: false
 tags:
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **AIPPT** · AI PPT 生成 / 智能演示 · 北京 / 全球分布 · Growth / Series Unknown
+> 待补充 估值 · 待补充 ARR · 1000万+注册用户（2024年11月） 用户 · 数十人（全球分布） 员工
+> 竞品：Gamma.app（国际竞品，设计驱动） · Beautiful.ai（国际竞品，设计水准高） · Canva AI PPT（全球竞品，品牌强） · 百度文库 AI（国内竞品，融资多）
+
+
 
 ## 一句话定位
 

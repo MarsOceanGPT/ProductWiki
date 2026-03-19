@@ -62,6 +62,13 @@ tags:
   - 阶段/D轮+
   - 地区/美国
 ---
+> [!info] 快速了解
+> **SpotitEarly** · Early Cancer Detection / Breath Biomarker Analysis · Tel Aviv, Israel / US Market Launch May 2025 · Growth
+> 80-120M USD (未公开，私有估值推测) 估值 · 7-12M USD (推测，基于定价与早期用户采用) ARR · 早期用户群（医疗体检、预防性健康检查人群） 用户
+> #行业-医疗AI
+> 竞品：Grail Galleri · Tempus · Guardant Shield
+
+
 
 ## 一句话定位
 

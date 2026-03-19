@@ -41,7 +41,26 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        depth: 2,
+        scale: 1.1,
+        repelForce: 0.6,
+        linkDistance: 40,
+        fontSize: 0.45,
+        showTags: false,
+        focusOnHover: true,
+      },
+      globalGraph: {
+        depth: -1,
+        scale: 0.7,
+        repelForce: 0.3,
+        linkDistance: 50,
+        fontSize: 0.35,
+        showTags: false,
+        focusOnHover: true,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

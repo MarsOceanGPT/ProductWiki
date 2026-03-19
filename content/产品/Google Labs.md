@@ -54,6 +54,12 @@ title: Google Labs
 tags:
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **Google Labs** · 产品研发方法论 · Mountain View, California · Growth
+> 500M+月活（NotebookLM估计） 用户
+> 竞品：OpenAI GPT Lab · Anthropic Playground · Meta Research
+
+
 # Google Labs
 
 > 一句话：Google 的 AI 产品"孵化器"，用免费试用和快速迭代来测试 Gemini/Bard 等大模型的新应用场景，试图找到"下一个杀手级应用"。

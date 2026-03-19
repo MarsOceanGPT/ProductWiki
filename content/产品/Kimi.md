@@ -8,6 +8,10 @@ status: "v4 - AI草稿待审"
 category: "大模型 / 对话AI"
 tags: ["Moonshot AI", "长上下文", "多模态推理", "开源模型", "Agent框架"]
 ---
+> [!info] 快速了解
+> **Kimi** · 大模型 / 对话AI
+
+
 
 ## 一句话定位
 

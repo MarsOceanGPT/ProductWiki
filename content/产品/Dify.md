@@ -13,6 +13,10 @@ company_location: Menlo Park, CA / 中国
 github_stars: 100,000+
 latest_valuation: $180M (Series Pre-A, $30M raised March 2026)
 ---
+> [!info] 快速了解
+> **Dify** · 产品库
+
+
 
 ## 一句话定位
 

@@ -8,6 +8,10 @@ status: AI草稿
 category: AI产品
 tags: [AI聊天机器人, LLM, 多模态, Agent, 中国AI竞争, 定价战争]
 ---
+> [!info] 快速了解
+> **Doubao** · AI产品
+
+
 
 ## 一句话定位
 

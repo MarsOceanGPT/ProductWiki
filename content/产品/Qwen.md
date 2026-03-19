@@ -11,6 +11,10 @@ version: v4.0
 mars_reviewed: false
 last_updated: 2026-03-17
 ---
+> [!info] 快速了解
+> **Qwen（通义千问）** · 中国杭州
+
+
 
 ## 一句话定位
 

@@ -16,6 +16,11 @@ tags:
   - 行业/生活方式
   - 地区/美国
 ---
+> [!info] 快速了解
+> **FitnessAI** · Acquired / Profitability
+> #行业-生活方式
+
+
 
 ## 一句话
 

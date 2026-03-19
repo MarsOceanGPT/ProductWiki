@@ -15,6 +15,10 @@ tags:
   - Gemini
 status: 生产环境
 ---
+> [!info] 快速了解
+> **NotebookLM** · AI工具
+
+
 
 ## 一句话定位
 

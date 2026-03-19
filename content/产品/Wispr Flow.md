@@ -16,6 +16,11 @@ tags:
   - 行业/效率工具
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Wispr Flow** · Growth / Series A Extension
+> #行业-效率工具
+
+
 
 ## 一句话
 

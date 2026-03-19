@@ -7,6 +7,10 @@ tags: ["AI演示", "文档生成", "内容创作", "视觉叙事", "设计自动
 author: "Mars"
 status: "AI草稿"
 ---
+> [!info] 快速了解
+> **Gamma** · AI工具
+
+
 
 # Gamma 产品卡片 v4.0
 

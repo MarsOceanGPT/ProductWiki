@@ -56,6 +56,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **YouCut** · 无水印视频编辑应用矩阵 · San Francisco, USA (InShot/Nextwave Software) · Scale
+> $1.5B+估计 估值 · ~$80-120M估计 ARR · 120M月活用户（YouCut） 用户
+> #行业-视频生成
+> 竞品：CapCut · VN Video Editor · Adobe Premiere Rush
+
+
 # YouCut（InShot 旗下视频编辑应用）
 
 > 一句话：InShot 生态矩阵中的一员，与 InShot、VivaCut 形成"多品牌多定位"战略，用"无水印"和"轻量级"击败竞品，是"产品线垂直一体化"的代表。

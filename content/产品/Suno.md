@@ -65,6 +65,12 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Suno AI** · AI Music Generation / Text-to-Music · Cambridge, MA, USA · Scale-up
+> $2B 估值 · $300M ARR · 2M 用户
+> 竞品：Udio AI · Beatoven.ai · AIVA
+
+
 
 ## 一句话定位
 

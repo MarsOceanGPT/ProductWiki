@@ -67,6 +67,13 @@ tags:
   - 行业/图像设计
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Remini** · AI-Powered Image Processing · Milan, Italy · Scale
+> Not disclosed 估值 · $50M+ ARR · 450M+ total downloads, 120M+ in 2024, 30M+ MAU 用户
+> #行业-图像设计
+> 竞品：[[产品/FaceApp|FaceApp]] · [[Google Photos]] · [[Adobe Photoshop/Lightroom]]
+
+
 # Remini - AI 照片修复与增强
 
 ## 一句话定位

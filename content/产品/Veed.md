@@ -92,6 +92,13 @@ tags:
   - 阶段/A轮
   - 地区/欧洲
 ---
+> [!info] 快速了解
+> **Veed** · Creator Tools, Content Production, GenAI Video · London, UK · Post-Series C, Growth Stage
+> Unknown (Post-$35M Series A) 估值 · $45M (October 2025) ARR · 10M+ MAU (2025) 用户
+> #行业-开发工具 #行业-视频生成
+> 竞品：CapCut · Adobe Premiere + Adobe Firefly · Descript
+
+
 
 # Veed 产品卡片 v4.0
 

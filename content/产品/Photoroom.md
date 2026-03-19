@@ -82,6 +82,13 @@ tags:
   - 行业/图像设计
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Photoroom** · Image Editing, Product Photography, Creator Tools · Paris, France · Series A+ Funding
+> $85M (2023 estimate) 估值 · $40M+ (estimated) ARR · 20M+ registered 用户
+> #行业-图像设计
+> 竞品：Remove.bg · Adobe Lightroom · Unsplash
+
+
 # Photoroom 产品卡片
 
 ## 基本面表格

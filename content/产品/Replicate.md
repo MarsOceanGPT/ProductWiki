@@ -61,6 +61,13 @@ tags:
   - 阶段/B轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Replicate** · API & Model Deployment · San Francisco, US · Series B
+> $500M+ (Series B estimated) 估值 · $50M+ (estimated, private company) ARR · 50,000+ developers 用户
+> #行业-基础设施
+> 竞品：[[Hugging Face Inference]] · [[Together AI]] · [[Modal]]
+
+
 
 # Replicate
 

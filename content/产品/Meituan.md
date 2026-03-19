@@ -58,6 +58,13 @@ tags:
   - 阶段/A轮
   - 地区/中国
 ---
+> [!info] 快速了解
+> **Meituan (美团)** · 本地生活服务 + AI搜索和推荐 · Beijing, China · Scale
+> $60B+（2024年） 估值 · $10B+ ARR · 680M月活用户 用户
+> #行业-搜索知识
+> 竞品：Alibaba Ele.me · Didi · Douyin Logistics
+
+
 # Meituan（中国美团平台）
 
 > 一句话：中国最大的生活服务平台，用 AI 搜索和推荐重新定义"如何发现餐厅和服务"，距钱最近的 AI 应用——每次用户点击推荐，平台都在赚钱。

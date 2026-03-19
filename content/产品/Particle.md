@@ -36,6 +36,12 @@ key_products: iOS应用, Web版本(2025年5月发布)
 subscription: Particle+ $2.99/月或$29.99/年
 last_updated: 2026-03-19T00:00:00.000Z
 ---
+> [!info] 快速了解
+> **Particle** · San Francisco · 增长期 Growth Stage
+> 未公开融资后估值 估值
+> #行业-搜索知识
+
+
 
 ## 一句话定位
 

@@ -7,6 +7,10 @@ status: v4.0
 category: AI Agent
 tags: [AI Agent, 自动化, 浏览器自动化, 通用Agent, 中国创新]
 ---
+> [!info] 快速了解
+> **Manus** · AI Agent
+
+
 
 # Manus v4.0 产品卡片
 

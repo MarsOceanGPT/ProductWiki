@@ -16,6 +16,11 @@ tags:
   - 行业/教育AI
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Gliglish** · Growth / Series A+
+> #行业-教育AI
+
+
 
 ## 一句话
 

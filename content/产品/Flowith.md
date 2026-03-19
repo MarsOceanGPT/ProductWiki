@@ -39,6 +39,12 @@ tags:
   - 行业/搜索知识
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Flowith AI** · AI Canvas / Knowledge Management / Deep Work Automation · 美国（加州） · Growth / Series A
+> 待补充 估值 · 待补充 ARR · 100万+（2025年6月Product Hunt发布后） 用户
+> #行业-搜索知识
+
+
 
 # Flowith AI：AI原生的二维思维空间与1000步自主推理
 

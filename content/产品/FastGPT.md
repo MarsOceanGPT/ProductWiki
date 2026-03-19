@@ -39,6 +39,12 @@ tags:
   - 行业/搜索知识
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **FastGPT** · Knowledge Base QA System / RAG Platform · 中国（Labring） · Growth
+> $50M-100M（估算） 估值 · $2M+（估算，企业版+云服务） ARR · 500K+ 活跃用户 用户
+> #行业-搜索知识
+
+
 
 # FastGPT：垂直知识库RAG平台的开源标杆
 

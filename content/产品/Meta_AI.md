@@ -9,6 +9,10 @@ date_updated: "2026-03-17"
 status: active
 author: Claude (Mars Thinking)
 ---
+> [!info] 快速了解
+> **Meta_AI** · AI Assistant
+
+
 
 ## 一句话定位
 **通过 Llama 开源模型驱动，跨越 WhatsApp/Instagram/Facebook 五大平台、触达 1B+ 月活用户的多模态 AI 助手；Meta 在开放式 AI 商业化道路上的核心产品。**

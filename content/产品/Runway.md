@@ -39,6 +39,12 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Runway** · AI视频生成 / 世界模型 · New York City, USA · Late Stage / Pre-IPO
+> $5.3B (Feb 2026) 估值 · $90M+ (2025年8月), 目标2026年$265M+ ARR · 300,000+ 用户
+> #行业-视频生成
+
+
 
 # Runway v4.0 产品卡片
 

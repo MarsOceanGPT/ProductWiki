@@ -65,6 +65,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Virtual Staging AI** · AI Virtual Home Staging · United States · Acquired / Growth
+> Acquired 估值 · $5M-8M (估) ARR · 10K+ real estate agents, 100K+ rooms staged 用户
+> #行业-房产建筑
+> 竞品：[[产品/RoOomy|RoOomy]] · [[产品/Stager AI|Stager AI]] · [[产品/Apply Design|Apply Design]]
+
+
 
 # Virtual Staging AI
 

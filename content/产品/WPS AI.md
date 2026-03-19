@@ -39,6 +39,12 @@ tags:
   - 行业/效率工具
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **WPS AI** · AI-Native Office Suite (Doc/Sheet/PPT/PDF) · 北京 · Growth
+> 1500亿+ (2025年市值) 估值 · ¥51.2B (2024年营业收入) ARR · 29.51M MAU (WPS AI, 2025 H1) / 651M 月活设备 (全WPS) 用户
+> #行业-效率工具
+
+
 
 ## 一句话定位
 

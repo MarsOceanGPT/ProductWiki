@@ -77,6 +77,12 @@ title: CivitAI
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **CivitAI** · Open Source Models, Creator Community, NSFW Content Hub · United States (distributed) · VC-backed, Series A
+> Estimated $100M-200M 估值 · Not disclosed (likely $5M-10M) ARR · 500K+ registered, 100K+ monthly active 用户
+> 竞品：Hugging Face · Notion Community · Discord communities
+
+
 # CivitAI 产品卡片
 
 ## 基本面表格

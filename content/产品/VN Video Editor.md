@@ -58,6 +58,13 @@ tags:
   - 行业/视频生成
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **VN Video Editor** · 无水印视频编辑应用 · Ho Chi Minh City, Vietnam · Scale
+> $200-300M估计 估值 · ~$30-50M估计 ARR · 150M+月活用户 用户
+> #行业-视频生成
+> 竞品：CapCut · Adobe Premiere Rush · InShot
+
+
 # VN Video Editor（越南视频编辑应用）
 
 > 一句话：越南团队做的全球短视频编辑工具，用"无水印"和"模板丰富"击败国际竞品，是"小国团队做全球产品"的典范。

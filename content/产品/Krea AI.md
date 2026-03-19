@@ -66,6 +66,13 @@ tags:
   - 地区/美国
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Krea AI** · Image Generation · San Francisco, US · Growth
+> Unlisted (Estimated $100-200M based on feature parity with competitors) 估值 · Unlisted (Estimated $20-50M based on market data) ARR · 500K+ free users, 50-100K paying subscribers (estimated) 用户
+> #行业-图像设计
+> 竞品：[[Midjourney]] · [[DALL-E 3]] · [[Adobe Firefly]]
+
+
 
 # Krea AI
 

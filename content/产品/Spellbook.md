@@ -14,6 +14,11 @@ tags:
   - 地区/美国
 created: 2026-03-19T00:00:00.000Z
 ---
+> [!info] 快速了解
+> **Spellbook** · 企业SaaS | 法律科技 · Series B
+> #行业-法律AI
+
+
 
 ## 产品定位
 

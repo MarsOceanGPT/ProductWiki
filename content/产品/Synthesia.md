@@ -83,6 +83,13 @@ tags:
   - 阶段/A轮
   - 地区/欧洲
 ---
+> [!info] 快速了解
+> **Synthesia** · Enterprise AI Video / Avatar · London, UK · Growth/Late Stage
+> $4B (Feb 2026) 估值 · $100M+ ARR · 60,000+ businesses 用户
+> #行业-开发工具 #行业-视频生成
+> 竞品：HeyGen · D-ID · Synthesia Alternatives
+
+
 ## 基本面表格
 
 | 指标 | 数据 | 备注 |

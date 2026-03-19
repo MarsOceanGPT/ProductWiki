@@ -77,6 +77,12 @@ tags:
   - 阶段/D轮+
   - 地区/中国
 ---
+> [!info] 快速了解
+> **Monica** · Multi-model LLM Aggregator · China (Shanghai) · Growth
+> $100M (estimated 2024) 估值 · ~$30-40M ARR · 10M+ 用户
+> 竞品：ChatGPT Plus · Claude Web · Copilot Pro
+
+
 ## 基本面表格
 
 | 指标 | 数据 | 备注 |

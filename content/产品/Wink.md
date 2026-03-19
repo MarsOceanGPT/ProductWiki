@@ -58,6 +58,13 @@ tags:
   - 行业/视频生成
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **Wink** · AI Video Beauty & AR Effects · Xiamen & Singapore · Growth
+> 美图子产品 估值 · $30M-50M (估) ARR · 50M+ downloads, 3M+ MAU 用户
+> #行业-开发工具 #行业-视频生成
+> 竞品：[[CapCut]] · [[Snapchat]] · [[TikTok]]
+
+
 # Wink
 
 > 一句话：美图 2022 年推出的 AI 视频美颜工具，主打"实时视频美颜"和"创意 AR 效果"。在肯尼亚、尼日利亚等新兴市场冲上 App Store 总榜第一。$30-50M ARR（估），代表了美图从"照片编辑"到"视频编辑"的产品延伸。

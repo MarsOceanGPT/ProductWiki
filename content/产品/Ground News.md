@@ -62,6 +62,13 @@ tags:
   - 阶段/A轮
   - 地区/北美其他
 ---
+> [!info] 快速了解
+> **Ground News** · News Curation / Bias Detection / Source Diversity · Toronto, Ontario, Canada · Growth
+> $180M 估值 · 850K 用户
+> #行业-搜索知识
+> 竞品：Apple News+ · Google News · Flipboard
+
+
 
 ## 一句话定位
 

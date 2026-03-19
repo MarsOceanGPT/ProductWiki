@@ -93,6 +93,13 @@ tags:
   - 行业/效率工具
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **QuillBot** · Productivity, Student Tools, AI-powered Content Generation, Grammar Checking · Chicago · Acquired (Course Hero subsidiary)
+> $4.9B (acquired by Course Hero, August 2023) 估值 · $50M+ ARR · 10M+ DAU / 50M+ monthly users 用户
+> #行业-效率工具
+> 竞品：[object Object] · ChatGPT · Google Docs AI
+
+
 # QuillBot 产品卡片
 
 ## 一句话定位

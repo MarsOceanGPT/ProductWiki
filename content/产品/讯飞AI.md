@@ -38,6 +38,11 @@ mars_reviewed: false
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **iFlytek Spark** · LLM Platform + Consumer Hardware Devices · 合肥 · Mature
+> A股上市公司 估值 · ~20-25亿元（基于2025年三季度营收推算） ARR · 1000万+（学习应用） + 700万+（硬件用户） 用户
+
+
 
 ## 一句话定位
 

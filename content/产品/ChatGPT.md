@@ -66,6 +66,12 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **ChatGPT** · Large Language Model / Conversational AI · San Francisco, CA, USA · Scale-up
+> $730B 估值 · $25B ARR · 900M 用户
+> 竞品：Google Gemini · Anthropic Claude · Xai Grok
+
+
 
 ## 一句话定位
 

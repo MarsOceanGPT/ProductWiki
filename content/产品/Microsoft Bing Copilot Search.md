@@ -54,6 +54,13 @@ tags:
   - 行业/搜索知识
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Microsoft Bing / Copilot Search** · AI搜索引擎 · Redmond, Washington · Scale
+> 190M月活跃用户 用户
+> #行业-搜索知识
+> 竞品：Google Search · Perplexity · DuckDuckGo
+
+
 # Microsoft Bing / Copilot Search
 
 > 一句话：用 GPT-4 驱动的对话式搜索，试图用"思维"替代"检索"，是微软 100 亿美元 OpenAI 投资最直接的变现试图。

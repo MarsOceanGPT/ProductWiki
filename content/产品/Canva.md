@@ -39,6 +39,12 @@ tags:
   - 行业/图像设计
   - 阶段/上市
 ---
+> [!info] 快速了解
+> **Canva** · AI-Powered Design Platform · Sydney, Australia · Series F (Pre-IPO)
+> $42B 估值 · $4B ARR · 265M 用户
+> #行业-图像设计
+
+
 
 ## 一句话定位
 

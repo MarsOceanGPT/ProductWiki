@@ -51,6 +51,12 @@ title: GigaChat
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **GigaChat** · 俄语LLM、企业AI、国家级产品 · 莫斯科 · Scale
+> 未公开 ARR · 数百万月活 用户
+> 竞品：ChatGPT · Claude · 通义千问
+
+
 # GigaChat
 
 > 被西方制裁逼出来的"独立"AI助手：俄罗斯国有银行Sberbank打造的国产AI，用地缘政治中的"必需性"弥补技术差距

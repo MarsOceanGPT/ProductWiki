@@ -59,6 +59,13 @@ tags:
   - 行业/社交陪伴
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **OurDream.AI** · Character Generation & Chat · Uncertain（国际或中国） · Growth
+> 未公开 估值 · 未公开（估计$30M+） ARR · 1000万+ 全球 用户
+> #行业-社交陪伴
+> 竞品：[[Character AI]] · [[产品/Replika|Replika]] · [[产品/Candy AI|Candy AI]]
+
+
 # OurDream.AI
 
 > 一句话：AI 角色创建和聊天平台，用户可以创建定制化 AI 伴侣并与之互动，1000 万+用户、700 万+用户生成角色，代表"AI 陪伴经济"和"UGC 驱动"的新模式。

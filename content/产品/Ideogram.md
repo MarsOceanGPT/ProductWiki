@@ -67,6 +67,12 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Ideogram** · Text-to-Image Generation / AI Art · Toronto, Canada · Series A
+> #行业-图像设计
+> 竞品：Midjourney · DALL-E 3 · Adobe Firefly
+
+
 
 ## 一句话定位
 

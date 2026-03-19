@@ -78,6 +78,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Replika** · Personal Relationship AI, Mental Health Support Bot · San Francisco, USA · Mature / Regulatory Challenged
+> $10-50M (estimated, 2017 valuation, no recent rounds) 估值 · $24-30M ARR · 40M+ lifetime users, 3-4M MAU 用户
+> #行业-社交陪伴
+> 竞品：Character.AI · Chai · CrushOn.AI
+
+
 # Replika AI 产品卡片
 
 ## 基本面表格

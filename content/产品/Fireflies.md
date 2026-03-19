@@ -21,6 +21,11 @@ tags:
   - 阶段/B轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Fireflies.ai** · Post-Series A（未完成Series B，但已达成独角兽估值$1B+，通过Tender Offer获得）
+> #行业-效率工具
+
+
 
 ## 一句话定位
 

@@ -76,6 +76,13 @@ tags:
   - 阶段/A轮
   - 地区/中国
 ---
+> [!info] 快速了解
+> **Cutout.pro** · Multiple AI image tools, Creator tools · Shanghai, China (Global operations) · Bootstrapped / Self-funded
+> Private estimate $150-200M 估值 · $30M+ (estimated) ARR · 30M+ monthly 用户
+> #行业-图像设计
+> 竞品：Remove.bg · Photoroom · Canva
+
+
 # Cutout.pro 产品卡片
 
 ## 基本面表格

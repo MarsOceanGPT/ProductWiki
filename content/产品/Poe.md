@@ -61,6 +61,12 @@ title: Poe
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Poe** · Multi-Model LLM Platform · San Francisco · VC-backed, private
+> $500M+ (estimated) 估值 · $80M+ ARR · 50M+ MAU 用户
+> 竞品：ChatGPT · Claude.ai · Gemini
+
+
 
 # Poe 产品卡片
 

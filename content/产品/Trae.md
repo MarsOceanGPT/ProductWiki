@@ -23,6 +23,11 @@ tags:
 author: Mars
 lastUpdated: '2026-03-17'
 ---
+> [!info] 快速了解
+> **Trae** · AI IDE/代码编辑 · Growth
+> #行业-开发工具
+
+
 
 ## 一句话定位
 

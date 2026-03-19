@@ -81,6 +81,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Chai** · AI Companion Platform - User-Generated AI · Palo Alto, CA, USA · Growth/Scale
+> $450M (2025) 估值 · $48-58M ARR · 10M+ downloads 用户
+> #行业-社交陪伴
+> 竞品：[[产品/Character.ai|Character.ai]] · [[产品/Replika|Replika]] · [[Janitor AI]]
+
+
 # Chai：用户生成AI的YouTube模式
 
 ## 基本面

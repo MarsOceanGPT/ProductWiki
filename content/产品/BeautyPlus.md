@@ -60,6 +60,12 @@ title: BeautyPlus
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **BeautyPlus** · AI Photo Beautification · Xiamen & San Francisco · Mature/Global
+> 美图上市公司子产品 估值 · $80M-100M (估) ARR · 120M+ downloads, 20M+ MAU 用户 · 30-50 员工
+> 竞品：[[产品/Snow|Snow]] · [[产品/B612|B612]] · [[产品/FaceApp|FaceApp]] · [[Snapchat]]
+
+
 # BeautyPlus
 
 > 一句话：美图集团的海外美颜相机，用亚洲审美占领全球市场。虽然在中国市场被美颜相机压制，但海外 ARR 约 $80-100M，是美图出海战略中最稳定的现金牛。

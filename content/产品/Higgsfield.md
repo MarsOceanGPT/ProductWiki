@@ -58,6 +58,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Higgsfield** · Cinematic Video Synthesis · San Francisco, US · Scale
+> $1.3B 估值 · $200M+ ARR · 15M+ (9个月内) 用户
+> #行业-开发工具 #行业-视频生成
+> 竞品：[[产品/Pixverse|Pixverse]] · [[产品/Runway|Runway]] · [[Pika]]
+
+
 # Higgsfield
 
 > 一句话：Snap 前生成AI主管创办，用"电影级摄像机运动"重新定义短视频 AI 生成，9个月 1500万用户、2亿美元年化收入，代表"Snap出身"的创业浪潮。

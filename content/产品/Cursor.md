@@ -57,6 +57,13 @@ tags:
   - 阶段/A轮
   - 地区/北美其他
 ---
+> [!info] 快速了解
+> **Cursor** · AI Code Editor / IDE · San Francisco, CA · Late Stage (Series D)
+> $29B 估值 · $2B ARR · 2M 用户
+> #行业-开发工具
+> 竞品：GitHub Copilot · Windsurf · Claude Code
+
+
 
 ## 一句话定位
 

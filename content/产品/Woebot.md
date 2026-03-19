@@ -65,6 +65,13 @@ tags:
   - 地区/美国
   - 阶段/B轮
 ---
+> [!info] 快速了解
+> **Woebot Health** · Mental Health Chatbot / FDA Breakthrough Device · San Francisco, CA, USA · Pre-exit / Enterprise Transition
+> $650M 估值 · $80M ARR
+> #行业-医疗AI
+> 竞品：wearable心理健康设备 · 传统电话心理治疗 · 医院线下CBT治疗
+
+
 
 ## 一句话定位
 

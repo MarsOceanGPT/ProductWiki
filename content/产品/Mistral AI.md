@@ -16,6 +16,11 @@ tags:
   - 行业/基础设施
   - 地区/欧洲
 ---
+> [!info] 快速了解
+> **Mistral AI** · Growth / Series C
+> #行业-基础设施
+
+
 
 ## 一句话
 

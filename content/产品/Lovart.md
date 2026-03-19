@@ -49,6 +49,12 @@ mars_reviewed: false
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Lovart AI** · AI 设计代理 / 多模态内容创作 · 待补充 · Early / Growth
+> 待补充 估值 · 待补充 ARR · 待补充 用户
+> 竞品：稿定设计 · Lovart vs Midjourney vs Figma AI · 其他 AI 设计工具
+
+
 
 ## 一句话
 

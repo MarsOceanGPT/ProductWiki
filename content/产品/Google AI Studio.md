@@ -77,6 +77,13 @@ tags:
   - 行业/开发工具
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Google AI Studio** · Developer Platform, API Gateway, Model Access · Mountain View · Major tech company product
+> Strategic value only 估值 · Not directly monetized (strategic product) ARR · Millions of developers (estimated) 用户
+> #行业-开发工具
+> 竞品：OpenAI Platform · Anthropic Claude API · Cohere API
+
+
 # Google AI Studio 产品卡片
 
 ## 基本面表格

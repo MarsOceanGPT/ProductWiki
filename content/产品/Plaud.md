@@ -44,6 +44,12 @@ tags:
   - 行业/效率工具
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Plaud Note** · AI Recording Pen + Transcription + Wearable · 美国/中国 · Growth / Profitability
+> $250M (revenue 2025预期)[^1] ARR · 1500000+[^2] 用户
+> #行业-效率工具
+
+
 
 ## 一句话定位
 

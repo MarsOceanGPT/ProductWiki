@@ -55,6 +55,13 @@ tags:
   - 阶段/D轮+
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Harvey** · Legal AI / Generative AI for Professionals · San Francisco, CA · Late Stage (Series E)
+> $5B 估值 · $190M ARR · 1K 用户
+> #行业-法律AI
+> 竞品：LexisNexis AI solutions · Westlaw AI-Assisted Research · Thomson Reuters AI-Powered Tools
+
+
 
 ## 一句话定位
 

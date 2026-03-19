@@ -14,6 +14,10 @@ date_published: '2026-03-17'
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Gemini** · Public / Scale
+
+
 
 ## 一句话
 

@@ -76,6 +76,13 @@ tags:
   - 行业/图像设计
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **SeaArt** · Creator Economy Platform · Singapore (运营) / Chengdu (成都，创始团队) · Scale
+> 未公开 估值 · $50M+ ARR · 50M+ 用户
+> #行业-开发工具 #行业-视频生成 #行业-图像设计
+> 竞品：[[产品/Midjourney|Midjourney]] · [[Stable Diffusion]] · [[产品/CivitAI|CivitAI]]
+
+
 # SeaArt：创意工作者的经济共同体
 
 ## 一句话定位

@@ -82,6 +82,13 @@ tags:
   - 行业/图像设计
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Freepik** · Creative Tools, Design Resources · Madrid, Spain · Public Company (Listed on Spanish stock exchange 2024)
+> $800M (market cap at IPO) 估值 · $200M+ (estimated) ARR · 50M+ monthly 用户
+> #行业-图像设计
+> 竞品：Canva · Adobe Stock · Shutterstock
+
+
 # Freepik 产品卡片
 
 ## 基本面表格

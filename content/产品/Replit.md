@@ -68,6 +68,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Replit** · AI-Powered IDE / Autonomous Development Agent · San Francisco, CA, USA · Growth → Scale-up
+> $9B 估值 · $240M ARR · 40M 用户
+> #行业-开发工具
+> 竞品：Cursor · Lovable · Bolt.new
+
+
 
 ## 一句话定位
 

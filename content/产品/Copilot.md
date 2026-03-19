@@ -39,6 +39,12 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Microsoft Copilot** · AI Agents, Code Assistance, Workplace Intelligence · Redmond, Washington, USA · Growth/Scaling
+> N/A (internal division of Microsoft) 估值 · 1.5B+ (estimated across all Copilot products) ARR · 150M+ monthly active users across all Copilot products 用户
+> #行业-效率工具
+
+
 
 ## 一句话定位
 

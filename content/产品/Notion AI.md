@@ -9,6 +9,10 @@ updated: 2026-03-17
 tags: [AI, 生产力工具, 知识管理, 自动化, Agent, 协作]
 target_audience: AI企业家, 产品经理, 创意工作者
 ---
+> [!info] 快速了解
+> **Notion AI** · 工作空间/知识管理
+
+
 
 ## 一句话定位
 

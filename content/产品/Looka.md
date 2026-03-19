@@ -43,6 +43,12 @@ tags:
   - 阶段/B轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Looka** · Brand Identity & Logo Design · Toronto, Canada · Growth/Pre-IPO
+> ~$200-300M (私募估值推测) 估值 · ~$40-50M (推测) ARR · 20M 用户
+> #行业-开发工具 #行业-图像设计
+
+
 
 ## 一句话定位
 

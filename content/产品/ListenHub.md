@@ -17,6 +17,10 @@ last_updated: '2026-03-19'
 tags:
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **ListenHub** · Growth Stage
+
+
 
 ## 一句话定位
 

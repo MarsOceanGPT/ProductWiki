@@ -52,6 +52,13 @@ tags:
   - 行业/搜索知识
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **Seekee** · 多模态搜索、学习辅助、内容创作 · 全球（多平台） · Growth
+> 未公开 ARR · 数百万用户 用户
+> #行业-搜索知识
+> 竞品：ChatGPT · Google Search · Perplexity AI
+
+
 
 # Seekee
 

@@ -17,6 +17,11 @@ tags:
   - 地区/中国
   - 特征/出海
 ---
+> [!info] 快速了解
+> **KreadoAI** · Growth / Pre-Series A
+> #行业-销售营销 #特征-出海
+
+
 
 ## 一句话
 

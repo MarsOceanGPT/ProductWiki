@@ -67,6 +67,13 @@ tags:
   - 地区/美国
   - 地区/欧洲
 ---
+> [!info] 快速了解
+> **Black Forest Labs** · Image Generation · San Francisco, US & Munich, Germany · Growth
+> $3.25B (Oct 2024), $4B+ (projected) 估值 · $140M+ (Meta partnership value in first year) ARR · Millions of monthly users (indirect via partnerships) 用户 · 50-100 (estimated) 员工
+> #行业-图像设计
+> 竞品：[[Midjourney]] · [[DALL-E 3]] · [[Stable Diffusion]]
+
+
 
 # Black Forest Labs
 

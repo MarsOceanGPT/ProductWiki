@@ -61,6 +61,13 @@ tags:
   - 阶段/A轮
   - 地区/中国
 ---
+> [!info] 快速了解
+> **Pixverse** · Video Synthesis · Beijing, China · Scale
+> $10B+（独角兽） 估值 · $40M+（2025年底估算） ARR · 100M+ 全球用户（分布175个国家） 用户
+> #行业-开发工具 #行业-视频生成
+> 竞品：[[Kling]] · [[产品/Runway|Runway]] · [[Pika]]
+
+
 # Pixverse
 
 > 一句话：中国创业团队的 AI 视频生成工具，获 Alibaba 战略投资，通过"多镜头视角"和"开发者 API"差异化竞争，2026年融资 $3 亿成为AI视频独角兽。

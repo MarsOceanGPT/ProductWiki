@@ -86,6 +86,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Turboscribe** · Productivity, Content Tools, Speech-to-Text, Creator Tools · Bellevue, Washington, USA · Unfunded startup / Bootstrapped
+> ~$2M-5M (estimated) ARR · Unknown (25.4M monthly visits as of Oct 2025) 用户
+> #行业-开发工具 #行业-视频生成 #行业-语音AI
+> 竞品：Otter.ai · Rev.com · Descript
+
+
 # Turboscribe 产品卡片
 
 ## 一句话定位

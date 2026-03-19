@@ -41,6 +41,12 @@ tags:
   - 阶段/B轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Pika / Pika Labs** · Text-to-Video Platform for Short-Form Content · San Francisco, USA · Series B
+> $470M 估值 · $85M ARR · 16M 用户
+> #行业-开发工具 #行业-视频生成
+
+
 
 ## 一句话定位
 

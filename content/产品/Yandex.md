@@ -62,6 +62,13 @@ tags:
   - 行业/搜索知识
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Yandex** · 俄语AI搜索平台 & 国际AI基础设施 · Moscow, Russia（2025年后：Nebius Group总部Amsterdam,荷兰） · Scale
+> $5.4B (Yandex Russian sale 2024); Nebius Group private 估值 · ~$400M (Yandex Russian ops); Nebius Group separate financials ARR · 155M月活用户（主要俄罗斯/中亚/印度） 用户
+> #行业-搜索知识
+> 竞品：Google & Google Search · Microsoft Bing & Copilot · OpenAI ChatGPT
+
+
 # Yandex & Nebius Group：地缘政治与本地化AI的交集
 
 > **一句话定位**：制裁隔离下诞生的"本地化AI搜索引擎"，俄罗斯 Google + ChatGPT 的混合体，用 YandexGPT 和搜索索引为俄语用户提供不依赖美国的 AI 基础设施，同时通过 Nebius Group 向全球输出 AI 云计算服务[^1]。

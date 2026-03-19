@@ -72,6 +72,13 @@ tags:
   - 阶段/B轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Genspark** · AI Search Engine / Agent Workspace / Super Agent · Palo Alto, California, USA (Headquarters in Silicon Valley with Singapore office) · Series B
+> $1.25B (Post-money, Series B, November 2025) 估值 · $155M-$200M+ (March 2026) ARR · 2M+ monthly active users (April 2025) 用户
+> #行业-搜索知识
+> 竞品：[[产品/Perplexity|Perplexity]] · [[产品/Google Search|Google Search]] · [[产品/ChatGPT|ChatGPT]]
+
+
 ## 基本面
 
 | 指标 | 数值 | 备注 |

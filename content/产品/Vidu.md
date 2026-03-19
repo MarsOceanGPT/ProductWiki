@@ -50,6 +50,13 @@ tags:
   - 行业/视频生成
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **Vidu AI** · AI 视频生成 · 北京 · Growth
+> 待补充 估值 · 待补充 ARR · 1 亿+（视频生成数） 用户
+> #行业-视频生成
+> 竞品：Kling AI · Dreamina / 即梦 · OpenAI Sora
+
+
 
 ## 一句话
 

@@ -68,6 +68,12 @@ related_products:
 tags:
   - 阶段/B轮
 ---
+> [!info] 快速了解
+> **Lovable** · No-code/Low-code, Full-stack App Builder, Vibe Coding · Stockholm, Sweden · Series B
+> $7B 估值 · $400M ARR · 15M 用户
+> 竞品：Bolt.new · Vercel v0 · Replit
+
+
 # Lovable - AI 软件构建平台
 
 ## 基本面

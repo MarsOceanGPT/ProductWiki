@@ -104,6 +104,13 @@ title: Character.ai
 tags:
   - 行业/社交陪伴
 ---
+> [!info] 快速了解
+> **Character.ai** · AI 社交平台 · Menlo Park, California · Post-PMF
+> $1B (2025年估值，下降自 2024 年的 $2.5B；2026 年稳定在 $1B-1.2B 范围) 估值 · $32.2M+ (2024) ARR · 20M MAU 用户
+> #行业-社交陪伴
+> 竞品：Replika · Janitor AI · Spicychat
+
+
 
 # Character.ai v4.0 产品卡片
 

@@ -89,6 +89,13 @@ tags:
   - 阶段/C轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Picsart** · Mobile Creator Tools, Image/Video Editing · San Francisco, USA (founded in Armenia) · Series C+ Funding
+> $1.4B (2023 estimate) 估值 · $150M+ (estimated) ARR · 150M+ monthly 用户
+> #行业-开发工具 #行业-视频生成 #行业-图像设计
+> 竞品：Instagram Filters · Snapchat · BeautyPlus
+
+
 # Picsart 产品卡片
 
 ## 基本面表格

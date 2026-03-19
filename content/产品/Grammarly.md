@@ -92,6 +92,13 @@ tags:
   - 行业/效率工具
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Grammarly** · Productivity, Enterprise Software, AI Tools · San Francisco · VC-backed, Series C+, pre-IPO
+> $13B (2021 equity valuation maintained through 2026) 估值 · $700M ARR · 30M DAU 用户
+> #行业-效率工具
+> 竞品：ChatGPT + plugins · Microsoft Copilot / Word Copilot · Apple Intelligent Writing Tools
+
+
 
 # Grammarly 产品卡片 v4.0
 

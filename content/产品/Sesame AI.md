@@ -80,6 +80,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Sesame** · Voice Interaction Platform · Palo Alto, California · Early Growth
+> TBD (likely $100M-500M range, pre-revenue stage) 估值 · TBD ARR · 1M+ engaged users (demo phase, 2025) 用户
+> #行业-语音AI
+> 竞品：Google Cloud Text-to-Speech · Microsoft Azure Speech Services · ElevenLabs
+
+
 
 # Sesame AI v4.0 产品卡片
 

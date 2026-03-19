@@ -73,6 +73,12 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **FaceApp** · AI Face Enhancement · St. Petersburg, Russia / Phoenix, USA · Profitable/Mature
+> Not disclosed 估值 · $135M ARR · 480M+ downloads, 30M+ MAU 用户
+> 竞品：[[产品/Remini|Remini]] · [[产品/BeautyPlus|BeautyPlus]] · [[Snapchat]]
+
+
 
 # FaceApp
 

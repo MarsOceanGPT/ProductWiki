@@ -70,6 +70,12 @@ tags:
   - 阶段/D轮+
   - 地区/美国
 ---
+> [!info] 快速了解
+> **OpenHands** · Open-Source AI Software Engineer · USA · Growth
+> $100M+ (estimated) 估值 · $0 (Open Source + Hosted Beta) ARR · 10K+ developers 用户
+> 竞品：Devin · Claude Code · GitHub Copilot
+
+
 ## 基本面表格
 
 | 指标 | 数据 | 备注 |

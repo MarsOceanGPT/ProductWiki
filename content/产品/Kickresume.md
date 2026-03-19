@@ -93,6 +93,13 @@ tags:
   - 行业/效率工具
   - 地区/欧洲
 ---
+> [!info] 快速了解
+> **Kickresume** · Career Tools, AI Writing, Job Search, Talent Acquisition · Bratislava · Active (Private)
+> Undisclosed (likely $20M-50M range based on revenue) 估值 · $1.9M+ ARR · 5M+ job seekers helped / 8K paying customers 用户
+> #行业-搜索知识 #行业-效率工具
+> 竞品：Resume.io · Rezi · Resumelab
+
+
 
 # Kickresume 产品卡片 v4.0
 

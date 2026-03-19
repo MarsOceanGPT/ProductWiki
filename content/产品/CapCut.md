@@ -26,6 +26,12 @@ tags:
   - 行业/视频生成
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **CapCut / 剪映** · AI Video Editor / Content Creation Platform · 北京，中国（ByteDance子公司） · Growth / Mature
+> N/A (ByteDance内部产品) 估值 · 815M USD (2025年实际收入) ARR · 300M+ MAU / 1.4B+ 全球累计下载 用户
+> #行业-开发工具 #行业-视频生成
+
+
 
 ## 一句话定位
 

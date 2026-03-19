@@ -58,6 +58,13 @@ tags:
   - 行业/社交陪伴
   - 阶段/A轮
 ---
+> [!info] 快速了解
+> **Snow** · AI Beauty + K-pop Culture · Seoul, South Korea · Mature/Global
+> Not disclosed 估值 · $40M-60M (估) ARR · 200M+ downloads, 12M+ MAU 用户
+> #行业-社交陪伴
+> 竞品：[[Snapchat]] · [[TikTok]] · [[Instagram Stories]]
+
+
 # Snow
 
 > 一句话：韩国 Naver 旗下的 AI 自拍应用，核心驱动力不是美颜功能，而是"K-pop 粉丝社区"。通过与 K-pop 明星的深度合作，把一个自拍相机变成了粉丝应援平台。$40-60M ARR。

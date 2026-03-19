@@ -12,6 +12,10 @@ tags: [LLM, 实时信息, 推理能力, Colossus超算, 分发网络]
   上下文: 1M tokens
   融资轮次: Series E ($20B)
 ---
+> [!info] 快速了解
+> **Grok** · AI助手,大模型,推理引擎
+
+
 
 # Grok：实时推理能力的AGI平台
 

@@ -76,6 +76,13 @@ tags:
   - 行业/搜索知识
   - 阶段/D轮+
 ---
+> [!info] 快速了解
+> **YouMind** · AI Content Creation & Knowledge Management · 杭州 · Growth
+> 超1亿美元（2025年初） 估值 · 待补充 ARR · 5000+（内测申请） 用户
+> #行业-搜索知识
+> 竞品：Notion · NotebookLM · Descript
+
+
 
 # YouMind：玉伯的「万物化稿，稿生万物」
 

@@ -13,11 +13,16 @@ permalink: /
 
 ## 编辑精选
 
-**增长最快的创业产品**：[[产品/Cursor|Cursor]]（20个月 $2B ARR）· [[产品/Lovable|Lovable]]（vibe coding $6.6B）· [[产品/OpusClip|OpusClip]]（$215M 估值）· [[产品/Harvey|Harvey]]（法律 AI $4.5B）· [[产品/Notta|Notta]]（出海日本 $10M ARR）
+> [!tip] 🔥 增长最快的创业产品
+> [[产品/Cursor|Cursor]]（20个月 $2B ARR）· [[产品/Lovable|Lovable]]（vibe coding $6.6B）· [[产品/OpusClip|OpusClip]]（$215M 估值）· [[产品/Harvey|Harvey]]（法律 AI $4.5B）· [[产品/Notta|Notta]]（出海日本 $10M ARR）
 
-**"这也行？"的非共识产品**：[[产品/SpotitEarly|SpotitEarly]]（AI+训练犬检测癌症）· [[产品/Ask the Oracle|Ask the Oracle]]（AI 占星塔罗）· [[产品/Nupt.ai|Nupt.ai]]（AI 婚礼策划）· [[产品/DishGen|DishGen]]（冰箱里有什么就做什么菜）· [[产品/Ropet|Ropet]]（AI 交互宠物机器人）
+> [!example] 💡 "这也行？" 非共识产品
+> [[产品/SpotitEarly|SpotitEarly]]（AI+训练犬检测癌症）· [[产品/Ask the Oracle|Ask the Oracle]]（AI 占星塔罗）· [[产品/Nupt.ai|Nupt.ai]]（AI 婚礼策划）· [[产品/DishGen|DishGen]]（冰箱有什么做什么菜）· [[产品/Ropet|Ropet]]（AI 宠物机器人）
 
-**中国 AI 出海冠军**：[[产品/形色|形色/PictureThis]]（1亿+下载）· [[产品/Talkie|Talkie]]（MiniMax 全球化）· [[产品/Glow|Glow]]（DAU 500万）· [[产品/iSales|iSales]]（帮制造商找海外买家）· [[产品/Notta|Notta]]（75% 日本用户）
+> [!quote] 🌏 中国 AI 出海冠军
+> [[产品/形色|形色/PictureThis]]（1亿+下载）· [[产品/Talkie|Talkie]]（MiniMax 全球化）· [[产品/Glow|Glow]]（DAU 500万）· [[产品/iSales|iSales]]（帮制造商找海外买家）· [[产品/Notta|Notta]]（75% 日本用户）
+
+> [!info] 🎲 [[随机探索]] — 每次来都有新发现
 
 ---
 

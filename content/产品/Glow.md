@@ -68,6 +68,13 @@ tags:
   - 地区/中国
   - 特征/出海
 ---
+> [!info] 快速了解
+> **Glow** · AI Character Chat · Shanghai, China · Public (IPO)
+> $13.7B (IPO debut valuation) 估值 · $79M+ ARR · 1.2-2.8M DAU (Talkie), 11M MAU (历史), 2000万+ 累计注册 用户
+> #行业-社交陪伴 #特征-出海
+> 竞品：[[Character.AI]] · [[Chai]] · [[Candy AI]]
+
+
 
 # Glow（Talkie / Xing Ye）
 

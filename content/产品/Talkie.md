@@ -65,6 +65,13 @@ tags:
   - 地区/中国
   - 特征/出海
 ---
+> [!info] 快速了解
+> **Talkie** · AI Companion Chat · Shanghai, China · Scale
+> $2.8B+ (est. 2025) 估值 · $53.1M+ (2025) ARR · 29.77M MAU (Dec 2024), 27.64M MAU (Q3 2025) 用户
+> #行业-社交陪伴 #特征-出海
+> 竞品：[[Character.AI]] · [[Replika]] · [[Candy AI]]
+
+
 
 # Talkie
 

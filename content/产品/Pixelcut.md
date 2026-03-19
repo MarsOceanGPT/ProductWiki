@@ -64,6 +64,13 @@ tags:
   - 阶段/D轮+
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Pixa (formerly Pixelcut)** · AI Creative Workspace / E-commerce Product Photography · Oakland, CA, US · Growth
+> 未公开 估值 · 未公开（估计 $20M+） ARR · 15M+ 月均活跃用户；100M+ 月处理图片数 用户
+> #行业-开发工具 #行业-视频生成 #行业-图像设计
+> 竞品：[[产品/Remove.bg|Remove.bg]] · [[产品/Photoroom|Photoroom]] · [[Canva]]
+
+
 # Pixa（原 Pixelcut）
 
 > **一句话定位**：从专业背景去除工具起家，演进为"AI 创意工作流平台"的垂直应用典范；3 年内用户增长 15 倍至 1500 万月活，月处理 1 亿张图片 + 视频，代表"行业 AI"击败"通用 AI"的核心战术。

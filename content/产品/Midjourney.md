@@ -63,6 +63,13 @@ tags:
   - 阶段/A轮
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Midjourney** · Image Generation · San Francisco, US · Scale
+> Unlisted (Assumed $10-15B private valuation) 估值 · $500M+ ARR · 19.83M registered, 1.2-2.8M DAU 用户
+> #行业-图像设计
+> 竞品：[[DALL-E 3]] · [[Stable Diffusion]] · [[Flux]]
+
+
 
 # Midjourney
 

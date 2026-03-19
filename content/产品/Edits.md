@@ -58,6 +58,13 @@ tags:
   - 阶段/D轮+
   - 地区/美国
 ---
+> [!info] 快速了解
+> **Edits** · Short-form Video · Menlo Park, US · Growth
+> N/A 估值 · N/A (工具免费) ARR · 7M+ 首周下载 用户
+> #行业-开发工具 #行业-视频生成
+> 竞品：[[CapCut]] · [[产品/VivaCut|VivaCut]] · [[产品/VN Video Editor|VN Video Editor]]
+
+
 # Edits
 
 > 一句话：Meta 在 TikTok/CapCut 政策风险窗口推出的短视频编辑应用，首周 700 万下载，代表"政策驱动"而非"产品创新"的大厂竞争模式。
