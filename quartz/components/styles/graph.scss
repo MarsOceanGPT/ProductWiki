@@ -59,35 +59,41 @@
   }
 
   & > .global-graph-outer {
-    position: fixed;
-    z-index: 9999;
-    left: 0;
-    top: 0;
-    width: 100vw;
-    height: 100vh;
-    backdrop-filter: blur(4px);
     display: none;
-    overflow: hidden;
+  }
+}
 
-    &.active {
-      display: block;
-    }
+// Global graph fullscreen — must work when moved to document.body
+// (outside .graph parent), so this is a top-level selector
+.global-graph-outer {
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  backdrop-filter: blur(4px);
+  display: none;
+  overflow: hidden;
 
-    & > .global-graph-container {
-      border: 1px solid var(--lightgray);
-      background-color: var(--light);
-      border-radius: 5px;
-      box-sizing: border-box;
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      height: 80vh;
-      width: 80vw;
+  &.active {
+    display: block;
+  }
 
-      @media all and not ($desktop) {
-        width: 90%;
-      }
+  & > .global-graph-container {
+    border: 1px solid var(--lightgray);
+    background-color: var(--light);
+    border-radius: 5px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 80vh;
+    width: 80vw;
+
+    @media all and (max-width: 1200px) {
+      width: 90%;
     }
   }
 }
