@@ -27,11 +27,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.Graph({
         localGraph: {
-          depth: 3,
-          scale: 0.7,
-          repelForce: 0.5,
-          centerForce: 0.3,
-          linkDistance: 30,
+          depth: 2,
+          scale: 0.9,
+          repelForce: 0.8,
+          centerForce: 0.5,
+          linkDistance: 50,
           fontSize: 0.5,
           opacityScale: 0.9,
           showTags: false,
@@ -40,9 +40,9 @@ export const defaultContentPageLayout: PageLayout = {
         globalGraph: {
           depth: -1,
           scale: 0.6,
-          repelForce: 0.3,
-          centerForce: 0.5,
-          linkDistance: 20,
+          repelForce: 0.5,
+          centerForce: 0.6,
+          linkDistance: 30,
           fontSize: 0.45,
           opacityScale: 0.7,
           showTags: false,

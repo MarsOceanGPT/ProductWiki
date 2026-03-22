@@ -569,36 +569,37 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   // Auto-fit: compute bounding box of all nodes and set initial zoom
-  // For large graphs, use a minimum scale so nodes remain visible
   if (graphData.nodes.length > 0) {
+    // Compute bounding box in simulation coordinates (before width/2, height/2 offset)
     let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
     for (const n of graphData.nodes) {
       if (n.x != null && n.y != null) {
-        minX = Math.min(minX, n.x + width / 2)
-        maxX = Math.max(maxX, n.x + width / 2)
-        minY = Math.min(minY, n.y + height / 2)
-        maxY = Math.max(maxY, n.y + height / 2)
+        minX = Math.min(minX, n.x)
+        maxX = Math.max(maxX, n.x)
+        minY = Math.min(minY, n.y)
+        maxY = Math.max(maxY, n.y)
       }
     }
 
     const graphWidth = maxX - minX
     const graphHeight = maxY - minY
     if (graphWidth > 0 && graphHeight > 0) {
-      const padding = 20
+      const padding = 40
       const fitScaleX = (width - padding * 2) / graphWidth
       const fitScaleY = (height - padding * 2) / graphHeight
-      // Clamp scale: never zoom in beyond 1x, never zoom out below 0.25x
-      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 1), 0.25)
-      const centerX = (minX + maxX) / 2
-      const centerY = (minY + maxY) / 2
+      // Clamp scale: never zoom in beyond 1x, never zoom out below 0.15x
+      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 1), 0.15)
+      // Center of the bounding box in rendered coords (after width/2, height/2 offset)
+      const simCenterX = (minX + maxX) / 2 + width / 2
+      const simCenterY = (minY + maxY) / 2 + height / 2
 
       stage.scale.set(fitScale, fitScale)
       stage.position.set(
-        width / 2 - centerX * fitScale,
-        height / 2 - centerY * fitScale,
+        width / 2 - simCenterX * fitScale,
+        height / 2 - simCenterY * fitScale,
       )
       currentTransform = zoomIdentity
-        .translate(width / 2 - centerX * fitScale, height / 2 - centerY * fitScale)
+        .translate(width / 2 - simCenterX * fitScale, height / 2 - simCenterY * fitScale)
         .scale(fitScale)
     }
   }
