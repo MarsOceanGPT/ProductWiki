@@ -367,24 +367,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   tweens.clear()
 
   const app = new Application()
-  console.log("[graph-debug] init start", { width, height, nodes: graphData.nodes.length, links: graphData.links.length })
-  try {
-    await app.init({
-      width,
-      height,
-      antialias: true,
-      autoStart: false,
-      autoDensity: true,
-      backgroundAlpha: 0,
-      preference: "webgpu",
-      resolution: window.devicePixelRatio,
-      eventMode: "static",
-    })
-    console.log("[graph-debug] init done, renderer type:", app.renderer.type, "canvas:", app.canvas.width, app.canvas.height)
-  } catch (e) {
-    console.error("[graph-debug] init FAILED:", e)
-    throw e
-  }
+  await app.init({
+    width,
+    height,
+    antialias: true,
+    autoStart: false,
+    autoDensity: true,
+    backgroundAlpha: 0,
+    preference: "webgpu",
+    resolution: window.devicePixelRatio,
+    eventMode: "static",
+  })
   graph.appendChild(app.canvas)
 
   const stage = app.stage
@@ -551,48 +544,43 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     )
   }
 
+  // Position all nodes and draw links immediately (before animation loop)
+  // so the graph is visible even if rAF doesn't fire
+  function updatePositions() {
+    for (const n of nodeRenderData) {
+      const { x, y } = n.simulationData
+      if (x == null || y == null) continue
+      n.gfx.position.set(x + width / 2, y + height / 2)
+      if (n.label) {
+        n.label.position.set(x + width / 2, y + height / 2)
+      }
+    }
+
+    for (const l of linkRenderData) {
+      const linkData = l.simulationData
+      l.gfx.clear()
+      l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
+      l.gfx
+        .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
+        .stroke({ alpha: l.alpha, width: 1.5, color: l.color })
+    }
+  }
+
+  // Do initial render synchronously
+  updatePositions()
+  app.renderer.render(stage)
+
   let stopAnimation = false
-  let frameCount = 0
   function animate(time: number) {
-    if (stopAnimation) {
-      console.warn("[graph-debug] animate SKIPPED - stopAnimation is true!", { width, nodes: nodeRenderData.length })
-      return
-    }
-    try {
-      for (const n of nodeRenderData) {
-        const { x, y } = n.simulationData
-        if (!x || !y) continue
-        n.gfx.position.set(x + width / 2, y + height / 2)
-        if (n.label) {
-          n.label.position.set(x + width / 2, y + height / 2)
-        }
-      }
-
-      for (const l of linkRenderData) {
-        const linkData = l.simulationData
-        l.gfx.clear()
-        l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
-        l.gfx
-          .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-          .stroke({ alpha: l.alpha, width: 1.5, color: l.color })
-      }
-
-      tweens.forEach((t) => t.update(time))
-      app.renderer.render(stage)
-      frameCount++
-      if (frameCount <= 3) {
-        console.log("[graph-debug] frame", frameCount, "rendered ok, stage children:", stage.children.length, "nodes:", nodeRenderData.length)
-      }
-    } catch (e) {
-      console.error("[graph-debug] animate error at frame", frameCount, ":", e)
-    }
+    if (stopAnimation) return
+    updatePositions()
+    tweens.forEach((t) => t.update(time))
+    app.renderer.render(stage)
     requestAnimationFrame(animate)
   }
 
-  console.log("[graph-debug] starting animation loop, stopAnimation:", stopAnimation)
   requestAnimationFrame(animate)
   return () => {
-    console.warn("[graph-debug] CLEANUP called for graph", { width, nodes: nodeRenderData.length })
     stopAnimation = true
     app.destroy()
   }
@@ -602,7 +590,7 @@ let localGraphCleanups: (() => void)[] = []
 let globalGraphCleanups: (() => void)[] = []
 
 function cleanupLocalGraphs() {
-  console.log("[graph-debug] cleanupLocalGraphs called, count:", localGraphCleanups.length)
+
   for (const cleanup of localGraphCleanups) {
     cleanup()
   }
@@ -618,13 +606,13 @@ function cleanupGlobalGraphs() {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
-  console.log("[graph-debug] NAV event fired for slug:", slug)
+
   addToVisited(simplifySlug(slug))
 
   async function renderLocalGraph() {
     cleanupLocalGraphs()
     const localGraphContainers = document.getElementsByClassName("graph-container")
-    console.log("[graph-debug] renderLocalGraph: found", localGraphContainers.length, "containers")
+
     for (const container of localGraphContainers) {
       localGraphCleanups.push(await renderGraph(container as HTMLElement, slug))
     }
