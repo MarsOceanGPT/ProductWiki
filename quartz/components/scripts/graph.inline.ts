@@ -586,18 +586,20 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     xCoords.sort((a, b) => a - b)
     yCoords.sort((a, b) => a - b)
 
-    // Use 10th and 90th percentile for scale computation (aggressively ignore outliers)
-    const lo = Math.floor(xCoords.length * 0.1)
-    const hi = Math.min(Math.ceil(xCoords.length * 0.9), xCoords.length - 1)
-    const graphWidth = xCoords[hi] - xCoords[lo]
-    const graphHeight = yCoords[hi] - yCoords[lo]
+    // Use full bounding box for scale (ensures nothing is clipped)
+    const minX = xCoords[0]
+    const maxX = xCoords[xCoords.length - 1]
+    const minY = yCoords[0]
+    const maxY = yCoords[yCoords.length - 1]
+    const graphWidth = maxX - minX
+    const graphHeight = maxY - minY
 
     if (graphWidth > 0 && graphHeight > 0 && count > 0) {
-      const padding = 30
+      const padding = 40
       const fitScaleX = (width - padding * 2) / graphWidth
       const fitScaleY = (height - padding * 2) / graphHeight
-      // Clamp scale: allow up to 3x zoom for compact graphs, min 0.15x
-      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 3.0), 0.15)
+      // Clamp scale: allow up to 2x zoom for compact graphs, min 0.15x
+      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 2.0), 0.15)
 
       // Use center of mass for centering (puts visual weight at container center)
       const comX = sumX / count + width / 2
