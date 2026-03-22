@@ -568,47 +568,48 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
-  // Auto-fit: compute bounding box (using 95th percentile to ignore outliers) and set initial zoom
+  // Auto-fit: use center-of-mass for centering (visually balanced) + percentile bbox for scale
   if (graphData.nodes.length > 0) {
     // Collect all node positions in simulation coordinates
     const xCoords: number[] = []
     const yCoords: number[] = []
+    let sumX = 0, sumY = 0, count = 0
     for (const n of graphData.nodes) {
       if (n.x != null && n.y != null) {
         xCoords.push(n.x)
         yCoords.push(n.y)
+        sumX += n.x
+        sumY += n.y
+        count++
       }
     }
     xCoords.sort((a, b) => a - b)
     yCoords.sort((a, b) => a - b)
 
-    // Use 2.5th and 97.5th percentile to ignore outlier nodes
+    // Use 2.5th and 97.5th percentile for scale computation (ignore outliers)
     const lo = Math.floor(xCoords.length * 0.025)
     const hi = Math.min(Math.ceil(xCoords.length * 0.975), xCoords.length - 1)
-    const minX = xCoords[lo]
-    const maxX = xCoords[hi]
-    const minY = yCoords[lo]
-    const maxY = yCoords[hi]
+    const graphWidth = xCoords[hi] - xCoords[lo]
+    const graphHeight = yCoords[hi] - yCoords[lo]
 
-    const graphWidth = maxX - minX
-    const graphHeight = maxY - minY
-    if (graphWidth > 0 && graphHeight > 0) {
+    if (graphWidth > 0 && graphHeight > 0 && count > 0) {
       const padding = 30
       const fitScaleX = (width - padding * 2) / graphWidth
       const fitScaleY = (height - padding * 2) / graphHeight
       // Clamp scale: allow up to 3x zoom for compact graphs, min 0.15x
       const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 3.0), 0.15)
-      // Center of the bounding box in rendered coords (after width/2, height/2 offset)
-      const simCenterX = (minX + maxX) / 2 + width / 2
-      const simCenterY = (minY + maxY) / 2 + height / 2
+
+      // Use center of mass for centering (puts visual weight at container center)
+      const comX = sumX / count + width / 2
+      const comY = sumY / count + height / 2
 
       stage.scale.set(fitScale, fitScale)
       stage.position.set(
-        width / 2 - simCenterX * fitScale,
-        height / 2 - simCenterY * fitScale,
+        width / 2 - comX * fitScale,
+        height / 2 - comY * fitScale,
       )
       currentTransform = zoomIdentity
-        .translate(width / 2 - simCenterX * fitScale, height / 2 - simCenterY * fitScale)
+        .translate(width / 2 - comX * fitScale, height / 2 - comY * fitScale)
         .scale(fitScale)
     }
   }
