@@ -195,7 +195,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   // Warm up simulation so nodes are settled before first render
   // More ticks for larger graphs to ensure convergence
-  const tickCount = graphData.nodes.length > 200 ? 400 : graphData.nodes.length > 50 ? 250 : 80
+  const tickCount = graphData.nodes.length > 200 ? 600 : graphData.nodes.length > 50 ? 350 : 100
   simulation.tick(tickCount)
 
   // precompute style prop strings as pixi doesn't support css variables
