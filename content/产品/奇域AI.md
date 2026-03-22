@@ -669,3 +669,8 @@ ARPU提升，奇域收入增加
 **下一次更新**：2026年Q3 (跟踪B端API发布、用户增长、Midjourney国内应对)
 
 *本卡片遵循"反共识优先"、"距钱距离假说"的分析框架，聚焦东方美学垄断的商业本质，而非单纯技术对标。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Black Forest Labs|Black Forest Labs]]、[[产品/Canva|Canva]]、[[产品/Cutout.pro|Cutout.pro]]、[[产品/Framer|Framer]]、[[产品/Freepik|Freepik]]、[[产品/Ideogram|Ideogram]]
+- **探索行业** → [[tags/行业/图像设计|图像设计赛道全部产品]]

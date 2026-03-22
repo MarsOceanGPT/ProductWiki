@@ -391,3 +391,8 @@ Hume 的整个定位就是"非共识"：
 - EVI 4 / Octave v2 的发布
 - Google 是否推出"Gemini Voice with Emotion"
 - hpy 案例后是否有更多医疗垂直的付费客户公开
+
+---
+## 网络导航
+- **同赛道** → [[产品/Deepgram|Deepgram]]、[[产品/Otter|Otter]]、[[产品/Sesame AI|Sesame AI]]、[[产品/Turboscribe|Turboscribe]]、[[产品/Vocu|Vocu]]
+- **探索行业** → [[tags/行业/语音AI|语音AI赛道全部产品]]

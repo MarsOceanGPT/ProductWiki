@@ -663,3 +663,7 @@ NotebookLM 要避免的陷阱是成为"大而稳定但乏味"的工具。Raiza M
 1. **运气设计视角**：NotebookLM 的成功中，"被 YouTube 用户发现"这个环节中的"好运面积 = 能力 × 被认知程度"体现
 2. **历史循环论**：类比 PC 时代的"Office + Windows 捆绑"，NotebookLM + Google Workspace 是否在重演同样的生态锁定故事？
 3. **反共识方向**：2026 年关键悬念——NotebookLM 是否会因为"被 Google 生态束缚"而失去开放性溢价？还是 Google 的生态优势足以压制竞品？
+
+---
+## 网络导航
+- **相关产品** → [[产品/Canva|Canva]]、[[产品/ChatGPT|ChatGPT]]、[[产品/Claude|Claude]]、[[产品/Gemini|Gemini]]、[[产品/Google Labs|Google Labs]]、[[产品/Perplexity|Perplexity]]、[[产品/Pinecone|Pinecone]]、[[产品/Synthesia|Synthesia]]

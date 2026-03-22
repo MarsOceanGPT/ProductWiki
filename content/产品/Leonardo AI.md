@@ -399,3 +399,8 @@ Leonardo 的成功说明：**在 AI 时代，个性化和社区比通用性更�
 - [BusinessWire：Canva 收购 Leonardo AI 声明](https://www.businesswire.com/news/home/20240729977410/en/Canva-to-Acquire-Generative-AI-Platform-Leonardo.AI-to-Bring-Leading-Visual-AI-to-Every-Organization/)
 - [Leonardo AI 2025 完整定价分析 - EESEL](https://www.eesel.ai/blog/leonardo-ai-pricing)
 - [AI 图像生成在 3D 设计工作流中的应用 - Leonardo.Ai](https://leonardo.ai/news/ai-in-3d-design-workflow/)
+
+---
+## 网络导航
+- **相关产品** → [[产品/Canva|Canva]]、[[产品/Claude|Claude]]、[[产品/Midjourney|Midjourney]]、[[产品/Motion|Motion]]、[[产品/Runway|Runway]]
+- **探索行业** → [[tags/行业/图像设计|图像设计赛道全部产品]]

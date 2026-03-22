@@ -267,3 +267,8 @@ AI分析诊断
 - [远方好物AI营养师"远宝"通过深度合成服务算法备案](https://www.yfoof.com/news/2501.html)
 - [万亿市场新物种，AI 营养师能让你更健康？](https://zhuanlan.zhihu.com/p/356352622)
 - [这个AI产品杀疯了，靠着3000营养师，拿下3.5亿收入](https://36kr.com/p/3251298170003715)
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ask the Oracle|Ask the Oracle]]、[[产品/DishGen|DishGen]]、[[产品/Dreamore|Dreamore]]、[[产品/Everfit|Everfit]]、[[产品/FitnessAI|FitnessAI]]、[[产品/Nupt.ai|Nupt.ai]]
+- **探索行业** → [[tags/行业/生活方式|生活方式赛道全部产品]]

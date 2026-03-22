@@ -949,3 +949,7 @@ Character.ai 因为 Google 的品牌 DNA 在做"安全第一"的严格审核，J
 ## 看完后推荐
 
 - 想了解打法？看 [[打法/02-产品设计/Chat 对话式|Chat 对话式]]、[[打法/02-产品设计/角色锁定|角色锁定]]
+
+---
+## 网络导航
+- **相关产品** → [[产品/Character.ai|Character.ai]]、[[产品/ChatGPT|ChatGPT]]、[[产品/Gemini|Gemini]]、[[产品/Janitor AI|Janitor AI]]、[[产品/Qwen|Qwen]]、[[产品/Replika|Replika]]

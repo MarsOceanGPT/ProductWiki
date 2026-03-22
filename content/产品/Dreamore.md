@@ -667,3 +667,8 @@ Phase 4：专业心理咨询的"配套工具"
 Dreamore 的机会在于：用系统化的 AI 和社区，做出足够好的心理陪伴，足够低的价格，足够高的可及性。
 
 *（AI 草稿——待 Mars 或相关专家确认）*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ask the Oracle|Ask the Oracle]]、[[产品/DishGen|DishGen]]、[[产品/Everfit|Everfit]]、[[产品/FitnessAI|FitnessAI]]、[[产品/Nupt.ai|Nupt.ai]]、[[产品/形色|形色]]
+- **探索行业** → [[tags/行业/生活方式|生活方式赛道全部产品]]

@@ -214,3 +214,8 @@ Ropet 的成功不是某一个功能的胜利，而是**整体配置的和谐**�
 ---
 
 *卡片更新于 2026-03-19 | 版本 v4.0*
+
+---
+## 网络导航
+- **同赛道** → [[产品/1X Technologies|1X Technologies]]、[[产品/Agibot|Agibot]]、[[产品/Figure AI|Figure AI]]、[[产品/Skild AI|Skild AI]]、[[产品/傅里叶智能|傅里叶智能]]
+- **探索行业** → [[tags/行业/机器人|机器人赛道全部产品]]

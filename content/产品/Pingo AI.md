@@ -244,3 +244,8 @@ Pingo AI 的核心创新不在**技术**（LLM 是通用能力），而在**产�
 ---
 
 **最后的反直觉建议**：不要只看"Pingo vs Duolingo"，而是看"虚拟教练 vs 真人教练 vs 自学"的三角竞争。在这个三角中，Pingo 的位置最有利。
+
+---
+## 网络导航
+- **同赛道** → [[产品/Beelinguapp|Beelinguapp]]、[[产品/Gliglish|Gliglish]]、[[产品/Lingvist|Lingvist]]、[[产品/Speak|Speak]]、[[产品/SuperChinese|SuperChinese]]、[[产品/TalkAI|TalkAI]]
+- **探索行业** → [[tags/行业/教育AI|教育AI赛道全部产品]]

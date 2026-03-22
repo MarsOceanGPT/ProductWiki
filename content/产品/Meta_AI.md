@@ -400,3 +400,6 @@ Meta 2025年的人事变动（Yann LeCun 离职、FAIR 裁员、Zuckerberg 亲�
 
 **最后更新**：2026年3月17日
 **下一次计划更新**：2026年6月(Avocado 发布或正式声明后)
+---
+## 网络导航
+- **相关产品** → [[产品/ChatGPT|ChatGPT]]、[[产品/Claude|Claude]]、[[产品/DeepSeek|DeepSeek]]、[[产品/Gemini|Gemini]]、[[产品/Hugging Face|Hugging Face]]

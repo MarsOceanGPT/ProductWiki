@@ -531,3 +531,8 @@ Qodo 完整体系
 - 以色列AI创业团队用"安全思维"+AI，切中了企业用户最关心的"代码质量"和"安全"两大痛点
 
 *本卡片遵循"距钱距离假说"、"反共识优先"、"IDE集成度优于Web体验"的分析框架，聚焦商业本质而非技术复杂度。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Base44|Base44]]、[[产品/CapCut|CapCut]]、[[产品/Cursor|Cursor]]、[[产品/DevRev|DevRev]]、[[产品/Edits|Edits]]、[[产品/Google AI Studio|Google AI Studio]]
+- **探索行业** → [[tags/行业/开发工具|开发工具赛道全部产品]]

@@ -640,3 +640,8 @@ A: 中等。$1B估值与盈利状态是积极信号，但企业会议工具赛�
 **最后更新**: 2026年3月19日
 **信心度**: High（基于官方网站、融资公告、第三方对标数据）
 **Mars Review Status**: 待审核
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ada|Ada]]、[[产品/Copilot|Copilot]]、[[产品/Cubox|Cubox]]、[[产品/Fathom|Fathom]]、[[产品/Grammarly|Grammarly]]、[[产品/Granola|Granola]]
+- **探索行业** → [[tags/行业/效率工具|效率工具赛道全部产品]]

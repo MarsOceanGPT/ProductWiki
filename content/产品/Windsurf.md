@@ -609,3 +609,8 @@ ARR = Avg Seat Price × Adoption Rate × TAM
 **编制日期：2026年03月17日**
 **适用范围：AI企业家、产品经理、投资者**
 **更新周期：月度（重大事件实时补充）**
+
+---
+## 网络导航
+- **同赛道** → [[产品/Base44|Base44]]、[[产品/CapCut|CapCut]]、[[产品/Cursor|Cursor]]、[[产品/DevRev|DevRev]]、[[产品/Edits|Edits]]、[[产品/Google AI Studio|Google AI Studio]]
+- **探索行业** → [[tags/行业/开发工具|开发工具赛道全部产品]]

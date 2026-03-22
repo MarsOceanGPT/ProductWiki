@@ -1026,3 +1026,8 @@ Flowith 不是"更好的 ChatGPT"或"更强的 Notion"，而是"对新一代工�
 ---
 
 **AI 草稿——待 Mars 确认**
+
+---
+## 网络导航
+- **相关产品** → [[产品/ChatGPT|ChatGPT]]、[[产品/Claude|Claude]]、[[产品/Copilot|Copilot]]、[[产品/Cursor|Cursor]]、[[产品/DeepSeek|DeepSeek]]、[[产品/Midjourney|Midjourney]]、[[产品/Notion AI|Notion AI]]、[[产品/Perplexity|Perplexity]]
+- **探索行业** → [[tags/行业/搜索知识|搜索知识赛道全部产品]]

@@ -399,3 +399,8 @@ L1: 芯片/模型层 (GPU、LLM 训练)
 4. 5年商业化目标：目标 GMV、用户成本、LTV/CAC 比
 
 待补充后，此卡片可升级为"决策级产品分析文档"。
+
+---
+## 网络导航
+- **同赛道** → [[产品/Base44|Base44]]、[[产品/CapCut|CapCut]]、[[产品/Cursor|Cursor]]、[[产品/DevRev|DevRev]]、[[产品/Edits|Edits]]、[[产品/Google AI Studio|Google AI Studio]]
+- **探索行业** → [[tags/行业/开发工具|开发工具赛道全部产品]]

@@ -642,3 +642,8 @@ Fathom是"销售AI工具的典型代表"：
 5. **竞争格局清晰**：vs Gong(强AI/弱集成) vs Otter(通用/浅垂直) vs Hubspot(原生/被限)
 
 如果你想理解"如何通过垂直化和生态集成打败通用工具"的逻辑，Fathom是最好的案例。
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ada|Ada]]、[[产品/Copilot|Copilot]]、[[产品/Cubox|Cubox]]、[[产品/Fireflies|Fireflies]]、[[产品/Grammarly|Grammarly]]、[[产品/Granola|Granola]]
+- **探索行业** → [[tags/行业/效率工具|效率工具赛道全部产品]]

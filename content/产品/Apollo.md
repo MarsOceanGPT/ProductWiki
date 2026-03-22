@@ -403,3 +403,8 @@ Apollo 的成功有两个核心：
 
 **AI 草稿——待 Mars 确认**
 
+
+---
+## 网络导航
+- **同赛道** → [[产品/Clay|Clay]]、[[产品/Copy.ai|Copy.ai]]、[[产品/Folk|Folk]]、[[产品/IMA|IMA]]、[[产品/Jasper|Jasper]]、[[产品/KreadoAI|KreadoAI]]
+- **探索行业** → [[tags/行业/销售营销|销售营销赛道全部产品]]

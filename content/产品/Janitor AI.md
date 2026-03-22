@@ -561,3 +561,7 @@ AI 草稿——待 Mars 确认
 | v3.0 | 2026-01 | 加入 a16z Top 50 Web、英国监管信号、完整的护城河演变表 |
 | v2.0 | 2025-12 | 更新至 1.38 亿月访问、完整的融资信息、JanitorLLM 技术细节 |
 | v1.0 | 2023-12 | 初始版本：基础信息、一周 100 万用户、OpenAI C&D 事件 |
+
+---
+## 网络导航
+- **相关产品** → [[产品/Spicychat.ai|Spicychat.ai]]、[[产品/Brainly|Brainly]]、[[产品/Candy AI|Candy AI]]、[[产品/CrushOn.ai|CrushOn.ai]]、[[产品/Polybuzz.ai|Polybuzz.ai]]

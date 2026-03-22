@@ -640,3 +640,8 @@ FitnessAI生态
 **下一次更新**：2026年Q3 (跟踪Apple Watch Native App进度、B2B渗透率、用户增长)
 
 *本卡片遵循"距钱距离假说"、"反共识优先"、"系统设计优于个体努力"的分析框架，聚焦FitnessAI从数据驱动的底层算法到商业模式的完整逻辑。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ask the Oracle|Ask the Oracle]]、[[产品/DishGen|DishGen]]、[[产品/Dreamore|Dreamore]]、[[产品/Everfit|Everfit]]、[[产品/Nupt.ai|Nupt.ai]]、[[产品/形色|形色]]
+- **探索行业** → [[tags/行业/生活方式|生活方式赛道全部产品]]

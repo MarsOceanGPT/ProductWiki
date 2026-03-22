@@ -570,3 +570,8 @@ Particle的Reality Check功能依赖对"源文档的准确理解"。随着LLM能
 **审核状态** | 待Mars确认
 **目标受众** | AI产品思想家、创业者、投资人
 **关键搜索词** | Particle, 多视角新闻, 偏见检测, Reality Check, 新闻聚合, AI新闻, Sara Beykpour, Lightspeed, 多视角化
+
+---
+## 网络导航
+- **同赛道** → [[产品/BaiduAISearch|BaiduAISearch]]、[[产品/FastGPT|FastGPT]]、[[产品/Flowith|Flowith]]、[[产品/Genspark|Genspark]]、[[产品/Glean|Glean]]、[[产品/Ground News|Ground News]]
+- **探索行业** → [[tags/行业/搜索知识|搜索知识赛道全部产品]]

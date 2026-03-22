@@ -721,3 +721,7 @@ OpenAI主导全球LLM竞争，中国厂商最多是「当地化玩家」，没�
   - 整体结构调整为v4.0标准模板
 
 AI 草稿——待 Mars 确认
+
+---
+## 网络导航
+- **相关产品** → [[产品/ChatGPT|ChatGPT]]、[[产品/Google AI Studio|Google AI Studio]]、[[产品/Poe|Poe]]、[[产品/CapCut|CapCut]]、[[产品/Chai|Chai]]、[[产品/CivitAI|CivitAI]]

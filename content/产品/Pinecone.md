@@ -618,3 +618,8 @@ SOAR的核心价值 = 在同等延迟下，提升检索准确度30%，这直接�
 **下一次更新**：2026年Q3 (跟踪企业RAG增速、SOAR商业化成果、融资融资D轮预期)
 
 *本卡片遵循"距钱距离假说"、"隐形基础设施"的分析框架，聚焦Pinecone在RAG时代的战略定位和不可替代性。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Cohere|Cohere]]、[[产品/Mistral AI|Mistral AI]]、[[产品/Replicate|Replicate]]、[[产品/Scale AI|Scale AI]]、[[产品/Together AI|Together AI]]、[[产品/清微智能|清微智能]]
+- **探索行业** → [[tags/行业/基础设施|基础设施赛道全部产品]]

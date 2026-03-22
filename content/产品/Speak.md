@@ -464,3 +464,8 @@ Speak早期是"产品"（一个对话学习app）。现在正升级为「系统�
 ---
 
 **免责声明**：本产品卡为研究性文档，基于公开信息整合。不代表任何投资建议。产品特性、市场数据可能因发布时间而发生变化。最后更新：2026年3月。
+
+---
+## 网络导航
+- **同赛道** → [[产品/Beelinguapp|Beelinguapp]]、[[产品/Gliglish|Gliglish]]、[[产品/Lingvist|Lingvist]]、[[产品/Pingo AI|Pingo AI]]、[[产品/SuperChinese|SuperChinese]]、[[产品/TalkAI|TalkAI]]
+- **探索行业** → [[tags/行业/教育AI|教育AI赛道全部产品]]

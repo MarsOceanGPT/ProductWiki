@@ -491,3 +491,8 @@ Runway的故事其实是**"知识密集型产业的数字化"的缩影**。
 ---
 
 *AI草稿——待Mars确认*
+
+---
+## 网络导航
+- **同赛道** → [[产品/CapCut|CapCut]]、[[产品/Descript|Descript]]、[[产品/Edits|Edits]]、[[产品/HeyGen|HeyGen]]、[[产品/Higgsfield|Higgsfield]]、[[产品/IMA|IMA]]
+- **探索行业** → [[tags/行业/视频生成|视频生成赛道全部产品]]

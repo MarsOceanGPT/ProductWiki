@@ -1112,3 +1112,8 @@ HeyGen在达到$100M ARR的过程中，**没有砸大钱做品牌广告**。核�
 - Interactive Avatar (LiveAvatar) 的2025年实际营收占比（当前为战略性R&D）
 - 欧洲和日本市场的具体收入贡献度
 - 与OpenAI在Sora集成上的合作深度和商业条款
+
+---
+## 网络导航
+- **同赛道** → [[产品/CapCut|CapCut]]、[[产品/Descript|Descript]]、[[产品/Edits|Edits]]、[[产品/Higgsfield|Higgsfield]]、[[产品/IMA|IMA]]、[[产品/Luma AI|Luma AI]]
+- **探索行业** → [[tags/行业/视频生成|视频生成赛道全部产品]]

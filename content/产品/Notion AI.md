@@ -457,3 +457,7 @@ Notion 在"广度 × 混合增长"的配置上已经 locked in，再改回头很
 - 对 OpenAI 直推"工作流 builder"的真实看法？
 - 2029 年 IPO 的可能性评分？（个人判断：70%+ 概率）
 
+
+---
+## 网络导航
+- **相关产品** → [[产品/ChatGPT|ChatGPT]]、[[产品/Claude|Claude]]、[[产品/Copilot|Copilot]]

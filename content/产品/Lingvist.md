@@ -456,3 +456,8 @@ Lingvist（科学优先）
 **本卡片遵循「反共识优先」、「距钱距离假说」、「极简设计优于功能堆积」的分析框架。**
 
 *最后更新：2026年3月19日*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Beelinguapp|Beelinguapp]]、[[产品/Gliglish|Gliglish]]、[[产品/Pingo AI|Pingo AI]]、[[产品/Speak|Speak]]、[[产品/SuperChinese|SuperChinese]]、[[产品/TalkAI|TalkAI]]
+- **探索行业** → [[tags/行业/教育AI|教育AI赛道全部产品]]

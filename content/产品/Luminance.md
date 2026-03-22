@@ -238,3 +238,8 @@ Luminance 证明了：在高价值、高准确率的领域，**专用模型 >> �
 - [Luminance 2025 年融资轮数据](https://www.globallegalpost.com/news/legal-ai-start-up-luminance-backed-by-slaughter-and-may-raises-75m-897378499)
 - [合同 AI 时间节省证据](https://www.legaldive.com/news/luminance-ai-powered-automation-koch-deloitte-big-four/644242/)
 - [Luminance 机构记忆功能发布](https://www.luminance.com/press/luminance-launches-new-legal-ai-with-institutional-memory-addressing-enterprise-amnesia-and-giving-legal-teams-30-of-their-time-back/)
+
+---
+## 网络导航
+- **同赛道** → [[产品/Harvey|Harvey]]、[[产品/Spellbook|Spellbook]]、[[产品/iTerms|iTerms]]、[[产品/智合同|智合同]]、[[产品/科睿思创|科睿思创]]
+- **探索行业** → [[tags/行业/法律AI|法律AI赛道全部产品]]

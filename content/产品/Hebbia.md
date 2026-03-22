@@ -584,3 +584,8 @@ Hebbia的优势：
 - 「可解释AI」是受监管行业的终局产品形态
 
 *本卡片遵循"距钱距离假说"、"反共识优先"、"垂直聚焦优于平台"的分析框架，聚焦金融AI的商业本质而非技术表面。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/BaiduAISearch|BaiduAISearch]]、[[产品/FastGPT|FastGPT]]、[[产品/Flowith|Flowith]]、[[产品/Genspark|Genspark]]、[[产品/Glean|Glean]]、[[产品/Ground News|Ground News]]
+- **探索行业** → [[tags/行业/搜索知识|搜索知识赛道全部产品]]

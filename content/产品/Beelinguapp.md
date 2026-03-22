@@ -848,3 +848,8 @@ Beelinguapp 产品体系（2024-2026）
 **本卡片遵循「反共识优先」、「JTBD」、「距钱距离」、「垂直聚焦优于平台」的分析框架，聚焦于商业本质而非虚荣指标。**
 
 *最后更新：2026年3月19日*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Gliglish|Gliglish]]、[[产品/Lingvist|Lingvist]]、[[产品/Pingo AI|Pingo AI]]、[[产品/Speak|Speak]]、[[产品/SuperChinese|SuperChinese]]、[[产品/TalkAI|TalkAI]]
+- **探索行业** → [[tags/行业/教育AI|教育AI赛道全部产品]]

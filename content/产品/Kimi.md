@@ -574,3 +574,7 @@ Moonshot现在面临一个经典的成长性悖论：
 **目标受众**：AI创业者、产品经理、投资分析师
 **核心价值**：从商业战略而非技术角度理解Kimi的竞争力源头
 
+
+---
+## 网络导航
+- **相关产品** → [[产品/ChatGPT|ChatGPT]]、[[产品/Claude|Claude]]、[[产品/DeepSeek|DeepSeek]]、[[产品/Doubao|Doubao]]、[[产品/Gemini|Gemini]]、[[产品/Hugging Face|Hugging Face]]、[[产品/Qwen|Qwen]]

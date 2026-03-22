@@ -519,3 +519,8 @@ Cohere的成功验证了AI基础设施领域的两个洞察：
 ---
 
 **AI 草稿——待 Mars 确认**
+
+---
+## 网络导航
+- **相关产品** → [[产品/Claude|Claude]]、[[产品/Gemini|Gemini]]、[[产品/Pinecone|Pinecone]]、[[产品/Qwen|Qwen]]、[[产品/Replicate|Replicate]]
+- **探索行业** → [[tags/行业/基础设施|基础设施赛道全部产品]]

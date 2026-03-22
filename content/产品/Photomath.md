@@ -317,3 +317,7 @@ Photomath 的教训是：不要被月活数字迷惑。真正重要的是"离钱
 | 2024-09 | Photomath 集成到 Google Classroom 和 Android 生态 |
 | 2025 | 推出 Gemini 联动的 AI 辅导功能 |
 | 2026-03 | 成为 Google 教育生态的核心工具 |
+
+---
+## 网络导航
+- **相关产品** → [[产品/Gauth|Gauth]]、[[产品/Brainly|Brainly]]、[[产品/Learna AI|Learna AI]]、[[产品/Polybuzz.ai|Polybuzz.ai]]、[[产品/AI Mirror|AI Mirror]]、[[产品/Candy AI|Candy AI]]

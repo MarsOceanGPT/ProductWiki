@@ -710,3 +710,8 @@ Canvas设计完成
 - 结构化优势：协作能力、集成广度、部署速度的三角形防守
 
 *本卡片遵循"反共识优先"、"聚焦胜于全能"、"用户体验>技术深度"的分析框架，聚焦Voiceflow的战略定位而非技术细节。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ada|Ada]]、[[产品/Copilot|Copilot]]、[[产品/Cubox|Cubox]]、[[产品/Fathom|Fathom]]、[[产品/Fireflies|Fireflies]]、[[产品/Grammarly|Grammarly]]
+- **探索行业** → [[tags/行业/效率工具|效率工具赛道全部产品]]

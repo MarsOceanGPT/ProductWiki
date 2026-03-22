@@ -383,3 +383,8 @@ Plus 的 $29.99/月定价**不是随意的**。
 
 **最后更新**：2026年3月 | **v4.0 产品卡**
 **维度**：技术 × 商业 × 行业洞察 | **篇幅**：~2500 字
+
+---
+## 网络导航
+- **相关产品** → [[产品/Canva|Canva]]、[[产品/ChatGPT|ChatGPT]]、[[产品/Midjourney|Midjourney]]、[[产品/Motion|Motion]]、[[产品/Runway|Runway]]、[[产品/Stability AI|Stability AI]]
+- **探索行业** → [[tags/行业/视频生成|视频生成赛道全部产品]]

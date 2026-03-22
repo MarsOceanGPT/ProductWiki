@@ -614,3 +614,8 @@ C端(日活300K) → 建立"品牌信誉" → 企业信任 → 签API合约
 ---
 
 *本卡片遵循"距钱距离假说"、"反共识优先"、"系统设计>个体努力"的分析框架，聚焦商业本质而非表面数据。关键判断：意间不是"最好的AI绘画工具"，而是"微信生态中获客成本最低的AI工具"。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Black Forest Labs|Black Forest Labs]]、[[产品/Canva|Canva]]、[[产品/Cutout.pro|Cutout.pro]]、[[产品/Framer|Framer]]、[[产品/Freepik|Freepik]]、[[产品/Ideogram|Ideogram]]
+- **探索行业** → [[tags/行业/图像设计|图像设计赛道全部产品]]

@@ -381,3 +381,7 @@ Papago 代表了一个大厂"有道无术"的典型案例。Naver 确实有最�
 - [ ] 与企业客户（NHK、三星等）的合作详细信息
 - [ ] 翻译质量评分（相比 Google、DeepL 的定量对比）
 - [ ] 国际化战略的具体进展
+
+---
+## 网络导航
+- **相关产品** → [[产品/Adobe Lightroom|Adobe Lightroom]]、[[产品/Trae|Trae]]

@@ -340,3 +340,7 @@ Photomath 赚的是"用户溢价"——美国大学生愿意为数学解题付�
 | 2025 | 推出多模态解题、语音讲解功能 |
 | 2025-Q2 | 月活突破1.2亿，成为全球TOP 3解题工具 |
 | 2026-03 | 与部分国家教育部探索官方合作（风险对冲） |
+
+---
+## 网络导航
+- **相关产品** → [[产品/Photomath|Photomath]]、[[产品/Brainly|Brainly]]、[[产品/Learna AI|Learna AI]]、[[产品/Facemoji|Facemoji]]、[[产品/Polybuzz.ai|Polybuzz.ai]]、[[产品/Hi Translate|Hi Translate]]

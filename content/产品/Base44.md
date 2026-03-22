@@ -384,3 +384,8 @@ Base44 恰好处在这个分层的关键位置。无论是对创业者、企业�
 
 **最后更新**：2026 年 3 月 19 日
 **作者视角**：以 Mars 思想框架（反共识、距钱距离、系统设计、历史类比、杠铃策略）解读产品本质
+
+---
+## 网络导航
+- **同赛道** → [[产品/CapCut|CapCut]]、[[产品/Cursor|Cursor]]、[[产品/DevRev|DevRev]]、[[产品/Edits|Edits]]、[[产品/Google AI Studio|Google AI Studio]]、[[产品/Higgsfield|Higgsfield]]
+- **探索行业** → [[tags/行业/开发工具|开发工具赛道全部产品]]

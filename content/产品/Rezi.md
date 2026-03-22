@@ -648,3 +648,8 @@ ROI计算：
 *产品卡片作者：Claude Code Agent*
 *审核状态：待Mars Ren确认与补充*
 *下一版本计划日期：2026年9月（或Series C融资时）*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ada|Ada]]、[[产品/Copilot|Copilot]]、[[产品/Cubox|Cubox]]、[[产品/Fathom|Fathom]]、[[产品/Fireflies|Fireflies]]、[[产品/Grammarly|Grammarly]]
+- **探索行业** → [[tags/行业/效率工具|效率工具赛道全部产品]]

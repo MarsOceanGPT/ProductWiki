@@ -372,3 +372,7 @@ title: "Adobe Lightroom"
 - [ ] 专业摄影师向 Capture One 的流失率
 - [ ] 预设生态的商业贡献（Creator Store 的收入）
 - [ ] 与内容平台（TikTok、YouTube）的具体合作情况
+
+---
+## 网络导航
+- **相关产品** → [[产品/Papago|Papago]]

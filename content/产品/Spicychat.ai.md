@@ -838,3 +838,7 @@ Spicychat 本质上在做**"价格乱序破坏"(Price Disruption)**。Character.
 **本产品卡片最后更新时间**：2026年3月17日
 
 **建议复查周期**：每季度（新融资、用户规模、排名变化）或半年（战略、竞争格局变化）
+
+---
+## 网络导航
+- **相关产品** → [[产品/Polybuzz.ai|Polybuzz.ai]]、[[产品/Candy AI|Candy AI]]、[[产品/Janitor AI|Janitor AI]]、[[产品/Brainly|Brainly]]、[[产品/CiCi|CiCi]]、[[产品/Nova AI|Nova AI]]

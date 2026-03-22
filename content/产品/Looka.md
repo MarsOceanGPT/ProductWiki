@@ -663,3 +663,8 @@ Looka 目前处于**重大战略选择期**：
 - 表格数：7 个
 - 推测数据比例：~35%（标注为推测）
 - 可信度评分：75/100
+
+---
+## 网络导航
+- **同赛道** → [[产品/Base44|Base44]]、[[产品/Black Forest Labs|Black Forest Labs]]、[[产品/Canva|Canva]]、[[产品/CapCut|CapCut]]、[[产品/Cursor|Cursor]]、[[产品/Cutout.pro|Cutout.pro]]
+- **探索行业** → [[tags/行业/开发工具|开发工具赛道全部产品]]、[[tags/行业/图像设计|图像设计赛道全部产品]]

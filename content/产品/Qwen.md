@@ -496,3 +496,7 @@ Qwen3-Max-Thinking vs GPT-5.2-Thinking：
 4. 边缘计算/端侧部署优势是否需补充
 
 确认后可用于《AI炼金术》文章或创业工作坊。
+
+---
+## 网络导航
+- **相关产品** → [[产品/ChatGPT|ChatGPT]]、[[产品/Claude|Claude]]、[[产品/DeepSeek|DeepSeek]]、[[产品/Gemini|Gemini]]

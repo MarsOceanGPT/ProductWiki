@@ -759,3 +759,8 @@ Wispr 的路线：
 **下一次更新**：2026年Q3（跟踪 Series A Extension 后的产品发布、全球扩张进展、Voice API 生态进展、ARR 增长到 $20M+ 的里程碑）
 
 *本卡片遵循「反共识优先」、「距钱距离假说」、「系统设计 > 个体努力」的分析框架，聚焦 Wispr Flow 如何通过「后处理 AI + Command Mode」从消费工具变成企业应用的增长曲线，以及 CEO 口碑传播的销售哲学如何驱动 40% MoM 增长。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ada|Ada]]、[[产品/Copilot|Copilot]]、[[产品/Cubox|Cubox]]、[[产品/Fathom|Fathom]]、[[产品/Fireflies|Fireflies]]、[[产品/Grammarly|Grammarly]]
+- **探索行业** → [[tags/行业/效率工具|效率工具赛道全部产品]]

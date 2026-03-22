@@ -350,3 +350,8 @@ Vocu的TTS流程分为两部分：
 **数据来源**：HuggingFace TTS Arena、Vocu官方网站、行业报告
 **置信度**：High（基于公开排行榜数据与官方信息）
 
+
+---
+## 网络导航
+- **同赛道** → [[产品/Deepgram|Deepgram]]、[[产品/Hume AI|Hume AI]]、[[产品/Otter|Otter]]、[[产品/Sesame AI|Sesame AI]]、[[产品/Turboscribe|Turboscribe]]
+- **探索行业** → [[tags/行业/语音AI|语音AI赛道全部产品]]

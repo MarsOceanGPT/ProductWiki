@@ -483,3 +483,8 @@ Gliglish用户: 获取成本€20-30 → 平均LTV€200-300 → LTV/CAC = 8-10�
 **下一次更新**：2026年Q3 (跟踪B2B市场进展、企业客户增长、融资新动向)
 
 *本卡片遵循"距钱距离假说"、"品类分化论"、"目标驱动用户价值论"的分析框架，聚焦商业本质而非表面数据。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Beelinguapp|Beelinguapp]]、[[产品/Lingvist|Lingvist]]、[[产品/Pingo AI|Pingo AI]]、[[产品/Speak|Speak]]、[[产品/SuperChinese|SuperChinese]]、[[产品/TalkAI|TalkAI]]
+- **探索行业** → [[tags/行业/教育AI|教育AI赛道全部产品]]

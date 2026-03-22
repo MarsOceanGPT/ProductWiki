@@ -417,3 +417,8 @@ Sources:
 - [小满科技OKKI怎么样，小满CRM怎么收费？ - 知乎](https://zhuanlan.zhihu.com/p/673361761)
 - [小满CRM怎么样？功能、价格、优缺点 – PingCode](https://docs.pingcode.com/ask/64059.html)
 - [2025年好用的外贸crm客户管理系统推荐-OKKI外贸生意智能工作台 小满科技产品](https://www.xiaoman.cn/article/756.html)
+
+---
+## 网络导航
+- **同赛道** → [[产品/Apollo|Apollo]]、[[产品/Clay|Clay]]、[[产品/Copy.ai|Copy.ai]]、[[产品/Folk|Folk]]、[[产品/IMA|IMA]]、[[产品/Jasper|Jasper]]
+- **探索行业** → [[tags/行业/销售营销|销售营销赛道全部产品]]

@@ -275,3 +275,7 @@ tags:
 
 - 想了解打法？看 [[打法/07-护城河/AI就是壁垒|AI就是壁垒]]、[[打法/07-护城河/数据飞轮|数据飞轮]]
 - 想了解行业？看 [[tags/行业-基础设施|基础设施赛道全部产品]]
+
+---
+## 网络导航
+- **相关产品** → [[产品/Cohere|Cohere]]、[[产品/Together AI|Together AI]]、[[产品/Hugging Face|Hugging Face]]

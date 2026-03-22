@@ -347,3 +347,7 @@ Polybuzz 的故事很有意思，因为它做的不是"更好的 Character.ai"�
 | 2024-2025 | 2000 万角色库积累 | 通过开放导入和社区贡献扩大内容库 |
 | 2025 | 语音/图像功能完善 | 多模态支持成为标配 |
 | 2026 Q1 | a16z Top 50 Web + Mobile | 双重认可 |
+
+---
+## 网络导航
+- **相关产品** → [[产品/Spicychat.ai|Spicychat.ai]]、[[产品/Candy AI|Candy AI]]、[[产品/Brainly|Brainly]]、[[产品/Photomath|Photomath]]、[[产品/CiCi|CiCi]]、[[产品/Nova AI|Nova AI]]

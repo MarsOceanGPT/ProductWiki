@@ -669,3 +669,8 @@ SaaStr的分析指出，Otter在没有传统销售团队的情况下，实现了
 *产品卡片作者：Claude Code Agent*
 *审核状态：待Mars Ren确认与补充*
 *下一版本计划日期：2026年9月（或重大融资/产品发布时）*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Deepgram|Deepgram]]、[[产品/Hume AI|Hume AI]]、[[产品/Sesame AI|Sesame AI]]、[[产品/Turboscribe|Turboscribe]]、[[产品/Vocu|Vocu]]
+- **探索行业** → [[tags/行业/语音AI|语音AI赛道全部产品]]

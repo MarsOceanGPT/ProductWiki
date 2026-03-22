@@ -814,3 +814,8 @@ FastGPT的知识库检索精准度对标专业RAG平台（RAGFlow），超越通
 2. FastGPT的国际化计划是否如预期推进（英文版本上线但销售投入不足）？
 3. 企业客户单价是否真的能达到$1000-5000/月，还是存在价格弹性压力？
 4. 与国内LLM厂商（字节/阿里）的合作是否会成为"竞争者"而非"合作者"？
+
+---
+## 网络导航
+- **同赛道** → [[产品/BaiduAISearch|BaiduAISearch]]、[[产品/Flowith|Flowith]]、[[产品/Genspark|Genspark]]、[[产品/Glean|Glean]]、[[产品/Ground News|Ground News]]、[[产品/Hebbia|Hebbia]]
+- **探索行业** → [[tags/行业/搜索知识|搜索知识赛道全部产品]]

@@ -318,3 +318,7 @@ Learna 的创始人可能是优秀的教育学家，知道"自适应学习"在�
 - [ ] B2B 学校渗透的具体数字（有多少学校在用）
 - [ ] 国际市场的拓展进度
 - [ ] 内容库的覆盖范围（支持多少个学科、多少个年级）
+
+---
+## 网络导航
+- **相关产品** → [[产品/Brainly|Brainly]]、[[产品/Gauth|Gauth]]、[[产品/Photomath|Photomath]]、[[产品/Polybuzz.ai|Polybuzz.ai]]、[[产品/CiCi|CiCi]]、[[产品/Nova AI|Nova AI]]

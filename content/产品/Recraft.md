@@ -518,3 +518,8 @@ Output: 自动保存到云盘 + 更新电商平台
 - [品牌样式一致性工具](https://www.recraft.ai/blog/new-tools-for-brand-style-consistency-and-control)
 - [Recraft与竞品模型对比](https://www.recraft.ai/blog/comparing-popular-and-high-performing-text-to-image-models-and-providers)
 - [AI自定产品图指南](https://www.recraft.ai/blog/ai-custom-product-images-guide-835c8)
+
+---
+## 网络导航
+- **同赛道** → [[产品/Black Forest Labs|Black Forest Labs]]、[[产品/Canva|Canva]]、[[产品/Cutout.pro|Cutout.pro]]、[[产品/Framer|Framer]]、[[产品/Freepik|Freepik]]、[[产品/Ideogram|Ideogram]]
+- **探索行业** → [[tags/行业/图像设计|图像设计赛道全部产品]]

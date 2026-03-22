@@ -223,3 +223,7 @@ Nova 其实不太值得深入分析，因为它代表了 AI 应用市场的"平�
 | 2023-2024 | Android App 上线 | 扩展到全平台 |
 | 2024 | 持续迭代小功能 | 尝试提升差异化 |
 | 2024-2025 | App Store 排名波动 | 依赖口碑，排名不稳定 |
+
+---
+## 网络导航
+- **相关产品** → [[产品/CiCi|CiCi]]、[[产品/Candy AI|Candy AI]]、[[产品/Polybuzz.ai|Polybuzz.ai]]、[[产品/Spicychat.ai|Spicychat.ai]]、[[产品/AI Mirror|AI Mirror]]、[[产品/Photomath|Photomath]]

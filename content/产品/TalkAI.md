@@ -297,3 +297,8 @@ tags:
 - [36 氪 - AI 教育出海洞察](https://36kr.com/p/3201926220423689)
 - [App Store - TalkAI 练口语](https://apps.apple.com/cn/app/talkai%E7%BB%83%E5%8F%A3%E8%AF%AD-ai%E8%A7%86%E9%A2%91-%E5%AF%B9%E8%AF%9D%E8%83%8C%E5%8D%95%E8%AF%8D/id6447748874)
 - [Google Play - TalkAI - AI language companion](https://play.google.com/store/apps/details?id=studio.muggle.talkai&hl=en-US)
+
+---
+## 网络导航
+- **同赛道** → [[产品/Beelinguapp|Beelinguapp]]、[[产品/Gliglish|Gliglish]]、[[产品/Lingvist|Lingvist]]、[[产品/Pingo AI|Pingo AI]]、[[产品/Speak|Speak]]、[[产品/SuperChinese|SuperChinese]]
+- **探索行业** → [[tags/行业/教育AI|教育AI赛道全部产品]]

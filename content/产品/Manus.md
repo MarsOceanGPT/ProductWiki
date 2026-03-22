@@ -564,3 +564,7 @@ Manus 的价值链位置：操作系统之上、企业软件之下的「中间�
 **待 Mars 确认与补充。**
 
 **AI 草稿——待 Mars 确认**
+
+---
+## 网络导航
+- **相关产品** → [[产品/ChatGPT|ChatGPT]]、[[产品/Claude|Claude]]、[[产品/DeepSeek|DeepSeek]]、[[产品/Gemini|Gemini]]、[[产品/Monica|Monica]]、[[产品/Qwen|Qwen]]、[[产品/Scale AI|Scale AI]]

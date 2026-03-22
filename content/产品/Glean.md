@@ -549,3 +549,8 @@ Glean 不是简单的向量检索 + LLM 拼接，而是在企业语境下的"七
 **最后更新**：2026年3月19日
 **数据可信度**：High（基于官方融资公告、客户案例研究、第三方分析）
 **Mars 评审状态**：Pending
+
+---
+## 网络导航
+- **同赛道** → [[产品/BaiduAISearch|BaiduAISearch]]、[[产品/FastGPT|FastGPT]]、[[产品/Flowith|Flowith]]、[[产品/Genspark|Genspark]]、[[产品/Ground News|Ground News]]、[[产品/Hebbia|Hebbia]]
+- **探索行业** → [[tags/行业/搜索知识|搜索知识赛道全部产品]]

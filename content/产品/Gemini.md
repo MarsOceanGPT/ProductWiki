@@ -571,3 +571,7 @@ Gemini 体系
 ## 看完后推荐
 
 - 想了解打法？看 [[打法/07-护城河/AI就是壁垒|AI就是壁垒]]、[[打法/07-护城河/品牌信任|品牌信任]]
+
+---
+## 网络导航
+- **相关产品** → [[产品/ChatGPT|ChatGPT]]、[[产品/Claude|Claude]]、[[产品/Copilot|Copilot]]、[[产品/Google AI Studio|Google AI Studio]]

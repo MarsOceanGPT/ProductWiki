@@ -454,3 +454,8 @@ Jan 的路径：做产品 → 社区爆发 → 被融资
 
 - 想了解打法？看 [[打法/02-产品设计/Agent 代理式|Agent 代理式]]、[[打法/02-产品设计/开源颠覆|开源颠覆]]
 - 想了解行业？看 [[tags/行业-效率工具|效率工具赛道全部产品]]
+
+---
+## 网络导航
+- **相关产品** → [[产品/Claude|Claude]]、[[产品/DeepSeek|DeepSeek]]、[[产品/ElevenLabs|ElevenLabs]]、[[产品/Hugging Face|Hugging Face]]、[[产品/Pinecone|Pinecone]]
+- **探索行业** → [[tags/行业/效率工具|效率工具赛道全部产品]]

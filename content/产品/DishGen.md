@@ -602,3 +602,8 @@ DishGen 体系
 **下一次更新**：2026年Q3(跟踪Affiliate commission变现进展、DishGen Pro企业客户扩展、视频烹饪功能反馈)
 
 *本卡片遵循"距钱距离假说"、"系统设计优先"的分析框架,聚焦商业本质而非表面功能。重点分析DishGen如何通过专业化、数据积累、多元变现在家庭食物决策链中建立不可替代的位置。*
+
+---
+## 网络导航
+- **同赛道** → [[产品/Ask the Oracle|Ask the Oracle]]、[[产品/Dreamore|Dreamore]]、[[产品/Everfit|Everfit]]、[[产品/FitnessAI|FitnessAI]]、[[产品/Nupt.ai|Nupt.ai]]、[[产品/形色|形色]]
+- **探索行业** → [[tags/行业/生活方式|生活方式赛道全部产品]]
