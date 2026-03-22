@@ -566,6 +566,39 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
+  // Auto-fit: compute bounding box of all nodes and set initial zoom to fit them
+  if (graphData.nodes.length > 0) {
+    let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
+    for (const n of graphData.nodes) {
+      if (n.x != null && n.y != null) {
+        minX = Math.min(minX, n.x + width / 2)
+        maxX = Math.max(maxX, n.x + width / 2)
+        minY = Math.min(minY, n.y + height / 2)
+        maxY = Math.max(maxY, n.y + height / 2)
+      }
+    }
+
+    const graphWidth = maxX - minX
+    const graphHeight = maxY - minY
+    if (graphWidth > 0 && graphHeight > 0) {
+      const padding = 20
+      const fitScaleX = (width - padding * 2) / graphWidth
+      const fitScaleY = (height - padding * 2) / graphHeight
+      const fitScale = Math.min(fitScaleX, fitScaleY, 1) // never zoom in beyond 1x
+      const centerX = (minX + maxX) / 2
+      const centerY = (minY + maxY) / 2
+
+      stage.scale.set(fitScale, fitScale)
+      stage.position.set(
+        width / 2 - centerX * fitScale,
+        height / 2 - centerY * fitScale,
+      )
+      currentTransform = zoomIdentity
+        .translate(width / 2 - centerX * fitScale, height / 2 - centerY * fitScale)
+        .scale(fitScale)
+    }
+  }
+
   // Do initial render synchronously
   updatePositions()
   app.renderer.render(stage)
