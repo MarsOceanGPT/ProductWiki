@@ -194,8 +194,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
 
   // Warm up simulation so nodes are settled before first render
-  // More ticks needed for large graphs (300+ nodes)
-  const tickCount = graphData.nodes.length > 200 ? 300 : graphData.nodes.length > 100 ? 200 : 50
+  // More ticks for larger graphs to ensure convergence
+  const tickCount = graphData.nodes.length > 200 ? 400 : graphData.nodes.length > 50 ? 250 : 80
   simulation.tick(tickCount)
 
   // precompute style prop strings as pixi doesn't support css variables
@@ -587,8 +587,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const padding = 40
       const fitScaleX = (width - padding * 2) / graphWidth
       const fitScaleY = (height - padding * 2) / graphHeight
-      // Clamp scale: never zoom in beyond 1x, never zoom out below 0.15x
-      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 1), 0.15)
+      // Clamp scale: allow up to 1.5x zoom for small/compact graphs, min 0.15x
+      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 1.5), 0.15)
       // Center of the bounding box in rendered coords (after width/2, height/2 offset)
       const simCenterX = (minX + maxX) / 2 + width / 2
       const simCenterY = (minY + maxY) / 2 + height / 2
