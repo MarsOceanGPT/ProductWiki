@@ -554,7 +554,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   let stopAnimation = false
   let frameCount = 0
   function animate(time: number) {
-    if (stopAnimation) return
+    if (stopAnimation) {
+      console.warn("[graph-debug] animate SKIPPED - stopAnimation is true!", { width, nodes: nodeRenderData.length })
+      return
+    }
     try {
       for (const n of nodeRenderData) {
         const { x, y } = n.simulationData
@@ -589,6 +592,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   console.log("[graph-debug] starting animation loop, stopAnimation:", stopAnimation)
   requestAnimationFrame(animate)
   return () => {
+    console.warn("[graph-debug] CLEANUP called for graph", { width, nodes: nodeRenderData.length })
     stopAnimation = true
     app.destroy()
   }
@@ -598,6 +602,7 @@ let localGraphCleanups: (() => void)[] = []
 let globalGraphCleanups: (() => void)[] = []
 
 function cleanupLocalGraphs() {
+  console.log("[graph-debug] cleanupLocalGraphs called, count:", localGraphCleanups.length)
   for (const cleanup of localGraphCleanups) {
     cleanup()
   }
@@ -613,11 +618,13 @@ function cleanupGlobalGraphs() {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
+  console.log("[graph-debug] NAV event fired for slug:", slug)
   addToVisited(simplifySlug(slug))
 
   async function renderLocalGraph() {
     cleanupLocalGraphs()
     const localGraphContainers = document.getElementsByClassName("graph-container")
+    console.log("[graph-debug] renderLocalGraph: found", localGraphContainers.length, "containers")
     for (const container of localGraphContainers) {
       localGraphCleanups.push(await renderGraph(container as HTMLElement, slug))
     }
