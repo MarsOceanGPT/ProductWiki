@@ -586,9 +586,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     xCoords.sort((a, b) => a - b)
     yCoords.sort((a, b) => a - b)
 
-    // Use 2.5th and 97.5th percentile for scale computation (ignore outliers)
-    const lo = Math.floor(xCoords.length * 0.025)
-    const hi = Math.min(Math.ceil(xCoords.length * 0.975), xCoords.length - 1)
+    // Use 10th and 90th percentile for scale computation (aggressively ignore outliers)
+    const lo = Math.floor(xCoords.length * 0.1)
+    const hi = Math.min(Math.ceil(xCoords.length * 0.9), xCoords.length - 1)
     const graphWidth = xCoords[hi] - xCoords[lo]
     const graphHeight = yCoords[hi] - yCoords[lo]
 
