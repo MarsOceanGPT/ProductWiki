@@ -566,7 +566,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
-  // Auto-fit: compute bounding box of all nodes and set initial zoom to fit them
+  // Auto-fit: compute bounding box of all nodes and set initial zoom
+  // For large graphs, use a minimum scale so nodes remain visible
   if (graphData.nodes.length > 0) {
     let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
     for (const n of graphData.nodes) {
@@ -584,7 +585,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const padding = 20
       const fitScaleX = (width - padding * 2) / graphWidth
       const fitScaleY = (height - padding * 2) / graphHeight
-      const fitScale = Math.min(fitScaleX, fitScaleY, 1) // never zoom in beyond 1x
+      // Clamp scale: never zoom in beyond 1x, never zoom out below 0.25x
+      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 1), 0.25)
       const centerX = (minX + maxX) / 2
       const centerY = (minY + maxY) / 2
 

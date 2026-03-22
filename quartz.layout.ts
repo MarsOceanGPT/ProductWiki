@@ -29,13 +29,14 @@ export const defaultContentPageLayout: PageLayout = {
         localGraph: {
           depth: -1,
           scale: 0.6,
-          repelForce: 0.3,
-          centerForce: 0.5,
-          linkDistance: 20,
+          repelForce: 0.2,
+          centerForce: 0.8,
+          linkDistance: 15,
           fontSize: 0.4,
           opacityScale: 0.7,
           showTags: false,
           focusOnHover: true,
+          enableRadial: true,
         },
         globalGraph: {
           depth: -1,
