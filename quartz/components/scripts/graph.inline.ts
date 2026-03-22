@@ -164,6 +164,22 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
 
+  // Precompute link counts for sizing and label visibility
+  // (must be before simulation creation since nodeRadius is used by forceCollide)
+  const linkCounts = new Map<string, number>()
+  for (const l of graphData.links) {
+    linkCounts.set(l.source.id, (linkCounts.get(l.source.id) || 0) + 1)
+    linkCounts.set(l.target.id, (linkCounts.get(l.target.id) || 0) + 1)
+  }
+
+  // Top N nodes by link count get visible labels by default
+  const sortedByLinks = [...linkCounts.entries()].sort((a, b) => b[1] - a[1])
+  const topLabelNodes = new Set(sortedByLinks.slice(0, 25).map(([id]) => id))
+
+  function nodeRadius(d: NodeData) {
+    const numLinks = linkCounts.get(d.id) || 0
+    return 3 + Math.sqrt(numLinks)
+  }
 
   // we virtualize the simulation and use pixi to actually render it
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
@@ -209,22 +225,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     } else {
       return computedStyleMap["--gray"]
     }
-  }
-
-  // Precompute link counts for sizing and label visibility
-  const linkCounts = new Map<string, number>()
-  for (const l of graphData.links) {
-    linkCounts.set(l.source.id, (linkCounts.get(l.source.id) || 0) + 1)
-    linkCounts.set(l.target.id, (linkCounts.get(l.target.id) || 0) + 1)
-  }
-
-  // Top N nodes by link count get visible labels by default
-  const sortedByLinks = [...linkCounts.entries()].sort((a, b) => b[1] - a[1])
-  const topLabelNodes = new Set(sortedByLinks.slice(0, 25).map(([id]) => id))
-
-  function nodeRadius(d: NodeData) {
-    const numLinks = linkCounts.get(d.id) || 0
-    return 3 + Math.sqrt(numLinks)
   }
 
   let hoveredNodeId: string | null = null
