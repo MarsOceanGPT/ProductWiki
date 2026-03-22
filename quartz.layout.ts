@@ -27,16 +27,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.Graph({
         localGraph: {
-          depth: -1,
-          scale: 0.6,
-          repelForce: 0.2,
-          centerForce: 0.8,
-          linkDistance: 15,
-          fontSize: 0.4,
-          opacityScale: 0.7,
+          depth: 3,
+          scale: 0.7,
+          repelForce: 0.5,
+          centerForce: 0.3,
+          linkDistance: 30,
+          fontSize: 0.5,
+          opacityScale: 0.9,
           showTags: false,
           focusOnHover: true,
-          enableRadial: true,
         },
         globalGraph: {
           depth: -1,
