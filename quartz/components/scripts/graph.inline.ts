@@ -103,7 +103,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   for (const [source, details] of data.entries()) {
     const outgoing = details.links ?? []
 
-    for (const dest of outgoing) {
+    for (const rawDest of outgoing) {
+      // Normalize: strip .html suffix so links match content index keys
+      const dest = rawDest.replace(/\.html$/, "") as SimpleSlug
       if (validLinks.has(dest)) {
         links.push({ source: source, target: dest })
       }
