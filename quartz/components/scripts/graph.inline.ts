@@ -568,27 +568,36 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
-  // Auto-fit: compute bounding box of all nodes and set initial zoom
+  // Auto-fit: compute bounding box (using 95th percentile to ignore outliers) and set initial zoom
   if (graphData.nodes.length > 0) {
-    // Compute bounding box in simulation coordinates (before width/2, height/2 offset)
-    let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
+    // Collect all node positions in simulation coordinates
+    const xCoords: number[] = []
+    const yCoords: number[] = []
     for (const n of graphData.nodes) {
       if (n.x != null && n.y != null) {
-        minX = Math.min(minX, n.x)
-        maxX = Math.max(maxX, n.x)
-        minY = Math.min(minY, n.y)
-        maxY = Math.max(maxY, n.y)
+        xCoords.push(n.x)
+        yCoords.push(n.y)
       }
     }
+    xCoords.sort((a, b) => a - b)
+    yCoords.sort((a, b) => a - b)
+
+    // Use 2.5th and 97.5th percentile to ignore outlier nodes
+    const lo = Math.floor(xCoords.length * 0.025)
+    const hi = Math.min(Math.ceil(xCoords.length * 0.975), xCoords.length - 1)
+    const minX = xCoords[lo]
+    const maxX = xCoords[hi]
+    const minY = yCoords[lo]
+    const maxY = yCoords[hi]
 
     const graphWidth = maxX - minX
     const graphHeight = maxY - minY
     if (graphWidth > 0 && graphHeight > 0) {
-      const padding = 40
+      const padding = 30
       const fitScaleX = (width - padding * 2) / graphWidth
       const fitScaleY = (height - padding * 2) / graphHeight
-      // Clamp scale: allow up to 1.5x zoom for small/compact graphs, min 0.15x
-      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 1.5), 0.15)
+      // Clamp scale: allow up to 3x zoom for compact graphs, min 0.15x
+      const fitScale = Math.max(Math.min(fitScaleX, fitScaleY, 3.0), 0.15)
       // Center of the bounding box in rendered coords (after width/2, height/2 offset)
       const simCenterX = (minX + maxX) / 2 + width / 2
       const simCenterY = (minY + maxY) / 2 + height / 2
