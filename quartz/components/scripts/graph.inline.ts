@@ -193,10 +193,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
 
-  // Warm up simulation so nodes are settled before first render
-  // More ticks for larger graphs to ensure convergence
-  const tickCount = graphData.nodes.length > 200 ? 600 : graphData.nodes.length > 50 ? 350 : 100
+  // Warm up just enough for a rough layout — simulation will continue animating live
+  const tickCount = graphData.nodes.length > 200 ? 100 : graphData.nodes.length > 50 ? 60 : 30
   simulation.tick(tickCount)
+
+  // Keep simulation gently alive for organic motion (like Obsidian)
+  simulation.alphaTarget(0.02).alphaDecay(0.01).velocityDecay(0.3).restart()
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -621,6 +623,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   let stopAnimation = false
   function animate(time: number) {
     if (stopAnimation) return
+    // Tick simulation each frame so nodes drift organically
+    simulation.tick()
     updatePositions()
     tweens.forEach((t) => t.update(time))
     app.renderer.render(stage)
@@ -630,6 +634,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   requestAnimationFrame(animate)
   return () => {
     stopAnimation = true
+    simulation.stop()
     app.destroy()
   }
 }
