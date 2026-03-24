@@ -193,12 +193,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
 
-  // Warm up just enough for a rough layout — simulation will continue animating live
-  const tickCount = graphData.nodes.length > 200 ? 100 : graphData.nodes.length > 50 ? 60 : 30
+  // Only a few warm-up ticks so nodes have a rough layout but still visibly settle
+  simulation.alphaDecay(0.008).velocityDecay(0.4)
+  const tickCount = graphData.nodes.length > 200 ? 40 : graphData.nodes.length > 50 ? 25 : 15
   simulation.tick(tickCount)
 
-  // Keep simulation gently alive for organic motion (like Obsidian)
-  simulation.alphaTarget(0.02).alphaDecay(0.01).velocityDecay(0.3).restart()
+  // After warm-up, keep a gentle persistent drift (Obsidian-like)
+  // Don't call restart() — we tick manually in the animation loop to avoid double-ticking
+  simulation.alphaTarget(0.06).alpha(0.3).stop()
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -479,7 +481,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         .container(() => app.canvas)
         .subject(() => graphData.nodes.find((n) => n.id === hoveredNodeId))
         .on("start", function dragstarted(event) {
-          if (!event.active) simulation.alphaTarget(1).restart()
+          if (!event.active) simulation.alphaTarget(0.8).alpha(0.5)
           event.subject.fx = event.subject.x
           event.subject.fy = event.subject.y
           event.subject.__initialDragPos = {
@@ -497,7 +499,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           event.subject.fy = initPos.y + (event.y - initPos.y) / currentTransform.k
         })
         .on("end", function dragended(event) {
-          if (!event.active) simulation.alphaTarget(0)
+          if (!event.active) simulation.alphaTarget(0.06)
           event.subject.fx = null
           event.subject.fy = null
           dragging = false
